@@ -1,0 +1,484 @@
+
+==== Front
+Adv VirolAdv VirolAVAdvances in Virology1687-86391687-8647Hindawi Publishing Corporation 10.1155/2009/294520Research ArticleIsolation of Highly Pathogenic Avian Influenza H5N1 Virus from Saker Falcons (Falco cherrug) in the Middle East Marjuki Henju 
+1
+Wernery Ulrich 
+2
+Yen Hui-Ling 
+1
+Franks John 
+1
+Seiler Patrick 
+1
+Walker David 
+1
+Krauss Scott 
+1
+Webster Robert G. 
+1, 3
+
+*1Division of Virology, Department of Infectious Diseases, St. Jude Children's Research Hospital, Memphis, TN 38105, USA2Central Veterinary Research Laboratory, P.O. Box 597, Dubai, United Arab Emirates3Department of Pathology, University of Tennessee, Memphis, TN 38105, USA*Robert G. Webster: robert.webster@stjude.orgRecommended by Amiya K. Banerjee
+
+2009 24 11 2008 2009 29452016 6 2008 10 10 2008 Copyright © 2009 Henju Marjuki et al.2009This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.There is accumulating evidence that birds of prey are susceptible to fatal infection with highly pathogenic avian influenza (HPAI) virus. We studied the antigenic, molecular, phylogenetic, and pathogenic properties of 2 HPAI H5N1 viruses isolated from dead falcons in Saudi Arabia and Kuwait in 2005 and 2007, respectively. Phylogenetic and antigenic analyses grouped both isolates in clade 2.2 (Qinghai-like viruses). However, the viruses appeared to have spread westward via different flyways. It remains unknown how these viruses spread so rapidly from Qinghai after the 2005 outbreak and how they were introduced into falcons in these two countries. The H5N1 outbreaks in the Middle East are believed by some to be mediated by wild migratory birds. However, sporting falcons may be at additional risk from the illegal import of live quail to feed them.
+==== Body
+1. Introduction
+Infection of birds
+of prey with highly pathogenic avian influenza (HPAI) has been reported only in isolated cases. In 2000, Manvel et al. reported the
+discovery of HPAI H7N3 isolated from a peregrine falcon [1]. Another HPAI virus of the H7
+subtype was found in a Saker falcon during an outbreak in poultry in Italy in
+2000 [2]. Hong
+Kong has had a series of cases. In January 2004, Hong Kong
+authorities confirmed that a peregrine falcon had died of H5N1 infection [3, 4]. In March 2006, HPAI H5N1
+infections were discovered in another peregrine falcon [5]. Most recently, in March 2008,
+a wild peregrine falcon found sick was confirmed to be infected with H5N1 virus
+[6]. In Belgium, 2 crested hawk eagles (Spizaetus nipalensis) smuggled from Thailand
+for a commercial raptor breeding farm were discovered to be infected with HPAI
+H5N1 virus and were killed by authorities [7]. 
+Kuwait reported 39 confirmed cases of H5N1 infection in February 2007; 20
+infected birds were falcons at a zoo and a farm in Southern Kuwait, and the
+remainder were domestic birds caged outdoors [8, 9]. The first confirmed case of lethal
+HPAI H5N1 infection in Saudi Arabia was reported in January 2006 in a Saker
+falcon [8]. In November 2007, an H5N1 outbreak killed 1500
+chickens at a farm in the Al-Kharj region of Saudi Arabia, about 150 kilometers
+South of Riyadh [8]. No human cases have been
+reported to date in Saudi Arabia or Kuwait.
+
+The increasing
+number of falcons infected with HPAI H5N1 viruses demonstrates their
+susceptibility to these pathogens. Because many falcon species are migratory or
+occupy extensive territories, infected falcons may contribute to the spread of
+avian influenza viruses within or between countries. The best-studied falcon species
+are the peregrine falcon (Falco peregrinus) and the Saker falcon (Falco cherrug),
+which feed exclusively on live, medium-sized birds, such as pigeons,
+shorebirds, waterfowl,
+and songbirds
+[10, 11]. The susceptibility of some of
+these prey species to HPAI H5N1 infection [12] increases the risk of virus
+transmission to falcons. Peregrine falcons, which can fly and dive at high
+speed, have long been used in the sport of falconry
+in the Middle East. Although there is still no
+direct evidence of virus transmission from falcons to humans, the practice of falconry
+brings birds of prey into close contact with humans, thereby increasing the
+risk of transmission to humans or to poultry.
+
+It is not known how
+HPAI H5N1 virus spread so rapidly westward after the 2005 outbreak at Qinghai Lake,
+Western China, or how falcons in the Middle East contracted HPAI H5N1 virus. To
+acquire information that may answer these questions, we characterized two HPAI
+H5N1 viruses isolated from dead female Saker falcons in the region: A/Falcon/Saudi
+Arabia/D1795/2005 (Fa/SA/05) and
+A/Falcon/Kuwait/D286/2007 (Fa/KW/07). The falcon that died in Saudi Arabia
+was believed to have been in the country for the past 2 years, and it seems
+highly likely that the falcon had been kept in captivity during the entire
+period. The falcon had lost its appetite and was passing green feces during its
+last 2 days of life. It was confirmed to have died of H5N1 avian influenza virus
+[8]. Unfortunately, there is no
+information available about the falcon found dead in Kuwait. Organs removed from the two
+falcons were sent to the Central
+Veterinary Research Laboratory in Dubai,
+United Arab Emirates
+(UAE), in November 2005 and February 2007, respectively.
+
+2. Materials and Methods
+2.1. Viruses and Cells
+The H5N1 isolates
+Fa/SA/05 and Fa/KW/07 were obtained from the Central Veterinary Research
+Laboratory, Dubai, UAE, and stored in the influenza
+virus repository of St. Jude Children's Research Hospital. 
+All experiments were conducted in a USDA-approved biosafety level (BSL) 3+ containment facility. Stock viruses were
+prepared by inoculating field samples into the allantoic cavities of 10-day-old
+embryonated chicken eggs and incubating them at 35°C for 48 hours. Aliquots of stock viruses were stored at −80°C. Madin-Darby
+canine kidney (MDCK) cells were obtained
+from the American Type Culture Collection (Manassas, Va, USA) and maintained in Dulbecco's
+Modified Eagle's Medium (DMEM) supplemented with 10% fetal calf serum and 1% antibiotics (penicillin/streptomycin).
+
+2.2. Infectivity
+The 50% tissue
+culture infectious dose (TCID50) was determined in MDCK cells after incubation at 37°C for 3 days, and the 50%
+egg infectious dose (EID50) was determined in 10-day-old embryonated chicken eggs after 40 hours of
+incubation at 35°C. TCID50 and EID50 values were
+calculated by the method of Reed and Muench [13].
+
+2.3. Sequencing and Phylogenetic Analysis of Influenza Virus Genes
+Viral RNA was
+isolated from virus-containing allantoic fluid with the RNeasy Mini kit
+(Qiagen, Valencia, Calif, USA), and one-step RT-PCR (Qiagen) was done with a universal primer set [14]. PCR products were purified by
+using the QIAquick PCR purification and gel extraction kits (Qiagen). Sequencing was performed by the Hartwell Center for Bioinformatics and Biotechnology at St. Jude using BigDye Terminator (v.3;
+Perkin Elmer Applied Biosystems, Foster
+City, Calif, USA) chemistry and synthetic oligonucleotides. 
+Phylogenetic analysis was based on the HA and NA genes. Selected HA and NA
+sequences from H5N1 viruses isolated after 1996/1997 were downloaded from the
+Influenza Sequence Database at Los Alamos National Laboratory (http://www.flu.lanl.gov/) [15]. Sequences were compared by using
+the ClustalW alignment algorithm with the BioEdit Sequence Alignment Editor. To
+estimate phylogenetic relationships, nucleotide sequences were analyzed by the neighbor-joining
+method with 100 bootstraps by using the phylogeny inference package (PHYLIP) version
+3.65.
+
+2.4. Pathogenicity in Chickens, Ducks, and Mice
+All
+animal studies were conducted under applicable laws and guidelines and after
+approval from the St. Jude Animal Care and Use Committee. The pathogenicity of
+the two falcon H5N1 isolates in chickens was determined in groups of 3 (Fa/SA/05, stock
+virus concentration: 108.769 EID50/mL) or 10 (Fa/KW/07,
+stock virus concentration: 109.231 EID50/mL) 6-week-old,
+specific-pathogen-free white leghorn chickens (Gallus gallus domesticus) by intravenous injection with 0.1 mL of 10-fold
+dilutions of virus-containing allantoic fluid. The chickens were
+examined daily for 10 days for clinical signs of disease and for mortality. The
+experiment was stopped after the birds found dead within 24 hours
+postinoculation (p.i.).
+
+Pathogenicity in
+mallards was determined as described previously [16]. 
+Groups of five 5-week-old Mallard ducks (Anas platyrhynchos) were
+inoculated with 106 EID50 of virus in a 1-mL volume (0.3 mL
+each was applied to the trachea and the throat, and 0.2 mL each to nares and
+eyes). All birds were observed daily for clinical signs and mortality over a
+10-day period. Tracheal and cloacal swabs were collected every other day
+starting on day 3 p.i., and viral titers (TCID50) were determined.
+
+The pathogenicity
+of the two falcon H5N1 isolates in mammals was determined in female 6-week-old
+BALB/c mice. Groups of mice (n = 3) were
+inoculated intranasally with 100 plaque-forming units (PFUs) of virus in 50 μL of
+PBS. Brain, lungs, liver, spleen, and blood were collected from 3 mice in each
+group on days 3, 6, and 9 p.i. to evaluate organ tropism. Organs were
+homogenized in 1 mL of PBS, and virus was titrated (log10 TCID50/mL) 
+in MDCK cells.
+
+2.5. Hemagglutinin Inhibition (HI) Assay Using H5N1 Ferret Antisera
+Ferrets obtained
+through the ferret breeding program at St. Jude or from Marshall Farms (North
+Rose, NY, USA)
+were intranasally inoculated with 106 EID50 of virus in 1 mL of PBS under isoflurane anesthesia. Serum was collected on day 21 p.i. or 10
+days after a boost dose of 1 mL of a 1 : 10 dilution of stock virus in PBS by
+footpad injection or intranasal inoculation. The antisera were treated with
+receptor-destroying enzyme and used for HI assay as previously described by
+Palmer et al. [17].
+
+3. Results
+3.1. Antigenic Characterization
+We assessed the
+relation of the falcon H5N1 influenza viruses to other H5N1 viruses by hemagglutinin
+inhibition (HI) assay with a panel of
+reference sera collected from ferrets challenged with various H5N1 isolates
+representing clades 1, 2.2, and 2.3. The two falcon H5N1 isolates had slightly
+different reactivity patterns (see Table 1). Both viruses had relatively high HI
+titers (160 for Fa/SA/05 and 320 for Fa/KW/07) against A/chicken/Pakistan (Lahore)/NARC2411.A/06
+(clade 2.2) antiserum, suggesting that they
+are closely related to the H5N1 virus from that region and to viruses of clade
+2.2. The Fa/KW/07 virus was not highly reactive with antisera generated against
+Fa/SA/05, suggesting that the two isolates differ antigenically despite their
+common origin.
+
+3.2. Molecular Characterization
+There were 4 amino
+acid differences in their HA proteins at positions 12, 178, 512, and 553. The amino acid at position 178 is located close to the HA receptor binding sites (H5
+HA numbering). The HA proteins of both viruses contained multiple
+basic amino acids at the connecting peptide between HA1 and HA2 (PQGERRRKKR at positions 321–330), which is a characteristic
+of influenza viruses that are highly pathogenic in chickens [18, 19]. 
+Interestingly, the HA cleavage site of the two falcon H5N1 viruses differed in
+a single basic amino acid (R>G) from
+that of their ancestor viruses Gs/Gd/1/96 and Ck/HK/220/97 and from that of H5N1
+viruses isolated in 2004 in Thailand,
+Indonesia, Vietnam, and Eastern China (PQR¯ERRRKKR).
+
+We also analyzed
+the amino acids of the polymerase genes. A change at position 627 of the PB2 protein
+from glutamic acid (E) to lysine (K) was required for the high virulence of the 1997
+H5N1 viruses in mice [20, 21]
+and for that of H7N7 viruses in humans [22]. 
+Sequence analysis revealed a lysine at that position in both isolates, suggesting
+that both are lethal to mice. The PB1 and PA proteins of the two H5N1 isolates
+possessed tyrosine at position 436 and threonine at position 515. In contrast, the
+T515>A amino acid change in PA and the Y436>H change in PB1 were previously
+shown to abrogate the pathogenicity of H5N1 constructs in ducks, and the
+Y436>H mutation in PB1 reduced transmission efficiency in ducks. The
+T515>A mutation in PA eliminated virus lethality in ducks but not in mice
+and ferrets [16].
+
+3.3. Potential Sensitivity to Antiviral Treatment
+Amantadine-resistant
+influenza A variants carry amino acid substitutions at residues 26, 27, 30, 31,
+or 34 of the M2 protein [23, 24]. 
+No substitutions at these residues were identified by sequence analysis in either
+H5N1 virus (see Table 2), suggesting that both are potentially sensitive to M2 inhibitors. 
+Mutations in conserved NA framework or catalytic residues (amino
+acid residues 119, 274, 292, and 294, N2 numbering) may reduce
+virus sensitivity to NA inhibitors [25]. No substitutions were
+observed in the conserved NA residues of the studied H5N1 viruses (see Table 2),
+suggesting that they may be sensitive to neuraminidase inhibitors.
+
+3.4. Phylogenetic Analysis
+The HA and NA
+phylogenetic trees were rooted to the HA and NA genes of A/Chicken/Hong
+Kong/220/97 virus. The HA gene of the Fa/SA/05 virus was phylogenetically
+closely related to that of viruses isolated in 2006 from chickens in Israel and Gaza (clade 2.2), whereas the HA gene of Fa/KW/07 was
+closely related to that of a virus isolated in 2007 from chickens in Russia
+(clade 2.2) (see Figure 1). On the basis of this
+analysis, both were assigned to subclade 2 of clade 2 of H5 HA. The viruses clustered
+phylogenetically with 2005–2007 isolates
+from Asia, Africa, and the Middle East (see Figure
+1).
+
+The general
+topology of the N1 tree differs from that of the HA tree because of differences
+in stalk length. There is a 20-amino acid deletion in the stalk region (positions 49 to 68) in the current 2003–2007 and 2001-2002 China
+poultry isolates. A 19-amino acid deletion (positions
+50 to 68) was observed in the H5N1/97 Hong Kong human and
+poultry isolates. Both of the falcon H5N1 viruses had a 20-amino acid deletion
+in the stalk region of NA. The NA gene of the Fa/SA/05 virus was
+phylogenetically closely related to that of A/chicken/Egypt/1129N3-HK9/2007 (clade 2.2), whereas the NA gene of Fa/KW/07 was
+phylogenetically closely related to that of A/chicken/Afghanistan/1207/2006 (clade 2.2) (see Figure 2).
+
+3.5. Organ Tropism in a Mouse Model
+To determine the
+pathogenicity of the two falcon H5N1 isolates in a mammalian host, we
+inoculated BALB/c mice intranasally and measured virus replication in the
+brain, lungs, liver, spleen, and blood. Inoculation with 100 PFU of Fa/KW/07 virus
+resulted in high virus titers (mean 107.35 TCID50/mL) in
+the lungs on day 3 p.i.; titers had declined slightly on days 6 and 9 p.i. (see
+Figure 3). Virus titers of Fa/SA/05 virus were approximately 1 log lower than
+those of Fa/KW/07 on all days studied. On day 6 p.i., the mean Fa/KW/07 virus titer
+in the brain was 105.07 TCID50/mL and that of Fa/SA/05 was
+103.02 TCID50/mL (see Figure 3). Virus was detected in
+the spleens of mice inoculated with Fa/KW/07 virus only 3 and 6 days p.i. All
+mice inoculated with either falcon H5N1 virus died by day 9 p.i.
+
+3.6. Virulence and Pathogenicity in Avian Species
+To determine
+whether the two falcon H5N1 isolates retained pathogenicity for avian species,
+we inoculated 6-week-old, specific-pathogen-free white leghorn chickens by intravenous injection. Both viruses
+caused 100% mortality within 24 hours.
+
+We then inoculated
+2 groups of 5 mallard ducks via natural routes (trachea,
+throat, nares, and eyes) with 106 EID50 of Fa/SA/05 and Fa/KW/07 stock virus. All ducks survived during the 10-day
+observation period. Clinical signs (cloudy eyes and
+ataxia) were observed in 2 of 5 ducks on day 5 after
+inoculation with Fa/KW/07. Fa/SA/05 caused only cloudy eyes in 1 of 5 ducks during days 5 to 7 p.i. Tracheal and
+cloacal swabs were collected every other day starting on day 3 p.i. Both
+viruses were shed from the trachea on day 3 p.i. (see Figure 4), and Fa/KW/07 virus
+was detected in cloacal samples on day 3 p.i. No virus was detected in
+specimens obtained on days 5, 7, and 10 p.i.
+
+4. Discussion
+Accumulating data
+demonstrate that falcons are extremely susceptible to HPAI H5N1 infection. We
+investigated the molecular, phylogenetic, antigenic, and pathogenic properties
+of 2 H5N1 viruses isolated from dead falcons in the Middle
+East. Phylogenetic and antigenic analyses indicated that both viruses
+originated from Qinghai-like H5N1 viruses that caused a massive die-off among
+wild birds in China
+in 2005. However, it is still not clear how these viruses were introduced into the
+region, and how the falcons in the affected countries contracted the HPAI H5N1
+virus.
+
+There are several
+possibilities that may explain the introduction of these viruses. Since no
+cases of H5N1 infection were reported in the Middle East before 2005, the first
+possibility is that the virus was introduced by wild birds migrating westward
+after the 2005 outbreak in China. 
+The virus rapidly spread westward through various regions, including the Middle
+East [26], and subsequently spread to
+domestic poultry and probably to other avian species, including falcons.
+
+A second
+possibility is that the virus was introduced by infected falcons illegally
+imported into the Middle East from China,
+Mongolia, or Russia. 
+Thousands of wild-caught falcons are traded on the black market
+withoutveterinary inspection, licensing from the Convention on
+International Trade in Endangered Species of Wild Fauna and Flora, or
+border controls [27]. Illegal trading of falcons
+can contribute to the global spread and transmission of HPAI viruses, and
+therefore export/import activity should be strictly regulated. As an example,
+falcons brought into the UAE must be quarantined for 21 days; blood and nasal
+mucus are tested during the first and second weeks for H5N1 virus [28]. These extraordinary security
+measures have so far prevented any cases of HPAI H5N1 infection in falcons in
+the UAE.
+
+A third
+possibility is that the falcons were infected via diseased pigeons and/or
+quail, which are their normal food source. To feed hunting falcons, tens of
+thousands of live quail areflown from the Arabian Gulf into royal
+falconry camps across Central Asia without veterinary inspection [27]. Many falcons in North
+America, Germany, and the Persian Gulf area have died after feeding on birds (especially pigeons and quail) and other prey infected
+with avian influenza viruses [29]. Therefore, falcons in
+captivity should be fed only birds that have been inspected by a veterinarian.
+
+The phylogenetic
+tree of H5 HA revealed that although the two falcon H5N1 viruses originated
+from the same ancestor viruses (clade 2.2, Qinghai-like),
+they are likely to have spread westward via different flyways. Because the HA
+of Fa/SA/05 shares strong sequence similarity with the HAs of 2006 chicken
+isolates from Gaza and Israel, this virus appears to have spread from Qinghai
+Lake toward the African continent via a “southern” flyway. In contrast, the HA
+of Fa/KW/07 is closely related to that of a 2007 chicken isolate from Russia,
+suggesting that the Kuwaiti isolate was carried toward Europe via a “northern”
+flyway. The two viruses showed slightly different reactivity patterns with
+antisera from ferrets inoculated with various H5N1 viruses. The fact that the Fa/KW/07
+virus was poorly reactive with antisera is generated against the Fa/SA/05 virus
+(see Table 1), suggesting that it may have undergone minor antigenic drift in
+its HA gene. In addition, the fourfold difference between the homologous and
+heterologous titer also suggests only minor antigenic differences. Therefore, based
+on this observation, an indication of different origin of isolates should be predicated
+on the HA phylogenetic analysis rather than on the slight antigenic differences
+of the two falcon isolates. Furthermore, sequence analysis revealed a 20-amino
+acid deletion in the NA stalks of both viruses; this feature is a characteristic
+of chicken-adapted influenza viruses.
+
+Interestingly, although
+both falcon H5N1 isolates were uniformly lethal to chickens, their replication was
+limited in mallard ducks. Only about one third of inoculated ducks showed
+clinical signs of illness, and virus was shed only on day 3 p.i. (see Figure 4). 
+This low pathogenicity may allow ducks to passively carry and shed these and
+other HPAI H5N1 viruses.
+
+The Saudi Arabian
+and Kuwaiti falcon H5N1 viruses were replicated in multiple mouse organs,
+particularly brain and lungs, without prior adaptation (see Figure 3). H5N1 influenza
+virus lethality and spread to the brain in mice usually require multiple
+passages for adaptation [30]. 
+The high lethality of these isolates in mice is probably related to the K627 residue
+of the PB2 protein [20, 21]. 
+Interestingly, the PB2s of all H5N1 viruses isolated from humans and those of
+all avian H5N1 isolates from the recent outbreaks in Qinghai Lake (Western China),
+Russia, and Nigeria, possess lysine (K) at
+position 627 [21, 31],
+whereas the PB2s of their progenitor avian viruses contain glutamic acid (E) at this position.
+
+All subtypes of
+influenza A virus have the potential to become pandemic strains, but the
+currently circulating HPAI H5N1 viruses are of greatest concern. Our study
+provides the first molecular and biological insights into the HPAI H5N1 viruses
+isolated from dead falcons in the Middle East. 
+This information will be useful in determining which measures should be taken
+to provide effective surveillance and protection of these birds in the affected
+countries and around the globe. During the preparation of this manuscript,
+Lierz et al. [31] reported that falcons
+survived HPAI H5N1 infection after vaccination with inactivated H5N2 virus. The
+vaccinated birds did shed virus but at reduced titers. This approach may
+provide a partial solution to the protection of falcons in captivity.
+
+Acknowledgments
+This work was supported in part by Grants A195357, A157570, and CA21765 and Contract no. HHSN266200700005C from the U.S.
+Department of Health and Human Services and by the American Lebanese Syrian
+Associated Charities (ALSAC). The
+authors gratefully acknowledge editorial assistance of Sharon Naron, the administrative
+assistance of James Knowles, the technical support of Natasha Lyushina and
+Jacco Boon, and the contributions of the Hartwell Center for Bioinformatics &
+Biotechnology and the Animal Resources Center at St. Jude Children's 
+Research Hospital.
+
+Figure 1 Phylogenetic relationships based on the HA (nucleotides 1–1684) genes of the
+Fa/SA/05 and Fa/KW/07 viruses. The nucleotide sequences were analyzed by PHYLIP
+3.65 software using the neighbor-joining method with 100 bootstraps. The tree
+was rooted to the HA gene of A/Chicken/Hong Kong/220/97. Viruses in bold red
+type were characterized in this study. Clades are indicated.
+
+Figure 2 Phylogenetic relationships based on the NA (nucleotides–1388) genes of Fa/SA/05
+and Fa/KW/07 viruses. The nucleotide sequences were analyzed by PHYLIP3.65
+software using the neighbor-joining method with 100 bootstraps. The NA
+phylogenetic tree was rooted to the NA gene of A/Chicken/Hong Kong/220/97. 
+Viruses in bold red type were characterized in this study. Clades are indicated.
+
+Figure 3 Mean titers of Fa/SA/05 and Fa/KW/07 viruses in mouse organ
+homogenates. Mice were inoculated with 100 PFU of each stock virus. Dashed
+line indicates detection limit (10 TCID50/mL). BLD: below level of
+detection. Error bars are SD obtained from mice (n = 3) killed at various times.
+
+Figure 4 Mean (±SE) tracheal
+and cloacal virus titers in mallard ducks inoculated with Fa/SA/05 and Fa/KW/07
+viruses. Ducks (n = 5) were inoculated with 106 EID50 of each stock virus. Virus was tittered from tracheal and cloacal swabs
+collected 3 days after inoculation to determine the TCID50. Dashed
+line indicates detection limit (10 TCID50/mL). BLD: below level of
+detection.
+
+Table 1 Antigenic analysis of Fa/SA/05 and Fa/KW/07 hemagglutinin using ferret polyclonal antisera. <: HI antibody titer less than 40. The HI titer for the homologous virus and antiserum is indicated by
+bold/underline. Viruses: HK213 (A/Hong Kong/213/03),
+VN1203 (A/Vietnam/1203/04), CkPak (A/Chicken/Pakistan(Lahore)/NARC/3320/4/06), FaSA (A/Falcon/Saudi Arabia/D1795/05), FaKW (A/Falcon/Kuwait/D286/06), JweHK (A/Japanese White
+Eye/Hong Kong/1038/06), and dkLao25 (A/Duck/Laos/25/06).
+
+
+	
+	 HI titer against ferret antiserum to 	
+ Clade 	 Virus 	 rgHK213 	 rgVN1203 	 CkPak 	 FaSA 	 FaKW 	 JweHK 	 dkLao25 	
+ 1 	 rgHK213 	
+320¯
+	320	1280	640	160	640	80	
+ 1 	 rgVN1203 	<	
+160¯
+	40	80	<	<	<	
+ 2.2 	 CkPak 	<	<	
+320¯
+	160	640	<	<	
+ 2.2 	 FaSA 	<	<	160	
+160¯
+	160	<	<	
+ 2.2 	 FaKW 	<	<	320	40	
+320¯
+	40	<	
+ 2.3 	 JweHK 	160	80	80	40	40	
+320¯
+	640	
+ 2.3 	 dkLao25 	<	<	<	40	<	<	
+160¯
+	
+Table 2 Amino acid (aa) residues associated with virus sensitivity and resistance to antiviral drugs.
+
+ Protein 	 M2 	 NA 	
+aa position	
+26
+	
+27
+	
+30
+	
+31
+	
+34
+	
+119
+	
+274
+	
+292
+	
+294
+	
+Sensitive	L	V	A	S	G	E	H	R	N	
+Resistant	F	A/T/S/G	V/T/S	N/G	E	V/G/A/D	Y	K	S	
+ Fa/SA/05 	L	V	A	S	G	E	H	R	N	
+ Fa/KW/07 	L	V	A	S	G	E	H	R	N
+==== Refs
+1 Manvell RJ  McKinney P  Wernery U  Frost K   Isolation of a highly pathogenic influenza A virus of subtype H7N3 from a peregrine falcon (Falco peregrinus) Avian Pathology  2000 29 6 635 637 19184861 
+2 Magnino S  Fabbi M  Moreno A    Avian influenza virus (H7 serotype) in a saker falcon in Italy Veterinary Record  2000 146 25 p. 740 
+3 Avian Influenza, Falcon - China (Hong Kong), archive number: 20040127.0314, January 2004, http://www.promedmail.org/  
+4 The New York Times Dead falcon in Hong Kong found to be infected with bird flu January 2004, http://query.nytimes.com/gst/fullpage.html?res=9B06E6D61339F931A15752C0A9629C8B63&scp=2&sq=falcon+H5N1&st=nyt  
+5 China Daily Falcon dies of H5N1 bird flu in HK March 2006, http://www.chinadaily.com.cn/china/2006-03/27/content_552831.htm  
+6 Hong Kong’s Information Services Department Peregrine Falcon tests positive for H5N1 virus March 2008, http://www.info.gov.hk/gia/general/200803/14/P200803140213.htm  
+7 Van Borm S  Thomas I  Hanquet G    Highly pathogenic H5N1 influenza virus in smuggled Thai eagles, Belgium Emerging Infectious Diseases  2005 11 5 702 705 15890123 
+8 Reuters Kuwait finds H5N1 bird flu in chicken, falcon March 2007, http://www.reuters.com/article/idUSL0215205220070302  
+9 Avian influenza - Eurasia (37): Saudi Arabia, falcon. Promed, archive number: 20060130.0299, January 2006, http://www.promedmail.org/  
+10 Cornell Lab of Ornithology Peregrine Falcon May 2008, http://www.birds.cornell.edu/AllAboutBirds/BirdGuide/Peregrine_Falcon.html  
+11 White CM  Clum NJ  Cade TJ  Hunt WG   Poole A  Gill F   Peregrine Falcon (Falco peregrinus) The Birds of North America No. 660  2002 Philadelphia, Pa, USA The Birds of North America 
+12 Boon ACM  Sandbulte MR  Seiler P    Role of terrestrial wild birds in ecology of influenza A virus (H5N1) Emerging Infectious Diseases  2007 13 11 1720 1724 18217557 
+13 Reed LJ  Muench H   A simple method for estimating fifty percent endpoints American Journal of Hygiene  1938 27 493 497 
+14 Hoffmann E  Stech J  Guan Y  Webster RG  Perez DR   Universal primer set for the full-length amplification of all influenza A viruses Archives of Virology  2001 146 12 2275 2289 11811679 
+15 Macken C  Lu H  Goodman J  Boykin L   Osterhaus ADME  Cox N  Hampson AW   The value of a database in surveillance and vaccine selection Options for the Control of Influenza IV  2001 Amsterdam, The Netherlands Elsevier Science 103 106 
+16 Hulse-Post DJ  Sturm-Ramirez KM  Humberd J    Role of domestic ducks in the propagation and biological evolution of highly pathogenic H5N1 influenza viruses in Asia Proceedings of the National Academy of Sciences of the United States of America  2005 102 30 10682 10687 16030144 
+17 Palmer D  Coleman M  Dowdle W  Schild G   Advanced laboratory techniques for influenza diagnosis US Department of Health, Education and Welfare, Atlanta, Ga, USA, 1975 
+18 Claas ECJ  Osterhaus ADME  van Beek R    Human influenza A H5N1 virus related to a highly pathogenic avian influenza virus The Lancet  1998 351 9101 472 477 
+19 Horimoto T  Kawaoka Y   Reverse genetics provides direct evidence for a correlation of hemagglutinin cleavability and virulence of an avian influenza A virus Journal of Virology  1994 68 5 3120 3128 8151777 
+20 Hatta H  Gao P  Halfmann P  Kawaoka Y   Molecular basis for high virulence of Hong Kong H5N1 influenza a viruses Science  2001 293 5536 1840 1842 11546875 
+21 Shinya K  Hamm S  Hatta M  Ito H  Ito T  Kawaoka Y   PB2 amino acid at position 627 affects replicative efficiency, but not cell tropism, of Hong Kong H5N1 influenza A viruses in mice Virology  2004 320 2 258 266 15016548 
+22 Fouchier RAM  Schneeberger PM  Rozendaal FW    Avian influenza A virus (H7N7) associated with human conjunctivitis and a fatal case of acute respiratory distress syndrome Proceedings of the National Academy of Sciences of the United States of America  2004 101 5 1356 1361 14745020 
+23 Hay AJ  Wolstenholme AJ  Skehel JJ  Smith MH   The molecular basis of the specific anti-influenza action of amantadine The EMBO Journal  1985 4 11 3021 3024 4065098 
+24 Pinto LH  Holsinger LJ  Lamb RA   Influenza virus M2 protein has ion channel activity Cell  1992 69 3 517 528 1374685 
+25 Gubareva LV   Molecular mechanisms of influenza virus resistance to neuraminidase inhibitors Virus Research  2004 103 1-2 199 203 15163510 
+26 Webster RG  Govorkova EA   H5N1 influenza—continuing evolution and spread The New England Journal of Medicine  2006 355 21 2174 2177 17124014 
+27 The Union for the Conservation of Raptors Another peregrine falcon infected with H5N1 avian flu, March 2006, http://www.savethefalcons.org/another_falcon_with_avian_flu.asp  
+28 Gulf News Falcons placed in quarantine to reduce risk February 2006, http://archive.gulfnews.com/indepth/bird_flu/index.html  
+29 Arab News Falcon expert warns of H5N1 threat, January 2008, http://www.arabnews.com/?page=1&section=0&article=105465&d=9&m=1&y=2008&pix=kingdom.jpg&category=Kingdom  
+30 Shortridge KF  Zhou NN  Guan Y    Characterization of avian H5N1 influenza viruses from poultry in Hong Kong Virology  1998 252 2 331 342 9878612 
+31 Lierz M  Hafez HM  Klopfleisch R    Protection and virus shedding of falcons vaccinated against highly pathogenic avian influenza A virus (H5N1) Emerging Infectious Diseases  2007 13 11 1667 1674 18217549

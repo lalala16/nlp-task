@@ -1,0 +1,5163 @@
+d_0011,infusion drotrecogin alfa activated
+d_0012,administration inhaled nitric oxide
+d_0013,injection infusion nesiritide
+d_0014,injection infusion oxazolidinone class antibiotics
+d_0015,high-dose infusion interleukin- il-
+d_0017,infusion vasopressor agent
+d_0033,computer assisted surgery fluoroscopy
+d_0040,procedure single vessel
+d_0041,procedure two vessels
+d_0042,procedure three vessels
+d_0043,procedure four vessels
+d_0044,procedure vessel bifurcation
+d_0045,insertion vascular stent
+d_0046,insertion two vascular stents
+d_0047,insertion three vascular stents
+d_0048,insertion four vascular stents
+d_0051,implantation cardiac resynchronization defibrillator total
+d_0052,implantation replacement transvenous lead electrode
+d_0055,insertion drug-eluting stents peripheral vessels
+d_0061,percutaneous angioplasty extracranial vessels
+d_0062,percutaneous angioplasty intracranial vessels
+d_0063,percutaneous insertion carotid artery stents
+d_0064,percutaneous insertion extracranial artery stents
+d_0065,percutaneous insertion intracranial vascular stents
+d_0066,percutaneous transluminal coronary angioplasty ptca
+d_0071,revision hip replacement acetabular component
+d_0074,cryptosporidiosis
+d_0084,revision total knee replacement tibial insert liner
+d_00845,intestinal infection due clostridium difficile
+d_00863,enteritis due norwalk virus
+d_00869,enteritis due viral enteritis
+d_0088,intestinal infection due organism elsewhere classi
+d_0090,infectious colitis enteritis gastroenteritis
+d_0091,transplant live related donor
+d_0091,colitis enteritis gastroenteritis presumed infectious
+d_0092,transplant live non-related donor
+d_0093,transplant cadaver
+d_0094,intra-operative neurophysiologic monitoring
+d_0109,cranial puncture
+d_0110,intracranial pressure monitoring
+d_0113,closed percutaneous needle biopsy brain
+d_0114,open biopsy brain
+d_0118,diagnostic procedures brain cerebral meninges
+d_0122,removal intracranial neurostimulator leads
+d_0123,reopening craniotomy site
+d_0124,craniotomy
+d_0125,craniectomy
+d_0126,insertion catheters cranial cavity tissue
+d_0128,placement intracerebral catheters via burr holes
+d_0131,incision cerebral meninges
+d_0139,incision brain
+d_0151,excision lesion tissue cerebral meninges
+d_0153,lobectomy brain
+d_0159,excision destruction lesion tissue brain
+d_016,excision lesion skull
+d_0202,elevation skull fracture fragments
+d_0203,formation cranial bone flap
+d_0204,bone graft skull
+d_0205,insertion skull plate
+d_0206,cranial osteoplasty
+d_0212,repair cerebral meninges
+d_0221,insertion replacement external ventricular drain evd
+d_0234,ventricular shunt abdominal cavity organs
+d_0239,ventricular shunt extracranial site nec
+d_0242,replacement ventricular shunt
+d_0243,removal ventricular shunt
+d_0270,listeriosis
+d_0291,lysis cortical adhesions
+d_0293,implantation replacement intracranial neurostimulator lead
+d_0294,insertion replacement skull tongs halo traction device
+d_0302,reopening laminectomy site
+d_0309,exploration decompression spinal canal
+d_0312,disseminated due mycobacteria
+d_0331,spinal tap
+d_034,excision destruction lesion spinal cord spinal menin
+d_0340,streptococcal sore throat
+d_0353,repair vertebral fracture
+d_0359,repair plastic operations spinal cord structures
+d_0380,streptococcal septicemia
+d_03810,staphylococcal septicemia unspecified
+d_03811,methicillin susceptible staphylococcus aureus septicemia
+d_03812,methicillin resistant staphylococcus aureus septicemia
+d_03819,staphylococcal septicemia
+d_0382,pneumococcal septicemia streptococcus pneumoniae septicemia
+d_0383,septicemia due anaerobes
+d_03840,septicemia due gram-negative organism unspecified
+d_03842,septicemia due escherichia coli coli
+d_03843,septicemia due pseudomonas
+d_03844,septicemia due serratia
+d_03849,septicemia due gram-negative organisms
+d_0388,specified septicemias
+d_0389,unspecified septicemia
+d_0390,insertion catheter spinal canal infusion therapeu
+d_0391,pulmonary actinomycotic infection
+d_0391,injection anesthetic spinal canal analgesia
+d_0392,injection agent spinal canal
+d_0395,spinal blood patch
+d_0400,gas gangrene
+d_0407,excision avulsion cranial peripheral nerves
+d_04082,toxic shock syndrome
+d_04100,streptococcus infection conditions elsewhere
+d_04110,staphylococcus infection conditions elsewhere
+d_04111,methicillin susceptible staphylococcus aureus conditions clas
+d_04112,methicillin resistant staphylococcus aureus conditions classi
+d_0412,pneumococcus infection conditions elsewhere
+d_0412,open biopsy cranial peripheral nerve ganglion
+d_0413,friedlnders bacillus infection conditions elsewh
+d_04149,unspecified escherichia coli coli
+d_0415,hemophilus influenzae influenzae infection conditions cl
+d_0416,proteus mirabilis morganii infection conditions classifie
+d_0417,pseudomonas infection conditions elsewhere
+d_04182,bacteroides fragilis
+d_04183,specified bacterial infections conditions el
+d_04186,helicobacter pylori pylori
+d_0419,bacterial infection unspecified conditions elsew
+d_042,human immunodeficiency virus hiv disease
+d_043,suture cranial peripheral nerves
+d_0441,decompression trigeminal nerve root
+d_0443,release carpal tunnel
+d_0479,neuroplasty
+d_0479,unspecified viral meningitis
+d_0481,injection anesthetic peripheral nerve analgesia
+d_0529,varicella mention complication
+d_0531,injection anesthetic sympathetic nerve analgesia
+d_05319,herpes zoster nervous system complications
+d_05379,herpes zoster specified complications
+d_0539,herpes zoster mention complication
+d_05410,genital herpes unspecified
+d_0542,herpetic gingivostomatitis
+d_0543,herpetic meningoencephalitis
+d_05479,herpes simplex specified complications
+d_0549,herpes simplex mention complication
+d_0611,closed percutaneous needle biopsy thyroid gland
+d_062,unilateral thyroid lobectomy
+d_0689,parathyroidectomy
+d_0701,viral hepatitis mention hepatic coma
+d_07020,viral hepatitis hepatic coma acute unspecified witho
+d_07030,viral hepatitis mention hepatic coma acute unsp
+d_07032,chronic viral hepatitis mention hepatic coma withou
+d_07041,acute hepatitis hepatic coma
+d_07044,chronic hepatitis hepatic coma
+d_07051,acute hepatitis mention hepatic coma
+d_07054,chronic hepatitis mention hepatic coma
+d_07071,unspecified viral hepatitis hepatic coma
+d_0722,unilateral adrenalectomy
+d_0762,partial excision pituitary gland transsphenoidal approach
+d_07810,viral warts unspecified
+d_07811,condyloma acuminatum
+d_0782,total excision thymus
+d_0785,cytomegaloviral disease
+d_07951,human t-cell lymphotrophic virus type i htlv-i
+d_0796,respiratory syncytial virus rsv
+d_07989,specified viral infection
+d_07999,unspecified viral infection
+d_0851,canthotomy
+d_0852,blepharorrhaphy
+d_0881,linear repair laceration eyelid eyebrow
+d_08881,lyme disease
+d_08882,babesiosis
+d_0940,tabes dorsalis
+d_0949,neurosyphilis unspecified
+d_1101,dermatophytosis nail
+d_1103,dermatophytosis groin perianal area
+d_1104,dermatophytosis foot
+d_1105,dermatophytosis body
+d_1108,dermatophytosis specified sites
+d_1119,dermatomycosis unspecified
+d_1120,candidiasis mouth
+d_1121,candidiasis vulva vagina
+d_1122,candidiasis urogenital sites
+d_1123,candidiasis skin nails
+d_1124,candidiasis lung
+d_1125,disseminated candidiasis
+d_11284,candidal esophagitis
+d_11289,candidiasis specified sites
+d_1129,candidiasis unspecified site
+d_11599,histoplasmosis unspecified
+d_1173,aspergillosis
+d_1175,cryptococcosis
+d_1177,zygomycosis phycomycosis mucormycosis
+d_1179,unspecified mycoses
+d_1231,cysticercosis
+d_1272,strongyloidiasis
+d_1307,toxoplasmosis specified sites
+d_1330,scabies
+d_135,sarcoidosis
+d_1363,pneumocystosis
+d_1369,unspecified infectious parasitic diseases
+d_138,late effects acute poliomyelitis
+d_1398,late effects unspecified infectious parasitic
+d_1410,malignant neoplasm base tongue
+d_1424,destruction chorioretinal lesion laser photocoagulation
+d_1474,mechanical vitrectomy
+d_1478,malignant neoplasm specified sites nasopharynx
+d_1479,malignant neoplasm nasopharynx unspecified site
+d_1481,malignant neoplasm pyriform sinus
+d_1490,malignant neoplasm pharynx unspecified
+d_1503,malignant neoplasm upper third esophagus
+d_1504,malignant neoplasm middle third esophagus
+d_1505,malignant neoplasm lower third esophagus
+d_1508,malignant neoplasm specified part esophagus
+d_1509,malignant neoplasm esophagus unspecified site
+d_1510,malignant neoplasm cardia
+d_1514,malignant neoplasm body stomach
+d_1518,malignant neoplasm specified sites stomach
+d_1519,malignant neoplasm stomach unspecified site
+d_1520,malignant neoplasm duodenum
+d_1530,malignant neoplasm hepatic flexure
+d_1532,malignant neoplasm descending colon
+d_1533,malignant neoplasm sigmoid colon
+d_1534,malignant neoplasm cecum
+d_1536,malignant neoplasm ascending colon
+d_1537,malignant neoplasm splenic flexure
+d_1538,malignant neoplasm specified sites large intestine
+d_1540,malignant neoplasm rectosigmoid junction
+d_1541,malignant neoplasm rectum
+d_1548,malignant neoplasm sites rectum rectosigmoid juncti
+d_1550,malignant neoplasm liver primary
+d_1551,malignant neoplasm intrahepatic bile ducts
+d_1552,malignant neoplasm liver specified primary seconda
+d_1560,malignant neoplasm gallbladder
+d_1561,malignant neoplasm extrahepatic bile ducts
+d_1562,malignant neoplasm ampulla vater
+d_1570,malignant neoplasm head pancreas
+d_1578,malignant neoplasm specified sites pancreas
+d_1579,malignant neoplasm pancreas part unspecified
+d_1580,malignant neoplasm retroperitoneum
+d_1588,malignant neoplasm specified parts peritoneum
+d_1589,malignant neoplasm peritoneum unspecified
+d_1611,malignant neoplasm supraglottis
+d_1618,malignant neoplasm specified sites larynx
+d_1619,malignant neoplasm larynx unspecified
+d_1622,malignant neoplasm main bronchus
+d_1623,malignant neoplasm upper lobe bronchus lung
+d_1624,malignant neoplasm middle lobe bronchus lung
+d_1625,malignant neoplasm lower lobe bronchus lung
+d_1628,malignant neoplasm parts bronchus lung
+d_1629,malignant neoplasm bronchus lung unspecified
+d_1640,malignant neoplasm thymus
+d_1707,malignant neoplasm long bones lower limb
+d_1713,malignant neoplasm connective soft tissue lower
+d_1714,malignant neoplasm connective soft tissue thorax
+d_1715,malignant neoplasm connective soft tissue abdome
+d_1733,laparoscopic right hemicolectomy
+d_1736,laparoscopic sigmoidectomy
+d_1748,malignant neoplasm specified sites female breast
+d_1749,malignant neoplasm breast female unspecified
+d_1755,transluminal coronary atherectomy
+d_1809,malignant neoplasm cervix uteri unspecified site
+d_1820,malignant neoplasm corpus uteri except isthmus
+d_1830,malignant neoplasm ovary
+d_184,suture laceration external ear
+d_185,malignant neoplasm prostate
+d_1888,malignant neoplasm specified sites bladder
+d_1889,malignant neoplasm bladder part unspecified
+d_1890,malignant neoplasm kidney except pelvis
+d_1891,malignant neoplasm renal pelvis
+d_1892,malignant neoplasm ureter
+d_1910,malignant neoplasm cerebrum except lobes ventricles
+d_1911,malignant neoplasm frontal lobe
+d_1912,malignant neoplasm temporal lobe
+d_1913,malignant neoplasm parietal lobe
+d_1914,malignant neoplasm occipital lobe
+d_1915,malignant neoplasm ventricles
+d_1918,malignant neoplasm parts brain
+d_1919,malignant neoplasm brain unspecified
+d_1921,malignant neoplasm cerebral meninges
+d_193,malignant neoplasm thyroid gland
+d_1961,secondary unspecified malignant neoplasm intrathoracic ly
+d_1962,secondary unspecified malignant neoplasm intra-abdominal
+d_1965,secondary unspecified malignant neoplasm lymph nodes i
+d_1966,secondary unspecified malignant neoplasm intrapelvic lymp
+d_1968,secondary unspecified malignant neoplasm lymph nodes
+d_1969,secondary unspecified malignant neoplasm lymph nodes sit
+d_1970,secondary malignant neoplasm lung
+d_1971,secondary malignant neoplasm mediastinum
+d_1972,secondary malignant neoplasm pleura
+d_1973,secondary malignant neoplasm respiratory organs
+d_1974,secondary malignant neoplasm small intestine including duoden
+d_1975,secondary malignant neoplasm large intestine rectum
+d_1976,secondary malignant neoplasm retroperitoneum peritoneum
+d_1977,malignant neoplasm liver secondary
+d_1978,secondary malignant neoplasm digestive organs splee
+d_1980,secondary malignant neoplasm kidney
+d_1981,secondary malignant neoplasm urinary organs
+d_1982,secondary malignant neoplasm skin
+d_1983,secondary malignant neoplasm brain spinal cord
+d_1984,secondary malignant neoplasm parts nervous system
+d_1985,secondary malignant neoplasm bone bone marrow
+d_1986,secondary malignant neoplasm ovary
+d_1987,secondary malignant neoplasm adrenal gland
+d_19881,secondary malignant neoplasm breast
+d_19882,secondary malignant neoplasm genital organs
+d_19889,secondary malignant neoplasm specified sites
+d_1991,malignant neoplasm specification site
+d_20000,reticulosarcoma unspecified site extranodal solid organ si
+d_20020,burkitts tumor lymphoma unspecified site extranodal so
+d_20028,burkitts tumor lymphoma lymph nodes multiple sites
+d_20030,marginal zone lymphoma unspecified site extranodal solid
+d_20050,primary central nervous system lymphoma unspecified site extra
+d_20070,large cell lymphoma unspecified site extranodal solid orga
+d_20080,named variants lymphosarcoma reticulosarcoma unspe
+d_20190,hodgkins disease unspecified type unspecified site extranoda
+d_20200,nodular lymphoma unspecified site extranodal solid organ
+d_20210,mycosis fungoides unspecified site extranodal solid organ
+d_20280,malignant lymphomas unspecified site extranodal soli
+d_20281,malignant lymphomas lymph nodes head face neck
+d_20282,malignant lymphomas intrathoracic lymph nodes
+d_20283,malignant lymphomas intra-abdominal lymph nodes
+d_20288,malignant lymphomas lymph nodes multiple sites
+d_20300,multiple myeloma mention having achieved remission
+d_20301,multiple myeloma remission
+d_20401,acute lymphoid leukemia remission
+d_20410,chronic lymphoid leukemia mention having achieved re
+d_20411,chronic lymphoid leukemia remission
+d_20412,chronic lymphoid leukemia relapse
+d_20500,acute myeloid leukemia mention having achieved remis
+d_20501,acute myeloid leukemia remission
+d_20502,acute myeloid leukemia relapse
+d_20510,chronic myeloid leukemia mention having achieved rem
+d_20511,chronic myeloid leukemia remission
+d_20890,unspecified leukemia mention having achieved remissi
+d_20972,secondary neuroendocrine tumor liver
+d_2101,control epistaxis anterior nasal packing
+d_2102,control epistaxis posterior anterior packing
+d_2103,control epistaxis cauterization packing
+d_2111,benign neoplasm stomach
+d_2112,benign neoplasm duodenum jejunum ileum
+d_2113,benign neoplasm colon
+d_2114,benign neoplasm rectum anal canal
+d_2115,benign neoplasm liver biliary passages
+d_2126,benign neoplasm thymus
+d_2127,benign neoplasm heart
+d_2143,lipoma intra-abdominal organs
+d_2148,lipoma specified sites
+d_2165,benign neoplasm skin trunk except scrotum
+d_2171,closed reduction nasal fracture
+d_2181,suture laceration nose
+d_2181,intramural leiomyoma uterus
+d_2189,leiomyoma uterus unspecified
+d_220,benign neoplasm ovary
+d_2219,diagnostic procedures nasal sinuses
+d_2230,benign neoplasm kidney except pelvis
+d_2242,frontal sinusectomy
+d_2251,benign neoplasm cranial nerves
+d_2252,benign neoplasm cerebral meninges
+d_2263,ethmoidectomy
+d_2264,sphenoidectomy
+d_2270,benign neoplasm adrenal gland
+d_2271,benign neoplasm parathyroid gland
+d_2273,benign neoplasm pituitary gland craniopharyngeal duct
+d_22801,hemangioma skin subcutaneous tissue
+d_22802,hemangioma intracranial structures
+d_22804,hemangioma intra-abdominal structures
+d_22809,hemangioma sites
+d_2309,extraction tooth
+d_2319,surgical extraction tooth
+d_2352,neoplasm uncertain behavior stomach intestines rectu
+d_2357,neoplasm uncertain behavior trachea bronchus lung
+d_2375,neoplasm uncertain behavior brain spinal cord
+d_23770,neurofibromatosis unspecified
+d_23771,neurofibromatosis type von recklinghausens disease
+d_2381,neoplasm uncertain behavior connective soft tiss
+d_2384,polycythemia vera
+d_23871,essential thrombocythemia
+d_23875,myelodysplastic syndrome unspecified
+d_23879,lymphatic hematopoietic tissues
+d_2390,neoplasm unspecified nature digestive system
+d_2391,neoplasm unspecified nature respiratory system
+d_2395,neoplasm unspecified nature genitourinary organs
+d_2396,neoplasm unspecified nature brain
+d_2397,neoplasm unspecified nature endocrine glands par
+d_2409,goiter unspecified
+d_2410,nontoxic uninodular goiter
+d_2411,nontoxic multinodular goiter
+d_24200,toxic diffuse goiter mention thyrotoxic crisis sto
+d_24220,toxic multinodular goiter mention thyrotoxic crisis
+d_24280,thyrotoxicosis specified origin mention thyr
+d_24290,thyrotoxicosis mention goiter cause wit
+d_24291,thyrotoxicosis mention goiter cause me
+d_243,congenital hypothyroidism
+d_2440,postsurgical hypothyroidism
+d_2441,postablative hypothyroidism
+d_2442,iodine hypothyroidism
+d_2443,iatrogenic hypothyroidism
+d_2448,specified acquired hypothyroidism
+d_2449,unspecified acquired hypothyroidism
+d_245,alveoloplasty
+d_24900,secondary diabetes mellitus mention complication
+d_25002,diabetes mellitus mention complication type ii
+d_25003,diabetes mellitus mention complication type i juven
+d_25010,diabetes ketoacidosis type ii unspecified type sta
+d_25011,diabetes ketoacidosis type i juvenile type stated
+d_25012,diabetes ketoacidosis type ii unspecified type uncontr
+d_25013,diabetes ketoacidosis type i juvenile type uncontrolled
+d_25020,diabetes hyperosmolarity type ii unspecified type
+d_25022,diabetes hyperosmolarity type ii unspecified type unco
+d_25033,diabetes coma type i juvenile type uncontrolled
+d_25041,diabetes renal manifestations type i juvenile type
+d_25042,diabetes renal manifestations type ii unspecified type
+d_25043,diabetes renal manifestations type i juvenile type unco
+d_25052,diabetes ophthalmic manifestations type ii unspecified
+d_25053,diabetes ophthalmic manifestations type i juvenile type
+d_25062,diabetes neurological manifestations type ii unspecifie
+d_25063,diabetes neurological manifestations type i juvenile type
+d_25072,diabetes peripheral circulatory disorders type ii unspe
+d_25073,diabetes peripheral circulatory disorders type i juvenile
+d_25082,diabetes specified manifestations type ii unspeci
+d_25083,diabetes specified manifestations type i juvenile
+d_25090,diabetes unspecified complication type ii unspecified
+d_25093,diabetes unspecified complication type i juvenile type
+d_251,excision destruction lesion tissue tongue
+d_2511,specified hypoglycemia
+d_2512,hypoglycemia unspecified
+d_2513,postsurgical hypoinsulinemia
+d_2515,abnormality secretion gastrin
+d_2518,specified disorders pancreatic internal secretion
+d_25200,hyperparathyroidism unspecified
+d_25201,primary hyperparathyroidism
+d_25202,secondary hyperparathyroidism non-renal
+d_25208,hyperparathyroidism
+d_2521,hypoparathyroidism
+d_2530,acromegaly gigantism
+d_2532,panhypopituitarism
+d_2535,diabetes insipidus
+d_2536,disorders neurohypophysis
+d_2537,iatrogenic pituitary disorders
+d_2538,disorders pituitary syndromes dienceph
+d_2550,cushings syndrome
+d_25541,glucocorticoid deficiency
+d_2555,adrenal hypofunction
+d_2558,specified disorders adrenal glands
+d_2559,unspecified disorder adrenal glands
+d_2564,polycystic ovaries
+d_2572,testicular hypofunction
+d_2594,dwarfism elsewhere
+d_260,kwashiorkor
+d_261,nutritional marasmus
+d_262,severe protein-calorie malnutrition
+d_2630,malnutrition moderate degree
+d_2631,malnutrition mild degree
+d_2638,protein-calorie malnutrition
+d_2639,unspecified protein-calorie malnutrition
+d_2651,unspecified manifestations thiamine deficiency
+d_2662,b-complex deficiencies
+d_2682,osteomalacia unspecified
+d_2689,unspecified vitamin deficiency
+d_2690,deficiency vitamin
+d_2698,nutritional deficiency
+d_2699,unspecified nutritional deficiency
+d_2704,disturbances sulphur-bearing amino-acid metabolism
+d_2710,glycogenosis
+d_2713,intestinal disaccharidase deficiencies disaccharide malabsor
+d_2720,pure hypercholesterolemia
+d_2721,pure hyperglyceridemia
+d_2724,unspecified hyperlipidemia
+d_2726,lipodystrophy
+d_2728,disorders lipoid metabolism
+d_2731,monoclonal paraproteinemia
+d_2732,paraproteinemias
+d_2733,macroglobulinemia
+d_2738,disorders plasma protein metabolism
+d_2739,unspecified disorder plasma protein metabolism
+d_27400,gouty arthropathy unspecified
+d_27401,acute gouty arthropathy
+d_27403,chronic gouty arthropathy tophus tophi
+d_27482,gouty tophi sites except ear
+d_2749,excision mouth
+d_2749,gout unspecified
+d_27501,hereditary hemochromatosis
+d_27503,hemochromatosis
+d_2752,disorders magnesium metabolism
+d_2753,disorders phosphorus metabolism
+d_27541,hypocalcemia
+d_27542,hypercalcemia
+d_27549,disorders calcium metabolism
+d_2755,hungry bone syndrome
+d_2757,attachment pedicle flap graft lip mouth
+d_2760,hyperosmolality andor hypernatremia
+d_2761,hyposmolality andor hyponatremia
+d_2762,acidosis
+d_2763,alkalosis
+d_2764,mixed acid-base balance disorder
+d_27650,volume depletion unspecified
+d_27651,dehydration
+d_27652,hypovolemia
+d_27661,transfusion associated circulatory overload
+d_27669,fluid overload
+d_2767,hyperpotassemia
+d_2768,hypopotassemia
+d_2769,electrolyte fluid disorders elsewhere
+d_27730,amyloidosis unspecified
+d_27739,amyloidosis
+d_2774,disorders bilirubin excretion
+d_2777,dysmetabolic syndrome x
+d_27787,disorders mitochondrial metabolism
+d_27788,tumor lysis syndrome
+d_27800,obesity unspecified
+d_27801,morbid obesity
+d_27803,obesity hypoventilation syndrome
+d_2781,localized adiposity
+d_2788,hyperalimentation
+d_27900,hypogammaglobulinemia unspecified
+d_27901,selective iga immunodeficiency
+d_27903,selective immunoglobulin deficiencies
+d_27906,common variable immunodeficiency
+d_27950,graft-versus-host disease unspecified
+d_27951,acute graft-versus-host disease
+d_27952,chronic graft-versus-host disease
+d_27953,acute chronic graft-versus-host disease
+d_2798,specified disorders involving immune mechanism
+d_280,incision drainage tonsil peritonsillar structures
+d_2800,iron deficiency anemia secondary blood loss chronic
+d_2808,specified iron deficiency anemias
+d_2809,iron deficiency anemia unspecified
+d_2810,pernicious anemia
+d_2811,vitamin deficiency anemia
+d_2812,folate-deficiency anemia
+d_2819,unspecified deficiency anemia
+d_2822,anemias due disorders glutathione metabolism
+d_28240,thalassemia unspecified
+d_28246,thalassemia minor
+d_28249,thalassemia
+d_2825,sickle-cell trait
+d_28260,sickle-cell disease unspecified
+d_28262,hb-ss disease crisis
+d_2830,autoimmune hemolytic anemias
+d_28311,hemolytic-uremic syndrome
+d_28319,non-autoimmune hemolytic anemias
+d_2839,acquired hemolytic anemia unspecified
+d_28411,antineoplastic chemotherapy induced pancytopenia
+d_28412,drug-induced pancytopenia
+d_28419,pancytopenia
+d_28489,specified aplastic anemias
+d_2851,acute posthemorrhagic anemia
+d_28521,anemia chronic kidney disease
+d_28522,anemia neoplastic disease
+d_28529,anemia chronic disease
+d_2853,antineoplastic chemotherapy induced anemia
+d_2858,specified anemias
+d_2859,anemia unspecified
+d_2860,congenital factor viii disorder
+d_2861,congenital factor ix disorder
+d_2862,congenital factor xi deficiency
+d_2863,congenital deficiency clotting factors
+d_2864,von willebrands disease
+d_2866,defibrination syndrome
+d_2867,acquired coagulation factor deficiency
+d_2869,unspecified coagulation defects
+d_28731,immune thrombocytopenic purpura
+d_28749,secondary thrombocytopenia
+d_2875,thrombocytopenia unspecified
+d_2879,unspecified hemorrhagic conditions
+d_28800,neutropenia unspecified
+d_28803,drug induced neutropenia
+d_28804,neutropenia due infection
+d_28809,neutropenia
+d_2883,eosinophilia
+d_2884,hemophagocytic syndromes
+d_28850,leukocytopenia unspecified
+d_28860,leukocytosis unspecified
+d_28866,bandemia
+d_2888,specified disease white blood cells
+d_2890,polycythemia secondary
+d_2894,hypersplenism
+d_28951,chronic congestive splenomegaly
+d_28959,diseases spleen
+d_28981,primary hypercoagulable state
+d_28982,secondary hypercoagulable state
+d_28983,myelofibrosis
+d_28984,heparin-induced thrombocytopenia hit
+d_28989,specified diseases blood blood-forming organs
+d_2899,unspecified diseases blood blood-forming organs
+d_2900,senile dementia uncomplicated
+d_2903,senile dementia delirium
+d_29040,vascular dementia uncomplicated
+d_29041,vascular dementia delirium
+d_2910,alcohol withdrawal delirium
+d_2911,alcohol-induced persisting amnestic disorder
+d_2911,pharyngoscopy
+d_2912,pharyngeal biopsy
+d_2912,alcohol-induced persisting dementia
+d_2913,alcohol-induced psychotic disorder hallucinations
+d_29181,alcohol withdrawal
+d_2920,drug withdrawal
+d_29212,drug-induced psychotic disorder hallucinations
+d_29281,drug-induced delirium
+d_29284,drug-induced mood disorder
+d_2929,unspecified drug-induced mental disorder
+d_2930,delirium due conditions elsewhere
+d_2939,unspecified transient mental disorder conditions
+d_2940,amnestic disorder conditions elsewhere
+d_29410,dementia conditions elsewhere behavioral
+d_29411,dementia conditions elsewhere behavioral dist
+d_29420,dementia unspecified behavioral disturbance
+d_2948,persistent mental disorders due conditions
+d_2949,unspecified persistent mental disorders due conditions classi
+d_29530,paranoid type schizophrenia unspecified
+d_29532,paranoid type schizophrenia chronic
+d_29560,schizophrenic disorders residual type unspecified
+d_29562,schizophrenic disorders residual type chronic
+d_29570,schizoaffective disorder unspecified
+d_29572,schizoaffective disorder chronic
+d_29590,unspecified schizophrenia unspecified
+d_29620,major depressive affective disorder single episode unspecified
+d_29623,major depressive affective disorder single episode severe wit
+d_29624,major depressive affective disorder single episode severe spe
+d_29630,major depressive affective disorder recurrent episode unspecif
+d_29632,major depressive affective disorder recurrent episode moderate
+d_29634,major depressive affective disorder recurrent episode severe
+d_29640,bipolar i disorder most recent episode current manic unsp
+d_29650,bipolar i disorder most recent episode current depressed
+d_2967,bipolar i disorder most recent episode current unspecified
+d_29680,bipolar disorder unspecified
+d_29689,bipolar disorders
+d_29690,unspecified episodic mood disorder
+d_2971,delusional disorder
+d_2989,unspecified psychosis
+d_29900,autistic disorder current active state
+d_30000,anxiety state unspecified
+d_30001,panic disorder agoraphobia
+d_30002,generalized anxiety disorder
+d_30011,conversion disorder
+d_30014,dissociative identity disorder
+d_30022,agoraphobia mention panic attacks
+d_30029,isolated specific phobias
+d_3003,obsessive-compulsive disorders
+d_3004,dysthymic disorder
+d_3009,excision destruction lesion tissue larynx
+d_3009,unspecified nonpsychotic mental disorder
+d_30120,schizoid personality disorder unspecified
+d_30122,schizotypal personality disorder
+d_3014,obsessive-compulsive personality disorder
+d_3017,antisocial personality disorder
+d_30181,narcissistic personality disorder
+d_30183,borderline personality disorder
+d_3019,unspecified personality disorder
+d_30250,trans-sexualism unspecified sexual history
+d_303,complete laryngectomy
+d_30300,acute alcoholic intoxication alcoholism unspecified
+d_30301,acute alcoholic intoxication alcoholism continuous
+d_30390,unspecified alcohol dependence unspecified
+d_30391,unspecified alcohol dependence continuous
+d_30392,unspecified alcohol dependence episodic
+d_30393,unspecified alcohol dependence remission
+d_30400,opioid type dependence unspecified
+d_30401,opioid type dependence continuous
+d_30403,opioid type dependence remission
+d_30410,sedative hypnotic anxiolytic dependence unspecified
+d_30411,sedative hypnotic anxiolytic dependence continuous
+d_30420,cocaine dependence unspecified
+d_30421,cocaine dependence continuous
+d_30431,cannabis dependence continuous
+d_30461,specified drug dependence continuous
+d_30473,combinations opioid type drug drug dependence
+d_30500,alcohol abuse unspecified
+d_30501,alcohol abuse continuous
+d_30503,alcohol abuse remission
+d_3051,tobacco use disorder
+d_30520,cannabis abuse unspecified
+d_30521,cannabis abuse continuous
+d_30523,cannabis abuse remission
+d_30540,sedative hypnotic anxiolytic abuse unspecified
+d_30550,opioid abuse unspecified
+d_30551,opioid abuse continuous
+d_30552,opioid abuse episodic
+d_30553,opioid abuse remission
+d_30560,cocaine abuse unspecified
+d_30561,cocaine abuse continuous
+d_30562,cocaine abuse episodic
+d_30563,cocaine abuse remission
+d_30570,amphetamine related acting sympathomimetic abuse unspecified
+d_30590,mixed unspecified drug abuse unspecified
+d_30593,mixed unspecified drug abuse remission
+d_3071,anorexia nervosa
+d_30750,eating disorder unspecified
+d_3079,unspecified special symptoms syndromes elsewhe
+d_3080,predominant disturbance emotions
+d_3090,adjustment disorder depressed mood
+d_30924,adjustment disorder anxiety
+d_30928,adjustment disorder mixed anxiety depressed mood
+d_3094,adjustment disorder mixed disturbance emotions condu
+d_30981,posttraumatic stress disorder
+d_3099,unspecified adjustment reaction
+d_3102,postconcussion syndrome
+d_3109,unspecified nonpsychotic mental disorder following organic brain
+d_311,depressive disorder elsewhere
+d_311,temporary tracheostomy
+d_3129,unspecified disturbance conduct
+d_3129,permanent tracheostomy
+d_31400,attention deficit disorder mention hyperactivity
+d_31401,attention deficit disorder hyperactivity
+d_3141,tracheoscopy through artificial stoma
+d_3142,laryngoscopy tracheoscopy
+d_3143,closed endoscopic biopsy larynx
+d_3144,closed endoscopic biopsy trachea
+d_315,local excision destruction lesion tissue trachea
+d_3164,repair laryngeal fracture
+d_317,mild intellectual disabilities
+d_3174,revision tracheostomy
+d_3179,repair plastic operations trachea
+d_3181,severe intellectual disabilities
+d_319,unspecified intellectual disabilities
+d_3199,operations trachea
+d_3201,pneumococcal meningitis
+d_3201,endoscopic excision destruction lesion tissue bronch
+d_3203,staphylococcal meningitis
+d_32082,meningitis due gram-negative bacteria elsewhere classifi
+d_3209,meningitis due unspecified bacterium
+d_3220,thoracoscopic excision lesion tissue lung
+d_3228,endoscopic excision destruction lesion tissue lung
+d_3229,meningitis unspecified
+d_3229,local excision destruction lesion tissue lung
+d_32381,causes encephalitis encephalomyelitis
+d_32382,causes myelitis
+d_3239,unspecified segmental resection lung
+d_3239,unspecified causes encephalitis myelitis encephalomyeli
+d_3240,intracranial abscess
+d_3241,intraspinal abscess
+d_3241,thoracoscopic lobectomy lung
+d_3249,lobectomy lung
+d_325,phlebitis thrombophlebitis intracranial venous sinuses
+d_3259,unspecified pneumonectomy
+d_326,late effects intracranial abscess pyogenic infection
+d_32721,primary central sleep apnea
+d_32723,obstructive sleep apnea adultpediatric
+d_32726,sleep related hypoventilationhypoxemia conditions classifiab
+d_32727,central sleep apnea conditions elsewhere
+d_3310,alzheimers disease
+d_33119,frontotemporal dementia
+d_3313,communicating hydrocephalus
+d_3314,obstructive hydrocephalus
+d_3315,idiopathic normal pressure hydrocephalus inph
+d_33182,dementia lewy bodies
+d_33183,mild cognitive impairment so stated
+d_3319,cerebral degeneration unspecified
+d_3320,thoracoscopic lung biopsy
+d_3320,paralysis agitans
+d_3321,bronchoscopy through artificial stoma
+d_3322,fiber-optic bronchoscopy
+d_3323,bronchoscopy
+d_3324,closed endoscopic biopsy bronchus
+d_3326,closed percutaneous needle biopsy lung
+d_3327,closed endoscopic biopsy lung
+d_3328,open biopsy lung
+d_3329,diagnostic procedures lung bronchus
+d_3330,degenerative diseases basal ganglia
+d_3331,essential specified forms tremor
+d_3332,myoclonus
+d_3336,genetic torsion dystonia
+d_33372,acute dystonia due drugs
+d_33385,subacute dyskinesia due drugs
+d_3339,surgical collapse lung
+d_33390,unspecified extrapyramidal disease abnormal movement disorde
+d_33392,neuroleptic malignant syndrome
+d_33394,restless legs syndrome rls
+d_33399,extrapyramidal diseases abnormal movement disorders
+d_3341,hereditary spastic paraplegia
+d_3343,closure laceration lung
+d_3348,repair plastic operations bronchus
+d_33520,amyotrophic lateral sclerosis
+d_3360,syringomyelia syringobulbia
+d_3361,vascular myelopathies
+d_3363,myelopathy diseases elsewhere
+d_3368,myelopathy
+d_3369,unspecified disease spinal cord
+d_3371,peripheral autonomic neuropathy disorders elsewher
+d_33720,reflex sympathetic dystrophy unspecified
+d_33722,reflex sympathetic dystrophy lower limb
+d_3373,autonomic dysreflexia
+d_3378,endoscopic removal bronchial devices substances
+d_3379,unspecified disorder autonomic nervous system
+d_33811,acute pain due trauma
+d_33818,acute postoperative pain
+d_33819,acute pain
+d_33821,chronic pain due trauma
+d_33828,chronic postoperative pain
+d_33829,chronic pain
+d_3383,neoplasm related pain acute chronic
+d_3384,chronic pain syndrome
+d_3391,bronchial dilation
+d_340,multiple sclerosis
+d_3401,incision chest wall
+d_3402,exploratory thoracotomy
+d_3403,reopening recent thoracotomy site
+d_3404,insertion intercostal catheter drainage
+d_3406,thoracoscopic drainage pleural cavity
+d_3409,incision pleura
+d_341,incision mediastinum
+d_3418,demyelinating diseases central nervous system
+d_3419,demyelinating disease central nervous system unspecified
+d_3420,thoracoscopic pleural biopsy
+d_34200,flaccid hemiplegia hemiparesis affecting unspecified side
+d_34202,flaccid hemiplegia hemiparesis affecting nondominant side
+d_3421,transpleural thoracoscopy
+d_3422,mediastinoscopy
+d_3424,pleural biopsy
+d_3425,closed percutaneous needle biopsy mediastinum
+d_3427,biopsy diaphragm
+d_34280,specified hemiplegia hemiparesis affecting unspecified
+d_34281,specified hemiplegia hemiparesis affecting dominant si
+d_34282,specified hemiplegia hemiparesis affecting nondominant
+d_34290,hemiplegia unspecified affecting unspecified side
+d_34291,hemiplegia unspecified affecting dominant side
+d_34292,hemiplegia unspecified affecting nondominant side
+d_343,excision destruction lesion tissue mediastinum
+d_3432,congenital quadriplegia
+d_3439,infantile cerebral palsy unspecified
+d_344,excision destruction lesion chest wall
+d_34400,quadriplegia unspecified
+d_34401,quadriplegia complete
+d_34404,quadriplegia incomplete
+d_34409,quadriplegia
+d_3441,paraplegia
+d_34430,monoplegia lower limb affecting unspecified side
+d_34460,cauda equina syndrome mention neurogenic bladder
+d_34461,cauda equina syndrome neurogenic bladder
+d_34481,locked-in state
+d_34489,specified paralytic syndrome
+d_3449,paralysis unspecified
+d_34500,generalized nonconvulsive epilepsy mention intractab
+d_34501,generalized nonconvulsive epilepsy intractable epilepsy
+d_3451,decortication lung
+d_34510,generalized convulsive epilepsy mention intractable
+d_34511,generalized convulsive epilepsy intractable epilepsy
+d_3452,thoracoscopic decortication lung
+d_3453,grand mal status
+d_34551,localization-related focal partial epilepsy epileptic sy
+d_34570,epilepsia partialis continua mention intractable epi
+d_34571,epilepsia partialis continua intractable epilepsy
+d_34580,forms epilepsy recurrent seizures mention
+d_34581,forms epilepsy recurrent seizures intractable
+d_3459,excision pleura
+d_34590,epilepsy unspecified mention intractable epilepsy
+d_34591,epilepsy unspecified intractable epilepsy
+d_346,scarification pleura
+d_34600,migraine aura mention intractable migraine
+d_34680,forms migraine mention intractable migraine
+d_34690,migraine unspecified mention intractable migraine
+d_3472,closure thoracostomy
+d_3473,closure fistula thorax
+d_3479,repair chest wall
+d_3480,cerebral cysts
+d_3481,excision lesion tissue diaphragm
+d_3481,anoxic brain damage
+d_3482,benign intracranial hypertension
+d_3482,suture laceration diaphragm
+d_34830,encephalopathy unspecified
+d_34831,metabolic encephalopathy
+d_34839,encephalopathy
+d_3484,compression brain
+d_3484,repair diaphragm
+d_3485,cerebral edema
+d_34889,conditions brain
+d_3489,unspecified condition brain
+d_3490,reaction spinal lumbar puncture
+d_3491,thoracentesis
+d_3492,disorders meninges elsewhere
+d_3492,injection thoracic cavity
+d_34931,accidental puncture laceration dura during procedure
+d_34981,cerebrospinal fluid rhinorrhea
+d_34982,toxic encephalopathy
+d_3499,operations thorax
+d_3501,trigeminal neuralgia
+d_3505,endovascular replacement aortic valve
+d_3510,bells palsy
+d_3511,open heart valvuloplasty aortic valve replacement
+d_3512,open heart valvuloplasty mitral valve replacement
+d_3514,open heart valvuloplasty tricuspid valve replacement
+d_3518,facial nerve disorders
+d_3521,open replacement aortic valve tissue graft
+d_3522,open replacement aortic valve
+d_3523,open replacement mitral valve tissue graft
+d_3524,open replacement mitral valve
+d_3525,open replacement pulmonary valve tissue graft
+d_3527,open replacement tricuspid valve tissue graft
+d_3530,brachial plexus lesions
+d_3533,annuloplasty
+d_3536,phantom limb syndrome
+d_3539,operations structures adjacent valves heart
+d_3540,carpal tunnel syndrome
+d_3542,lesion ulnar nerve
+d_3548,mononeuritis upper limb
+d_3549,mononeuritis upper limb unspecified
+d_3551,repair atrial septal defect prosthesis open technique
+d_3551,meralgia paresthetica
+d_3553,lesion lateral popliteal nerve
+d_3558,mononeuritis lower limb unspecified
+d_3559,mononeuritis unspecified site
+d_3561,repair atrial septal defect tissue graft
+d_3561,peroneal muscular atrophy
+d_3568,specified idiopathic peripheral neuropathy
+d_3569,unspecified hereditary idiopathic peripheral neuropathy
+d_3570,acute infective polyneuritis
+d_3571,unspecified repair atrial septal defect
+d_3572,polyneuropathy diabetes
+d_3572,unspecified repair ventricular septal defect
+d_3575,alcoholic polyneuropathy
+d_3576,polyneuropathy due drugs
+d_35781,chronic inflammatory demyelinating polyneuritis
+d_35782,critical illness polyneuropathy
+d_35801,myasthenia gravis acute exacerbation
+d_3581,myasthenic syndromes diseases elsewhere
+d_3589,myoneural disorders unspecified
+d_3594,toxic myopathy
+d_3596,percutaneous balloon valvuloplasty
+d_35981,critical illness myopathy
+d_35989,myopathies
+d_3599,myopathy unspecified
+d_36000,purulent endophthalmitis unspecified
+d_3606,insertion non-drug-eluting coronary artery stents
+d_3607,insertion drug-eluting coronary artery stents
+d_3611,aortocoronary bypass coronary artery
+d_3612,aortocoronary bypass two coronary arteries
+d_3613,aortocoronary bypass three coronary arteries
+d_3614,aortocoronary bypass four coronary arteries
+d_3615,single internal mammary-coronary artery bypass
+d_3616,double internal mammary-coronary artery bypass
+d_3619,bypass anastomosis heart revascularization
+d_3619,unspecified retinal detachment
+d_36201,background diabetic retinopathy
+d_36202,proliferative diabetic retinopathy
+d_36210,background retinopathy unspecified
+d_36221,retrolental fibroplasia
+d_36230,retinal vascular occlusion unspecified
+d_36231,central retinal artery occlusion
+d_36234,transient retinal arterial occlusion
+d_36250,macular degeneration senile unspecified
+d_36274,pigmentary retinal dystrophy
+d_36281,retinal hemorrhage
+d_36320,chorioretinitis unspecified
+d_3643,unspecified iridocyclitis
+d_36563,glaucoma associated vascular disorders
+d_36570,glaucoma stage unspecified
+d_3659,unspecified glaucoma
+d_3668,cataract
+d_3669,unspecified cataract
+d_36813,visual discomfort
+d_36816,psychophysical visual disturbances
+d_3682,diplopia
+d_36840,visual field defect unspecified
+d_36846,homonymous bilateral field defects
+d_3688,specified visual disturbances
+d_36900,profound impairment both eyes impairment level further spe
+d_3693,unqualified visual loss both eyes
+d_3694,legal blindness defined usa
+d_36960,profound impairment eye impairment level further speci
+d_3698,unqualified visual loss eye
+d_3699,operations vessels heart
+d_3699,unspecified visual loss
+d_370,pericardiocentesis
+d_37000,corneal ulcer unspecified
+d_3712,pericardiotomy
+d_37140,corneal degeneration unspecified
+d_37200,acute conjunctivitis unspecified
+d_37203,mucopurulent conjunctivitis
+d_3721,right heart cardiac catheterization
+d_3722,left heart cardiac catheterization
+d_3723,combined right left heart cardiac catheterization
+d_37230,conjunctivitis unspecified
+d_37239,conjunctivitis
+d_3724,biopsy pericardium
+d_3725,biopsy heart
+d_3726,catheter based invasive electrophysiologic testing
+d_3727,cardiac mapping
+d_37272,conjunctival hemorrhage
+d_37273,conjunctival edema
+d_3728,intracardiac echocardiography
+d_3731,pericardiectomy
+d_3732,excision aneurysm heart
+d_3733,excision destruction lesion tissue heart open
+d_3734,excision destruction lesion tissue heart endo
+d_3736,excision destruction exclusion left atrial appendage la
+d_37430,ptosis eyelid unspecified
+d_3749,repair heart pericardium
+d_37515,tear film insufficiency unspecified
+d_3761,implant pulsation balloon
+d_3762,insertion temporary non-implantable extracorporeal circulator
+d_37630,exophthalmos unspecified
+d_3764,removal external heart assist systems devices
+d_3768,insertion percutaneous external heart assist device
+d_37701,papilledema associated increased intracranial pressure
+d_3771,initial insertion transvenous lead electrode ventricle
+d_3772,initial insertion transvenous leads electrodes atrium
+d_37730,optic neuritis unspecified
+d_37739,optic neuritis
+d_3774,insertion replacement epicardial lead electrode epi
+d_37741,ischemic optic neuropathy
+d_3775,revision lead electrode
+d_3777,removal leads electrode replacement
+d_37775,cortical blindness
+d_3778,insertion temporary transvenous pacemaker system
+d_3779,revision relocation cardiac device pocket
+d_3781,initial insertion single-chamber device specified rat
+d_37810,exotropia unspecified
+d_3782,initial insertion single-chamber device rate responsive
+d_3783,initial insertion dual-chamber device
+d_37851,third oculomotor nerve palsy partial
+d_37852,third oculomotor nerve palsy total
+d_37854,sixth abducens nerve palsy
+d_3787,replacement type pacemaker device dual-chamber devic
+d_3789,unspecified disorder eye movements
+d_3789,revision removal pacemaker device
+d_3791,open chest cardiac massage
+d_37923,vitreous hemorrhage
+d_3794,implantation replacement automatic cardioverterdefibrilla
+d_37941,anisocoria
+d_37943,mydriasis persistent due mydriatics
+d_3798,replacement automatic cardioverterdefibrillator pulse genera
+d_3799,operations heart pericardium
+d_37991,pain around eye
+d_38010,infective otitis externa unspecified
+d_3803,incision vessel upper limb vessels
+d_3804,impacted cerumen
+d_3804,incision vessel aorta
+d_3806,incision vessel abdominal arteries
+d_3807,incision vessel abdominal veins
+d_3808,incision vessel lower limb arteries
+d_3809,incision vessel lower limb veins
+d_3812,endarterectomy vessels head neck
+d_3814,endarterectomy aorta
+d_3816,endarterectomy abdominal arteries
+d_3818,endarterectomy lower limb arteries
+d_3821,biopsy blood vessel
+d_3822,percutaneous angioscopy
+d_3829,unspecified otitis media
+d_3844,resection vessel replacement aorta abdominal
+d_3845,resection vessel replacement thoracic vessels
+d_3846,resection vessel replacement abdominal arteries
+d_38589,disorders middle ear mastoid
+d_38600,mnires disease unspecified
+d_38611,benign paroxysmal positional vertigo
+d_38612,vestibular neuronitis
+d_3867,excision vessels abdominal veins
+d_387,interruption vena cava
+d_3882,surgical occlusion vessels vessels head
+d_3883,surgical occlusion vessels upper limb vessels
+d_38830,tinnitus unspecified
+d_3885,surgical occlusion vessels thoracic vessels
+d_3886,surgical occlusion vessels abdominal arteries
+d_38861,cerebrospinal fluid otorrhea
+d_38869,otorrhea
+d_3887,surgical occlusion vessels abdominal veins
+d_3888,surgical occlusion vessels lower limb arteries
+d_3889,surgical occlusion vessels lower limb veins
+d_3891,arterial catheterization
+d_38910,sensorineural hearing loss unspecified
+d_3892,umbilical vein catheterization
+d_3893,venous catheterization elsewhere
+d_3894,venous cutdown
+d_3895,venous catheterization renal dialysis
+d_3897,central venous catheter placement guidance
+d_3897,deaf nonspeaking elsewhere classifiable
+d_3899,unspecified hearing loss
+d_3899,puncture vein
+d_391,intra-abdominal venous shunt
+d_3911,acute rheumatic endocarditis
+d_3922,aorta-subclavian-carotid bypass
+d_3923,intrathoracic vascular shunt bypass
+d_3924,aorta-renal bypass
+d_3925,aorta-iliac-femoral bypass
+d_3926,intra-abdominal vascular shunt bypass
+d_3927,arteriovenostomy renal dialysis
+d_3929,peripheral vascular shunt bypass
+d_3931,suture artery
+d_3932,suture vein
+d_3940,mitral stenosis
+d_3941,rheumatic mitral insufficiency
+d_3941,control hemorrhage following vascular surgery
+d_3942,revision arteriovenous shunt renal dialysis
+d_3942,mitral stenosis insufficiency
+d_3943,removal arteriovenous shunt renal dialysis
+d_3949,revision vascular procedure
+d_3950,angioplasty non-coronary vessels
+d_3950,rheumatic aortic stenosis
+d_3951,clipping aneurysm
+d_3952,repair aneurysm
+d_3952,rheumatic aortic stenosis insufficiency
+d_3953,repair arteriovenous fistula
+d_3956,repair blood vessel tissue patch graft
+d_3957,repair blood vessel synthetic patch graft
+d_3959,repair vessel
+d_3960,mitral valve stenosis aortic valve stenosis
+d_3961,mitral valve stenosis aortic valve insufficiency
+d_3961,extracorporeal circulation auxiliary open heart surgery
+d_3962,mitral valve insufficiency aortic valve stenosis
+d_3962,hypothermia systemic incidental open heart surgery
+d_3963,cardioplegia
+d_3963,mitral valve insufficiency aortic valve insufficiency
+d_3964,intraoperative cardiac pacemaker
+d_3965,extracorporeal membrane oxygenation ecmo
+d_3966,percutaneous cardiopulmonary bypass
+d_3968,multiple involvement mitral aortic valves
+d_3970,diseases tricuspid valve
+d_3971,endovascular implantation graft abdominal aorta
+d_3972,endovascular total embolization occlusion head neck
+d_3973,endovascular implantation graft thoracic aorta
+d_3974,endovascular removal obstruction head neck vessels
+d_3976,endovascular embolization occlusion vessels head
+d_3979,endovascular procedures vessels
+d_39890,rheumatic heart disease unspecified
+d_39891,rheumatic heart failure congestive
+d_3990,insertion non-drug-eluting peripheral non-coronary vessel
+d_3995,hemodialysis
+d_3998,control hemorrhage otherwise specified
+d_3999,operations vessels
+d_4010,malignant essential hypertension
+d_4011,biopsy lymphatic structure
+d_4011,benign essential hypertension
+d_4019,unspecified essential hypertension
+d_4029,simple excision lymphatic structure
+d_403,regional lymph node excision
+d_40300,hypertensive chronic kidney disease malignant chronic kid
+d_40311,hypertensive chronic kidney disease benign chronic kidney
+d_40391,hypertensive chronic kidney disease unspecified chronic
+d_40403,hypertensive heart chronic kidney disease malignant
+d_4041,radical neck dissection unilateral
+d_4042,radical neck dissection bilateral
+d_40493,hypertensive heart chronic kidney disease unspecified
+d_40591,unspecified renovascular hypertension
+d_4064,ligation thoracic duct
+d_41001,acute myocardial infarction anterolateral wall initial episo
+d_41011,acute myocardial infarction anterior wall initial epis
+d_41012,acute myocardial infarction anterior wall subsequent
+d_41021,acute myocardial infarction inferolateral wall initial episo
+d_4103,allogeneic bone marrow transplant purging
+d_41031,acute myocardial infarction inferoposterior wall initial epi
+d_4104,autologous hematopoietic stem cell transplant purging
+d_41041,acute myocardial infarction inferior wall initial epis
+d_41042,acute myocardial infarction inferior wall subsequent
+d_4105,allogeneic hematopoietic stem cell transpant purging
+d_41051,acute myocardial infarction lateral wall initial episo
+d_41061,true posterior wall infarction initial episode care
+d_41071,subendocardial infarction initial episode care
+d_41072,subendocardial infarction subsequent episode care
+d_41081,acute myocardial infarction specified sites initial ep
+d_41091,acute myocardial infarction unspecified site initial episode
+d_41092,acute myocardial infarction unspecified site subsequent epis
+d_4110,postmyocardial infarction syndrome
+d_4111,intermediate coronary syndrome
+d_41181,acute coronary occlusion myocardial infarction
+d_41189,acute subacute forms ischemic heart disease
+d_412,old myocardial infarction
+d_4131,biopsy bone marrow
+d_4131,prinzmetal angina
+d_4139,unspecified angina pectoris
+d_41400,coronary atherosclerosis unspecified type vessel native
+d_41401,coronary atherosclerosis native coronary artery
+d_41402,coronary atherosclerosis autologous vein bypass graft
+d_41404,coronary atherosclerosis artery bypass graft
+d_41410,aneurysm heart wall
+d_41412,dissection coronary artery
+d_4142,chronic total occlusion coronary artery
+d_4148,specified forms chronic ischemic heart disease
+d_4149,chronic ischemic heart disease unspecified
+d_415,total splenectomy
+d_4150,acute cor pulmonale
+d_41511,iatrogenic pulmonary embolism infarction
+d_41512,septic pulmonary embolism
+d_41519,pulmonary embolism infarction
+d_4160,primary pulmonary hypertension
+d_4162,chronic pulmonary embolism
+d_4168,chronic pulmonary heart diseases
+d_4169,chronic pulmonary heart disease unspecified
+d_4178,specified diseases pulmonary circulation
+d_42090,acute pericarditis unspecified
+d_42091,acute idiopathic pericarditis
+d_42099,acute pericarditis
+d_4210,acute subacute bacterial endocarditis
+d_4219,acute endocarditis unspecified
+d_4223,esophagoscopy
+d_4224,closed endoscopic biopsy esophagus
+d_4230,hemopericardium
+d_4231,adhesive pericarditis
+d_4232,constrictive pericarditis
+d_4233,endoscopic excision destruction lesion tissue esopha
+d_4233,cardiac tamponade
+d_4238,specified diseases pericardium
+d_4239,unspecified disease pericardium
+d_4240,mitral valve disorders
+d_4241,aortic valve disorders
+d_4241,partial esophagectomy
+d_4242,total esophagectomy
+d_4242,tricuspid valve disorders specified nonrheumatic
+d_42490,endocarditis valve unspecified unspecified cause
+d_4252,intrathoracic esophagogastrostomy
+d_4254,primary cardiomyopathies
+d_4255,alcoholic cardiomyopathy
+d_4257,nutritional metabolic cardiomyopathy
+d_4258,cardiomyopathy diseases elsewhere
+d_4259,secondary cardiomyopathy unspecified
+d_4260,atrioventricular block complete
+d_42610,atrioventricular block unspecified
+d_42611,first degree atrioventricular block
+d_42612,mobitz type ii atrioventricular block
+d_42613,second degree atrioventricular block
+d_4263,left bundle branch block
+d_4264,right bundle branch block
+d_42652,right bundle branch block left anterior fascicular block
+d_42653,bilateral bundle branch block
+d_4266,heart block
+d_4267,anomalous atrioventricular excitation
+d_42682,long qt syndrome
+d_42689,specified conduction disorders
+d_4269,conduction disorder unspecified
+d_4270,paroxysmal supraventricular tachycardia
+d_4271,paroxysmal ventricular tachycardia
+d_4272,paroxysmal tachycardia unspecified
+d_42731,atrial fibrillation
+d_42732,atrial flutter
+d_42741,ventricular fibrillation
+d_4275,cardiac arrest
+d_42769,premature beats
+d_42781,sinoatrial node dysfunction
+d_42789,specified cardiac dysrhythmias
+d_4279,cardiac dysrhythmia unspecified
+d_4280,congestive heart failure unspecified
+d_4281,left heart failure
+d_4281,insertion permanent tube esophagus
+d_4282,suture laceration esophagus
+d_42820,systolic heart failure unspecified
+d_42821,acute systolic heart failure
+d_42822,chronic systolic heart failure
+d_42823,acute chronic systolic heart failure
+d_42830,diastolic heart failure unspecified
+d_42831,acute diastolic heart failure
+d_42832,chronic diastolic heart failure
+d_42833,acute chronic diastolic heart failure
+d_42840,combined systolic diastolic heart failure unspecified
+d_42841,acute combined systolic diastolic heart failure
+d_42842,chronic combined systolic diastolic heart failure
+d_42843,acute chronic combined systolic diastolic heart failure
+d_4287,graft esophagus
+d_4289,repair esophagus
+d_4289,heart failure unspecified
+d_4290,myocarditis unspecified
+d_4292,dilation esophagus
+d_4293,cardiomegaly
+d_4294,functional disturbances following cardiac surgery
+d_4295,rupture chordae tendineae
+d_42971,acquired cardiac septal defect
+d_42979,certain sequelae myocardial infarction elsewhere classif
+d_42983,takotsubo syndrome
+d_42989,ill-defined heart diseases
+d_4299,heart disease unspecified
+d_430,subarachnoid hemorrhage
+d_430,gastrotomy
+d_431,intracerebral hemorrhage
+d_4311,percutaneous endoscopic gastrostomy peg
+d_4319,gastrostomy
+d_4320,nontraumatic extradural hemorrhage
+d_4321,subdural hemorrhage
+d_4329,unspecified intracranial hemorrhage
+d_43300,occlusion stenosis basilar artery mention cere
+d_43301,occlusion stenosis basilar artery cerebral infarctio
+d_43310,occlusion stenosis carotid artery mention cere
+d_43311,occlusion stenosis carotid artery cerebral infarctio
+d_43320,occlusion stenosis vertebral artery mention ce
+d_43321,occlusion stenosis vertebral artery cerebral infarct
+d_43331,occlusion stenosis multiple bilateral precerebral art
+d_43380,occlusion stenosis specified precerebral artery wit
+d_43401,cerebral thrombosis cerebral infarction
+d_4341,endoscopic excision destruction lesion tissue stomac
+d_43410,cerebral embolism mention cerebral infarction
+d_43411,cerebral embolism cerebral infarction
+d_43490,cerebral artery occlusion unspecified mention cerebr
+d_43491,cerebral artery occlusion unspecified cerebral infarction
+d_435,partial gastrectomy anastomosis esophagus
+d_4352,subclavian steal syndrome
+d_4358,specified transient cerebral ischemias
+d_4359,unspecified transient cerebral ischemia
+d_436,acute ill-defined cerebrovascular disease
+d_437,partial gastrectomy anastomosis jejunum
+d_4370,cerebral atherosclerosis
+d_4372,hypertensive encephalopathy
+d_4373,cerebral aneurysm nonruptured
+d_4375,moyamoya disease
+d_4378,ill-defined cerebrovascular disease
+d_4379,unspecified cerebrovascular disease
+d_4380,late effects cerebrovascular disease cognitive deficits
+d_43810,late effects cerebrovascular disease speech language def
+d_43811,late effects cerebrovascular disease aphasia
+d_43812,late effects cerebrovascular disease dysphasia
+d_43813,late effects cerebrovascular disease dysarthria
+d_43819,late effects cerebrovascular disease speech langua
+d_43820,late effects cerebrovascular disease hemiplegia affecting
+d_43821,late effects cerebrovascular disease hemiplegia affecting do
+d_43822,late effects cerebrovascular disease hemiplegia affecting no
+d_43830,late effects cerebrovascular disease monoplegia upper lim
+d_4386,late effects cerebrovascular disease alterations sensatio
+d_4387,late effects cerebrovascular disease disturbances vision
+d_43882,late effects cerebrovascular disease dysphagia
+d_43883,late effects cerebrovascular disease facial weakness
+d_43884,late effects cerebrovascular disease ataxia
+d_43889,late effects cerebrovascular disease
+d_4389,open partial gastrectomy
+d_4389,unspecified late effects cerebrovascular disease
+d_4399,total gastrectomy
+d_4400,atherosclerosis aorta
+d_4401,atherosclerosis renal artery
+d_44020,atherosclerosis native arteries extremities unspecifi
+d_44021,atherosclerosis native arteries extremities inter
+d_44022,atherosclerosis native arteries extremities rest
+d_44023,atherosclerosis native arteries extremities ulcer
+d_44024,atherosclerosis native arteries extremities gangr
+d_44029,atherosclerosis native arteries extremities
+d_44031,atherosclerosis autologous vein bypass graft extremiti
+d_4404,chronic total occlusion artery extremities
+d_4408,atherosclerosis specified arteries
+d_44100,dissection aorta unspecified site
+d_44101,dissection aorta thoracic
+d_44102,dissection aorta abdominal
+d_44103,dissection aorta thoracoabdominal
+d_4411,thoracic aneurysm ruptured
+d_4412,thoracic aneurysm mention rupture
+d_4413,gastroscopy
+d_4413,abdominal aneurysm ruptured
+d_4414,abdominal aneurysm mention rupture
+d_4416,thoracoabdominal aneurysm ruptured
+d_4417,thoracoabdominal aneurysm mention rupture
+d_4420,aneurysm artery upper extremity
+d_4422,endoscopic dilation pylorus
+d_4422,aneurysm iliac artery
+d_4423,aneurysm artery lower extremity
+d_44281,aneurysm artery neck
+d_44283,aneurysm splenic artery
+d_44284,aneurysm visceral artery
+d_44289,aneurysm specified artery
+d_4429,pyloroplasty
+d_4430,raynauds syndrome
+d_4431,high gastric bypass
+d_4432,percutaneous endoscopic gastrojejunostomy
+d_44321,dissection carotid artery
+d_44322,dissection iliac artery
+d_44323,dissection renal artery
+d_44324,dissection vertebral artery
+d_44329,dissection artery
+d_4438,laparoscopic gastroenterostomy
+d_44381,peripheral angiopathy diseases elsewhere
+d_44389,specified peripheral vascular diseases
+d_4439,gastroenterostomy gastrectomy
+d_4439,peripheral vascular disease unspecified
+d_44409,arterial embolism thrombosis abdominal aorta
+d_4441,embolism thrombosis thoracic aorta
+d_4441,suture gastric ulcer site
+d_4442,suture duodenal ulcer site
+d_44421,arterial embolism thrombosis upper extremity
+d_44422,arterial embolism thrombosis lower extremity
+d_4443,endoscopic control gastric duodenal bleeding
+d_4444,transcatheter embolization gastric duodenal bleeding
+d_44481,embolism thrombosis iliac artery
+d_44489,embolism thrombosis specified artery
+d_4449,embolism thrombosis unspecified artery
+d_445,revision gastric anastomosis
+d_44502,atheroembolism lower extremity
+d_4461,suture laceration stomach
+d_4462,closure gastrostomy
+d_44629,specified hypersensitivity angiitis
+d_4463,closure gastric fistula
+d_4464,wegeners granulomatosis
+d_4465,giant cell arteritis
+d_4466,thrombotic microangiopathy
+d_4466,procedures creation esophagogastric sphincteric com
+d_4467,takayasus disease
+d_4467,laparoscopic procedures creation esophagogastric sphincte
+d_4469,repair stomach
+d_4470,arteriovenous fistula acquired
+d_4471,stricture artery
+d_4472,rupture artery
+d_4474,celiac artery compression syndrome
+d_4476,arteritis unspecified
+d_4478,specified disorders arteries arterioles
+d_4479,unspecified disorders arteries arterioles
+d_449,septic arterial embolism
+d_4499,operations stomach
+d_4502,incision small intestine
+d_4512,endoscopy small intestine through artificial stoma
+d_4513,endoscopy small intestine
+d_4514,closed endoscopic biopsy small intestine
+d_4516,esophagogastroduodenoscopy egd closed biopsy
+d_45182,phlebitis thrombophlebitis superficial veins upper ext
+d_45184,phlebitis thrombophlebitis upper extremities unspecified
+d_45189,phlebitis thrombophlebitis sites
+d_4519,diagnostic procedures small intestine
+d_4519,phlebitis thrombophlebitis unspecified site
+d_452,portal vein thrombosis
+d_4522,endoscopy large intestine through artificial stoma
+d_4523,colonoscopy
+d_4524,flexible sigmoidoscopy
+d_4525,closed endoscopic biopsy large intestine
+d_4531,thrombophlebitis migrans
+d_4532,venous embolism thrombosis inferior vena cava
+d_4533,local excision lesion tissue small intestine except du
+d_4533,venous embolism thrombosis renal vein
+d_4534,destruction lesion small intestine except duodenum
+d_45340,acute venous embolism thrombosis unspecified deep vessels
+d_45341,acute venous embolism thrombosis deep vessels proximal
+d_45342,acute venous embolism thrombosis deep vessels distal l
+d_45350,chronic venous embolism thrombosis unspecified deep vesse
+d_45351,chronic venous embolism thrombosis deep vessels proxim
+d_4536,venous embolism thrombosis superficial vessels lower
+d_45372,chronic venous embolism thrombosis deep veins upper ex
+d_45375,chronic venous embolism thrombosis subclavian veins
+d_45376,chronic venous embolism thrombosis internal jugular veins
+d_45381,acute venous embolism thrombosis superficial veins upp
+d_45382,acute venous embolism thrombosis deep veins upper extr
+d_45383,acute venous embolism thrombosis upper extremity unspeci
+d_45384,acute venous embolism thrombosis axillary veins
+d_45385,acute venous embolism thrombosis subclavian veins
+d_45386,acute venous embolism thrombosis internal jugular veins
+d_45387,acute venous embolism thrombosis thoracic veins
+d_45389,acute venous embolism thrombosis specified veins
+d_4541,excision lesion tissue large intestine
+d_4542,endoscopic polypectomy large intestine
+d_4543,endoscopic destruction lesion tissue large intest
+d_4549,asymptomatic varicose veins
+d_4550,internal hemorrhoids mention complication
+d_4551,isolation segment small intestine
+d_4552,internal hemorrhoids complication
+d_4553,external hemorrhoids mention complication
+d_4555,external hemorrhoids complication
+d_4556,unspecified hemorrhoids mention complication
+d_4558,unspecified hemorrhoids complication
+d_4560,esophageal varices bleeding
+d_4561,esophageal varices mention bleeding
+d_4561,multiple segmental resection small intestine
+d_4562,partial resection small intestine
+d_45620,esophageal varices diseases elsewhere bleedi
+d_45621,esophageal varices diseases elsewhere men
+d_4568,varices sites
+d_4571,open multiple segmental resection large intestine
+d_4571,lymphedema
+d_4572,open cecectomy
+d_4573,open right hemicolectomy
+d_4574,open resection transverse colon
+d_4575,open left hemicolectomy
+d_4576,open sigmoidectomy
+d_4578,noninfectious disorders lymphatic channels
+d_4579,unspecified partial excision large intestine
+d_4580,orthostatic hypotension
+d_4582,open total intra-abdominal colectomy
+d_45821,hypotension hemodialysis
+d_45829,iatrogenic hypotension
+d_4588,specified hypotension
+d_4589,hypotension unspecified
+d_4590,hemorrhage unspecified
+d_4591,small-to-small intestinal anastomosis
+d_4592,compression vein
+d_4593,small-to-large intestinal anastomosis
+d_4594,large-to-large intestinal anastomosis
+d_4595,anastomosis anus
+d_45981,venous peripheral insufficiency unspecified
+d_45989,specified disorders circulatory system
+d_4599,unspecified circulatory system disorder
+d_4601,exteriorization small intestine
+d_4603,exteriorization large intestine
+d_4610,acute maxillary sinusitis
+d_4610,colostomy otherwise specified
+d_4611,temporary colostomy
+d_4613,permanent colostomy
+d_4613,acute sphenoidal sinusitis
+d_4618,acute sinusitis
+d_4619,acute sinusitis unspecified
+d_462,acute pharyngitis
+d_4620,ileostomy otherwise specified
+d_4621,temporary ileostomy
+d_4623,permanent ileostomy
+d_4632,percutaneous endoscopic jejunostomy pej
+d_4639,enterostomy
+d_46400,acute laryngitis mention obstruction
+d_4641,revision stoma small intestine
+d_46410,acute tracheitis mention obstruction
+d_4642,repair pericolostomy hernia
+d_4643,revision stoma large intestine
+d_46431,acute epiglottitis obstruction
+d_4651,closure stoma small intestine
+d_4652,closure stoma large intestine
+d_4659,acute upper respiratory infections unspecified site
+d_4660,acute bronchitis
+d_46611,acute bronchiolitis due respiratory syncytial virus rsv
+d_46619,acute bronchiolitis due infectious organisms
+d_4671,suture laceration duodenum
+d_4672,closure fistula duodenum
+d_4673,suture laceration small intestine except duodenum
+d_4674,closure fistula small intestine except duodenum
+d_4675,suture laceration large intestine
+d_4676,closure fistula large intestine
+d_4679,repair intestine
+d_4681,intra-abdominal manipulation small intestine
+d_4682,intra-abdominal manipulation large intestine
+d_4685,dilation intestine
+d_4686,endoscopic insertion colonic stents
+d_4693,revision anastomosis small intestine
+d_4694,revision anastomosis large intestine
+d_4701,laparoscopic appendectomy
+d_4709,appendectomy
+d_4719,incidental appendectomy
+d_4720,chronic rhinitis
+d_4730,chronic maxillary sinusitis
+d_4732,chronic ethmoidal sinusitis
+d_4733,chronic sphenoidal sinusitis
+d_4738,chronic sinusitis
+d_4739,unspecified sinusitis chronic
+d_475,peritonsillar abscess
+d_4778,allergic rhinitis due allergen
+d_4779,allergic rhinitis cause unspecified
+d_47822,parapharyngeal abscess
+d_47824,retropharyngeal abscess
+d_47825,edema pharynx nasopharynx
+d_47829,diseases pharynx elsewhere
+d_47830,paralysis vocal cords larynx unspecified
+d_47831,unilateral paralysis vocal cords larynx partial
+d_47832,unilateral paralysis vocal cords larynx complete
+d_47833,bilateral paralysis vocal cords larynx partial
+d_4784,polyp vocal cord larynx
+d_4785,diseases vocal cords
+d_4786,edema larynx
+d_47874,stenosis larynx
+d_47875,laryngeal spasm
+d_47879,diseases larynx elsewhere
+d_4801,pneumonia due respiratory syncytial virus
+d_4802,pneumonia due parainfluenza virus
+d_4809,viral pneumonia unspecified
+d_481,pneumococcal pneumonia streptococcus pneumoniae pneumonia
+d_4820,pneumonia due klebsiella pneumoniae
+d_4821,pneumonia due pseudomonas
+d_4822,pneumonia due hemophilus influenzae influenzae
+d_4823,rigid proctosigmoidoscopy
+d_48230,pneumonia due streptococcus unspecified
+d_48239,pneumonia due streptococcus
+d_4824,closed endoscopic biopsy rectum
+d_48240,pneumonia due staphylococcus unspecified
+d_48241,methicillin susceptible pneumonia due staphylococcus aureus
+d_48242,methicillin resistant pneumonia due staphylococcus aureus
+d_48249,staphylococcus pneumonia
+d_48282,pneumonia due escherichia coli coli
+d_48283,pneumonia due gram-negative bacteria
+d_48284,pneumonia due legionnaires disease
+d_48289,pneumonia due specified bacteria
+d_4829,bacterial pneumonia unspecified
+d_4830,pneumonia due mycoplasma pneumoniae
+d_4836,endoscopic polypectomy rectum
+d_4838,pneumonia due specified organism
+d_4841,pneumonia cytomegalic inclusion disease
+d_4846,pneumonia aspergillosis
+d_4847,pneumonia systemic mycoses
+d_485,bronchopneumonia organism unspecified
+d_4852,open abdominoperineal resection rectum
+d_486,pneumonia organism unspecified
+d_4862,anterior resection rectum synchronous colostomy
+d_4863,anterior resection rectum
+d_4869,resection rectum
+d_4870,influenza pneumonia
+d_4871,influenza respiratory manifestations
+d_4881,incision perirectal tissue
+d_490,bronchitis specified acute chronic
+d_49120,obstructive chronic bronchitis exacerbation
+d_49121,obstructive chronic bronchitis acute exacerbation
+d_49122,obstructive chronic bronchitis acute bronchitis
+d_4918,chronic bronchitis
+d_4919,unspecified chronic bronchitis
+d_4920,emphysematous bleb
+d_4921,anoscopy
+d_4928,emphysema
+d_49302,extrinsic asthma acute exacerbation
+d_49320,chronic obstructive asthma unspecified
+d_49321,chronic obstructive asthma status asthmaticus
+d_49322,chronic obstructive asthma acute exacerbation
+d_49390,asthma unspecified type unspecified
+d_49391,asthma unspecified type status asthmaticus
+d_49392,asthma unspecified type acute exacerbation
+d_4941,bronchiectasis acute exacerbation
+d_4945,ligation hemorrhoids
+d_496,chronic airway obstruction elsewhere
+d_500,hepatotomy
+d_501,asbestosis
+d_5011,closed percutaneous needle biopsy liver
+d_5012,open biopsy liver
+d_5013,transjugular liver biopsy
+d_5014,laparoscopic liver biopsy
+d_5022,partial hepatectomy
+d_5024,percutaneous ablation liver lesion tissue
+d_5029,destruction lesion liver
+d_503,lobectomy liver
+d_504,total hepatectomy
+d_5051,auxiliary liver transplant
+d_5059,transplant liver
+d_5060,bronchitis pneumonitis due fumes vapors
+d_5061,closure laceration liver
+d_5069,repair liver
+d_5070,pneumonitis due inhalation food vomitus
+d_5080,acute pulmonary manifestations due radiation
+l_50803,calculated bicarbonate  whole blood
+l_50804,calculated total co2
+l_50805,carboxyhemoglobin
+l_50806,chloride  whole blood
+l_50808,free calcium
+d_5081,chronic pulmonary manifestations due radiation
+l_50813,lactate
+l_50814,methemoglobin
+l_50818,pco2
+l_50821,po2
+l_50822,potassium  whole blood
+l_50824,sodium  whole blood
+l_50852,% hemoglobin a1c
+l_50853,25-oh vitamin d
+l_50856,acetaminophen
+l_50861,alanine aminotransferase
+l_50862,albumin
+l_50863,alkaline phosphatase
+l_50864,alpha-fetoprotein
+l_50866,ammonia
+l_50867,amylase
+l_50868,anion gap
+l_50878,asparate aminotransferase
+l_50881,beta-2 microglobulin
+l_50882,bicarbonate
+l_50883,bilirubin  direct
+l_50885,bilirubin  total
+l_50889,c-reactive protein
+l_50890,c3
+l_50891,c4
+l_50892,ca-125
+l_50893,calcium  total
+l_50896,calculated thyroxine  index
+l_50899,carbamazepine
+l_50900,carcinoembyronic antigen
+l_50902,chloride
+l_50905,cholesterol  ldl  calculated
+l_50906,cholesterol  ldl  measured
+l_50907,cholesterol  total
+l_50908,ck-mb index
+l_50909,cortisol
+d_5091,percutaneous aspiration liver
+l_50910,creatine kinase
+l_50911,creatine kinase  mb isoenzyme
+l_50912,creatinine
+l_50914,cyclosporin
+l_50917,digoxin
+l_50922,ethanol
+l_50924,ferritin
+l_50927,gamma glutamyltransferase
+l_50929,gentamicin
+l_50930,globulin
+l_50931,glucose
+l_50935,haptoglobin
+l_50945,homocysteine
+l_50949,immunoglobulin a
+l_50950,immunoglobulin g
+l_50951,immunoglobulin m
+l_50952,iron
+l_50953,iron binding capacity  total
+l_50954,lactate dehydrogenase
+l_50956,lipase
+l_50957,lithium
+l_50960,magnesium
+l_50963,ntprobnp
+l_50964,osmolality  measured
+l_50965,parathyroid hormone
+l_50966,phenobarbital
+l_50967,phenytoin
+l_50968,phenytoin  free
+l_50969,phenytoin  percent free
+l_50970,phosphate
+l_50971,potassium
+l_50973,prolactin
+l_50974,prostate specific antigen
+l_50976,protein  total
+l_50978,rapamycin
+l_50980,rheumatoid factor
+l_50981,salicylate
+l_50983,sodium
+l_50986,tacrofk
+l_50990,theophylline
+l_50993,thyroid stimulating hormone
+l_50994,thyroxine
+l_50995,thyroxine   free
+l_50997,tobramycin
+l_50998,transferrin
+d_5100,empyema fistula
+l_51000,triglycerides
+l_51001,triiodothyronine
+l_51002,troponin i
+l_51003,troponin t
+l_51006,urea nitrogen
+l_51007,uric acid
+l_51008,valproic acid
+l_51009,vancomycin
+d_5101,percutaneous aspiration gallbladder
+l_51010,vitamin b12
+l_51018,total protein  csf
+d_5102,trocar cholecystostomy
+d_5103,cholecystostomy
+l_51070,albumin/creatinine  urine
+l_51080,creatinine clearance
+d_5109,empyema mention fistula
+l_51099,protein/creatinine ratio
+d_5110,pleurisy mention effusion current tuberculosis
+d_5110,endoscopic retrograde cholangiopancreatography ercp
+d_5111,pleurisy effusion mention bacterial cause
+d_5111,endoscopic retrograde cholangiography erc
+l_51115,hematocrit  ascites
+l_51117,macrophage
+l_51118,mesothelial cell
+d_5112,percutaneous biopsy gallbladder bile ducts
+l_51123,other
+l_51125,polys
+l_51127,rbc  ascites
+l_51128,wbc  ascites
+l_51130,absolute cd3 count
+l_51131,absolute cd4 count
+l_51132,absolute cd8 count
+d_5114,closed endoscopic biopsy biliary duct sphincter
+l_51140,antithrombin
+l_51143,atypical lymphocytes
+l_51144,bands
+l_51146,basophils
+l_51148,blasts
+l_51181,malignant pleural effusion
+l_51181,cd4/cd8 ratio
+d_51189,specified forms effusion except tuberculous
+d_5119,unspecified pleural effusion
+l_51196,d-dimer
+d_5120,spontaneous tension pneumothorax
+l_51200,eosinophils
+l_51206,factor viii
+d_5121,partial cholecystectomy
+d_5121,iatrogenic pneumothorax
+l_51213,fibrin degradation products
+l_51214,fibrinogen  functional
+l_51218,granulocyte count
+d_5122,cholecystectomy
+d_5122,postoperative air leak
+l_51221,hematocrit
+l_51222,hemoglobin
+d_5123,laparoscopic cholecystectomy
+l_51232,hypersegmented neutrophils
+l_51237,inr
+l_51244,lymphocytes
+l_51245,lymphocytes  percent
+l_51248,mch
+l_51249,mchc
+l_51250,mcv
+l_51251,metamyelocytes
+l_51254,monocytes
+l_51255,myelocytes
+l_51256,neutrophils
+l_51257,nucleated red cells
+l_51259,other cells
+l_51263,plasma cells
+l_51265,platelet count
+l_51269,promyelocytes
+l_51271,protein c  functional
+l_51274,pt
+l_51275,ptt
+l_51276,quantitative g6pd
+l_51277,rdw
+l_51279,red blood cells
+l_51283,reticulocyte count  automated
+l_51284,reticulocyte count  manual
+l_51288,sedimentation rate
+d_51289,pneumothorax
+l_51297,thrombin
+d_5130,abscess lung
+l_51300,wbc count
+l_51301,white blood cells
+l_51302,young cells
+d_5136,choledochoenterostomy
+l_51362,rbc  csf
+d_5137,anastomosis hepatic duct gastrointestinal tract
+l_51383,rbc  joint fluid
+l_51384,wbc  joint fluid
+d_514,pulmonary congestion hypostasis
+d_5141,common duct exploration removal calculus
+l_51422,hematocrit  other fluid
+d_5143,insertion choledochohepatic tube decompression
+l_51434,other cell
+l_51438,rbc  other fluid
+l_51439,wbc  other fluid
+l_51445,hematocrit  pleural
+l_51447,macrophages
+l_51448,mesothelial cells
+l_51450,monos
+l_51457,rbc  pleural
+l_51458,wbc  pleural
+l_51471,cellular cast
+l_51479,granular casts
+l_51482,hyaline casts
+l_51491,ph
+l_51493,rbc
+l_51498,specific gravity
+d_515,postinflammatory pulmonary fibrosis
+l_51507,urine casts  other
+d_5151,exploration common duct
+l_51514,urobilinogen
+l_51516,wbc
+l_51517,wbc casts
+d_5159,incision bile duct
+d_5163,excision common duct
+d_51631,idiopathic pulmonary fibrosis
+d_5168,specified alveolar parietoalveolar pneumonopathies
+d_5169,excision bile duct
+d_5172,lung involvement systemic sclerosis
+d_5173,acute chest syndrome
+d_5178,lung involvement diseases elsewhere
+d_5179,repair bile ducts
+d_5180,pulmonary collapse
+d_5181,interstitial emphysema
+d_5183,pancreatic sphincteroplasty
+d_5183,pulmonary eosinophilia
+d_5184,endoscopic dilation ampulla biliary duct
+d_5184,acute edema lung unspecified
+d_5185,endoscopic sphincterotomy papillotomy
+d_51851,acute respiratory failure following trauma surgery
+d_51852,pulmonary insufficiency elsewhere followi
+d_5187,transfusion related acute lung injury trali
+d_5187,endoscopic insertion stent tube bile duct
+d_5188,endoscopic removal stones biliary tract
+d_51881,acute respiratory failure
+d_51882,pulmonary insufficiency elsewhere
+d_51883,chronic respiratory failure
+d_51884,acute chronic respiratory failure
+d_51889,diseases lung elsewhere
+d_51901,infection tracheostomy
+d_51902,mechanical complication tracheostomy
+d_51909,tracheostomy complications
+d_51911,acute bronchospasm
+d_51919,diseases trachea bronchus
+d_5192,mediastinitis
+d_5193,diseases mediastinum elsewhere
+d_5194,revision anastomosis biliary tract
+d_5194,disorders diaphragm
+d_5198,percutaneous procedures biliary tract
+d_5198,diseases respiratory system elsewhere
+d_5201,drainage pancreatic cyst catheter
+d_5206,disturbances tooth eruption
+d_5209,pancreatotomy
+d_52100,dental caries unspecified
+d_52109,dental caries
+d_5211,closed aspiration needle percutaneous biopsy pancreas
+d_52181,cracked tooth
+d_5222,excision destruction lesion tissue pancreas
+d_5224,acute apical periodontitis pulpal origin
+d_5225,periapical abscess sinus
+d_52340,chronic periodontitis unspecified
+d_5238,specified periodontal diseases
+d_5239,unspecified gingival periodontal disease
+d_52510,acquired absence teeth unspecified
+d_5252,distal pancreatectomy
+d_5258,specified disorders teeth supporting structures
+d_5259,unspecified disorder teeth supporting structures
+d_5259,partial pancreatectomy
+d_527,radical pancreaticoduodenectomy
+d_5272,sialoadenitis
+d_5275,sialolithiasis
+d_5280,pancreatic transplant otherwise specified
+d_52800,stomatitis mucositis unspecified
+d_52801,mucositis ulcerative due antineoplastic therapy
+d_52809,stomatitis mucositis ulcerative
+d_5282,homotransplant pancreas
+d_5282,oral aphthae
+d_5283,cellulitis abscess oral soft tissues
+d_5289,unspecified diseases oral soft tissues
+d_5293,endoscopic insertion stent tube pancreatic duct
+d_5296,anastomosis pancreas
+d_5298,specified conditions tongue
+d_5300,unilateral repair inguinal hernia otherwise specified
+d_5300,achalasia cardiospasm
+d_5301,open repair direct inguinal hernia
+d_53010,esophagitis unspecified
+d_53011,reflux esophagitis
+d_53012,acute esophagitis
+d_53019,esophagitis
+d_53021,ulcer esophagus bleeding
+d_5303,stricture stenosis esophagus
+d_5304,perforation esophagus
+d_5304,open repair indirect inguinal hernia graft
+d_5305,dyskinesia esophagus
+d_5306,diverticulum esophagus acquired
+d_5307,gastroesophageal laceration-hemorrhage syndrome
+d_53081,esophageal reflux
+d_53082,esophageal hemorrhage
+d_53084,tracheoesophageal fistula
+d_53085,barretts esophagus
+d_53089,specified disorders esophagus
+d_5310,bilateral repair inguinal hernia otherwise specified
+d_53100,acute gastric ulcer hemorrhage mention obstruct
+d_53140,chronic unspecified gastric ulcer hemorrhage me
+d_53150,chronic unspecified gastric ulcer perforation
+d_53170,chronic gastric ulcer mention hemorrhage perforati
+d_53190,gastric ulcer unspecified acute chronic mention
+d_53200,acute duodenal ulcer hemorrhage mention obstruc
+d_53210,acute duodenal ulcer perforation mention obstru
+d_53230,acute duodenal ulcer mention hemorrhage perforatio
+d_53240,chronic unspecified duodenal ulcer hemorrhage
+d_53250,chronic unspecified duodenal ulcer perforation
+d_53260,chronic unspecified duodenal ulcer hemorrhage perfor
+d_53270,chronic duodenal ulcer mention hemorrhage perforat
+d_5329,unilateral femoral herniorrhaphy
+d_53290,duodenal ulcer unspecified acute chronic hemorrh
+d_53340,chronic unspecified peptic ulcer unspecified site hem
+d_53370,chronic peptic ulcer unspecified site mention hemo
+d_53390,peptic ulcer unspecified site unspecified acute chroni
+d_53400,acute gastrojejunal ulcer hemorrhage mention ob
+d_5341,open repair umbilical hernia graft prosthes
+d_53440,chronic unspecified gastrojejunal ulcer hemorrhage
+d_5349,open umbilical herniorrhaphy
+d_53490,gastrojejunal ulcer unspecified acute chronic me
+d_53500,acute gastritis mention hemorrhage
+d_53501,acute gastritis hemorrhage
+d_5351,incisional hernia repair
+d_53510,atrophic gastritis mention hemorrhage
+d_53511,atrophic gastritis hemorrhage
+d_53530,alcoholic gastritis mention hemorrhage
+d_53531,alcoholic gastritis hemorrhage
+d_53540,specified gastritis mention hemorrhage
+d_53541,specified gastritis hemorrhage
+d_53550,unspecified gastritis gastroduodenitis mention
+d_53551,unspecified gastritis gastroduodenitis hemorrhage
+d_53560,duodenitis mention hemorrhage
+d_53561,duodenitis hemorrhage
+d_5359,repair hernia anterior abdominal wall
+d_5361,open incisional hernia repair graft prosthesis
+d_5362,persistent vomiting
+d_5363,gastroparesis
+d_53641,infection gastrostomy
+d_53642,mechanical complication gastrostomy
+d_53649,gastrostomy complications
+d_5368,dyspepsia specified disorders function stomach
+d_5369,open repair hernia anterior abdominal wall
+d_5370,acquired hypertrophic pyloric stenosis
+d_5371,gastric diverticulum
+d_5371,laparoscopic repair diaphragmatic hernia abdominal approach
+d_5373,obstruction duodenum
+d_5374,fistula stomach duodenum
+d_53782,angiodysplasia stomach duodenum mention hemorr
+d_53783,angiodysplasia stomach duodenum hemorrhage
+d_53784,dieulafoy lesion hemorrhagic stomach duodenum
+d_53789,specified disorders stomach duodenum
+d_5379,unspecified disorder stomach duodenum
+d_5380,repair diaphragmatic hernia thoracic approach
+d_539,hernia repair
+d_540,incision abdominal wall
+d_5400,acute appendicitis generalized peritonitis
+d_5401,acute appendicitis peritoneal abscess
+d_5409,acute appendicitis mention peritonitis
+d_541,appendicitis unqualified
+d_5411,exploratory laparotomy
+d_5412,reopening recent laparotomy site
+d_5419,laparotomy
+d_5421,laparoscopy
+d_5423,biopsy peritoneum
+d_5424,closed percutaneous needle biopsy intra-abdominal mass
+d_5425,peritoneal lavage
+d_543,excision destruction lesion tissue abdominal wall
+d_544,excision destruction peritoneal tissue
+d_5451,laparoscopic lysis peritoneal adhesions
+d_5459,lysis peritoneal adhesions
+d_5461,reclosure postoperative disruption abdominal wall
+d_5462,delayed closure granulating abdominal wound
+d_5463,suture abdominal wall
+d_5464,suture peritoneum
+d_5472,repair abdominal wall
+d_5474,repair omentum
+d_5475,repair mesentery
+d_5491,percutaneous abdominal drainage
+d_5492,removal foreign body peritoneal cavity
+d_5493,creation cutaneoperitoneal fistula
+d_5495,incision peritoneum
+d_5498,peritoneal dialysis
+d_5501,nephrotomy
+d_55011,inguinal hernia obstruction mention gangrene
+d_5504,percutaneous nephrostomy fragmentation
+d_55090,inguinal hernia mention obstruction gangrene uni
+d_55092,inguinal hernia mention obstruction gangrene bil
+d_55200,femoral hernia obstruction unilateral unspecified
+d_5521,umbilical hernia obstruction
+d_55220,ventral unspecified hernia obstruction
+d_55221,incisional ventral hernia obstruction
+d_55229,ventral hernia obstruction
+d_5523,closed percutaneous needle biopsy kidney
+d_5523,diaphragmatic hernia obstruction
+d_5524,open biopsy kidney
+d_5528,hernia specified sites obstruction
+d_5531,umbilical hernia mention obstruction gangrene
+d_55320,ventral unspecified hernia mention obstruction
+d_55321,incisional hernia mention obstruction gangrene
+d_55329,ventral hernia mention obstruction gangrene
+d_5533,diaphragmatic hernia mention obstruction gangrene
+d_5538,hernia specified sites mention obstruction
+d_554,partial nephrectomy
+d_5550,regional enteritis small intestine
+d_5551,regional enteritis large intestine
+d_5551,nephroureterectomy
+d_5552,regional enteritis small intestine large intestine
+d_5553,removal transplanted rejected kidney
+d_5559,regional enteritis unspecified site
+d_5566,universal ulcerative chronic colitis
+d_5568,ulcerative colitis
+d_5569,ulcerative colitis unspecified
+d_5569,kidney transplantation
+d_5570,acute vascular insufficiency intestine
+d_5571,chronic vascular insufficiency intestine
+d_5579,unspecified vascular insufficiency intestine
+d_5581,gastroenteritis colitis due radiation
+d_5582,toxic gastroenteritis colitis
+d_5583,allergic gastroenteritis colitis
+d_5589,unspecified noninfectious gastroenteritis colitis
+d_5593,replacement nephrostomy tube
+d_5600,intussusception
+d_5601,paralytic ileus
+d_5602,volvulus
+d_56032,fecal impaction
+d_56039,impaction intestine
+d_56081,intestinal peritoneal adhesions obstruction postoperati
+d_56089,specified intestinal obstruction
+d_5609,unspecified intestinal obstruction
+d_56200,diverticulosis small intestine mention hemorrhage
+d_56210,diverticulosis colon mention hemorrhage
+d_56211,diverticulitis colon mention hemorrhage
+d_56212,diverticulosis colon hemorrhage
+d_56213,diverticulitis colon hemorrhage
+d_56400,constipation unspecified
+d_56409,constipation
+d_5641,irritable bowel syndrome
+d_5641,partial ureterectomy
+d_5642,postgastric surgery syndromes
+d_5647,megacolon hirschsprungs
+d_56481,neurogenic bowel
+d_56489,functional disorders intestine
+d_5650,anal fissure
+d_5651,formation cutaneous uretero-ileostomy
+d_5651,anal fistula
+d_566,abscess anal rectal regions
+d_5671,urinary diversion intestine
+d_56721,peritonitis acute generalized
+d_56722,peritoneal abscess
+d_56723,spontaneous bacterial peritonitis
+d_56729,suppurative peritonitis
+d_56731,psoas muscle abscess
+d_56738,retroperitoneal abscess
+d_5674,ureteroneocystostomy
+d_56781,choleperitonitis
+d_56789,specified peritonitis
+d_5679,unspecified peritonitis
+d_5680,peritoneal adhesions postoperative postinfection
+d_56881,hemoperitoneum nontraumatic
+d_56882,peritoneal effusion chronic
+d_56889,specified disorders peritoneum
+d_5690,anal rectal polyp
+d_5691,rectal prolapse
+d_5693,hemorrhage rectum anus
+d_56941,ulcer anus rectum
+d_56942,anal rectal pain
+d_56949,specified disorders rectum anus
+d_5695,abscess intestine
+d_56961,infection colostomy enterostomy
+d_56962,mechanical complication colostomy enterostomy
+d_56969,colostomy enterostomy complication
+d_56981,fistula intestine excluding rectum anus
+d_56982,ulceration intestine
+d_56983,perforation intestine
+d_56984,angiodysplasia intestine mention hemorrhage
+d_56985,angiodysplasia intestine hemorrhage
+d_56986,dieulafoy lesion hemorrhagic intestine
+d_56989,specified disorders intestine
+d_5699,unspecified disorder intestine
+d_570,transurethral clearance bladder
+d_570,acute subacute necrosis liver
+d_5710,alcoholic fatty liver
+d_5711,acute alcoholic hepatitis
+d_5712,alcoholic cirrhosis liver
+d_5713,alcoholic liver damage unspecified
+d_57142,autoimmune hepatitis
+d_57149,chronic hepatitis
+d_5715,cirrhosis liver mention alcohol
+d_5716,biliary cirrhosis
+d_5717,percutaneous cystostomy
+d_5718,suprapubic cystostomy
+d_5718,chronic nonalcoholic liver disease
+d_5720,abscess liver
+d_5722,hepatic encephalopathy
+d_5723,portal hypertension
+d_5724,hepatorenal syndrome
+d_5728,sequelae chronic liver disease
+d_5730,chronic passive congestion liver
+d_5732,cystoscopy
+d_5733,hepatitis unspecified
+d_5734,hepatic infarction
+d_5735,hepatopulmonary syndrome
+d_5738,specified disorders liver
+d_5739,unspecified disorder liver
+d_57400,calculus gallbladder acute cholecystitis mentio
+d_57401,calculus gallbladder acute cholecystitis obstructi
+d_57410,calculus gallbladder cholecystitis mentio
+d_57411,calculus gallbladder cholecystitis obstructi
+d_57420,calculus gallbladder mention cholecystitis withou
+d_57421,calculus gallbladder mention cholecystitis
+d_57430,calculus bile duct acute cholecystitis mention
+d_57431,calculus bile duct acute cholecystitis obstruction
+d_57440,calculus bile duct cholecystitis mention
+d_57441,calculus bile duct cholecystitis obstruction
+d_57450,calculus bile duct mention cholecystitis
+d_57451,calculus bile duct mention cholecystitis obs
+d_5749,transurethral excision destruction lesion tissue
+d_57490,calculus gallbladder bile duct cholecystitis wit
+d_5750,acute cholecystitis
+d_57510,cholecystitis unspecified
+d_57511,chronic cholecystitis
+d_57512,acute chronic cholecystitis
+d_5753,hydrops gallbladder
+d_5754,perforation gallbladder
+d_5758,specified disorders gallbladder
+d_576,partial cystectomy
+d_5761,cholangitis
+d_5762,obstruction bile duct
+d_5764,fistula bile duct
+d_5768,specified disorders biliary tract
+d_5770,acute pancreatitis
+d_5771,chronic pancreatitis
+d_5771,radical cystectomy
+d_5772,cyst pseudocyst pancreas
+d_5778,specified diseases pancreas
+d_5779,unspecified disease pancreas
+d_5780,hematemesis
+d_5781,blood stool
+d_5781,suture laceration bladder
+d_5783,repair fistula involving bladder intestine
+d_5789,hemorrhage gastrointestinal tract unspecified
+d_5789,repair bladder
+d_5790,celiac disease
+d_5793,unspecified postsurgical nonabsorption
+d_5794,insertion indwelling urinary catheter
+d_5795,replacement indwelling urinary catheter
+d_5798,specified intestinal malabsorption
+d_5799,unspecified intestinal malabsorption
+d_58089,acute glomerulonephritis specified pathological lesio
+d_5809,acute glomerulonephritis unspecified pathological lesion
+d_5811,nephrotic syndrome lesion membranous glomerulonephritis
+d_58181,nephrotic syndrome diseases elsewhere
+d_5819,nephrotic syndrome unspecified pathological lesion kidne
+d_5821,chronic glomerulonephritis lesion membranous glomerulone
+d_58281,chronic glomerulonephritis diseases elsewhere
+d_58289,chronic glomerulonephritis specified pathological les
+d_5829,chronic glomerulonephritis unspecified pathological lesion
+d_5831,nephritis nephropathy specified acute chronic wi
+d_58381,nephritis nephropathy specified acute chronic
+d_5839,local excision destruction lesion tissue ureth
+d_5845,acute kidney failure lesion tubular necrosis
+d_5848,acute kidney failure specified pathological lesion
+d_5849,acute kidney failure unspecified
+d_5851,chronic kidney disease stage i
+d_5852,chronic kidney disease stage ii mild
+d_5853,chronic kidney disease stage iii moderate
+d_5854,chronic kidney disease stage iv severe
+d_5855,chronic kidney disease stage v
+d_5856,end stage renal disease
+d_5859,chronic kidney disease unspecified
+d_586,dilation urethra
+d_586,renal failure unspecified
+d_5880,renal osteodystrophy
+d_5881,nephrogenic diabetes insipidus
+d_58881,secondary hyperparathyroidism renal origin
+d_58889,specified disorders resulting impaired renal function
+d_59000,chronic pyelonephritis lesion renal medullary necrosi
+d_59010,acute pyelonephritis lesion renal medullary necrosis
+d_59080,pyelonephritis unspecified
+d_591,hydronephrosis
+d_5920,calculus kidney
+d_5921,calculus ureter
+d_5932,cyst kidney acquired
+d_5933,stricture kinking ureter
+d_5934,ureteric obstruction
+d_5935,hydroureter
+d_59381,vascular disorders kidney
+d_59389,specified disorders kidney ureter
+d_5939,unspecified disorder kidney ureter
+d_5941,calculus bladder
+d_5950,acute cystitis
+d_59582,irradiation cystitis
+d_5959,cystitis unspecified
+d_5960,bladder neck obstruction
+d_5961,intestinovesical fistula
+d_5963,diverticulum bladder
+d_5964,atony bladder
+d_59651,hypertonicity bladder
+d_59654,neurogenic bladder nos
+d_59659,functional disorder bladder
+d_5966,rupture bladder nontraumatic
+d_5967,hemorrhage bladder wall
+d_59689,specified disorders bladder
+d_5969,unspecified disorder bladder
+d_598,ureteral catheterization
+d_5988,specified causes urethral stricture
+d_5989,urethral stricture unspecified
+d_5990,urinary tract infection site specified
+d_5994,urethral false passage
+d_5994,replacement cystostomy tube
+d_59960,urinary obstruction unspecified
+d_59969,urinary obstruction elsewhere
+d_59970,hematuria unspecified
+d_59971,gross hematuria
+d_59972,microscopic hematuria
+d_60000,hypertrophy benign prostate urinary obstruction
+d_60001,hypertrophy benign prostate urinary obstruction ot
+d_60090,hyperplasia prostate unspecified urinary obstructio
+d_60091,hyperplasia prostate unspecified urinary obstruction
+d_6011,chronic prostatitis
+d_6012,abscess prostate
+d_6019,prostatitis unspecified
+d_6029,transurethral prostatectomy
+d_6038,specified types hydrocele
+d_6039,hydrocele unspecified
+d_60490,orchitis epididymitis unspecified
+d_605,redundant prepuce phimosis
+d_605,radical prostatectomy
+d_6072,inflammatory disorders penis
+d_60784,impotence organic origin
+d_60789,specified disorders penis
+d_6084,inflammatory disorders male genital organs
+d_60883,vascular disorders male genital organs
+d_60886,edema male genital organs
+d_6089,unspecified disorder male genital organs
+d_610,incision drainage scrotum tunica vaginalis
+d_6110,inflammatory disease breast
+d_6111,hypertrophy breast
+d_61172,lump mass breast
+d_613,excision destruction lesion tissue scrotum
+d_6146,pelvic peritoneal adhesions female postoperative postinfecti
+d_61610,vaginitis vulvovaginitis unspecified
+d_6164,abscess vulva
+d_6179,endometriosis site unspecified
+d_6181,uterine prolapse mention vaginal wall prolapse
+d_6191,digestive-genital tract fistula female
+d_6202,unspecified ovarian cyst
+d_6205,torsion ovary ovarian pedicle fallopian tube
+d_6208,noninflammatory disorders ovary fallopian tube br
+d_6210,polyp corpus uteri
+d_6238,specified noninflammatory disorders vagina
+d_625,orchiopexy
+d_6262,excessive frequent menstruation
+d_6268,disorders menstruation abnormal bleeding
+d_6271,postmenopausal bleeding
+d_6279,unspecified menopausal postmenopausal disorder
+d_640,circumcision
+d_64663,infections genitourinary tract pregnancy antepartum condi
+d_64783,specified infectious parasitic diseases mother ant
+d_64823,anemia mother antepartum condition complication
+d_64893,current conditions classifiable elsewhere mother antep
+d_6549,unilateral salpingo-oophorectomy
+d_6561,removal both ovaries tubes same operative episod
+d_66634,postpartum coagulation defects postpartum condition complica
+d_67454,peripartum cardiomyopathy postpartum condition complication
+d_68110,cellulitis abscess toe unspecified
+d_68111,onychia paronychia toe
+d_6816,closed biopsy uterus
+d_6820,cellulitis abscess face
+d_6821,cellulitis abscess neck
+d_6822,cellulitis abscess trunk
+d_6823,cellulitis abscess upper arm forearm
+d_6824,cellulitis abscess hand except fingers thumb
+d_6825,cellulitis abscess buttock
+d_6826,cellulitis abscess leg except foot
+d_6827,cellulitis abscess foot except toes
+d_6828,cellulitis abscess specified sites
+d_6839,unspecified subtotal abdominal hysterectomy
+d_6849,unspecified total abdominal hysterectomy
+d_6851,pilonidal cyst mention abscess
+d_6869,unspecified local infection skin subcutaneous tissue
+d_688,pelvic evisceration
+d_6909,dilation curettage
+d_6918,atopic dermatitis related conditions
+d_6929,contact dermatitis eczema unspecified cause
+d_6930,dermatitis due drugs medicines taken internally
+d_6944,pemphigus
+d_6945,pemphigoid
+d_6953,rosacea
+d_6954,lupus erythematosus
+d_69589,specified erythematous conditions
+d_6959,unspecified erythematous condition
+d_6960,psoriatic arthropathy
+d_6961,psoriasis
+d_6983,lichenification lichen simplex chronicus
+d_6988,specified pruritic conditions
+d_6989,unspecified pruritic disorder
+d_7015,abnormal granulation tissue
+d_7038,specified diseases nail
+d_7048,specified diseases hair hair follicles
+d_7051,prickly heat
+d_7061,acne
+d_7062,sebaceous cyst
+d_70701,pressure ulcer elbow
+d_70702,pressure ulcer upper back
+d_70703,pressure ulcer lower back
+d_70704,pressure ulcer hip
+d_70705,pressure ulcer buttock
+d_70706,pressure ulcer ankle
+d_70707,pressure ulcer heel
+d_70709,pressure ulcer site
+d_70710,ulcer lower limb unspecified
+d_70711,ulcer thigh
+d_70712,ulcer calf
+d_70713,ulcer ankle
+d_70714,ulcer heel midfoot
+d_70715,ulcer part foot
+d_70719,ulcer part lower limb
+d_70720,pressure ulcer unspecified stage
+d_70721,pressure ulcer stage i
+d_70722,pressure ulcer stage ii
+d_70723,pressure ulcer stage iii
+d_70724,pressure ulcer stage iv
+d_70725,pressure ulcer unstageable
+d_7078,chronic ulcer specified sites
+d_7080,allergic urticaria
+d_70901,vitiligo
+d_70909,dyschromia
+d_7092,scar conditions fibrosis skin
+d_7098,specified disorders skin
+d_7099,unspecified disorder skin subcutaneous tissue
+d_7100,systemic lupus erythematosus
+d_7101,systemic sclerosis
+d_7102,sicca syndrome
+d_7103,dermatomyositis
+d_7104,polymyositis
+d_7108,specified diffuse diseases connective tissue
+d_7109,unspecified diffuse connective tissue disease
+d_71101,pyogenic arthritis shoulder region
+d_71103,pyogenic arthritis forearm
+d_71105,pyogenic arthritis pelvic region thigh
+d_71106,pyogenic arthritis lower leg
+d_71107,pyogenic arthritis ankle foot
+d_71109,pyogenic arthritis multiple sites
+d_71230,chondrocalcinosis unspecified site unspecified
+d_71236,chondrocalcinosis unspecified lower leg
+d_7135,arthropathy associated neurological disorders
+d_7140,rheumatoid arthritis
+d_7142,rheumatoid arthritis visceral systemic involvement
+d_71430,polyarticular juvenile rheumatoid arthritis chronic unspecif
+d_7149,unspecified inflammatory polyarthropathy
+d_71534,osteoarthrosis localized specified whether primary seco
+d_71589,osteoarthrosis involving mention site
+d_71590,osteoarthrosis unspecified whether generalized localized si
+d_71591,osteoarthrosis unspecified whether generalized localized sh
+d_71595,osteoarthrosis unspecified whether generalized localized pe
+d_71596,osteoarthrosis unspecified whether generalized localized lo
+d_71598,osteoarthrosis unspecified whether generalized localized ot
+d_71680,specified arthropathy site unspecified
+d_71690,arthropathy unspecified site unspecified
+d_71691,arthropathy unspecified shoulder region
+d_71694,arthropathy unspecified hand
+d_71696,arthropathy unspecified lower leg
+d_71699,arthropathy unspecified multiple sites
+d_71902,effusion joint upper arm
+d_71906,effusion joint lower leg
+d_71916,hemarthrosis lower leg
+d_71941,pain joint shoulder region
+d_71943,pain joint forearm
+d_71945,pain joint pelvic region thigh
+d_71946,pain joint lower leg
+d_71947,pain joint ankle foot
+d_71949,pain joint multiple sites
+d_7200,ankylosing spondylitis
+d_7209,unspecified inflammatory spondylopathy
+d_7211,cervical spondylosis myelopathy
+d_7212,thoracic spondylosis myelopathy
+d_7213,lumbosacral spondylosis myelopathy
+d_7218,allied disorders spine
+d_72190,spondylosis unspecified site mention myelopathy
+d_7220,displacement cervical intervertebral disc myelopathy
+d_72210,displacement lumbar intervertebral disc myelopathy
+d_7224,degeneration cervical intervertebral disc
+d_72252,degeneration lumbar lumbosacral intervertebral disc
+d_7226,degeneration intervertebral disc site unspecified
+d_72271,intervertebral disc disorder myelopathy cervical region
+d_72272,intervertebral disc disorder myelopathy thoracic region
+d_72273,intervertebral disc disorder myelopathy lumbar region
+d_72290,unspecified disc disorder unspecified region
+d_72291,unspecified disc disorder cervical region
+d_72292,unspecified disc disorder thoracic region
+d_72293,unspecified disc disorder lumbar region
+d_7230,spinal stenosis cervical region
+d_7231,cervicalgia
+d_7234,brachial neuritis radiculitis nos
+d_7235,torticollis unspecified
+d_72400,spinal stenosis unspecified region
+d_72401,spinal stenosis thoracic region
+d_72402,spinal stenosis lumbar region neurogenic claudication
+d_7242,lumbago
+d_7243,sciatica
+d_7244,thoracic lumbosacral neuritis radiculitis unspecified
+d_7245,backache unspecified
+d_7248,symptoms referable back
+d_7249,unspecified back disorders
+d_725,polymyalgia rheumatica
+d_7260,adhesive capsulitis shoulder
+d_72610,disorders bursae tendons shoulder region unspecified
+d_72633,olecranon bursitis
+d_7265,enthesopathy hip region
+d_72700,synovitis tenosynovitis unspecified
+d_72705,tenosynovitis hand wrist
+d_72751,synovial cyst popliteal space
+d_72761,complete rupture rotator cuff
+d_7280,infective myositis
+d_7282,muscular wasting disuse atrophy elsewhere
+d_72871,plantar fascial fibromatosis
+d_72885,spasm muscle
+d_72886,necrotizing fasciitis
+d_72887,muscle weakness generalized
+d_72888,rhabdomyolysis
+d_72889,disorders muscle ligament fascia
+d_7289,unspecified disorder muscle ligament fascia
+d_7291,myalgia myositis unspecified
+d_7292,neuralgia neuritis radiculitis unspecified
+d_72939,panniculitis site
+d_7295,pain limb
+d_7296,residual foreign body soft tissue
+d_72972,nontraumatic compartment syndrome lower extremity
+d_72973,nontraumatic compartment syndrome abdomen
+d_72981,swelling limb
+d_72989,musculoskeletal symptoms referable limbs
+d_72992,nontraumatic hematoma soft tissue
+d_73005,acute osteomyelitis pelvic region thigh
+d_73007,acute osteomyelitis ankle foot
+d_73008,acute osteomyelitis specified sites
+d_73012,chronic osteomyelitis upper arm
+d_73015,chronic osteomyelitis pelvic region thigh
+d_73016,chronic osteomyelitis lower leg
+d_73017,chronic osteomyelitis ankle foot
+d_73018,chronic osteomyelitis specified sites
+d_73025,unspecified osteomyelitis pelvic region thigh
+d_73027,unspecified osteomyelitis ankle foot
+d_73028,unspecified osteomyelitis specified sites
+d_7310,osteitis deformans mention bone tumor
+d_7313,major osseous defects
+d_7318,bone involvement diseases elsewhere
+d_73300,osteoporosis unspecified
+d_73309,osteoporosis
+d_73311,pathologic fracture humerus
+d_73313,pathologic fracture vertebrae
+d_73314,pathologic fracture neck femur
+d_73319,pathologic fracture specified site
+d_73342,aseptic necrosis head neck femur
+d_73349,aseptic necrosis bone
+d_7336,tietzes disease
+d_73382,nonunion fracture
+d_73390,disorder bone cartilage unspecified
+d_73399,disorders bone cartilage
+d_7354,hammer toe acquired
+d_73679,acquired deformities ankle foot
+d_73710,kyphosis acquired postural
+d_73712,kyphosis postlaminectomy
+d_73719,kyphosis acquired
+d_73730,scoliosis kyphoscoliosis idiopathic
+d_73734,thoracogenic scoliosis
+d_73739,kyphoscoliosis scoliosis
+d_73741,kyphosis associated conditions
+d_73743,scoliosis associated conditions
+d_73819,specified acquired deformity head
+d_7384,acquired spondylolisthesis
+d_7385,acquired deformity back spine
+d_74190,spina bifida mention hydrocephalus unspecified regio
+d_7421,microcephalus
+d_7423,congenital hydrocephalus
+d_74510,complete transposition great vessels
+d_7454,ventricular septal defect
+d_7455,ostium secundum type atrial septal defect
+d_74602,stenosis pulmonary valve congenital
+d_74609,congenital anomalies pulmonary valve
+d_7462,ebsteins anomaly
+d_7463,congenital stenosis aortic valve
+d_7464,congenital insufficiency aortic valve
+d_74685,coronary artery anomaly
+d_74689,specified congenital anomalies heart
+d_7469,unspecified congenital anomaly heart
+d_7470,patent ductus arteriosus
+d_74710,coarctation aorta preductal postductal
+d_74721,anomalies aortic arch
+d_74742,partial anomalous pulmonary venous connection
+d_74761,gastrointestinal vessel anomaly
+d_74781,anomalies cerebrovascular system
+d_74783,persistent fetal circulation
+d_7483,anomalies larynx trachea bronchus
+d_74860,anomaly lung unspecified
+d_74900,cleft palate unspecified
+d_7503,tracheoesophageal fistula esophageal atresia stenosis
+d_7504,specified anomalies esophagus
+d_7511,atresia stenosis small intestine
+d_7512,atresia stenosis large intestine rectum anal canal
+d_7513,hirschsprungs disease congenital functional disorders
+d_7514,anomalies intestinal fixation
+d_75162,congenital cystic disease liver
+d_7517,anomalies pancreas
+d_75251,undescended testis
+d_75261,hypospadias
+d_7530,renal agenesis dysgenesis
+d_75310,cystic kidney disease unspecified
+d_75312,polycystic kidney unspecified type
+d_75319,specified cystic kidney disease
+d_75329,obstructive defects renal pelvis ureter
+d_7533,specified anomalies kidney
+d_75481,pectus excavatum
+d_75559,anomalies upper limb including shoulder girdle
+d_7560,anomalies skull face bones
+d_75619,anomalies spine
+d_75651,osteogenesis imperfecta
+d_75679,congenital anomalies abdominal wall
+d_75683,ehlers-danlos syndrome
+d_75689,specified anomalies muscle tendon fascia connect
+d_75732,vascular hamartomas
+d_75733,congenital pigmentary anomalies skin
+d_75739,specified anomalies skin
+d_7580,downs syndrome
+d_7585,conditions due autosomal anomalies
+d_7596,hamartoses elsewhere
+d_75981,prader-willi syndrome
+d_75982,marfan syndrome
+d_75989,specified congenital anomalies
+d_7599,congenital anomaly unspecified
+d_76072,narcotics affecting fetus newborn via placenta breast milk
+d_76075,cocaine affecting fetus newborn via placenta breast milk
+d_76079,noxious influences affecting fetus newborn via placenta
+d_762,local excision destruction lesion facial bone
+d_7636,precipitate delivery affecting fetus newborn
+d_7643,reconstruction mandible
+d_76512,preterm infants grams
+d_76519,preterm infants grams over
+d_76521,less completed weeks gestation
+d_76529,completed weeks gestation
+d_7661,heavy-for-dates infants
+d_76719,injuries scalp
+d_7672,fracture clavicle due birth trauma
+d_7672,open reduction malar zygomatic fracture
+d_7674,open reduction maxillary fracture
+d_7675,closed reduction mandibular fracture
+d_7676,open reduction mandibular fracture
+d_7676,injury brachial plexus due birth trauma
+d_7679,open reduction facial fracture
+d_769,respiratory distress syndrome newborn
+d_7692,insertion synthetic implant facial bone
+d_77012,meconium aspiration respiratory symptoms
+d_7702,interstitial emphysema related conditions
+d_7703,pulmonary hemorrhage
+d_7704,primary atelectasis
+d_7705,unspecified atelectasis
+d_7706,transitory tachypnea newborn
+d_7707,chronic respiratory disease arising perinatal period
+d_77081,primary apnea newborn
+d_77082,apnea newborn
+d_77084,respiratory failure newborn
+d_77089,respiratory problems birth
+d_7716,neonatal conjunctivitis dacryocystitis
+d_77181,septicemia sepsis newborn
+d_77183,bacteremia newborn
+d_77210,intraventricular hemorrhage unspecified grade
+d_77211,intraventricular hemorrhage grade i
+d_77212,intraventricular hemorrhage grade ii
+d_77213,intraventricular hemorrhage grade iii
+d_77214,intraventricular hemorrhage grade iv
+d_7724,gastrointestinal hemorrhage fetus newborn
+d_7726,cutaneous hemorrhage fetus newborn
+d_7728,specified hemorrhage fetus newborn
+d_7731,hemolytic disease fetus newborn due abo isoimmunization
+d_7731,division bone scapula clavicle thorax ribs
+d_7732,hemolytic disease fetus newborn due unspecifi
+d_7742,neonatal jaundice associated preterm delivery
+d_7745,biopsy bone femur
+d_7746,unspecified fetal neonatal jaundice
+d_7747,biopsy bone tibia fibula
+d_7748,biopsy bone tarsals metatarsals
+d_7749,biopsy bone bones
+d_7750,syndrome infant diabetic mother
+d_7755,transitory neonatal electrolyte disturbances
+d_7756,neonatal hypoglycemia
+d_7757,late metabolic acidosis newborn
+d_7761,local excision lesion tissue bone scapula clavicle
+d_7761,transient neonatal thrombocytopenia
+d_7764,polycythemia neonatorum
+d_7765,congenital anemia
+d_7765,local excision lesion tissue bone femur
+d_7766,anemia prematurity
+d_7767,local excision lesion tissue bone tibia fibula
+d_7767,transient neonatal neutropenia
+d_7768,local excision lesion tissue bone tarsals metatars
+d_7769,local excision lesion tissue bone bones
+d_7771,excision bone graft scapula clavicle thorax ribs
+d_7771,meconium obstruction fetus newborn
+d_7776,perinatal intestinal perforation
+d_7777,excision bone graft tibia fibula
+d_7778,specified perinatal disorders digestive system
+d_7779,excision bone graft bones
+d_7780,hydrops fetalis due isoimmunization
+d_7781,partial ostectomy scapula clavicle thorax ribs
+d_7783,hypothermia newborn
+d_7784,disturbances temperature regulation newborn
+d_7785,partial ostectomy femur
+d_7786,congenital hydrocele
+d_7787,partial ostectomy tibia fibula
+d_7788,partial ostectomy tarsals metatarsals
+d_7788,specified conditions involving integument fetus
+d_7789,partial ostectomy bones
+d_7790,convulsions newborn
+d_77981,neonatal bradycardia
+d_77989,specified conditions originating perinatal period
+d_7799,total ostectomy bones
+d_78001,coma
+d_78003,persistent vegetative state
+d_78009,alteration consciousness
+d_7801,hallucinations
+d_7802,syncope collapse
+d_78033,post traumatic seizures
+d_78039,convulsions
+d_7804,dizziness giddiness
+d_78050,sleep disturbance unspecified
+d_78052,insomnia unspecified
+d_78057,unspecified sleep apnea
+d_78059,sleep disturbances
+d_78060,fever unspecified
+d_78061,fever presenting conditions elsewhere
+d_78062,postprocedural fever
+d_78065,hypothermia associated low environmental temperature
+d_7807,bone graft tibia fibula
+d_78071,chronic fatigue syndrome
+d_78079,malaise fatigue
+d_7809,bone graft bones
+d_78093,memory loss
+d_78097,altered mental status
+d_78099,general symptoms
+d_7810,abnormal involuntary movements
+d_7812,application external fixator device humerus
+d_7812,abnormality gait
+d_7813,lack coordination
+d_7813,application external fixator device radius ulna
+d_7816,meningismus
+d_7817,application external fixator device tibia fibula
+d_7818,neurologic neglect syndrome
+d_7818,application external fixator device tarsals metatarsals
+d_78194,facial weakness
+d_78199,symptoms involving nervous musculoskeletal systems
+d_7820,disturbance skin sensation
+d_7821,rash nonspecific skin eruption
+d_7823,edema
+d_7824,jaundice unspecified newborn
+d_7825,cyanosis
+d_7827,spontaneous ecchymoses
+d_7830,anorexia
+d_7831,abnormal weight gain
+d_78321,loss weight
+d_7833,feeding difficulties mismanagement
+d_78340,lack normal physiological development unspecified
+d_7835,polydipsia
+d_7836,polyphagia
+d_7837,adult failure thrive
+d_7840,headache
+d_7841,repair plastic operations bone scapula clavicle
+d_7842,swelling mass lump head neck
+d_7843,aphasia
+d_78441,aphonia
+d_78442,dysphonia
+d_78449,voice resonance disorders
+d_78451,dysarthria
+d_78459,speech disturbance
+d_78469,symbolic dysfunction
+d_7847,repair plastic operations bone tibia fibula
+d_7847,epistaxis
+d_7850,tachycardia unspecified
+d_7851,palpitations
+d_7851,internal fixation bone fracture reduction scapula
+d_7852,undiagnosed cardiac murmurs
+d_7854,gangrene
+d_78550,shock unspecified
+d_78551,cardiogenic shock
+d_78552,septic shock
+d_78559,shock mention trauma
+d_7856,enlargement lymph nodes
+d_7859,internal fixation bone fracture reduction bone
+d_7859,symptoms involving cardiovascular system
+d_78603,apnea
+d_78604,cheyne-stokes respiration
+d_78605,shortness breath
+d_78606,tachypnea
+d_78607,wheezing
+d_78609,respiratory abnormalities
+d_7861,removal implanted devices bone scapula clavicle
+d_7861,stridor
+d_7862,cough
+d_7863,removal implanted devices bone radius ulna
+d_78630,hemoptysis unspecified
+d_78639,hemoptysis
+d_7864,abnormal sputum
+d_7865,removal implanted devices bone femur
+d_78650,chest pain unspecified
+d_78652,painful respiration
+d_78659,chest pain
+d_7866,swelling mass lump chest
+d_7867,removal implanted devices bone tibia fibula
+d_7868,hiccough
+d_7868,removal implanted devices bone tarsals metatarsals
+d_7869,removal implanted devices bone bones
+d_78701,nausea vomiting
+d_78702,nausea alone
+d_78703,vomiting alone
+d_78720,dysphagia unspecified
+d_78721,dysphagia oral phase
+d_78722,dysphagia oropharyngeal phase
+d_78723,dysphagia pharyngeal phase
+d_78729,dysphagia
+d_7873,flatulence eructation gas pain
+d_78760,full incontinence feces
+d_78791,diarrhea
+d_78799,symptoms involving digestive system
+d_7881,dysuria
+d_78820,retention urine unspecified
+d_78821,incomplete bladder emptying
+d_78829,specified retention urine
+d_78830,urinary incontinence unspecified
+d_78831,urge incontinence
+d_78838,overflow incontinence
+d_78839,urinary incontinence
+d_78841,urinary frequency
+d_78843,nocturia
+d_7885,oliguria anuria
+d_78899,symptoms involving urinary system
+d_78900,abdominal pain unspecified site
+d_78901,abdominal pain right upper quadrant
+d_78903,abdominal pain right lower quadrant
+d_78904,abdominal pain left lower quadrant
+d_78906,abdominal pain epigastric
+d_78907,abdominal pain generalized
+d_78909,abdominal pain specified site
+d_7892,splenomegaly
+d_78939,abdominal pelvic swelling mass lump specified sit
+d_78951,malignant ascites
+d_78959,ascites
+d_79001,precipitous drop hematocrit
+d_79029,abnormal glucose
+d_7904,closed reduction fracture internal fixation phalange
+d_7904,nonspecific elevation levels transaminase lactic acid
+d_7905,closed reduction fracture internal fixation femur
+d_7905,nonspecific abnormal serum enzyme levels
+d_7906,closed reduction fracture internal fixation tibia
+d_7906,abnormal blood chemistry
+d_7907,bacteremia
+d_7908,viremia unspecified
+d_7909,closed reduction fracture internal fixation sp
+d_79092,abnormal coagulation profile
+d_79093,elevated prostate specific antigen psa
+d_79094,euthyroid sick syndrome
+d_79099,nonspecific findings examination blood
+d_7910,proteinuria
+d_7911,closed reduction fracture internal fixation humerus
+d_7916,closed reduction fracture internal fixation tibia f
+d_7917,closed reduction fracture internal fixation tarsals
+d_7919,nonspecific findings examination urine
+d_7919,closed reduction fracture internal fixation speci
+d_7921,nonspecific abnormal findings stool contents
+d_7931,open reduction fracture internal fixation humerus
+d_79311,solitary pulmonary nodule
+d_79319,nonspecific abnormal finding lung field
+d_7932,open reduction fracture internal fixation radius ul
+d_7933,open reduction fracture internal fixation carpals
+d_7934,open reduction fracture internal fixation phalanges
+d_7935,open reduction fracture internal fixation femur
+d_7936,open reduction fracture internal fixation tibia fib
+d_7939,open reduction fracture internal fixation specifi
+d_79415,nonspecific abnormal auditory function studies
+d_79431,nonspecific abnormal electrocardiogram ecg ekg
+d_7945,nonspecific abnormal results function study thyroid
+d_7948,nonspecific abnormal results function study liver
+d_79551,nonspecific reaction tuberculin skin test active tube
+d_79579,unspecified nonspecific immunological findings
+d_7960,nonspecific abnormal toxicological findings
+d_7962,debridement open fracture site radius ulna
+d_7962,elevated blood pressure reading diagnosis hypertensio
+d_7963,debridement open fracture site carpals metacarpals
+d_7963,nonspecific low blood pressure reading
+d_7964,debridement open fracture site phalanges hand
+d_7964,abnormal clinical findings
+d_7966,debridement open fracture site tibia fibula
+d_7967,debridement open fracture site tarsals metatarsals
+d_7969,debridement open fracture site specified bone
+d_7974,closed reduction dislocation hand finger
+d_7975,closed reduction dislocation hip
+d_79902,hypoxemia
+d_7991,respiratory arrest
+d_7993,debility unspecified
+d_7994,cachexia
+d_79989,ill-defined conditions
+d_80001,closed fracture vault skull mention intracrania
+d_8005,arthrotomy removal prosthesis replacement hip
+d_8006,arthrotomy removal prosthesis replacement knee
+d_80102,closed fracture base skull mention intra crania
+d_8011,arthrotomy shoulder
+d_8013,arthrotomy wrist
+d_8015,arthrotomy hip
+d_8016,arthrotomy knee
+d_80176,open fracture base skull subarachnoid subdural
+d_8020,closed fracture nasal bones
+d_8021,open fracture nasal bones
+d_8021,arthroscopy shoulder
+d_80220,closed fracture mandible unspecified site
+d_80221,closed fracture mandible condylar process
+d_80222,closed fracture mandible subcondylar
+d_80224,closed fracture mandible ramus unspecified
+d_80228,closed fracture mandible body unspecified
+d_80229,closed fracture mandible multiple sites
+d_8024,closed fracture malar maxillary bones
+d_8025,open fracture malar maxillary bones
+d_8026,closed fracture orbital floor blow-out
+d_8027,open fracture orbital floor blow-out
+d_8028,closed fracture facial bones
+d_80315,closed skull fracture cerebral laceration contusi
+d_80502,closed fracture second cervical vertebra
+d_80504,closed fracture fourth cervical vertebra
+d_80505,closed fracture fifth cervical vertebra
+d_80506,closed fracture sixth cervical vertebra
+d_80507,closed fracture seventh cervical vertebra
+d_80508,closed fracture multiple cervical vertebrae
+d_8051,excision intervertebral disc
+d_8052,closed fracture dorsal thoracic vertebra mention
+d_8054,closed fracture lumbar vertebra mention spinal cor
+d_8056,closed fracture sacrum coccyx mention spinal
+d_806,excision semilunar cartilage knee
+d_80608,closed fracture level central cord syndrome
+d_80620,closed fracture level unspecified spinal cord inju
+d_80625,closed fracture level unspecified spinal cord inj
+d_80629,closed fracture level specified spinal cord
+d_8064,closed fracture lumbar spine spinal cord injury
+d_80700,closed fracture ribs unspecified
+d_80701,closed fracture rib
+d_80702,closed fracture two ribs
+d_80703,closed fracture three ribs
+d_80704,closed fracture four ribs
+d_80705,closed fracture five ribs
+d_80706,closed fracture six ribs
+d_80708,closed fracture eight ribs
+d_80709,closed fracture multiple ribs unspecified
+d_8072,closed fracture sternum
+d_8075,closed fracture larynx trachea
+d_8076,synovectomy knee
+d_8080,closed fracture acetabulum
+d_8081,local excision destruction lesion joint shoulder
+d_8082,closed fracture pubis
+d_8083,open fracture pubis
+d_8083,local excision destruction lesion joint wrist
+d_80841,closed fracture ilium
+d_80843,multiple closed pelvic fractures disruption pelvic circl
+d_8085,local excision destruction lesion joint hip
+d_8086,local excision destruction lesion joint knee
+d_8088,closed unspecified fracture pelvis
+d_8089,open unspecified fracture pelvis
+d_8099,excision joint specified sites
+d_81000,closed fracture clavicle unspecified part
+d_81001,closed fracture sternal end clavicle
+d_81002,closed fracture shaft clavicle
+d_81003,closed fracture acromial end clavicle
+d_8101,atlas-axis spinal fusion
+d_8102,cervical fusion anterior column anterior technique
+d_8103,cervical fusion posterior column posterior techniq
+d_8104,dorsal dorsolumbar fusion anterior column anterior
+d_8105,dorsal dorsolumbar fusion posterior column posterior
+d_8106,lumbar lumbosacral fusion anterior column anterior
+d_8107,lumbar lumbosacral fusion posterior column posterior
+d_8108,lumbar lumbosacral fusion anterior column posterior
+d_81100,closed fracture scapula unspecified part
+d_81101,closed fracture acromial process scapula
+d_81103,closed fracture glenoid cavity neck scapula
+d_81109,closed fracture scapula
+d_8113,subtalar fusion
+d_81200,closed fracture unspecified part upper end humerus
+d_81201,closed fracture surgical neck humerus
+d_81209,closed fracture upper end humerus
+d_81220,closed fracture unspecified part humerus
+d_81221,closed fracture shaft humerus
+d_81240,closed fracture unspecified part lower end humerus
+d_81301,closed fracture olecranon process ulna
+d_8132,refusion cervical spine anterior column anterior tech
+d_81321,closed fracture shaft radius alone
+d_81332,open fracture shaft ulna alone
+d_81341,closed colles fracture
+d_81342,closed fractures distal end radius alone
+d_81344,closed fracture lower end radius ulna
+d_8137,refusion lumbar lumbosacral spine posterior column post
+d_8138,refusion lumbar lumbosacral spine anterior column poste
+d_81500,closed fracture metacarpal bones site unspecified
+d_81502,closed fracture base metacarpal bones
+d_8151,total hip replacement
+d_8152,partial hip replacement
+d_8154,total knee replacement
+d_81600,closed fracture phalanx phalanges hand unspecified
+d_81601,closed fracture middle proximal phalanx phalanges ha
+d_81602,closed fracture distal phalanx phalanges hand
+d_81611,open fracture middle proximal phalanx phalanges hand
+d_8164,fusion refusion vertebrae
+d_8165,percutaneous vertebroplasty
+d_8181,partial shoulder replacement
+d_8191,arthrocentesis
+d_8192,injection therapeutic substance joint ligament
+d_82009,closed transcervical fracture neck femur
+d_82020,closed fracture trochanteric section neck femur
+d_82021,closed fracture intertrochanteric section neck femur
+d_82022,closed fracture subtrochanteric section neck femur
+d_8208,closed fracture unspecified part neck femur
+d_82101,closed fracture shaft femur
+d_82120,closed fracture lower end femur unspecified part
+d_82121,closed fracture condyle femoral
+d_82123,closed supracondylar fracture femur
+d_82130,open fracture lower end femur unspecified part
+d_8220,closed fracture patella
+d_82300,closed fracture upper end tibia alone
+d_82301,closed fracture upper end fibula alone
+d_82302,closed fracture upper end fibula tibia
+d_82320,closed fracture shaft tibia alone
+d_82321,closed fracture shaft fibula alone
+d_82322,closed fracture shaft fibula tibia
+d_82332,open fracture shaft fibula tibia
+d_8236,myectomy hand
+d_82382,closed fracture unspecified part fibula tibia
+d_82392,open fracture unspecified part fibula tibia
+d_8240,fracture medial malleolus closed
+d_8241,fracture medial malleolus open
+d_8242,fracture lateral malleolus closed
+d_8244,bimalleolar fracture closed
+d_8244,suture flexor tendon hand
+d_8245,bimalleolar fracture open
+d_8245,suture tendon hand
+d_8248,unspecified fracture ankle closed
+d_82525,closed fracture metatarsal bones
+d_82531,open fracture astragalus
+d_8260,closed fracture phalanges foot
+d_8300,closed dislocation jaw
+d_8309,incision soft tissue
+d_8313,tenotomy
+d_8314,fasciotomy
+d_8321,open biopsy soft tissue
+d_8332,excision lesion muscle
+d_8339,excision lesion soft tissue
+d_83402,closed dislocation interphalangeal joint hand
+d_8342,tenonectomy
+d_8343,excision muscle fascia graft
+d_8344,fasciectomy
+d_8345,myectomy
+d_8349,excision soft tissue
+d_8365,suture muscle fascia
+d_8382,graft muscle fascia
+d_8385,change muscle tendon length
+d_83901,closed dislocation first cervical vertebra
+d_83905,closed dislocation fifth cervical vertebra
+d_83908,closed dislocation multiple cervical vertebrae
+d_8395,aspiration soft tissue
+d_8401,amputation disarticulation finger
+d_8411,amputation toe
+d_8412,amputation through foot
+d_8415,amputation below knee
+d_8417,amputation above knee
+d_843,revision amputation stump
+d_8451,insertion interbody spinal fusion device
+d_8452,insertion recombinant bone morphogenetic protein
+d_8456,insertion replacement cement spacer
+d_8470,sprain neck
+d_8472,application external fixator device ring system
+d_85011,concussion loss consciousness minutes less
+d_85101,cortex cerebral contusion mention open intracranial
+d_85185,unspecified cerebral laceration contusion
+d_8600,traumatic pneumothorax mention open wound thorax
+d_8601,traumatic pneumothorax open wound thorax
+d_8601,aspiration skin subcutaneous tissue
+d_8602,traumatic hemothorax mention open wound thorax
+d_8603,traumatic hemothorax open wound thorax
+d_8604,traumatic pneumohemothorax mention open wound th
+d_8604,incision drainage skin subcutaneous tissue
+d_8605,incision removal foreign body device skin su
+d_8605,traumatic pneumohemothorax open wound thorax
+d_8607,insertion totally implantable vascular access device vad
+d_8609,incision skin subcutaneous tissue
+d_86101,contusion heart mention open wound thorax
+d_8611,closed biopsy skin subcutaneous tissue
+d_86121,contusion lung mention open wound thorax
+d_86122,laceration lung mention open wound thorax
+d_86131,contusion lung open wound thorax
+d_8620,injury diaphragm mention open wound cavity
+d_8621,injury diaphragm open wound cavity
+d_8622,excisional debridement wound infection burn
+d_86222,injury esophagus mention open wound cavity
+d_86229,injury specified intrathoracic organs mention
+d_8627,debridement nail nail bed nail fold
+d_8628,nonexcisional debridement wound infection burn
+d_863,local excision destruction lesion tissue skin
+d_8630,injury stomach mention open wound cavity
+d_86321,injury duodenum open wound cavity
+d_86329,injury small intestine mention open wound i
+d_86345,injury rectum mention open wound cavity
+d_86389,injury gastrointestinal sites mention open
+d_864,radical excision skin lesion
+d_86401,injury liver mention open wound cavity hemat
+d_86404,injury liver mention open wound cavity lacer
+d_86405,injury liver mention open wound cavity lacera
+d_86415,injury liver open wound cavity laceration unspeci
+d_86500,injury spleen mention open wound cavity unsp
+d_86501,injury spleen mention open wound cavity hema
+d_86502,injury spleen mention open wound cavity caps
+d_86503,injury spleen mention open wound cavity lace
+d_86504,injury spleen mention open wound cavity mass
+d_8659,closure skin subcutaneous tissue sites
+d_86600,injury kidney mention open wound cavity unsp
+d_86601,injury kidney mention open wound cavity hema
+d_86602,injury kidney mention open wound cavity lace
+d_8662,skin graft hand
+d_8663,full-thickness skin graft sites
+d_8667,dermal regenerative graft
+d_8669,skin graft sites
+d_8670,injury bladder urethra mention open wound int
+d_8672,advancement pedicle graft
+d_8672,injury ureter mention open wound cavity
+d_8673,attachment pedicle flap graft hand
+d_8674,attachment pedicle flap graft sites
+d_8676,injury specified pelvic organs mention open
+d_86809,injury multiple intra-abdominal organs ment
+d_8683,size reduction plastic operation
+d_8700,laceration skin eyelid periocular area
+d_8703,computerized axial tomography head
+d_8708,specified open wounds ocular adnexa
+d_87200,open wound external ear unspecified site mention
+d_8721,contrast myelogram
+d_8730,open wound scalp mention complication
+d_8731,open wound scalp complicated
+d_87320,open wound nose unspecified site mention complic
+d_87341,open wound cheek mention complication
+d_87342,open wound forehead mention complication
+d_87343,open wound lip mention complication
+d_87344,open wound jaw mention complication
+d_87349,open wound multiple sites face mention
+d_87359,open wound multiple sites face complicated
+d_87363,open wound tooth broken fractured due trauma withou
+d_87364,open wound tongue floor mouth mention comp
+d_8738,unspecified open wound head mention comp
+d_87402,open wound trachea mention complication
+d_8741,computerized axial tomography thorax
+d_8744,open wound pharynx mention complication
+d_8744,routine chest x-ray so described
+d_8751,percutaneous hepatic cholangiogram
+d_8753,intraoperative cholangiogram
+d_8754,cholangiogram
+d_8761,barium swallow
+d_8774,retrograde pyelogram
+d_8775,percutaneous pyelogram
+d_8777,cystogram
+d_8796,open wound unspecified parts trunk ment
+d_8798,open wounds multiple unspecified sites mention
+d_8801,computerized axial tomography abdomen
+d_8803,sinogram abdominal wall
+d_88100,open wound forearm mention complication
+d_88101,open wound elbow mention complication
+d_88102,open wound wrist mention complication
+d_88111,open wound elbow complicated
+d_88122,open wound wrist tendon involvement
+d_8814,retroperitoneal fistulogram
+d_8820,open wound hand except fingers alone mention co
+d_8840,multiple unspecified open wound upper limb menti
+d_8841,arteriography cerebral arteries
+d_8842,aortography
+d_8843,arteriography pulmonary arteries
+d_8844,arteriography intrathoracic vessels
+d_8845,arteriography renal arteries
+d_8847,arteriography intra-abdominal arteries
+d_8848,arteriography femoral lower extremity arteries
+d_8849,arteriography specified sites
+d_8851,angiocardiography venae cavae
+d_8852,angiocardiography right heart structures
+d_8853,angiocardiography left heart structures
+d_8854,combined right left heart angiocardiography
+d_8855,coronary arteriography using single catheter
+d_8856,coronary arteriography using two catheters
+d_8857,unspecified coronary arteriography
+d_8860,traumatic amputation fingers complete partial wi
+d_8861,phlebography veins head neck using contrast material
+d_8863,phlebography intrathoracic veins using contrast materia
+d_8864,phlebography portal venous system using contrast material
+d_8865,phlebography intra-abdominal veins using contrast mater
+d_8866,phlebography femoral lower extremity veins using co
+d_8867,phlebography specified sites using contrast material
+d_8872,diagnostic ultrasound heart
+d_8873,diagnostic ultrasound sites thorax
+d_8874,diagnostic ultrasound digestive system
+d_8876,diagnostic ultrasound abdomen retroperitoneum
+d_8877,diagnostic ultrasound peripheral vascular system
+d_8891,magnetic resonance imaging brain brain stem
+d_8901,open wound hip thigh complicated
+d_8910,open wound knee leg except thigh ankle menti
+d_8911,open wound knee leg except thigh ankle complicated
+d_8912,open wound knee leg except thigh ankle tendon i
+d_8914,electroencephalogram
+d_8919,video radio-telemetered electroencephalographic monitoring
+d_8920,open wound foot except toes alone mention compl
+d_8945,artificial pacemaker rate check
+d_8949,automatic implantable cardioverterdefibrillator aicd check
+d_8952,electrocardiogram
+d_8959,nonoperative cardiac vascular measurements
+d_8960,continuous intra-arterial blood gas monitoring
+d_8961,systemic arterial pressure monitoring
+d_8962,central venous pressure monitoring
+d_8964,pulmonary artery wedge monitoring
+d_8968,monitoring cardiac output technique
+d_90082,injury multiple blood vessels head neck
+d_90089,injury specified blood vessels head neck
+d_9010,injury thoracic aorta
+d_90241,injury renal artery
+d_90289,injury specified blood vessels abdomen pelvis
+d_9031,injury brachial blood vessels
+d_9032,injury radial blood vessels
+d_9035,injury digital blood vessels
+d_90441,injury popliteal artery
+d_9047,injury specified blood vessels lower extremity
+d_9053,late effect fracture neck femur
+d_9054,late effect fracture lower extremities
+d_9064,late effect crushing
+d_9070,late effect intracranial injury mention skull frac
+d_9072,late effect spinal cord injury
+d_9089,late effect unspecified injury
+d_9092,late effect radiation
+d_9093,late effect complications surgical medical care
+d_9100,abrasion friction burn face neck scalp except eye
+d_9130,abrasion friction burn elbow forearm wrist
+d_9160,abrasion friction burn hip thigh leg ankle
+d_9181,superficial injury cornea
+d_9190,abrasion friction burn multiple unspecified si
+d_920,contusion face scalp neck except eyes
+d_9210,black eye otherwise specified
+d_9211,contusion eyelids periocular area
+d_9212,contusion orbital tissues
+d_9213,contusion eyeball
+d_9221,contusion chest wall
+d_9222,contusion abdominal wall
+d_92232,contusion buttock
+d_9224,teleradiotherapy using photons
+d_9227,implantation insertion radioactive elements
+d_9229,radiotherapeutic procedure
+d_9230,stereotactic radiosurgery otherwise specified
+d_92303,contusion upper arm
+d_92400,contusion thigh
+d_92410,contusion lower leg
+d_92411,contusion knee
+d_92619,crushing injury specified sites trunk
+d_92720,crushing injury hands
+d_9331,foreign body larynx
+d_9340,foreign body trachea
+d_9341,foreign body main bronchus
+d_9341,spinal traction using skull device
+d_9344,skeletal traction
+d_9348,foreign body specified parts bronchus lung
+d_9349,foreign body respiratory tree unspecified
+d_9351,foreign body esophagus
+d_9352,foreign body stomach
+d_9353,application cast
+d_9354,application splint
+d_9356,application pressure dressing
+d_9357,application wound dressing
+d_9359,immobilization pressure attention wound
+d_936,foreign body intestine colon
+d_9390,non-invasive mechanical ventilation
+d_9396,oxygen enrichment
+d_9425,psychiatric drug therapy
+d_9462,alcohol detoxification
+d_9465,drug detoxification
+d_9468,combined alcohol drug detoxification
+d_94800,burn degree involving less percent body surface
+d_95200,level unspecified spinal cord injury
+d_9543,audiological evaluation
+d_9547,hearing examination otherwise specified
+d_9552,injury ulnar nerve
+d_9553,injury radial nerve
+d_9563,injury peroneal nerve
+d_9584,traumatic shock
+d_9588,early complications trauma
+d_95892,traumatic compartment syndrome lower extremity
+d_95893,traumatic compartment syndrome abdomen
+d_95912,injury abdomen
+d_9597,knee leg ankle foot injury
+d_9604,insertion endotracheal tube
+d_9605,intubation respiratory tract
+d_9606,insertion sengstaken tube
+d_9607,insertion naso-gastric tube
+d_9608,insertion naso-intestinal tube
+d_9609,insertion rectal tube
+d_9623,dilation anal sphincter
+d_9623,poisoning insulins antidiabetic agents
+d_9627,manual reduction hernia
+d_9633,gastric lavage
+d_9634,irrigation naso-gastric tube
+d_9636,irrigation gastrostomy enterostomy
+d_9638,removal impacted feces
+d_9648,irrigation indwelling urinary catheter
+d_9649,genitourinary instillation
+d_96500,poisoning opium alkaloids unspecified
+d_96501,poisoning heroin
+d_96502,poisoning methadone
+d_96509,poisoning opiates related narcotics
+d_9651,poisoning salicylates
+d_9654,poisoning aromatic analgesics elsewhere
+d_9655,tracheostomy toilette
+d_9656,lavage bronchus trachea
+d_9658,poisoning specified analgesics antipyretics
+d_9659,irrigation wound
+d_966,enteral infusion concentrated nutritional substances
+d_9663,poisoning unspecified anticonvulsants
+d_9671,continuous invasive mechanical ventilation less cons
+d_9672,continuous invasive mechanical ventilation consecutive ho
+d_9678,poisoning sedatives hypnotics
+d_9679,poisoning unspecified sedative hypnotic
+d_9680,poisoning central nervous system muscle-tone depressants
+d_9684,poisoning unspecified general anesthetics
+d_96909,poisoning antidepressants
+d_9693,poisoning antipsychotics neuroleptics major tranq
+d_9694,poisoning benzodiazepine-based tranquilizers
+d_9701,replacement naso-gastric esophagostomy tube
+d_9702,replacement gastrostomy tube
+d_9703,replacement tube enterostomy device small intestine
+d_9705,replacement stent tube biliary pancreatic duct
+d_97081,poisoning cocaine
+d_9713,poisoning sympatholytics antiadrenergics
+d_9723,replacement tracheostomy tube
+d_9726,poisoning antihypertensive agents
+d_9729,poisoning unspecified agents primarily affecting th
+d_9729,nonoperative replacements
+d_9737,removal tracheostomy tube
+d_9741,removal thoracotomy tube pleural cavity drain
+d_9744,nonoperative removal heart assist system
+d_9749,removal device thorax
+d_9751,removal gastrostomy tube
+d_9754,poisoning antitussives
+d_9755,removal t-tube bile duct tube liver tube
+d_9756,removal pancreatic tube drain
+d_9761,removal pyelostomy nephrostomy tube
+d_9762,removal ureterostomy tube ureteral catheter
+d_9782,removal peritoneal drainage device
+d_9788,removal external immobilization device
+d_9802,removal intraluminal foreign body esophagus inci
+d_9802,toxic effect isopropyl alcohol
+d_9803,removal intraluminal foreign body stomach small inte
+d_9815,removal intraluminal foreign body trachea bronchus
+d_9900,perioperative autologous transfusion whole blood blood com
+d_9901,exchange transfusion
+d_9904,transfusion packed cells
+d_9905,transfusion platelets
+d_9906,transfusion coagulation factors
+d_9907,transfusion serum
+d_9909,transfusion substance
+d_9910,injection infusion thrombolytic agent
+d_9912,immunization allergy
+d_9914,injection infusion immunoglobulin
+d_9915,parenteral infusion concentrated nutritional substances
+d_9916,hypothermia
+d_9917,injection insulin
+d_9919,injection anticoagulant
+d_9920,injection infusion platelet inhibitor
+d_9921,injection antibiotic
+d_9923,injection steroid
+d_9925,injection infusion cancer chemotherapeutic substance
+d_9928,injection infusion biological response modifier brm
+d_9929,injection infusion therapeutic prophylactic subst
+d_9939,administration diphtheria-tetanus-pertussis combined
+d_9941,drowning nonfatal submersion
+d_9941,administration poliomyelitis vaccine
+d_9950,anaphylactic reaction
+d_9951,angioneurotic edema elsewhere
+d_9952,prophylactic vaccination against influenza
+d_99529,unspecified adverse effect drug medicinal biologic
+d_9955,prophylactic administration vaccine against diseases
+d_99590,systemic inflammatory response syndrome unspecified
+d_99591,sepsis
+d_99592,severe sepsis
+d_99593,systemic inflammatory response syndrome due noninfectious pro
+d_9960,cardiopulmonary resuscitation otherwise specified
+d_99601,mechanical complication due cardiac pacemaker electrode
+d_99602,mechanical complication due heart valve prosthesis
+d_99603,mechanical complication due coronary bypass graft
+d_99604,mechanical complication automatic implantable cardiac defibri
+d_99609,mechanical complication cardiac device implant gr
+d_9961,atrial cardioversion
+d_9961,mechanical complication vascular device implant
+d_9962,electric countershock heart
+d_9962,mechanical complication nervous system device implant
+d_99631,mechanical complication due urethral indwelling catheter
+d_99639,mechanical complication genitourinary device implant
+d_99642,dislocation prosthetic joint
+d_99644,peri-prosthetic fracture around prosthetic joint
+d_99649,mechanical complication internal orthopedic devic
+d_99652,mechanical complication due graft tissue elsewh
+d_99656,mechanical complication due peritoneal dialysis catheter
+d_99657,mechanical complication due insulin pump
+d_99659,mechanical complication due implant internal device
+d_99661,infection inflammatory reaction due cardiac device impla
+d_99662,infection inflammatory reaction due vascular device
+d_99663,infection inflammatory reaction due nervous system device
+d_99664,infection inflammatory reaction due indwelling urinary ca
+d_99665,infection inflammatory reaction due genitourinary
+d_99666,infection inflammatory reaction due internal joint prosth
+d_99667,infection inflammatory reaction due internal orthop
+d_99668,infection inflammatory reaction due peritoneal dialysis
+d_99669,infection inflammatory reaction due internal prosth
+d_99671,complications due heart valve prosthesis
+d_99672,complications due cardiac device implant gr
+d_99673,complications due renal dialysis device implant
+d_99674,complications due vascular device implant
+d_99675,complications due nervous system device implant
+d_99676,complications due genitourinary device implant gr
+d_99678,complications due internal orthopedic device imp
+d_99679,complications due internal prosthetic device imp
+d_99681,complications transplanted kidney
+d_99682,complications transplanted liver
+d_99685,complications transplanted bone marrow
+d_99686,complications transplanted pancreas
+d_99689,complications specified transplanted organ
+d_9969,conversion cardiac rhythm
+d_99701,central nervous system complication
+d_99702,iatrogenic cerebrovascular infarction hemorrhage
+d_99709,nervous system complications
+d_9971,cardiac complications elsewhere
+d_9971,therapeutic plasmapheresis
+d_9972,peripheral vascular complications elsewhere
+d_9972,therapeutic leukopheresis
+d_99731,ventilator associated pneumonia
+d_99739,respiratory complications
+d_99749,digestive system complications
+d_9975,urinary complications elsewhere
+d_99762,infection chronic amputation stump
+d_99769,amputation stump complication
+d_9977,application administration adhesion barrier substance
+d_99779,vascular complications vessels
+d_9978,aquapheresis
+d_9979,therapeutic apheresis
+d_99799,complications affecting specified body systems elsewh
+d_99809,postoperative shock
+d_99811,hemorrhage complicating procedure
+d_99812,hematoma complicating procedure
+d_99813,seroma complicating procedure
+d_9982,ultraviolet light therapy
+d_9982,accidental puncture laceration during procedure elsewh
+d_9983,phototherapy
+d_99830,disruption wound unspecified
+d_99831,disruption internal operation surgical wound
+d_99832,disruption external operation surgical wound
+d_9984,foreign body accidentally left during procedure
+d_99851,infected postoperative seroma
+d_99859,postoperative infection
+d_9986,persistent postoperative fistula
+d_99881,emphysema subcutaneous surgical resulting procedure
+d_99883,non-healing surgical wound
+d_99889,specified complications procedures elsewhere classi
+d_9992,vascular complications medical care elsewhere clas
+d_99931,unspecified infection due central venous catheter
+d_99932,bloodstream infection due central venous catheter
+d_99939,infection following infusion injection transfusion v
+d_99989,transfusion reaction
+d_9999,miscellaneous procedures
+d_9999,unspecified complications medical care elsewhe
+p_ABAC300,abacavir oral solution
+p_ABAC300,abacavir sulfate
+p_ACE250,acetazolamide
+p_ACET1000I,acetaminophen iv
+p_ACET100L,aceta
+p_ACET20/4I,acetylcystei
+p_ACET20/4I,norepinephrine bitartrate
+p_ACET20/4I,acetylcys
+p_ACET20/4I,acetylcystein
+p_ACET20/4I,acetylc
+p_ACET20/4I,acetylcysteine
+p_ACET325,acetami
+p_ACET325,tylenol
+p_ACET325,ace
+p_ACET650L,acetamin
+p_ACET650L,acetaminophe
+p_ACET650L,acet
+p_ACET650L,acetam
+p_ACET650R,acetaminophen
+p_ACET650R,acetaminop
+p_ACTHIBNEO,neo*im*haemophilus conj vac
+p_ACY5O,acyclovir ointment
+p_ACY5O,zovirax
+p_ACYC200,acyclovir
+p_ADAL30,procardia xl
+p_ADAL60,nif
+p_ADAL60,nifed
+p_ADAL90,nifedipine cr
+p_ADAL90,nifedi
+p_ADEN6I,adenosine
+p_ADVA100/50H,fluticasone salmeterol
+p_ADVA250IH,fluticasone salmeterol diskus
+p_ADVA500/50,salmeterol fluticasone
+p_ADVA500/50,advair diskus
+p_AGGRCAP,dipyridamole aspirin
+p_ALBU17H,albuterol
+p_ALBU17H,albuterol mdi
+p_ALBU3H,albuterol neb soln
+p_ALBU5250,alb
+p_ALBU5250,albu
+p_ALBU5250,albumi
+p_ALBU5250,album
+p_ALBU5500,albumin
+p_ALBU5H,albute
+p_ALBU5H,albut
+p_ALBU5H,albuter
+p_ALBU5H,albuterol sulfate
+p_ALEN70,fosamax
+p_ALEN70,alendronate sodium
+p_ALLO300,allopurinol
+p_ALPH0.15O,brimonidine
+p_ALPH0.15O,brimonidine tartrate ophth.
+p_ALPH0.15O,alphagan
+p_ALPR1,alprazolam
+p_ALPR25,xanax
+p_ALTE1/5I,alteplase 5ml
+p_ALTE1I,alteplase flush volume
+p_ALTE1I,alteplase
+p_ALTE1I,alteplase 1ml
+p_ALUMI30L,aluminum hydroxide
+p_ALUMI30L,aluminum hydroxide suspension
+p_ALUMI30L,alternagel
+p_AMAN100,amantadine
+p_AMBI5,zolpidem tartrate
+p_AMID200,amiodarone
+p_AMID200,pacerone
+p_AMID200,amiod
+p_AMIN5,aminocaproic
+p_AMIN5,aminocaproic acid
+p_AMIN5,aminocapr
+p_AMIN5,amicar
+p_AMIO150I,amiodarone hcl
+p_AMIO40L,amiodarone oral suspension
+p_AMIT25,amitriptyline hcl
+p_AMIT50,amitriptyline
+p_AMLO5,amlodipine besylate
+p_AMLO5,amlodipine
+p_AMOX250,amoxicillin oral susp.
+p_AMOX500,amoxicillin
+p_AMOX500,amoxicillin trihydrate
+p_AMP50I,amphotericin
+p_AMPI500,ampicillin
+p_AMPI500,ampicillin sodium
+p_AMPI500,ampicil
+p_ANAS1,arimidex
+p_ANAS1,anastrozole
+p_ANUS1O,pramoxine mineral oil zinc
+p_ANUS1O,tucks
+p_ANUS1O,pramoxine hcl
+p_ANUS1O,tuck
+p_ANUS1O,anusol ointment
+p_ANUS1O,tucks hemorrhoidal oint
+p_ANUSHC,anusol
+p_ANUSHC,anusol hc
+p_ANUSHCOINT,hydrocortisone acetate ointment
+p_APAP500,tylenol pm extra strength
+p_AQUA400O,aquaphor ointment
+p_ARGA250I,argatroban
+p_ARIP10,aripiprazole
+p_ARIP15,abilify
+p_ARTI3.5O,akwa tears
+p_ARTI3.5O,white petrolatum mineral oil
+p_ARTI3.5O,lactaid
+p_ARTI3.5O,artificial tear
+p_ARTI3.5O,artificial tear ointment
+p_ARTTS,artifi
+p_ARTTS,artificial
+p_ARTTS,artificial tears
+p_ARTTS,artif
+p_ASA325,aspi
+p_ASA325,asa
+p_ASA325,aspir
+p_ASA81,asp
+p_ASA81,aspiri
+p_ASA81,asa81
+p_ASA81,aspirin childrens
+p_ASAEC325,aspirin
+p_ASCO500,ascorbic acid
+p_ASPIDESEN,aspirin desens
+p_ASPIDESEN,aspirin desensitization
+p_ATAZ150,atazanavir
+p_ATEN25,atenolol
+p_ATOR10,lipitor
+p_ATOR20,atorvastatin
+p_ATOV750S,atovaquone suspension
+p_ATRO1/15ES,atropine sulfate ophth
+p_ATRO1/15ES,atropine
+p_ATRO1I,atropine sulfate
+p_AUGM500,amoxicillin clavulanic acid
+p_AUGMSUSP,augmentin suspension
+p_AUGMSUSP,amoxicillin clavulanate susp.
+p_AZAT50,azathioprine
+p_AZIT600,azithromycin
+p_AZTR2I,aztreonam
+p_BACI15O,bacitracin ointment
+p_BACIEO,bacitracin ophthalmic oint
+p_BACIEO,bacitracin
+p_BACL10,baclofen
+p_BACT2/15C,mupirocin
+p_BACT2/15C,mupirocin calcium
+p_BACT2/1O,mupirocin nasal ointment
+p_BACT20L,sulfameth trime
+p_BACT20L,sulfameth trimet
+p_BACT20L,sulfameth tri
+p_BACT20L,sulfame
+p_BACT20L,bactrim
+p_BACT20L,sulfameth trimethopr
+p_BACT20L,sulfa
+p_BACT20L,sulfameth trimethoprim suspension
+p_BACT20L,sulfameth trim
+p_BACT20L,bact
+p_BACT20L,sulfameth
+p_BACT20L,bactri
+p_BACT20L,sulfameth trimetho
+p_BACT20L,sulfameth trimethoprim
+p_BACT20L,sulfameth trimeth
+p_BACT20L,bactr
+p_BACT2C,mupirocin cream
+p_BACT2C,bactroban
+p_BACTDS,sulfameth trimethoprim ds
+p_BACTSS,sulfameth trimethoprim ss
+p_BACTSS,bactrim ss
+p_BACTSS,sulfamet
+p_BACTSS,sulfameth trimethopri
+p_BACTSSSM,sulfameth trimeth ss
+p_BARI2/450L,readi cat
+p_BECLINH,qvar
+p_BECLINH,beclomethasone dipropionate inhalation
+p_BECLINH,beclomethasone dipropionate
+p_BECLINH,beclomethasone dipro mcg inh
+p_BECONASEAQ,beclomethasone
+p_BECONASEAQ,beconase
+p_BECONASEAQ,beclomethasone dipro. aq
+p_BENGAY2O,methyl salicylate menthol ointment
+p_BENGAY2O,bengay
+p_BENZ100,benzonatate
+p_BENZ1I,benztropine mesylate
+p_BERA4I,beractant
+p_BETA25ES,betaxolol hcl
+p_BETA25ES,betaxolol ophth susp
+p_BETA25ES,betoptic
+p_BIAX250,biaxin
+p_BIAX250,clarithromycin
+p_BICI30L,sod citrate citric acid
+p_BICI30L,sodium citrate citric acid
+p_BICI30L,bicitra
+p_BICI30L,citric acid sodium citrate
+p_BIMA.03E,lumigan
+p_BIMA.03E,bimatoprost
+p_BISA10R,bisaco
+p_BISA10R,biscolax
+p_BISA10R,bisacodyl
+p_BISA5,bisacody
+p_BUDE0.5,pulmicort
+p_BUDE3,budesonide
+p_BUDE3,entocort
+p_BUME.5I,bumetanide
+p_BUPI5I,bupivacain
+p_BUPI5I,bupivacaine
+p_BUPR100SR,buprop
+p_BUPR100SR,wellbutrin
+p_BUPR150,bupr
+p_BUPR150,bupro
+p_BUPR150,wellb
+p_BUPR150,bupropio
+p_BUPR150,wellbutrin sr
+p_BUPR150,bupropion sr
+p_BUPR150,bupropion
+p_BUPR75,bupropion hcl
+p_BUSP5,buspirone
+p_CAFCIT,neo*po*caffeine citrate
+p_CAL1250,calcium carbonate
+p_CAL1250,calc
+p_CALC100SI,calcium chloride
+p_CALC1250L,calcium carbonate suspension
+p_CALC25,calcitriol
+p_CALC25,calcitri
+p_CALC25,rocaltrol
+p_CALC2N,calcitonin salmon nasal
+p_CALC2N,miacalcin
+p_CALC2N,miacal
+p_CALC400I,calcitonin salmon
+p_CALC500,calcitrate
+p_CALC500,calcium
+p_CALC667,calcium acetate
+p_CALG1I,calcium replacement
+p_CALG1I,calciu
+p_CALG1I,calcium gluco
+p_CALG1I,calcium gluconate replacement
+p_CALG1I,calcium gluconate
+p_CAPH15L,caphosol
+p_CAPH15L,saliva substitution combo no.5
+p_CAPH15L,saliva substitution combo no.2
+p_CAPT125,capt
+p_CAPT25,capoten
+p_CAPT25,captopril
+p_CARA1,carafate
+p_CARA1,sucralfate enema
+p_CARA1,sucralfate
+p_CARB200,carbamazepine
+p_CARB200L,carbamazepine suspension
+p_CARB200L,carbamazepine chewable tabs
+p_CARV625,carvedilol
+p_CATA1,catapres
+p_CATA1,clonidine
+p_CATA1,clonidine hcl
+p_CEFE2I,cefepime
+p_CEFP100,cefpodoxime proxetil
+p_CEFP100,cefpodo
+p_CEFT1V,ceftazidime
+p_CELE200,celecoxib
+p_CELE200,celebrex
+p_CEPACOL1,cetylpyridinium chl
+p_CEPACOL1,cepacol
+p_CEPACOL1,menthol cetylpyridinium cl
+p_CEPH500,cephalexin
+p_CHL500I,chlorothiazide sodium
+p_CHL500I,chlorothiazide
+p_CHLO15L,chlorhexidine gluconate
+p_CHLO15L,chlorhexidine gluconate oral rinse
+p_CHLO15L,peridex
+p_CHLO180S,chloraseptic throat spray
+p_CHLO180S,phenaseptic throat spray
+p_CHOL4G,cholestyramine
+p_CHOL4G,questran
+p_CHTH25,chlorthalidone
+p_CILO25ES,ciprofloxacin ophth soln
+p_CILO25ES,cipro hc
+p_CILOS100,cilostazol
+p_CILOS100,pletal
+p_CILOS100,cilostaz
+p_CILOS100,*nf
+p_CILOS100,cilo
+p_CILOS100,cilos
+p_CILOS100,cil
+p_CINA30,cinacalcet
+p_CINA30,cinacalcet hcl
+p_CINA30,sensipar
+p_CIPR250,ciprofloxacin
+p_CIPR500,ciprofloxacin hcl
+p_CISA10I,cisatracurium besylate
+p_CISA10I,cisatracurium
+p_CITA20,citalopram
+p_CITA20,citalopram hydrobromide
+p_CLIN150,clindamycin
+p_CLIN150,clindamycin hcl
+p_CLOB.05C30,clobetasol propionate cream
+p_CLOB.05C30,clobetasol
+p_CLOB.05O30,clobetasol propionate ointment
+p_CLON2P,clonidine tts
+p_CLON2P,clonidine patch
+p_CLON3P,clonidine patch hr
+p_CLON3P,clonidine tts patch
+p_CLON5,clonazepam
+p_CLOP75,clopidogrel bisulfate
+p_CLOP75,clopidogrel
+p_CLOP75,clopidogrel desensitization
+p_CLOT10,clotrimazole
+p_CLOT130C,clotrimazole cream
+p_CLOZ100,clozapine
+p_CODE30,codeine sulfate
+p_CODE30,codeine
+p_CODE30I,codeine phosphate
+p_COLC6,colchicine
+p_COLL30O,collagenase ointment
+p_COMB14.7H,albuterol sulfate ipratropium
+p_COMB14.7H,combivent
+p_COMB14.7H,albuterol ipratropium
+p_COMBTAB,lamivudine zidovudine
+p_COMP10I,prochlorperazine
+p_COSO10O,dorzolamide timolol
+p_COSO10O,dorzolamide timolol ophth.
+p_COSO5ES,cosopt
+p_COSY25I,cosyntropin
+p_COZA25,cozaar
+p_COZA25,losartan potassium
+p_COZAA50,losartan
+p_CREO10,creon
+p_CRIT6T,critic aid clear
+p_CRIT6T,critic aid
+p_CRIT6T,critic aid clear af
+p_CRIT6T,critic aid skin paste
+p_CYAN1I,cyanocobalamin
+p_CYAN500,cyanoc
+p_CYCL0.05ES,restasis
+p_CYCL0.05ES,cyclosporine
+p_CYCL1/2ES,cyclopentolate
+p_CYCL10,cyclobenzaprine hcl
+p_CYCL10,cyclobenzaprine
+p_CYCL2O,cyclopentolate phenylephrine
+p_DABI150,dabigatran etexilate
+p_DABI150,pradaxa
+p_DAKINQS,dakins
+p_DAKINQS,dakins strength
+p_DAPS100,dapsone
+p_DARV100,propoxyphene nap. apap
+p_DARV100,darvocet
+p_DDAV1N,desmopressin nasal
+p_DDAV1N,desmopressi
+p_DDAV4I,desmopressin acetate
+p_DEPA500ER,divalproex sodium er
+p_DESI2C,neo*desitin creamy
+p_DESI30O,zinc oxide
+p_DESI30O,desitin
+p_DEX50SY,dex
+p_DEX50SY,dext
+p_DEX50SY,dextr
+p_DEX50SY,dextrose
+p_DEX50SY,dextros
+p_DEXA15,dexameth
+p_DEXA15,dexametha
+p_DEXA2,dexamet
+p_DEXA2,dexame
+p_DEXA2,dexamethason
+p_DEXA2,dexam
+p_DEXA2,dexamethaso
+p_DEXA4,dexa
+p_DEXA4,dexamethas
+p_DEXA4I,de
+p_DEXA4I,dexamethasone
+p_DEXA4I,dexamethasone sod phosphate
+p_DEXM200I,dexmedetomidine
+p_DEXT30L,dextromethorphan poly complex
+p_DIAZ5,valium
+p_DIAZ5,diazepam
+p_DICL10,dicyclomine
+p_DICL500,dicloxacillin
+p_DIGO125,dig
+p_DIGO125,digoxin
+p_DIGO25,digo
+p_DILA100,phenytoin sodium extended
+p_DILA100,phenyt
+p_DILA100,dilantin extended
+p_DILT30,diltiazem
+p_DILT500I,procainamide hcl
+p_DIPH25,diphenhydramine hcl
+p_DIPH25L,benadryl allergy
+p_DIPH25L,diphenhydramine
+p_DITU4L,dextromethorphan guaifenesin
+p_DIVA125SP,divalproex sod. sprinkles
+p_DIVA250,dival
+p_DIVA250,divalpro
+p_DIVA250,divalproex
+p_DIVA500,depakote
+p_DIVA500,divalproex sodium
+p_DOCU100,docusate sodi
+p_DOCU100,docusate sod
+p_DOCU100,doc
+p_DOCU100,docus
+p_DOCU100,docusate sodium
+p_DOCU100L,docusate sodiu
+p_DOCU100L,docusate so
+p_DOCU100L,docusat
+p_DOCU100L,docusate
+p_DOCU100L,docu
+p_DOCU100L,docusa
+p_DOFE250,dofetilide
+p_DOLA12.5I,dolasetron mesylate
+p_DOLA12.5I,anzemet
+p_DOLA12.5I,dolasetron mesylate i.v.
+p_DONE5,aricept
+p_DONE5,donepezil
+p_DOPA400I,dopamine
+p_DORZ2S,dorzolamide
+p_DORZ2S,dorzolamide ophth. soln.
+p_DOXA1,doxazosin
+p_DOXA1,cardura
+p_DOXE25,doxepin hcl
+p_DOXE2I,doxercalciferol
+p_DOXY100C,doxycycline monohydrate
+p_DOXY100C,doxycycline hyclate
+p_DOXY100C,doxycy
+p_DRON25,dronabinol
+p_DROP5I,droperidol
+p_DTAP,neo*im*dt acellular pertussis
+p_DTO.6ML,opium tincture
+p_DTO.6ML,opium deodorized tinc.
+p_DULO20,cymbalta
+p_DULO20,duloxetine
+p_DURA,lacri lube oint
+p_DURA,lacri lube
+p_DYAZ1,triamterene hydrochlorothiazid
+p_DYAZ1,triamterene hydrochlorothiazide
+p_DYAZ1,triamterene
+d_E0009,unspecified external cause status
+d_E8147,motor vehicle traffic accident involving collision pedestri
+d_E8162,motor vehicle traffic accident due loss control
+d_E8190,motor vehicle traffic accident unspecified nature injuring dr
+d_E8192,motor vehicle traffic accident unspecified nature injuring mo
+d_E8199,motor vehicle traffic accident unspecified nature injuring
+d_E8210,nontraffic accident involving off-road motor vehicle injur
+d_E8261,pedal cycle accident injuring pedal cyclist
+d_E8490,home accidents
+d_E8493,accidents occurring industrial places premises
+d_E8495,street highway accidents
+d_E8497,accidents occurring residential institution
+d_E8498,accidents occurring specified places
+d_E8499,accidents occurring unspecified place
+d_E8500,accidental poisoning heroin
+d_E8501,accidental poisoning methadone
+d_E8502,accidental poisoning opiates related narcotics
+d_E8504,accidental poisoning aromatic analgesics elsewhere class
+d_E8528,accidental poisoning specified sedatives hypnotics
+d_E8529,accidental poisoning unspecified sedative hypnotic
+d_E8532,accidental poisoning benzodiazepine-based tranquilizers
+d_E8538,accidental poisoning specified tranquilizers
+d_E8542,accidental poisoning psychostimulants
+d_E8543,accidental poisoning central nervous system stimulants
+d_E8556,accidental poisoning sympatholytics antiadrenergics
+d_E8580,accidental poisoning hormones synthetic substitutes
+d_E8583,accidental poisoning agents primarily affecting cardiovascula
+d_E8700,accidental cut puncture perforation hemorrhage during surgi
+d_E8704,accidental cut puncture perforation hemorrhage during endos
+d_E8705,accidental cut puncture perforation hemorrhage during aspir
+d_E8706,accidental cut puncture perforation hemorrhage during heart
+d_E8708,accidental cut puncture perforation hemorrhage during
+d_E8768,specified misadventures during medical care
+d_E8780,surgical operation transplant whole organ causing abnorm
+d_E8781,surgical operation implant artificial internal device ca
+d_E8782,surgical operation anastomosis bypass graft natu
+d_E8783,surgical operation formation external stoma causing abno
+d_E8784,restorative surgery causing abnormal patient reaction
+d_E8785,amputation limbs causing abnormal patient reaction late
+d_E8786,removal organ partial total causing abnormal patien
+d_E8788,specified surgical operations procedures causing abnor
+d_E8790,cardiac catheterization cause abnormal reaction pat
+d_E8791,kidney dialysis cause abnormal reaction patient
+d_E8792,radiological procedure radiotherapy cause abnormal
+d_E8794,aspiration fluid cause abnormal reaction patient
+d_E8796,urinary catheterization cause abnormal reaction pat
+d_E8798,specified procedures cause abnormal reaction
+d_E8799,unspecified procedure cause abnormal reaction patie
+d_E8809,accidental fall stairs steps
+d_E8810,accidental fall ladder
+d_E882,accidental fall out building structure
+d_E8830,accident diving jumping water swimming pool
+d_E8842,accidental fall chair
+d_E8843,accidental fall wheelchair
+d_E8844,accidental fall bed
+d_E8846,accidental fall commode
+d_E8849,accidental fall level another
+d_E8859,fall slipping tripping stumbling
+d_E887,fracture cause unspecified
+d_E8881,fall resulting striking against object
+d_E8888,fall
+d_E8889,unspecified fall
+d_E9010,accident due excessive cold due weather conditions
+d_E911,inhalation ingestion food causing obstruction respirat
+d_E912,inhalation ingestion object causing obstruction
+d_E915,foreign body accidentally entering orifice
+d_E9173,striking against struck accidentally furniture sub
+d_E9174,striking against struck accidentally stationary obje
+d_E9179,accident caused striking against being struck accide
+d_E918,caught accidentally between objects
+d_E9194,accidents caused woodworking forming machines
+d_E9220,accident caused handgun
+d_E9248,accident caused hot substance object
+d_E9278,overexertion strenuous repetitive movements loa
+d_E9283,human bite
+d_E9288,accidents
+d_E9289,unspecified accident
+d_E9290,late effects motor vehicle accident
+d_E9291,late effects transport accident
+d_E9293,late effects accidental fall
+d_E9298,late effects accidents
+d_E9299,late effects unspecified accident
+d_E9300,penicillins causing adverse effects therapeutic use
+d_E9301,antifungal antibiotics causing adverse effects therapeutic us
+d_E9305,cephalosporin group causing adverse effects therapeutic use
+d_E9307,antineoplastic antibiotics causing adverse effects therapeuti
+d_E9308,specified antibiotics causing adverse effects therapeut
+d_E9309,unspecified antibiotic causing adverse effects therapeutic us
+d_E9310,sulfonamides causing adverse effects therapeutic use
+d_E9313,quinoline hydroxyquinoline derivatives causing adverse effec
+d_E9315,antiprotozoal drugs causing adverse effects therapeutic
+d_E9317,antiviral drugs causing adverse effects therapeutic use
+d_E9319,unspecified anti-infectives causing adverse effects
+d_E9320,adrenal cortical steroids causing adverse effects therapeutic
+d_E9323,insulins antidiabetic agents causing adverse effects ther
+d_E9330,antiallergic antiemetic drugs causing adverse effects
+d_E9331,antineoplastic immunosuppressive drugs causing adverse effec
+d_E9342,anticoagulants causing adverse effects therapeutic use
+d_E9344,fibrinolysis-affecting drugs causing adverse effects therapeu
+d_E9348,agents affecting blood constituents causing adverse effect
+d_E9351,methadone causing averse effects therapeutic use
+d_E9352,opiates related narcotics causing adverse effects
+d_E9353,salicylates causing adverse effects therapeutic use
+d_E9354,aromatic analgesics elsewhere causing adverse
+d_E9356,antirheumatics antiphlogistics causing adverse effects ther
+d_E9358,specified analgesics antipyretics causing adverse effe
+d_E9359,unspecified analgesic antipyretic causing adverse effects
+d_E9361,hydantoin derivatives causing adverse effects therapeutic use
+d_E9363,unspecified anticonvulsants causing adverse effects
+d_E9378,sedatives hypnotics causing adverse effects therape
+d_E9379,unspecified sedatives hypnotics causing adverse effects
+d_E9383,intravenous anesthetics causing adverse effects therapeutic
+d_E9384,unspecified general anesthetics causing adverse effect
+d_E9390,antidepressants causing adverse effects therapeutic use
+d_E9391,phenothiazine-based tranquilizers causing adverse effects
+d_E9392,butyrophenone-based tranquilizers causing adverse effects
+d_E9393,antipsychotics neuroleptics major tranquilizers caus
+d_E9394,benzodiazepine-based tranquilizers causing adverse effects th
+d_E9398,psychotropic agents causing adverse effects therapeutic
+d_E9401,opiate antagonists causing adverse effects therapeutic use
+d_E9411,parasympatholytics anticholinergics antimuscarinics sp
+d_E9412,sympathomimetics adrenergics causing adverse effects therap
+d_E9413,sympatholytics antiadrenergics causing adverse effects ther
+d_E9420,cardiac rhythm regulators causing adverse effects therapeutic
+d_E9421,cardiotonic glycosides drugs similar action causing adver
+d_E9422,antilipemic antiarteriosclerotic drugs causing adverse effec
+d_E9424,coronary vasodilators causing adverse effects therapeutic use
+d_E9426,antihypertensive agents causing adverse effects therape
+d_E9429,unspecified agents primarily affecting cardiovascu
+d_E9430,antacids antigastric secretion drugs causing adverse effects
+d_E9444,diuretics causing adverse effects therapeutic use
+d_E9447,uric acid metabolism drugs causing adverse effects therapeuti
+d_E9452,skeletal muscle relaxants causing adverse effects therapeutic
+d_E9457,antiasthmatics causing adverse effects therapeutic use
+d_E9478,drugs medicinal substances causing adverse effects
+d_E9479,unspecified drug medicinal substance causing adverse effects
+d_E9500,suicide self-inflicted poisoning analgesics antipyretics
+d_E9503,suicide self-inflicted poisoning tranquilizers
+d_E9504,suicide self-inflicted poisoning specified drugs
+d_E9530,suicide self-inflicted injury hanging
+d_E9550,suicide self-inflicted injury handgun
+d_E956,suicide self-inflicted injury cutting piercing instru
+d_E9571,suicide self-inflicted injuries jumping man-ma
+d_E9588,suicide self-inflicted injury specified means
+d_E9600,unarmed fight brawl
+d_E9654,assault unspecified firearm
+d_E966,assault cutting piercing instrument
+d_E9682,assault striking blunt thrown object
+d_E9688,assault specified means
+d_E9689,assault unspecified means
+d_E969,late effects injury purposely inflicted person
+d_E9800,poisoning analgesics antipyretics antirheumatics undet
+d_E9804,poisoning specified drugs medicinal substances und
+d_E989,late effects injury undetermined whether accidentally pur
+p_EFAV600,efavirenz
+p_EMLA2.5,lidocaine prilocaine
+p_EMLA2.5,emla
+p_EMTR200,emtriva
+p_EMTR200,emtricitabine oral solution
+p_EMTR200,emtricitabine
+p_EMYC200L,ery
+p_EMYC200L,erythromycin ethylsuccinate suspension
+p_EMYC200L,eryth
+p_EMYC200L,erythro
+p_EMYC200L,erythromycin
+p_EMYC200L,erythromycin ethylsuccinate
+p_ENAL10,enalapril maleate
+p_ENAL25I,enalaprilat
+p_ENO3I,enoxaparin
+p_ENO3I,dobutamine hcl
+p_ENOX100I,lovenox
+p_ENOX80I,enoxaparin sodium
+p_ENTA200,comtan
+p_ENTA200,entacapone
+p_EPI15H,epinephrine inhalation
+p_EPI1I,epipen
+p_EPI1I,epinephrin
+p_EPI1I,epinephrine
+p_EPI1I,epin
+p_EPIPEN0.3I,epineph
+p_EPIPEN0.3I,epine
+p_EPIPEN0.3I,epinephri
+p_EPIPEN0.3I,epi
+p_EPIPEN0.3I,epinephrine auto injector
+p_EPIS10I,epinephrine hcl
+p_EPIS10I,epinephrine base
+p_EPIS10I,epinephrine sodium chloride
+p_EPLE25,eplerenone
+p_EPO4I,epoetin alfa
+p_ERGO400T,cholecalciferol
+p_ERGO400T,vitamin
+p_ERGO50,ergocalciferol
+p_ERYT0.5EO,erythromycin ophth oint
+p_ERYT250,erythromycin base
+p_ESCI10,lexapro
+p_ESCI10,escitalopram oxalate
+p_ESCI10,lexipro
+p_ESMO100I,esmolol
+p_ESTR625,estrogens conjugated
+p_ETHA400,ethambutol hcl
+p_ETOM2I,etomidate
+p_EUCE120C,eucerin
+p_EUCE120C,hydrocerin
+p_EZET10,zetia
+p_EZET10,ezetimibe
+p_FELO2.5,felodipine
+p_FEN625PCA,fentanyl pca
+p_FENO145,fenofibrate micronized
+p_FENO145,tricor
+p_FENO145,fenofibrate
+p_FENO145,fenofibric acid
+p_FENO48,fenofibrate nanocrystallized
+p_FENT25P,duragesic
+p_FENT2I,fentanyl citrate
+p_FENT50P,fentanyl patch
+p_FENT5I,neo*iv*fentanyl
+p_FENT75P,fentanyl
+p_FERR300L,ferrous
+p_FERR325,ferrous sulfate
+p_FERR62.5I,ferric gluconate
+p_FERRG,ferrous gluconate
+p_FEXO60,fexofe
+p_FEXO60,fexofenadine
+p_FINA5,finasteride
+p_FIOC,butalbital acet caffeine
+p_FIOC,fioricet
+p_FIOC,butalbital acetaminophen caff
+p_FIOC,acetaminophen caff butalbital
+p_FISH1000,fish oil
+p_FLEC50,flecainide acetate
+p_FLEC50,flecainide
+p_FLEETEN,fleet enema
+p_FLEETEN,sodium phosphate
+p_FLUC200,fluconazole
+p_FLUD100,fludrocortisone acetate
+p_FLUD100,florinef
+p_FLUM500I,flumazenil
+p_FLUT110H,flovent 110mcg
+p_FLUT110H,flovent
+p_FLUT110HFA,fluticasone
+p_FLUT110HFA,fluticasone propionate 110mcg
+p_FLUT16N,flonase
+p_FLUT16N,fluticasone propionate nasal
+p_FLUT16N,flonas
+p_FOLI1,folic acid
+p_FOLI5I,folic
+p_FOND2.5I,fondaparinux sodium
+p_FOND2.5I,fondaparinux
+p_FOSP100I,fosphenytoin sodium
+p_FOSP500I,fosphenytoin
+p_FPS45L,fleet
+p_FPS45L,fleet phospho soda
+p_FURO20,furosemide
+p_FURO40,lasix
+p_GABA250L,neurontin
+p_GABA400,gabapentin
+p_GAST30L,gastroview
+p_GCSF300I,filgrastim
+p_GELCLAIR,gelclair
+p_GEMF600,gemfibrozil
+p_GENT20I,gentamicin sulfate
+p_GENT20I,gentamicin
+p_GGAC5L,robit
+p_GGAC5L,codeine guaifenesin
+p_GGAC5L,guaifenesin ac
+p_GGAC5L,guaifenesin codeine phosphate
+p_GLAR100I,insulin glargine
+p_GLAR100I,glargine
+p_GLAR100I,lantus
+p_GLIM2,glimepiride
+p_GLIM2,amaryl
+p_GLIP5,glipizide
+p_GLUC10XL,glipizide xl
+p_GLUC1I,glucagon emergency
+p_GLUC1I,glucagon
+p_GLUC5XL,glipiz
+p_GLUT10,glutamine
+p_GLYB5,glyburide
+p_GLYC17,miralax
+p_GLYC17,polyethylene glycol
+p_GLYC17,glycolax
+p_GLYC1I,glyco
+p_GLYC1R,glycerin
+p_GLYCO4I,glycopyrrolate
+p_GLYCSUP,glycerin supps
+p_GLYO65OT,ear drops earwax aid
+p_GLYO65OT,carbamide peroxide
+p_GLYO65OT,debrox
+p_GLYO65OT,ear wax removal drops
+p_GLYO65OT,ear wax drops
+p_GOLY4L,golytely
+p_GUAI10,guai
+p_GUAI10,guaifenesin
+p_GUAI10,gu
+p_GUAI10,robitussin chest congestion
+p_GUAI10L,guaifenesin dextromethorphan
+p_GUAI600T,guaifenesin la
+p_GUAI600T,guaifenesin er
+p_GUAI600T,guaifen
+p_GUAI600T,mucinex
+p_GUAI600T,mucine
+p_GUAI600T,gua
+p_GUAI600T,mucin
+p_GUAI600T,mucinex dm
+p_GUAI600T,guaifene
+p_GUAI600T,guaife
+p_GUAI600T,guaif
+p_HAEM5I,haemophilus conj. vaccine
+p_HAEM5I,haemo
+p_HALD5I,haloperidol
+p_HC100I,hydrocortisone na succ.
+p_HC100I,hydrocortisone na succ
+p_HC100I,hydrocor
+p_HC20,hydrocortisone
+p_HC5,cortef
+p_HCTZ25,hydrochlorothiazide
+p_HEP10I,hepa
+p_HEP10I,heparin dwell
+p_HEP1I,heparin lock flush
+p_HEP1I,hepari
+p_HEP1I,heparin flus
+p_HEP1I,heparin lock
+p_HEP1I,heparin flu
+p_HEP1I,hep
+p_HEPA100SYR,heparin flush picc
+p_HEPA100SYR,heparin flush hickman
+p_HEPA100SYR,heparin flush cvl
+p_HEPA100SYR,heparin flush midline
+p_HEPA10S,heparin sodium
+p_HEPA10SYR,heparin flush
+p_HEPA30I,heparin crrt
+p_HEPA30I,hepar
+p_HEPA5I,heparin
+p_HEPA5I,heparin flush crrt
+p_HEPAR10I,heparin flush port
+p_HEPV10I,neo*im*hepatitis vaccine
+p_HUM100I,humalog
+p_HUMA75/25I,insulin lispro
+p_HUMA75/25I,humalog mix
+p_HUMU100I,insulin lispro desensitization protocol
+p_HUMU100I,humalog insulin
+p_HURRSPRAY,benzocaine spray
+p_HURRSPRAY,hurricaine spray
+p_HYD12.5PCA,hydromorphone pca
+p_HYDC200,hydroxychloroquine sulfate
+p_HYDC200,hydroxychloroquine
+p_HYDR1C,hydrocortisone cream
+p_HYDR2,hydromorphone hcl
+p_HYDR20/100NS,hydromorphone infusion comfort care guidelines
+p_HYDR2I,hydromorphone
+p_HYDU500,hydroxyurea
+p_HYDX25,hydroxyzine
+p_HYDX25,hydroxyzine hcl
+p_HYDZ20I,hydralazine hcl
+p_HYDZ20I,hydralazine
+p_IBU5S,ibuprofen suspension
+p_IBUP400,ibup
+p_IBUP400,ibuprofen
+p_ICPKIT,icpkit
+p_ICPKIT,sodium chloride kit
+p_ICPKIT,sodium ch
+p_ICPKIT,sodium chlor
+p_IMDU30,isosorbide mononi
+p_IMDU30,imd
+p_IMDU30,isos
+p_IMDU30,isosorbide mononitrate
+p_IMDU30,isosorbide mononitr
+p_IMDU30,imdu
+p_IMDU30,isosorbide mononitra
+p_IMDU30,isosorb
+p_IMDU30,isosorbide er
+p_IMDU30,isosorbide monon
+p_IMDU60,isosorbide mono
+p_IMDU60,isosorbide
+p_IN73HI,insulin human
+p_INDO25,indomethacin
+p_INFL0.5LF,influenza virus vaccine *latex free*
+p_INFL0.5LF,influenza virus vaccine
+p_INFV,influenza virus
+p_INNHI,insul
+p_INNHI,insuli
+p_INNHI,humulin
+p_INNHI,insulin human nph
+p_INNHI,insulin nph human recomb
+p_INRHI,humulin r
+p_INRHI,insulin human regular
+p_INRHI,insulin regular human
+p_INSULIN,insulin dum
+p_INSULIN,insulin
+p_INSULIN,insulin sliding scale
+p_INSUPUMP,insulin pump
+p_INTEG20I,eptifibatide
+p_IPRA2H,ipratropium
+p_IPRA2H,ipratropium bromide
+p_IPRA2H,ipratropium brom
+p_IPRA2H,ipratropium bromide neb
+p_IPRAPF,ipratropium bromide mdi
+p_IPRAPF,atrovent hfa
+p_IPRAPF,ipratropium bromide hfa
+p_IPRAPF,atrovent
+p_IRBE150,avapro
+p_IRBE150,irbesartan
+p_ISMO10,iso
+p_ISON300,isoniazid
+p_ISOP1I,isoproterenol hcl
+p_ISOP1I,isoproterenol
+p_ISOS10,isosorbide dinitrate
+p_ISOS10,isordil
+p_ISOS20,isordil titradose
+p_ISOS20,isosorbi
+p_ISOS20,isosorbide din
+p_KALE200/50,lopinavir ritonavir
+p_KALE200/50,kaletra
+p_KAYE15L,sodium polystyrene sulfonate
+p_KAYE15L,kayexalate
+p_KCL20P,potas
+p_KCL20P,potassium
+p_KCL20P,potassiu
+p_KCL20P,potassium chloride oral sol
+p_KCL20P,potass
+p_KET15C,ketoconazole
+p_KETA200I,ketamine hcl
+p_KETA5I,ketamin
+p_KETA5I,ketamine
+p_KETO15I,ketorolac tromethamine
+p_KETO15I,ketorolac
+p_KETO15I,keto
+p_LABE100I,labetalol hcl
+p_LABE100I,labet
+p_LABE200,labetalol
+p_LACT1000R,lactulose enema
+p_LACT12T,lactic acid lotion
+p_LACT12T,lac hydrin
+p_LACT12T,ammonium lactate
+p_LACT12T,amlactin
+p_LACT30L,lactulose
+p_LACT30L,lactul
+p_LAMI100,lami
+p_LAMI150,lamivudine
+p_LAMO100,lamotrig
+p_LAMO100,lamotrigine
+p_LAMO100,lamictal
+p_LANS15,prevacid 24hr
+p_LANS30,lansoprazole
+p_LANS30,lansop
+p_LANS30,prevacid
+p_LANS30L,lansoprazole oral solution
+p_LANS30L,lansoprazole oral suspension
+p_LANS30L,lansopr
+p_LANS30ST,lansoprazole oral disintegrating tab
+p_LANS30ST,prevac
+p_LANS30ST,lanso
+p_LANS30ST,lans
+p_LANT500,lanthanum
+p_LATA5OS,latanoprost
+p_LATA5OS,latanoprost ophth. soln.
+p_LATA5OS,xal
+p_LATA5OS,xalatan
+p_LEPR50I,lepirudin
+p_LEUC5,leucovorin calcium
+p_LEV500,levofloxacin
+p_LEVA0.63L,levalbuterol neb
+p_LEVA0.63L,xopenex neb
+p_LEVA0.63L,levalbuterol hcl
+p_LEVA0.63L,levalbuterol
+p_LEVA0.63L,xopenex
+p_LEVA0.63L,levalbuterol tartrate
+p_LEVA0.63L,xopenex hfa
+p_LEVA0.63L,levalbuterol soln
+p_LEVA0.63L,leva
+p_LEVE100L,levetiracetam solution
+p_LEVE100L,levetiracetam oral solution
+p_LEVE500,keppra
+p_LEVE500,levetiracetam
+p_LEVO100,levoxyl
+p_LEVO100,synth
+p_LEVO112,levothy
+p_LEVO125,levothyroxine
+p_LEVO150,levo
+p_LEVO25,synt
+p_LEVO25,neo*po*levothyroxine suspension
+p_LEVO25,levothyroxine sodium
+p_LEVO4I,norepinephrine
+p_LEVO75,levoth
+p_LEVS125,hyo
+p_LEVS125,hyoscyamine
+p_LEVS125,hyoscyamine sl
+p_LEVS125,hyosc
+p_LEVS125,levsin
+p_LEVS125,hyoscyami
+p_LID2J,lidocaine jelly
+p_LIDO0550I,lidocain
+p_LIDO100S,lidocaine
+p_LIDO1I,xylocaine
+p_LIDO1I,lidocaine pf
+p_LIDO2/5J,lidocaine jel
+p_LIDO20L,lidocaine viscous
+p_LIDO5O,lidocaine ointment
+p_LIDO5O,lidoc
+p_LIDO5O,lidoca
+p_LIDO5T,lidoderm patches
+p_LIDO5T,lidocaine patch
+p_LIDO5T,lidoderm
+p_LIDOPF130I,lidocaine p.f.
+p_LIEPI20I,lidocaine epinephrine
+p_LINE600,linezolid
+p_LISI5,lisinopril
+p_LITH300C,lithium carbonate
+p_LOMO,diphenoxylate atropine
+p_LOPE2,imodium
+p_LOPE2,loper
+p_LOPE2,loperamide
+p_LOPE2,loperamide hcl
+p_LORA1,loraz
+p_LORA10,claritin
+p_LORA10,loratadine
+p_LORA2I,neo*po*lorazepam oral concentrate
+p_LORA2I,lorazepam
+p_LORA2I,loraze
+p_LORA5,ativan
+p_LOVA20,lovastatin
+p_LOVA20,mevacor
+p_MAAL148,aluminum magnesium hydrox. simethicone
+p_MAAL30L,aluminum magnesium hydroxide
+p_MAAL30L,aluminum
+p_MAAL30L,maalox
+p_MAALLIDO120L,maalox lidocaine
+p_MABELI120,maalox diphenhydramine lidocaine
+p_MABELI120,maalox benadryl lidocaine
+p_MABELI120,maa
+p_MACR100,nitrofurantoin monohyd
+p_MAG2PM,magnesium
+p_MAGCITL,magnesium citrate
+p_MAGN400,magnesium oxide
+p_MAGO140,uro mag
+p_MAGS1I,potassium phosphate
+p_MAGS1I,magnesium sulfate replacement
+p_MAGS1I,magnesium sulfate d5w
+p_MAGS1I,magnesium sulfate
+p_MANN100I,mannitol
+p_MANN25I,mann
+p_MAXI1ES,dexamethasone ophthalmic soln
+p_MBLU1I,methylene blue
+p_MBLU1I,methylene
+p_MCT4L,medium chain triglycerides
+p_MCT4L,mct oil
+p_MCT4L,neo*po*mct oil
+p_MECL125,meclizine
+p_MECL125,meclizine hcl
+p_MEGE40,megestrol acetate
+p_MEGE400L,mege
+p_MEGE400L,megestro
+p_MEGE400L,meges
+p_MEGE400L,mega
+p_MEGE400L,megestrol
+p_MEGE400L,megace oral
+p_MEGE400L,megestrol oral soln
+p_MEGE400L,megestrol oral suspension
+p_MEGE400L,megace
+p_MEMA5,memantine hcl
+p_MEMA5,memantine
+p_MEMA5,namenda
+p_MENA0.5I,meningococcal conj vaccine
+p_MENA0.5I,"meningococ vac a,c,y,w135"
+p_MEPE50I,mepe
+p_MEPE50I,meperidine hcl
+p_MEPE50I,meperi
+p_MEPE50I,meperidine
+p_MESA400,asacol
+p_MESA400,mesalamine dr
+p_METAMOR,metamucil smooth texture
+p_METAMOR,psyllium
+p_METC500,methocarbamol
+p_METD5,methadone hcl
+p_METF500,metformin
+p_METF500XR,metformin hcl
+p_METF500XR,glucop
+p_METF500XR,glucophage xr
+p_METF500XR,glucoph
+p_METF500XR,metformin xr
+p_METH10L,methadon
+p_METH125I,methylprednisolone
+p_METH12I,methylnaltrexone
+p_METH40,methadone
+p_METH40I,methylprednisolone na succ.
+p_METH40I,methylprednisolone sodium succ
+p_METH40I,methylprednisolone na succ
+p_METH5,methimazole
+p_METL25,metolazone
+p_METL5,zaroxolyn
+p_METO10,metoclopramide hcl
+p_METO10I,metoclopramide
+p_METO25,metoprolol tartrate
+p_METO50,metoprolol
+p_METR500,metronidazole
+p_MEXI150,mexiletine
+p_MEXI150,mexiletine hcl
+p_MICO2C,miconazole cream
+p_MICO2C,micon
+p_MICO2P,miconazol
+p_MICO2P,miconazole powder
+p_MICO3SUPP,miconazole nitrate
+p_MICO745C,miconazole nitrate vag cream
+p_MICROK10,potassium chloride
+p_MICROK10,micro
+p_MICROK10,dur
+p_MICROK10,potassium chloride replacement
+p_MICROK10,pota
+p_MICROK10,lor
+p_MIDA2I,midazolam
+p_MIDA2I,midazolam hcl
+p_MIDO25,midodrine
+p_MIDO5,midodrine hcl
+p_MINE30L,mineral oil
+p_MINX25,minoxidil
+p_MIRT15,mirtazapine
+p_MODA100,provigil
+p_MODA100,modafinil
+p_MOEX15,moexipril hcl
+p_MOEX15,moexipril
+p_MOM30L,milk magnesia
+p_MONI7C,miconazole
+p_MONI7C,miconazole nitrate vaginal
+p_MONI7C,miconazole nitrate vaginal cream
+p_MONT10,montelukast
+p_MONT10,singulair
+p_MONT10,montelukast sodium
+p_MOR10L,morphine
+p_MOR10L,morphin
+p_MOR10L,morphine su
+p_MOR10L,morphine sul
+p_MOR10L,morphine sulfat
+p_MOR10L,morph
+p_MORP100PM,morphine infusion comfort care guidelines
+p_MORP15,morphine sulfate ir
+p_MORP2I,morphine sulfate
+p_MORP50PCA,morphine pca
+p_MORPCONC,morphine concentrate
+p_MORPCONC,roxanol
+p_MORPCONC,morphine sulfa
+p_MORPIM,morphine sulfate inhalation
+p_MOVIKIT,moviprep
+p_MSCO15,morphine sulfate sr
+p_MSCO30,morphine sr
+p_MTX25,methotrexate sodium
+p_MTX25,methotrexate
+p_MULT5L,mult
+p_MULT5L,mu
+p_MULT5L,multivita
+p_MULT5L,ther
+p_MULT5L,multiple vitamins liq.
+p_MULT5L,multivi
+p_MULT5L,multivit
+p_MULT5L,multivitam
+p_MULT5L,mult5l
+p_MULT5L,mul
+p_MULT5L,multi
+p_MULT5L,thera
+p_MULT5L,multiv
+p_MULTNEO,multivitamin liquid
+p_MVI,mvi
+p_MVI,hexavitamin
+p_MVI,multivitamins
+p_MVI10I,multivitamin
+p_MVITH,multivitamins minerals
+p_MYCO200/1L,mycophenolate mofetil suspension
+p_MYCO500T,mycophenolate
+p_MYCO500T,mycophenolate mofetil
+p_NABC50I,sodium
+p_NABC50I,sodiu
+p_NABC50I,sod
+p_NABC50I,sodium bi
+p_NABC50I,sodium bica
+p_NABC50I,sodium bicarb
+p_NABC50S,sodi
+p_NABC50S,sodium bic
+p_NABC50S,sodium bicar
+p_NABC50S,sodium bicarbo
+p_NABC50S,sodium bicarbonate
+p_NACL1,sodium chloride
+p_NACL234,neo*po*sodium chloride
+p_NACLFLUSH,sodium chloride flush
+p_NADO20,nadolol
+p_NALO3L,naloxo
+p_NALO4I,naloxone hcl
+p_NALO4I,naloxone
+p_NAPR250,naproxen
+p_NEBU2500I,pentobarbital sodium
+p_NEOAQUA,neo*aquaphor
+p_NEOCHL,neo*po*chlorothiazide
+p_NEOFER,neo*po*ferrous sulfate elixer
+p_NEOFER,neo*po*ferrous sulfate elixir
+p_NEOKCL,neo*po*potassium chloride
+p_NEOM30O,neomycin polymyxin bacitracin
+p_NEOM500,neomycin sulfate
+p_NEOMET30L,neo*po*metoclopramide
+p_NEOMET30L,neo*iv*metoclopramide
+p_NEONEOIH,neo*nasal*phenylephrine
+p_NEOPOLYVI,neo*po*poly vi solution
+p_NEOR100,cyclo
+p_NEOR100L,cyclosporine modified
+p_NEOR100L,neoral
+p_NEORAN,neo*po*ranitidine
+p_NEOSI,neostigmine
+p_NEOTRIVIT,pediatric vitamins adc
+p_NEOVIDAYLIN,vi daylin multivitamin drops
+p_NEOVITE,neo*po*vitamin drops
+p_NEPH1,nephro
+p_NEPH1,nephrocaps
+p_NESI1.5I,nesiritide
+p_NEUT,neut
+p_NEUT,neutr
+p_NEUT,neutra phos
+p_NEUT,neutra
+p_NEVI200,nevirapine
+p_NIAC500SR,niacin
+p_NIAC500SR,niaspan extended release
+p_NIAC500SR,nicotinic acid sr
+p_NIAC500SR,niac
+p_NIAC500SR,nicot
+p_NIAC500SR,nia
+p_NIAC500SR,niaspan
+p_NIAC500SR,nicoti
+p_NIAC500SR,niacin sr
+p_NIAC500SR,niaci
+p_NICA2.5I,nicardipine hcl
+p_NICA2.5I,nicardipine
+p_NICO14P,nicotine
+p_NICO2,nicotine lozenge
+p_NICO2,nicotine polacrilex
+p_NICO21P,nicoderm cq
+p_NICO7P,nicotine patch
+p_NIFE10,nifedipine
+p_NIFR150,iron
+p_NIFR150,iron polysaccharides complex
+p_NIFR150,polysaccharide iron complex
+p_NIFR150,nifer
+p_NIMO30,nimodipine
+p_NITP50I,nitroprusside sodium
+p_NITR50,nitrofurantoin
+p_NITRO1O,nitroglycerin ointment
+p_NMORP,neo*iv*morphine sulfate
+p_NORT25,nortriptyline
+p_NOVOR100I,insulin reg human
+p_NOVOR100I,novolin r
+p_NTG100PM,nitroglycerin
+p_NTG2O,nitroglycerin oint.
+p_NTG3SL,nitroglycerin sl
+p_NTG5P,nitroglycerin patch
+p_NTPN,neo*iv*parenteral nutrition
+p_NYST5L,nystatin oral susp.
+p_NYST5L,nystatin
+p_NYST5L,nystat
+p_NYST5L,nystatin oral
+p_NYST5L,ny
+p_NYST5L,nysta
+p_NYST5L,nyst
+p_NYST5L,nys
+p_NYST5L,nystatin oral suspension
+p_NYSTC,mycostatin
+p_NYSTC,nystatin cream
+p_NYSTO,nystatin ointment
+p_OCTR50I,octreotide acetate
+p_OCTR50I,octreotide
+p_OLAN2.5,olanzapine
+p_OLAN5DTB,zydis
+p_OLAN5DTB,olanzapi
+p_OLAN5DTB,ola
+p_OLAN5DTB,olan
+p_OLAN5DTB,zyprex
+p_OLAN5DTB,zyprexa zydis
+p_OLAN5DTB,olanza
+p_OLME20,benicar hct
+p_OLME20,benicar
+p_OLME20,olmesartan
+p_OMEP20,prilosec
+p_OMEP20,omeprazole
+p_ONDA4ODT,ondansetron odt
+p_ONDA4ODT,zofran odt
+p_ONDA8ODT,ondanse
+p_ONDA8ODT,ond
+p_ONDA8ODT,ondanset
+p_ONDAN4I,ondansetron hcl
+p_ONDAN4I,ondansetron
+p_ONDAN4I,zofran
+p_ORBE5T,orabase benzocaine paste
+p_ORBE5T,orabase
+p_OSEL75,oseltamivir phosphate
+p_OSEL75,tamiflu
+p_OSEL75,oseltamivir
+p_OXAC150,oxcarbazepine
+p_OXAZ15,oxazepam
+p_OXYB5,oxybutynin
+p_OXYC40,oxycodone sr
+p_OXYC5,oxycodone
+p_OXYCO5L,oxycodone liquid
+p_OXYCO5L,oxycodone hcl
+p_OXYM15,oxymetazoline hcl
+p_OXYM15,afrin
+p_OXYM15,oxymeta
+p_OXYM15,oxymetazoline
+p_OXYM15,afrin sinus
+p_PALINEO50I,neo*im*palivizumab
+p_PALINEO50I,palivizumab
+p_PAMI30I,pamidronate
+p_PANC5000,panc
+p_PANC5000,pancreaze
+p_PANC5000,pancrelipase
+p_PANCEC,pangestyme
+p_PANCEC,pancrease
+p_PANT40,pantoprazole
+p_PANT40,pantoprazole sodium
+p_PANT40,panto
+p_PAPA30O,papain urea
+p_PAPA30O,papain urea ointment
+p_PAPA30O,accuzyme
+p_PAPAIN2,papain solution
+p_PAPAIN2,papin
+p_PAPAIN2,papain
+p_PARI5I,zemplar
+p_PARI5I,paricalcitol
+p_PARO10,paroxetine mesylate
+p_PARO20,paroxetine hcl
+p_PARO20,paroxetine
+p_PB30EL,neo*iv*phenobarbital
+p_PB30EL,phenobarbital elixir
+p_PB60I,phenobarbital
+p_PEDIVAC0.5I,hep dpat polio vaccine
+p_PEDIVAC0.5I,dtap hepb ipv combined
+p_PENT250,mesalamine
+p_PENT250,mesalami
+p_PENT250,pentasa
+p_PENT300H,pentamidine
+p_PENT300H,pentamidine inhalation
+p_PENT400,pentoxifylline
+p_PEPC20,famotidine
+p_PEPC20,famoti
+p_PEPC20,famo
+p_PEPT240L,bismu
+p_PEPT240L,bis
+p_PEPT240L,bismuth subsalicy
+p_PEPT240L,bismuth subsalicylate
+p_PERC,percocet
+p_PERC,oxycodone acetaminophen
+p_PHEN100,phenazopyridine hcl
+p_PHEN100,phenazopyridine
+p_PHEN100I,phenytoin sodium
+p_PHEN10I,phenylephrine hcl
+p_PHEN10I,phenylephrine
+p_PHEN50,dila
+p_PHEN50,phenytoi
+p_PHEN50,phenytoin infatab
+p_PHEN50,phen
+p_PHEN50,dil
+p_PHEN50,dilan
+p_PHEN50,phenytoin chewtabs
+p_PHEN50,dilantin
+p_PHEN50,dilantin infatabs
+p_PHEN50,phenyto
+p_PHENY100L,phenytoin
+p_PHOS250,phosp
+p_PHOS250,phospha neutral
+p_PHOS250,phos
+p_PHOS250,phosphorus
+p_PHYT10I,phyton
+p_PHYT10I,vitamin k1
+p_PHYT10I,phytonadione
+p_PHYT10I,phyto
+p_PHYT1I,neo*sc*phytonadione
+p_PIOG45,pioglitazone hcl
+p_PIOG45,pioglitazone
+p_PNEU.5I,neo*im*pneumococcal valent
+p_PNEU25I,pneumococcal vac polyvalent
+p_POLIOV,neo*sc*polio vaccine
+p_POLY30O,bacitracin polymyxin ointment
+p_POLYEO,bacitracin polymyxin sulfate opht. oint
+p_POLYEO,bacitracin polymyxin
+p_POLYEO,polysporin
+p_POSA200L,posaconazole suspension
+p_POSA200L,posaconazole
+p_POTA20,potassium chl
+p_POTA20,potassium ch
+p_PPD,tuberculin protein
+p_PRAM.25,mirapex
+p_PRAM125,pramipexole
+p_PRAM125,pramipexole dihydrochloride
+p_PRAS10,prasugrel
+p_PRAV20,pravastatin
+p_PRAZ1,prazosin hcl
+p_PRAZ1,prazosin
+p_PRED125ES,prednisolone acetate ophth. susp.
+p_PRED1ES,prednisolone acetate
+p_PRED1ES,prednisol
+p_PRED1ES,pred forte
+p_PRED1ES,prednisolone
+p_PRED20,prednis
+p_PRED20,prednisone
+p_PREG25,lyrica
+p_PREG75,pregabalin
+p_PREV60TP,prevident mint gel
+p_PREV60TP,sodium fluoride
+p_PRIM1I,milrinone
+p_PRIM50,primidone
+p_PROAIR8.5H,albuterol inhaler
+p_PROAIR8.5H,proair hfa
+p_PROC10,prochlorperazine maleate
+p_PROM25I,promethazine
+p_PROM25I,promethazine hcl
+p_PROP10,propranolol
+p_PROP10,proprano
+p_PROP100IG,diprivan
+p_PROP100IG,propofol
+p_PROP150,propafenone hcl
+p_PROP20,propranolol hcl
+p_PROP500IG,propo
+p_PROT50I,protamine sulfate
+p_PROZ20,fluoxetine hcl
+p_PROZ20,fluoxetine
+p_PROZ20,prozac
+p_PSEU30,pseudoephedrine
+p_PSEU30,pseudoephedrine hcl
+p_PSEU30,sudafed
+p_PSYL1W,psyllium wafer
+p_PYRI50,pyridoxine hcl
+p_PYRI50,pyridoxine
+p_PYRI60,pyridostigmine bromide
+p_QUET25,quetiapine
+p_QUET25,quetiapine fumarate
+p_QUET25L,quetiapine oral suspension
+p_QUIG324,quinidine gluconate
+p_QUIG324,quinidine gluconate e.r.
+p_QUIN20,quinapril
+p_QUIN325,quinine sulfate
+p_RACE0.5H,racepinephrine
+p_RALO60,raloxifene hcl
+p_RALO60,evista
+p_RALO60,raloxifene
+p_RALT400,raltegravir
+p_RAMI5,ramipril
+p_RAMI5,altace
+p_RANI150,ranitidine
+p_RANI150,ranitidine hcl
+p_RANOL500,ranolazine
+p_RANOL500,ranexa
+p_REFRESH,polyvinyl alcohol povidone
+p_REFRESH,refresh liquigel
+p_REFRESH,artificial tears preserv. free
+p_REFRESH,refresh p.m.
+p_REFRESH,arti
+p_REFRESH,polyvinyl alcohol
+p_RENV800,sevelamer carbonate
+p_RIFA200,rifaximin
+p_RIFA300,rifampin
+p_RISP05,risperidone
+p_RISP05,risperidone oral solution
+p_RISP05,risperdal
+p_RITA10,methylphenidate
+p_RITA5,methylphenidate hcl
+p_RITO100,norvir
+p_RITO100,ritonavir
+p_ROCU100I,rocuronium
+p_ROFE25,vioxx
+p_ROFE25,rofecoxib
+p_ROPI1,requip
+p_ROPI1,ropinirole
+p_ROPI25,ropinirole hcl
+p_ROSI2,avandia
+p_ROSI2,rosiglitazone maleate
+p_ROSU20,rosuvastatin
+p_ROSU5,rosuvastatin calcium
+p_ROXIOS,oxycodone acetaminophen elixir
+p_SALM50D,salmeterol xinafoate diskus
+p_SALM50D,serevent diskus
+p_SALM65H,salmeterol
+p_SARNL,camphor menthol
+p_SARNL,sarna lotion
+p_SARNL,sarna
+p_SCOP15P,scopolamine patch
+p_SCOP15P,scopolamine base
+p_SENN187,senna
+p_SERT100,sertraline hcl
+p_SERT100,sertraline
+p_SEVE400,sevelamer hydrochloride
+p_SEVE400,sevelame
+p_SEVE400,renagel
+p_SEVE400,sevelamer
+p_SEVE800,sevelamer hcl
+p_SEVE800,sevela
+p_SILD20,rev
+p_SILD20,reva
+p_SILD20,sildenafil
+p_SILD25,viagra
+p_SILD25,sildenafil citrate
+p_SILV1C,silver sulfadiazine cream
+p_SILV1C,silver sulfadiazine
+p_SIME80,simethicone
+p_SIMU20I,basiliximab
+p_SIMU20I,simulect
+p_SIMV40,zocor
+p_SIMV40,simvastatin
+p_SINC50200,carbidopa levodopa cr
+p_SINM25100,carbidopa levodopa
+p_SINM25100,sinemet
+p_SIRO1L,sirolimus
+p_SODCIT3SYR,sodium citrate
+p_SODCIT3SYR,sodium citrate dihydrate
+p_SODCIT3SYR,citrate
+p_SODI3N,sodium chloride inhalation soln
+p_SODI65S,ocean
+p_SODI65S,sodium chloride nasal
+p_SOTA80,sotalol
+p_SOTA80,sotalol af
+p_SOTA80,sotalol hcl
+p_SPIR25,spironolactone
+p_SPIT,saliva substitute
+p_SPIT,salivart
+p_SPIT,artificial saliva
+p_STLTP,collagenase
+p_STLTP,collagenase oint
+p_STLTP,santyl
+p_SUCC20I,succinylcholine
+p_SULF500,sulfasalazine
+p_SULF500,sulfasalazine_
+p_SUMA6V,sumatriptan succinate
+p_T3,tylenol codeine
+p_T3,acetaminophen codeine
+p_T3/12.5ML,tylenol codeine elixir
+p_T3/12.5ML,acetaminophen codeine elixir
+p_TACR0.5,tacro
+p_TACR1,tacrolimus
+p_TACR1SM,tacroli
+p_TACRSUSP,tacrolimus suspension
+p_TACRSUSP,tacr
+p_TAMO10,tamoxifen citrate
+p_TAMS.4,flomax
+p_TAMS.4,tamsulosin hcl
+p_TAMS.4,tamsulosin
+p_TBDX3.5O,tobramycin dexamethasone ophth oint
+p_TDT5I,tetanus diphtheria toxoids td
+p_TEMA15,temazepam
+p_TENO300,tenofovir disoproxil
+p_TENO300,tenofovir disoproxil fumarate
+p_TENO300,tenofovir disoproxil fum.
+p_TENO300,viread
+p_TERAZ1,terazosin
+p_TERAZ5,terazosin hcl
+p_TERB1C,terbinafine cream
+p_THIA100,thiamine hcl
+p_THIAM100I,thiamine
+p_THOR25,chlorpromazine
+p_THOR25,chlorpromazine hcl
+p_THRO5T,thrombin
+p_TIAZ120,diltia
+p_TIAZ180,diltiazem extended release
+p_TIAZ180,dilt
+p_TIAZ180,dilti
+p_TIAZ180,tiazac
+p_TIAZ240,diltiaz
+p_TIMO25ES,timolol maleate
+p_TIMO25ES,timolo
+p_TIMO5ES,timop
+p_TIMO5ES,timolol
+p_TIMO5ES,timolol maleate gfs
+p_TIOT,tiotropium bromide
+p_TIOT,spiriva handihaler
+p_TIZA2,tizanidine hcl
+p_TIZA2,tizanidine
+p_TOBR300H,tobramycin nacl
+p_TOBR300H,tobramycin inhalation soln
+p_TOBR300H,tobram
+p_TOBR300H,tobramycin soln
+p_TOBR80I,tobramycin
+p_TOLT1,tolt
+p_TOLT1,tolterodine
+p_TOLT2,tol
+p_TOLT2,detrol la
+p_TOPI100,topiramate
+p_TOPR100,toprol xl
+p_TOPR100,metoprolo
+p_TOPR50,metoprolol succinate xl
+p_TOPR50,metoprolol xl
+p_TORS20,torsemide
+p_TRAM50,tramadol
+p_TRAM50,ultram
+p_TRAV004OS,travatan
+p_TRAV004OS,travoprost
+p_TRAZ50,trazodone
+p_TRAZ50,trazodone hcl
+p_TRAZ50,traz
+p_TRIA.1/80C,triamcinolone ointment
+p_TRIA0.1/80O,triamcinolone acetonide ointment
+p_TRIAM30C,triamcinolone acetonide cream
+p_TRIAM30C,triamcinolone cream
+p_TRIF12.5I,aggrastat
+p_TRUV200/300,truvada
+p_TRUV200/300,emtricitabine tenofovir
+p_TSMP,transplant self medication program
+p_UNAS3I,ampicillin sulbactam
+p_URSO250,urso forte
+p_URSO300,ursodiol
+c_V011,contact exposure tuberculosis
+c_V0253,carrier suspected carrier methicillin susceptible staphylo
+c_V0254,carrier suspected carrier methicillin resistant staphyloco
+c_V0259,carrier suspected carrier specified bacterial diseas
+c_V0262,hepatitis carrier
+c_V029,carrier suspected carrier specified infectious organ
+c_V0381,specified vaccinations against hemophilus influenza type
+c_V0382,specified vaccinations against streptococcus pneumoniae p
+c_V053,need prophylactic vaccination inoculation against viral
+c_V061,need prophylactic vaccination inoculation against diphth
+c_V066,need prophylactic vaccination inoculation against strept
+c_V071,need desensitization allergens
+c_V08,asymptomatic human immunodeficiency virus hiv infection status
+c_V090,infection microorganisms resistant penicillins
+c_V0980,infection microorganisms mention resistance
+c_V0981,infection microorganisms resistance multiple drugs
+c_V0991,infection drug-resistant microorganisms unspecified
+c_V1000,personal history malignant neoplasm gastrointestinal tract
+c_V1001,personal history malignant neoplasm tongue
+c_V1002,personal history malignant neoplasm unspecified
+c_V1003,personal history malignant neoplasm esophagus
+c_V1004,personal history malignant neoplasm stomach
+c_V1005,personal history malignant neoplasm large intestine
+c_V1006,personal history malignant neoplasm rectum rectosigmoid
+c_V1007,personal history malignant neoplasm liver
+c_V1009,personal history malignant neoplasm gastrointestinal
+c_V1011,personal history malignant neoplasm bronchus lung
+c_V1021,personal history malignant neoplasm larynx
+c_V103,personal history malignant neoplasm breast
+c_V1041,personal history malignant neoplasm cervix uteri
+c_V1042,personal history malignant neoplasm parts uterus
+c_V1043,personal history malignant neoplasm ovary
+c_V1044,personal history malignant neoplasm female genital
+c_V1046,personal history malignant neoplasm prostate
+c_V1047,personal history malignant neoplasm testis
+c_V1049,personal history malignant neoplasm male genital org
+c_V1051,personal history malignant neoplasm bladder
+c_V1052,personal history malignant neoplasm kidney
+c_V1061,personal history lymphoid leukemia
+c_V1062,personal history myeloid leukemia
+c_V1072,personal history hodgkins disease
+c_V1079,personal history lymphatic hematopoietic neoplasms
+c_V1082,personal history malignant melanoma skin
+c_V1083,personal history malignant neoplasm skin
+c_V1084,personal history malignant neoplasm eye
+c_V1085,personal history malignant neoplasm brain
+c_V1087,personal history malignant neoplasm thyroid
+c_V1089,personal history malignant neoplasm sites
+c_V1091,personal history malignant neuroendocrine tumor
+c_V113,personal history alcoholism
+c_V1201,personal history tuberculosis
+c_V1202,personal history poliomyelitis
+c_V1204,personal history methicillin resistant staphylococcus aureus
+c_V1209,personal history infectious parasitic diseases
+c_V1241,personal history benign neoplasm brain
+c_V1242,personal history infections central nervous system
+c_V1251,personal history venous thrombosis embolism
+c_V1252,personal history thrombophlebitis
+c_V1253,personal history sudden cardiac arrest
+c_V1254,personal history transient ischemic attack tia cerebra
+c_V1255,personal history pulmonary embolism
+c_V1259,personal history diseases circulatory system
+c_V1261,personal history pneumonia recurrent
+c_V1271,personal history peptic ulcer disease
+c_V1272,personal history colonic polyps
+c_V1279,personal history diseases digestive system
+c_V1301,personal history urinary calculi
+c_V1302,personal history urinary tract infection
+c_V1351,personal history pathologic fracture
+c_V140,personal history allergy penicillin
+c_V141,personal history allergy antibiotic agent
+c_V142,personal history allergy sulfonamides
+c_V145,personal history allergy narcotic agent
+c_V146,personal history allergy analgesic agent
+c_V148,personal history allergy specified medicinal agents
+c_V1504,allergy seafood
+c_V1505,allergy foods
+c_V1507,allergy latex
+c_V151,personal history surgery heart great vessels presenti
+c_V1529,personal history surgery organs
+c_V153,personal history irradiation presenting hazards health
+c_V1541,history physical abuse
+c_V1551,personal history traumatic fracture
+c_V1552,personal history traumatic brain injury
+c_V1581,personal history noncompliance medical treatment presen
+c_V1582,personal history tobacco use
+c_V1584,personal history contact suspected exposure asb
+c_V1588,history fall
+c_V160,family history malignant neoplasm gastrointestinal tract
+c_V161,family history malignant neoplasm trachea bronchus l
+c_V163,family history malignant neoplasm breast
+c_V1641,family history malignant neoplasm ovary
+c_V166,family history leukemia
+c_V167,family history lymphatic hematopoietic neoplasms
+c_V168,family history specified malignant neoplasm
+c_V169,family history unspecified malignant neoplasm
+c_V170,family history psychiatric condition
+c_V171,family history stroke cerebrovascular
+c_V173,family history ischemic heart disease
+c_V1749,family history cardiovascular diseases
+c_V180,family history diabetes mellitus
+c_V183,family history blood disorders
+c_V202,routine infant child health check
+c_V2651,tubal ligation status
+c_V290,observation suspected infectious condition
+c_V293,observation suspected genetic metabolic condition
+c_V298,observation specified suspected conditions
+c_V3000,single liveborn born hospital delivered mention
+c_V3001,single liveborn born hospital delivered cesarean section
+c_V3100,twin birth mate liveborn born hospital delivered
+c_V3101,twin birth mate liveborn born hospital delivered cesare
+c_V3401,multiple birth three mates liveborn born i
+c_V420,kidney replaced transplant
+c_V422,heart valve replaced transplant
+c_V425,cornea replaced transplant
+c_V427,liver replaced transplant
+c_V4281,bone marrow replaced transplant
+c_V4282,peripheral stem cells replaced transplant
+c_V4283,pancreas replaced transplant
+c_V431,lens replaced means
+c_V433,heart valve replaced means
+c_V434,blood vessel replaced means
+c_V4361,shoulder joint replacement
+c_V4364,hip joint replacement
+c_V4365,knee joint replacement
+c_V440,tracheostomy status
+c_V441,gastrostomy status
+c_V442,ileostomy status
+c_V443,colostomy status
+c_V444,status artificial opening gastrointestinal tract
+c_V4459,cystostomy
+c_V446,artificial opening urinary tract status
+c_V4501,cardiac pacemaker situ
+c_V4502,automatic implantable cardiac defibrillator situ
+c_V4509,specified cardiac device situ
+c_V4511,renal dialysis status
+c_V4512,noncompliance renal dialysis
+c_V452,presence cerebrospinal fluid drainage device
+c_V453,intestinal bypass anastomosis status
+c_V454,arthrodesis status
+c_V4561,cataract extraction status
+c_V4571,acquired absence breast nipple
+c_V4572,acquired absence intestine large small
+c_V4573,acquired absence kidney
+c_V4575,acquired absence organ stomach
+c_V4576,acquired absence organ lung
+c_V4577,acquired absence organ genital organs
+c_V4578,acquired absence organ eye
+c_V4579,acquired absence organ
+c_V4581,aortocoronary bypass status
+c_V4582,percutaneous transluminal coronary angioplasty status
+c_V4585,insulin pump status
+c_V4586,bariatric surgery status
+c_V4588,status post administration tpa rtpa different facility
+c_V4589,postprocedural status
+c_V4611,dependence respirator status
+c_V462,dependence machines supplemental oxygen
+c_V463,wheelchair dependence
+c_V4962,fingers amputation status
+c_V4971,great toe amputation status
+c_V4972,toes amputation status
+c_V4973,foot amputation status
+c_V4975,below knee amputation status
+c_V4976,above knee amputation status
+c_V4983,awaiting organ transplant status
+c_V4984,bed confinement status
+c_V4986,do resuscitate status
+c_V4987,physical restraints status
+c_V502,routine ritual circumcision
+c_V5331,fitting adjustment cardiac pacemaker
+c_V5332,fitting adjustment automatic implantable cardiac defibril
+c_V5339,fitting adjustment cardiac device
+c_V5411,aftercare healing traumatic fracture upper arm
+c_V5413,aftercare healing traumatic fracture hip
+c_V5416,aftercare healing traumatic fracture lower leg
+c_V5417,aftercare healing traumatic fracture vertebrae
+c_V5419,aftercare healing traumatic fracture bone
+c_V5481,aftercare following joint replacement
+c_V5489,orthopedic aftercare
+c_V550,attention tracheostomy
+c_V551,attention gastrostomy
+c_V552,attention ileostomy
+c_V553,attention colostomy
+c_V554,attention artificial opening digestive tract
+c_V555,attention cystostomy
+c_V556,attention artificial opening urinary tract
+c_V560,encounter extracorporeal dialysis
+c_V5811,encounter antineoplastic chemotherapy
+c_V5812,encounter antineoplastic immunotherapy
+c_V5831,encounter change removal surgical wound dressing
+c_V5861,long-term current use anticoagulants
+c_V5862,long-term current use antibiotics
+c_V5863,long-term current use antiplateletantithrombotic
+c_V5865,long-term current use steroids
+c_V5866,long-term current use aspirin
+c_V5867,long-term current use insulin
+c_V5869,long-term current use medications
+c_V5883,encounter therapeutic drug monitoring
+c_V596,liver donors
+c_V600,lack housing
+c_V620,unemployment
+c_V625,legal circumstances
+c_V6284,suicidal ideation
+c_V632,person awaiting admission adequate facility elsewhere
+c_V641,surgical procedure carried out because contraind
+c_V642,surgical procedure carried out because patients
+c_V643,procedure carried out reasons
+c_V6441,laparoscopic surgical procedure converted open procedure
+c_V6442,thoracoscopic surgical procedure converted open procedure
+c_V652,person feigning illness
+c_V6549,specified counseling
+c_V667,encounter palliative care
+c_V707,examination participant clinical trial
+c_V714,observation following accident
+c_V850,body mass index less adult
+c_V851,body mass index between adult
+c_V8524,body mass index adult
+c_V8545,body mass index over adult
+c_V8741,personal history antineoplastic chemotherapy
+c_V8801,acquired absence both cervix uterus
+p_VAL250L,valp
+p_VAL250L,valpro
+p_VAL250L,valproi
+p_VAL250L,valproate sodium
+p_VAL250L,valpr
+p_VAL250L,depak
+p_VAL250L,valproic
+p_VAL250L,valproic acid
+p_VAL250L,valproate
+p_VALA500,valacyclovir hcl
+p_VALA500,valtrex
+p_VALA500,valacyclovir
+p_VALC60L,valganciclovir hcl suspension
+p_VALC60L,valganciclovir suspension
+p_VALG50L,valganc
+p_VALG50L,valganciclov
+p_VALG50L,valgancicl
+p_VALG50L,valganci
+p_VALG50L,valgancic
+p_VALG50L,valganciclo
+p_VALG50L,valganciclovi
+p_VALG50L,val
+p_VALGA450,valganciclovir hcl
+p_VALGA450,valganciclovir
+p_VALGA450,valgan
+p_VALS160,valsartan
+p_VALS80,diovan
+p_VALS80,diovan hct
+p_VANC250L,vancomycin oral liquid
+p_VANC250L,vancomycin
+p_VANC500I,vancomycin hcl
+p_VASO20I,vasopressin
+p_VECU10I,vecuronium bromide
+p_VENF25,venlafa
+p_VENL375XR,venlafaxi
+p_VENL75,venlafaxine
+p_VENL75XR,venlafax
+p_VENL75XR,venlafaxine xr
+p_VENL75XR,effexor xr
+p_VERA120,verapamil
+p_VERA120SR,verapa
+p_VERA120SR,verapamil sr
+p_VERA240SR,vera
+p_VERA240SR,calan sr
+p_VERA40,verapamil hcl
+p_VICODIN,vicodin
+p_VICODIN,hydrocodone acetaminophen
+p_VINC2I,vincristine
+p_VIOK,viok
+p_VIOK,amylase lipase protease
+p_VIOK,viokase
+p_VIOK,viokas
+p_VITB1,complex vitamins
+p_VITBC1,vitamin complex
+p_VITE400,tocopheryl
+p_VORI200,voriconazole
+p_WARF2,warf
+p_WARF5,warfarin
+p_ZINC220,zinc
+p_ZINC220,zinc sulfate
+p_ZITHR250,zithromax pak
+p_ZONI100,zonisamide
+p_ZOSY4FPB,piperacillin tazobactam
+p_ZOSY4FPB,piperacillin tazobactam na

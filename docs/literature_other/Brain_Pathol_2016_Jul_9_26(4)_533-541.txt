@@ -1,0 +1,1520 @@
+
+==== Front
+Brain PatholBrain Pathol10.1111/(ISSN)1750-3639BPABrain Pathology (Zurich, Switzerland)1015-63051750-3639John Wiley and Sons Inc. Hoboken 10.1111/bpa.12331BPA12331Research ArticleResearch ArticlesPathophysiology of Hypoperfusion of the Precuneus in Early Alzheimer's Disease Hypoperfusion of Precuneus in Alzheimer's DiseaseMiners et alMiners J. Scott 
+1
+Palmer Jennifer C. 
+1
+Love Seth 
+1
+1 Dementia Research GroupSchool of Clinical Sciences, Institute of Clinical Neurosciences, University of BristolBristolUK* Corresponding author: Seth Love, School of Clinical Sciences, University of Bristol, Learning & Research level 2, Southmead Hospital, Bristol BS10 5NB, UK (E‐mail: seth.love@bris.ac.uk)09 11 2015 7 2016 26 4 10.1111/bpa.2016.26.issue-4533 541 09 9 2015 05 10 2015 © 2015 The Authors. Brain Pathology published by John Wiley & Sons Ltd on behalf of International Society of NeuropathologyThis is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.Abstract
+The earliest decline in cerebral perfusion in Alzheimer's disease (AD) is in the medial parietal cortex (precuneus). We have analyzed precuneus in post‐mortem tissue from 70 AD and 37 control brains to explore the pathophysiology of the hypoperfusion: the contribution of arteriolosclerotic small vessel disease (SVD) and cerebral amyloid angiopathy (CAA), and of the vasoconstrictors endothelin‐1 (EDN1) and angiotensin II (Ang II), and the association with Aβ. The myelin‐associated glycoprotein:proteolipid protein‐1 ratio (MAG:PLP1) was used as an indicator of oxygenation of the precuneus prior to death. MAG:PLP1 was reduced ∼50% in early AD (Braak stage III–IV). Although MAG:PLP1 remained low in advanced AD (stage V–VI), the reduction was less pronounced, possibly reflecting falling oxygen demand. Reduction in cortical MAG:PLP1 correlated with elevation in vascular endothelial growth factor (VEGF), another marker of hypoperfusion. Cortical MAG:PLP1 declined nonsignificantly with increasing SVD and CAA, but significantly with the concentration of EDN1, which was elevated approximately 75% in AD. In contrast, with reduction in cortical MAG:PLP1, Ang II level and angiotensin‐converting enzyme (ACE) activity declined, showing a normal physiological response to hypoperfusion. MAG:PLP1 was reduced in the parietal white matter (WM) in AD but here the decline correlated positively (ie, physiologically) with WM EDN1. However, the decline of MAG:PLP1 in the WM was associated with increasing cortical EDN1 and perhaps reflected vasoconstriction of perforating arterioles, which traverse the cortex to perfuse the WM. EDN1 in the cortex correlated highly significantly with both soluble and insoluble Aβ42, shown previously to upregulate neuronal endothelin‐converting enzyme‐2 (ECE2), but not with Aβ40. Our findings demonstrate reduced oxygenation of the precuneus in early AD and suggest that elevated EDN1, resulting from Aβ42‐mediated upregulation of ECE2, is a contributor.
+
+Alzheimer's diseaseamyloid‐βblood flowendothelin‐1oxygenationprecuneusAlzheimer's Research UK
+ART‐PG2011‐1
+Medical Research Council
+MR/K015397/1
+BRACE (Bristol Research into Alzheimer's and Care of the Elderly)
+ source-schema-version-number2.0component-idbpa12331cover-dateJuly 2016details-of-publishers-convertorConverter:WILEY_ML3GV2_TO_NLMPMC version:4.9.4 mode:remove_FC converted:16.08.2016
+==== Body
+INTRODUCTION
+Blood flow and glucose utilization decline in the precuneus at a very early stage of Alzheimer's disease (AD) 2, 6, 7, 13, 28, 30, 53. Reduction in cerebral blood flow precedes the development of dementia in AD 52 and occurs well before any behavioral or pathological abnormalities in animal models of the disease 24, 39. We still have only a limited understanding of the pathogenesis.
+
+Cerebrovascular abnormalities are common in AD 26, up to 60% of patients having ischaemic WM damage 9, 10, 17, 26 and over 90% having cerebral amyloid angiopathy (CAA) 16, 18, 29. Brain ischaemia is the defining pathological process in vascular dementia but there is evidence that ischaemia has the potential to contribute to the development of AD pathology. Ischaemia in animal models, or its simulation by deprivation of oxygen and glucose in vitro, is associated with increased production of Aβ (reviewed in 12). Transient global cerebral ischaemia due to cardiac arrest in man was shown to cause a significant rise in serum Aβ42, lasting several days 61. Serum Aβ42 also rose in people who had sustained diffuse traumatic brain injury 37, in which there is invariably brain swelling and reduced perfusion; the rise in serum Aβ42 was accompanied by a decline in Aβ42 in the cerebrospinal fluid, arguing against nonspecific “leakage” of Aβ42 from damaged brain tissue. There is also strong evidence from observational and experimental studies that CAA and arteriolosclerotic small vessel disease (SVD) impede the clearance of interstitial solutes (including Aβ) from the brain 20, 21, 22, 59, 60. Hughes et al
+23 found that arterial stiffness in elderly nondemented people correlated with the amount of cerebral Aβ, as demonstrated by Aβ‐positron emission tomography. Kester et al
+27 showed that the level of Aβ42 in the CSF in nondemented elderly people was lower in those with ischaemic WM abnormalities on magnetic resonance imaging (reduction in Aβ42 in the CSF being associated with increased AD pathology).
+
+Conversely, there is strong evidence that Aβ peptides cause reduction in cerebral blood flow—not only through the development of CAA but also by inducing vasoconstriction. In animal studies, Aβ peptides reduced cerebral blood flow, interfered with cerebral autoregulation and impeded functional hyperaemia 39, 40, 41. We previously demonstrated an increase in the level of the vasoconstrictor peptide endothelin‐1 (EDN1) in the cerebral cortex in AD 46. We showed that Aβ40 upregulated endothelin‐converting enzyme‐1 (ECE1)‐mediated production of EDN1 by cerebrovascular endothelial cells 48, and that Aβ42 upregulated endothelin‐converting enzyme‐2 (ECE2)‐mediated production of EDN1 by neurons 45. Another vasoconstrictor with the potential to exacerbate cerebral hypoperfusion in AD is angiotensin II (Ang II), cleaved from angiotensin I by the action of angiotensin‐converting enzyme (ACE), the level of which was found to be elevated in the frontal cortex in AD 31, 35. ECE1, ECE2 and ACE are all capable of cleaving Aβ, and their upregulation in AD is probably a response to the accumulation of Aβ substrate 33.
+
+We recently developed a novel method to quantify ischaemic damage in post‐mortem brain tissue, by comparison of the levels of two myelin proteins: myelin‐associated glycoprotein (MAG), which is highly susceptible to reduced tissue oxygenation, and proteolipid protein‐1 (PLP‐1), which is relatively resistant 3, 4, 56. In frontal cortex from patients with AD, we found the MAG:PLP1 ratio to be significantly reduced, indicating a pathological reduction in perfusion (ie, reduction exceeding the decline in metabolic demand) 56. Although MAG:PLP1 tended to be lower in cortex from patients with severe SVD or CAA, the only significant negative correlation was with the concentration of EDN1.
+
+In this study, we have used similar methods to identify contributors to cerebral hypoperfusion in very early AD, by examining the precuneus, a region that is amongst the first affected by hypoperfusion, and by analyzing the findings in relation to the progression of AD, as indicated by the Braak tangle stage 8. We have found evidence of pathological hypoperfusion of the precuneus at an early stage of AD, associated with elevation of EDN1 and correlating closely with the level of Aβ42. Our findings suggest a key role for Aβ42‐mediated upregulation of ECE2 in the reduction of cerebral perfusion and oxygenation in early AD.
+
+MATERIALS AND METHODS
+Case selection
+From the South West Dementia Brain Bank, University of Bristol, we obtained tissue from 70 cases of AD (ages 57–99 years, mean 79.8 years, SD 8.3 years) with post‐mortem delays of 4–72 h (mean 31.4 h, SD 19.3 h). All of the brains had been subjected to detailed neuropathological assessment, and according to the NIA‐AA guidelines 38 AD pathology was a sufficient explanation for the dementia in these cases. We also obtained tissue from 37 control brains that had also been extensively assessed neuropathologically, from people who had no history of dementia, few or absent neuritic plaques, a Braak tangle stage of III or less and no other neuropathological abnormalities apart from scattered diffuse plaques in most cases. Their ages ranged from 58 to 94 y (mean 79.8 years, SD 8.7 years) and the post‐mortem delays from 3 to 67 h (mean 35.0 h, SD 15.4 h). The cohorts overlapped those in a previous study of deep parietal WM 4. For analysis of the effect of stage of AD on MAG:PLP1 in the precuneus, the AD and control cohorts were pooled and cases were subdivided according to Braak tangle stage (0–II, III–IV and V–VI) irrespective of the presence or absence of a history of dementia. The demographic data, neuropathological findings, and MRC identifier numbers in this cohort are summarized in Supporting Information Tables S1 and S2. The study had local research ethics committee approval.
+
+Brain tissue
+The brains had been obtained within 72 h of death. The right cerebral cortex had been fixed in 10% formalin for three weeks before the tissue was processed and paraffin blocks were taken for pathological assessment. SVD had been scored as previously described 4, on a four‐point semiquantitative scale according to the extent of thickening of the arteriolar walls and associated narrowing of the vessel lumina: 0 = normal vessel wall thickness, 1 = slightly increased thickness, 2 = moderately increased thickness and 3 = markedly increased thickness such that for many arterioles the diameter of the lumen was <50% of the outer diameter of the blood vessel. CAA for all cases had also been previously graded semiquantitatively on a four‐point scale by a method adapted from that of Olichney et al
+11, 42, ranging from “0” for vessels devoid of amyloid to “3” for extensive deposition. The left cerebral hemisphere had been sliced and frozen at −80°C until used for biochemical assessment. Tissue was dissected from the medial parietal cortex (Brodmann area 7) and separate samples were dissected from the underlying parietal WM. Biochemical analyses were performed on 200 mg samples of the dissected tissue that were homogenized in 1% sodium dodecyl sulfate lysis buffer in a Precellys homogenizer (Stretton Scientific, Derbyshire, UK) and then aliquoted and stored at −80°C until required. All measurements were made in duplicate and the mean determined.
+
+Measurement of MAG by direct ELISA
+MAG level was measured by direct ELISA, as previously described 3, 4, 36, 56. Brain tissue homogenates in PBS (1:10) and PBS blanks were left for 2 h at room temperature with constant shaking in 96‐well microplates. The plate was washed and blocked in 1% bovine serum albumin/PBS for 2 h at room temperature and, after further washes, incubated for 2 h at room temperature with mouse monoclonal anti‐MAG antibody (Abcam, Cambridge, UK) diluted 1:1000 in PBS. The plate was washed, incubated with biotin‐conjugated anti‐mouse secondary antibody (Vector Labs, Peterborough, UK) diluted 1:500 in PBS for 20 minutes, followed by another wash step and incubation with streptavidin‐horseradish peroxidase (R&D systems, Oxford, UK), 1:500 in PBS, for 20 minutes in the dark. The plate was washed and incubated for 10 minutes in the dark with 100 μL/well of chromogenic substrate (TMBS substrate, R&D systems, Oxford, UK). The absorbance was read at 450 nM in a FLUOstar Optima plate reader(BMG Labtech, Aylesbury, UK) after the addition of 50 μL of 2 N sulfuric acid. MAG level was determined for each case by interpolation against a standard curve generated by serial dilution (400–6.25 ng/mL) of recombinant human MAG (Abnova, Taipei City, Taiwan). We previously demonstrated that MAG is stable under conditions of simulated post‐mortem delay for up to 72 h at 4°C or room temperature 4.
+
+Measurement of PLP1 by sandwich ELISA
+PLP1 level was measured in brain tissue homogenates by use of a commercially available sandwich ELISA (cat no SEA417Hu, USCN, Wuhan, China) as described previously 56. Brain tissue homogenates were diluted 1:10 in PBS. Absolute PLP1 level was interpolated from a standard curve generated by serial dilution of recombinant human PLP1 (10–0.156 ng/mL). We previously demonstrated that PLP1 is stable under conditions of simulated post‐mortem delay for up to 72 h at 4°C or room temperature 4.
+
+Measurement of EDN1 by sandwich ELISA
+EDN1 level was measured in brain tissue homogenates, diluted to 1 mg/mL, by use of the QuantiGlo Chemiluminescent ELISA kit for human EDN1 (R&D Systems, Oxford, UK) as previously described 3, 36, 46, 48, 56. Relative luminescence was measured using a in a FLUOstar Optima plate reader. Absolute EDN1 level was interpolated from a standard curve generated by assaying serial dilutions of recombinant human EDN1 (250–0.340 pg/mL). We previously demonstrated that EDN1 is stable under conditions of simulated post‐mortem delay for up to 72 h at 4°C or room temperature 48.
+
+Measurement of angiotensin II by sandwich ELISA
+Human angiotensin II ELISA kit (Abcam, Cambridge, UK) was used to measure Ang II level in brain tissue homogenates according to the manufacturer's guidelines. Ang II was measured in 50 μL aliquots of brain tissue homogenate, adjusted for total protein, and the concentration determined by interpolation against a standard curve generated by serial dilution of recombinant human Ang II (1000–63 pg/mL). Absorbance was read at 450 nM in a FLUOstar Optima plate reader.
+
+Measurement of VEGF by sandwich ELISA
+Vascular endothelial growth factor (VEGF) level was measured in 10 μL of brain tissue homogenate plus 90 μL PBS by use of Human VEGF Quantikine ELISA kit (R&D Systems, Oxford, UK), as previously described 36, 56. The ELISA used a monoclonal mouse VEGF antibody as a capture antibody and a polyclonal biotinylated VEGF detection antibody. Absorbance was measured at 450 nm in a FLUOstar Optima plate reader after the addition of 50 μL of 2N sulfuric acid. Absolute VEGF level was interpolated from a serial dilution of recombinant human VEGF (2000–31.25 pg/mL).
+
+Measurement of Aβ40 and Aβ42 sandwich ELISA
+We prepared soluble and insoluble (guanidine‐extractable) fractions of the homogenates for Aβ measurement as reported in previous studies 1, 5, 32, 55, 56, 57, 58.
+
+For measurement of Aβ40 we used mouse anti‐human Aβ (clone 6E10, raised against amino acids 1–16; Covance, 2 µg/mL) as the capture antibody and mouse anti‐human Aβ40 (11A50‐B10, Covance, 1 µg/mL) as the detection antibody, after biotinylating the Aβ40 antibody by use of Lightning‐Link® Biotinylation Kit (Innova Biosciences, Cambridge, UK). The soluble and insoluble fractions of brain homogenate (diluted 1:3 and 1:49, respectively), and serial dilutions of recombinant human Aβ40 (Sigma Aldrich, Dorset, UK) in PBS containing 1% 1,10 phenanthroline (Sigma Aldrich) to prevent degradation of Aβ 51, were incubated for 2 h at room temperature on a rocking platform. Absorbance was read at 450 nm in a FLUOstar plate reader.
+
+For measurement of Aβ42 we used mouse anti‐human Aβ42 (Covance 12F4, 1 µg/mL) (Cambridge Biosciences, Cambrideg, UK) as the capture antibody and biotinylated anti‐human Aβ (10H3, 0.1 μg/mL) (Thermo Fisher Scientific, Loughborough, UKas the detection antibody. The soluble and insoluble fractions, diluted as above, and serial dilutions of human recombinant Aβ42 (16 000 to 1.024 nM) in PBS containing 1% 1,10 phenanthroline were incubated for 2 h at room temperature on a rocking platform. Aβ42 concentration in brain tissue was determined by interpolation against a standard curve generated by serial dilution of recombinant human Aβ42 (Sigma Aldrich, Dorset, UK). Each sample was assayed in duplicate. The Aβ40 ELISA did not show any cross‐reactivity with recombinant Aβ42, nor did the Aβ42 ELISA with recombinant Aβ40.
+
+Measurement of ACE‐1 activity
+ACE‐1 activity in brain homogenates was measured by immunocapture‐based fluorogenic assay, as previously described 1, 3, 25, 36, 56. ACE/CD143 antibody (5 ng/mL in PBS) (R&D systems, Oxford, UK) was coated on a black Fluoronunc plate overnight then blocked in 1% BSA/PBS for 2 h at room temperature before addition of 10 μL tissue homogenate plus 90 μL PBS, or serial dilutions of recombinant human ACE, and incubation for 2 h at room temperature with constant shaking. Fluorogenic peptide substrate (ES005, R&D systems, Oxford, UK) diluted in activity assay buffer (100 mM Tris‐HCl pH 7.5, 50 mM NaCl, 10 µM ZnCl2) was added and the plate incubated for 3 h at 37°C in the dark. Fluorescence was measured at 405 nm with excitation at 320 nm. To determine ACE‐specific enzyme activity we subtracted the fluorescent signal from that after inhibition by captopril (Enzo Life Sciences, Exeter, UK). ACE activity was interpolated from a standard curve produced by serial dilution of recombinant human ACE (2500–39 pg/mL) (R&D systems, Oxford, UK).
+
+Statistical analysis
+Unpaired two‐tailed t tests or ANOVA with Dunnett's post hoc analysis was used for comparisons between groups, and Pearson's or Spearman's test to assess linear or rank order correlation, as appropriate, with the help of SPSS version 16 (SPSS, Chicago) and GraphPad Prism version 6 (GraphPad Software, La Jolla, CA). P‐values < 0.05 were considered statistically significant.
+
+RESULTS
+Oxygenation of the precuneus is decreased in early Alzheimer's disease
+MAG:PLP1 in the precuneus was lower in the AD than the control cohort but not significantly so (P = 0.14) (Figure 1A). However, MAG:PLP1 varied significantly according to Braak tangle stage (Figure 1B) (P = 0.027). The highest values were in the Braak stage 0–II group and the lowest (by about 50%) in the Braak stage III–IV group. Post hoc analysis revealed that the difference between the Braak stage 0–II and III–IV groups was statistically significant (P = 0.021, Dunnett's test) whereas the difference between the Braak stage 0–II and V–VI groups did not reach significance (P = 0.092).
+
+Figure 1 Oxygenation of the precuneus was reduced in early Alzheimer's disease. A. Bar chart showing a reduction in the ratio of myelin glycoprotein (MAG) to proteolipid‐1 protein (PLP‐1) (MAG:PLP1) in the precuneus in AD. The bars indicate the mean and SEM. B. Bar chart showing marked variation in MAG:PLP1 (P = 0.027) with disease stage. For this analysis, control and AD cases were combined and grouped according to Braak tangle stage (0–II, III–IV and V–VI). Post hoc analysis revealed that MAG:PLP1 was significantly reduced in early AD (Braak stage III–IV) compared to controls (P = 0.027). C. Bar chart showing elevated VEGF, an independent marker of cerebral perfusion, in AD. D. Scatterplot showing the highly significant negative correlation between MAG:PLP1 and VEGF concentration in the precuneus (r = −0.40, P = 0.0007). The best‐fit linear regression line and 95% confidence interval are superimposed. **P < 0.001, ***P < 0.0001.
+
+Our previous studies showed that VEGF level increases in hypoperfused brain tissue, is elevated in AD frontal cortex and correlates inversely with MAG:PLP1 3, 4, 56. In the precuneus too, VEGF was elevated in AD (Figure 1C), rose with Braak tangle stage (Supporting Information Figure S1A) and correlated inversely with MAG:PLP1 (r = −0.40 P < 0.001) (Figure 1D). VEGF level correlated with insoluble Aβ42 (r = 0.41 P < 0.01) (Supporting Information Figure S1B) but not insoluble Aβ40 (Supporting Information Figure S1C).
+
+Oxygenation of precuneus in AD is not significantly affected by small vessel disease or cerebral amyloid angiopathy
+We next examined whether the changes in MAG:PLP1 in the precuneus in AD were attributable to SVD or CAA. MAG:PLP1 declined as SVD (Figure 2A) and CAA (Figure 2B) increased in severity. However, the relationship between MAG:PLP1 and the SVD or CAA severity score was not statistically significant.
+
+Figure 2 MAG:PLP1 tended to decline in relation to severity of SVD and CAA in the precuneus in AD. Bar charts show lower MAG:PLP1 in precuneus from AD patients with higher severity scores for SVD (A) and CAA (B), although the differences were not statistically significant.
+
+Endothelin‐1 is increased in the precuneus in AD in association with reduced tissue oxygenation
+We previously reported that the concentration of EDN1 is increased in AD in the temporal 46 and frontal cortex 56. EDN1 was also elevated in the precuneus in AD compared to age‐matched controls (P < 0.0001) (Figure 3A) and rose significantly with Braak tangle stage (P = 0.0003). The level correlated negatively with MAG:PLP1 (r = −0.31, P < 0.05) (Figure 3C) and positively with VEGF (r = 0.29, P < 0.05) (Figure 3D).
+
+Figure 3 Reduced oxygenation of the precuneus in AD was associated with elevated EDN1. A. Bar chart showing significantly increased EDN1 in AD within the precuneus. B. Bar chart showing increased EDN1 levels in relation to disease severity when control and AD cases were subdivided according to Braak tangle stage (0–II, III–IV and V–VI) irrespective of the presence or absence of a history of dementia. Scatterplots showing the inverse correlation between EDN1 concentration and MAG:PLP1 ratio (r = −0.31) (C) and the positive correlation between EDN1 and VEGF (r = 0.29) (D). *P < 0.05, ***P < 0.001, ****P < 0.0001.
+
+ACE‐1 activity and Ang II level declined with reduced oxygenation of the precuneus
+In previous post‐mortem studies, ACE‐1 activity was elevated in midfrontal cortex in AD 31, 34, 35. In contrast, both ACE activity (Figure 4A) and the level of its cleavage product Ang II (Figure 4B) were reduced in the precuneus in AD, although only the difference in Ang II concentration was significant (P = 0.004). ACE activity varied with Braak tangle stage although not significantly, in a pattern resembling the variation in MAG:PLP1 (Supporting Information Figure S1D). ACE and Ang II level correlated closely with cortical MAG:PLP1 (Figures 4C and D), as would be expected physiologically: Ang II production declining under conditions of reduced oxygenation, to minimize the risk of ischaemic damage.
+
+Figure 4 ACE activity and angiotensin II (Ang II) levels declined in association with reduced oxygenation of the PC. A. Bar charts showing a nonsignificant reduction in ACE activity and (B) significantly reduced Ang II in the precuneus in AD. Scatterplots show that (C) ACE activity (r = 0.494) and (D) Ang II (r = 0.53) correlated positively with MAG:PLP1. ***P<0.001, ****P<0.0001.
+
+White matter oxygenation and EDN1
+We had previously measured MAG:PLP1 in the parietal WM 3 and now measured EDN1 concentration in the same homogenates. In contrast to the elevated EDN1 in the cortex in AD, EDN1 concentration in the WM was significantly reduced (Figure 5A), the concentration correlating with MAG:PLP1 in the WM (Figure 5B) in keeping with a physiological response to inadequate perfusion.
+
+Figure 5 EDN1 level was reduced in the WM in AD, the reduction correlating with the fall in oxygenation. A. Bar chart showing reduced EDN1 in the parietal WM (P = 0.006). Scatterplots show the positive correlation between WM MAG:PLP and WM EDN1 (r = 0.35, P = 0.021) (C) and the negative correlation between WM MAG:PLP and PC EDN1 in (r = −0.23, P = 0.053) (D). *P < 0.05, **P < 0.01.
+
+In contrast, WM MAG:PLP1 correlated negatively with EDN1 in the cortex (r = −0.23, P = 0.053), suggesting that the ratio was affected by EDN1‐mediated vasoconstriction of the perforating arterioles that transverse the cortex to perfuse the WM.
+
+EDN1 level was related to Aβ42 accumulation in the precuneus
+EDN1 level within the precuneus correlated positively with insoluble Aβ42 (r = 0.34, P < 0.01) (Figure 6A) and soluble Aβ42 (r = 0.37, P < 0.01) (Figure 6B) but not with soluble or insoluble Aβ40 (Figure 6C, D). EDN1 level in the underlying WM did not correlate with insoluble or soluble Aβ42 or Aβ40 in either region.
+
+Figure 6 EDN1 level correlated with Aβ42 in the precuneus (PC). PC EDN1 correlated with the level of insoluble (r = 0.34) (A) and soluble Aβ42 (r = 0.37) (B) but not the level of insoluble (C) or soluble (D) Aβ40. **P < 0.01.
+
+DISCUSSION
+Our previous studies on post‐mortem samples of frontal lobe revealed pathological hypoperfusion of midfrontal cerebral cortex in AD 3, 4, 56, associated with an increase in cortical EDN1. The present findings indicate that these changes are not simply late‐stage manifestations of AD but are demonstrable even in early AD (ie, in Braak stage III–IV disease) in the precuneus, a region that is amongst the first affected by hypoperfusion 2, 6, 7, 13, 28, 30, 53. Indeed, the MAG:PLP1 ratio, an indicator of the adequacy of ante‐mortem tissue oxygenation, was lower in early than late AD (Braak stage V–VI) when the reduction was less pronounced, possibly reflecting falling oxygen demand, for example, as a result of reduced synaptic activity. As in the frontal cortex, the reduction in MAG:PLP1 in the precuneus correlated with the concentration of EDN1 and the level of Aβ42, likely to be one of the drivers of EDN1 production within the brain. Finally, our measurements on the parietal WM suggest that elevated cortical EDN1 in AD may reduce subcortical WM perfusion as well.
+
+In previous studies, we explored the potential contribution of several structural vascular abnormalities to reduced oxygenation of the cerebral cortex and WM in AD 3, 4, 56. SVD and CAA probably contribute to the reduction in blood flow in some patients. In the present study MAG:PLP1 tended to decline with SVD and CAA scores but not significantly. The variability in severity of SVD and CAA across the cohort as a whole may have obscured the contribution that these structural diseases of small vessels make to hypoperfusion of cerebral cortex and WM in a small proportion of cases. The present study did not examine microvessel density, another potential influence on cerebral perfusion (eg, in dementia with Lewy bodies (DLB) 36). However, we did not previously find a significant decline in microvessel density in the cerebral cortex in AD 56.
+
+Of the various potential contributors to reduced oxygenation of the precuneus in AD, the strongest candidate in the present study was EDN1, which doubled in concentration in early AD, and correlated negatively with MAG:PLP1 and positively with the concentration of VEGF. In contrast, the activity of ACE, which catalyses the production of another vasoconstrictor angiotensin‐II, correlated positively with MAG:PLP1, in keeping with a protective vasodilatory response to reduced oxygenation. These findings extend our previous observations on factors influencing oxygenation of the cortex in AD 56. The elevation of EDN1 in the cerebral cortex in AD is not simply a nonspecific consequence of neurodegenerative disease. In DLB, EDN1 level was reduced rather than increased in the occipital cortex 36, a region that is hypoperfused in patients with the disease. Even in the current AD cohort, in which EDN1 was increased in the cortex, it was reduced in the underlying WM, as would be expected physiologically in response to reduced perfusion. Our studies clearly show that the pathophysiology of reduced cerebral perfusion differs not only between dementia subtypes but also between different parts of the brain.
+
+The production of EDN1 is catalyzed by the ECEs. In temporal cortex we found evidence of upregulation of both ECE1 and ECE2 in AD 45, 47. ECE2 is primarily localized to pyramidal cells within the human brain. Our previous studies on human neuroblastoma cells suggest that upregulation of ECE2 in AD and is likely to be a response to the accumulation of Aβ42, as evidenced by the induction of ECE2 on exposure of neuroblastoma cells to human recombinant monomeric or oligomeric Aβ42 but not Aβ40 45. In contrast, in human cerebral endothelial cells Aβ40 upregulated ECE1 and stimulated EDN1 release whereas Aβ42 had no effect 47. In the present study, EDN1 level within the precuneus correlated strongly with the concentration of Aβ42 but not Aβ40.
+
+The production of EDN1 by neurons, which is mediated by ECE2 and driven by Aβ42, may cause sustained pathological hypoperfusion of cerebral cortex in AD, particularly in early disease (Figure 7). ECE2 is predominantly localized within the endolysosomal pathway and is responsible for the cleavage of Aβ destined for lysosomal degradation 43. The elevated production of EDN1 may be an unfortunate side effect of over‐activation of this pathway by excessive Aβ42. In contrast, endothelial production of EDN1, mediated by ECE1 and driven by Aβ40, is more likely to contribute to episodic, free radical‐dependent dysfunction of vascular regulation in AD 48 (Figure 7), including abnormalities of autoregulation and functional hyperaemia demonstrated initially in mouse models of cerebral Aβ accumulation 24, 39 and CAA 49, 54, and more recently in patients with AD 14 and probable CAA 50. It should be noted, in addition, that EDN1 is very unlikely to be the sole nonstructural mediator of hypoperfusion of the precuneus in early AD. Other potential contributors include reduced cholinergic vasodilatation, increased production of nitric oxide 19 and, of course reduced synaptic activity/metabolic demand.
+
+Figure 7 Proposed differences in stimuli and function between ECE2‐ and ECE1‐mediated cerebral vasoconstriction. The present data implicate Aβ42 in the elevated EDN1 level that correlates with a sustained reduction in tissue oxygenation (and therefore of MAG:PLP1) in AD, whereas Aβ40 has been implicated in impairment of transient modulation of arteriolar calibre needed for functional hyperaemia. We reported previously that Aβ42 upregulates ECE2‐mediated production of EDN1 by neurons 45 and that Aβ40 upregulates ECE1‐mediated production of EDN1 by cerebrovascular endothelial cells, a process inhibited by the antioxidant superoxide dismutase 46, 48. Iadecola 24 showed that the transient modulation of arteriolar calibre needed for functional hyperaemia is impaired in mice transgenic for mutant human APP, that this is mediated by Aβ40 and dependent on the production of free radicals. Together these findings suggest that functional hyperaemia is impaired by Aβ40 as a result of a free radical‐mediated increase in ECE1 activity and EDN1 production.
+
+Despite progress in our understanding of the pathogenesis of AD there are still only a limited number of available treatment options for patients. There is increasing awareness that, to be effective, most therapies will need to be started at an early stage of disease, before the onset of significant neuropathological changes. We have now shown that the Aβ‐dependent upregulation of the ECE2‐ET‐1 axis in AD occurs at an early stage in the disease and contributes to chronic hypoperfusion of the cerebral cortex, and to a lesser extent the underlying WM. Our findings raise the possibility of benefit from EDN1 receptor antagonists in reducing the deleterious effects of long‐term cerebral hypoperfusion mediated by the activation of EDN1A receptors on vascular smooth muscle cells. Bosentan, a dual EDN1A/B receptor antagonist, preserved aortic and carotid endothelial function in Tg2576 mice, which overexpress APP 15, and EDN1A receptor antagonists have been shown to have therapeutic benefit in several peripheral diseases associated with abnormal activation of the endothelin system: pulmonary hypertension, some forms of renal disease, systemic arterial hypertension, heart failure, allograft rejection and diabetes/insulin resistance (reviewed in 44). Whilst EDN1A receptor antagonists would not address the presumed underlying cause of AD, the present data suggest that these drugs have the potential to ameliorate some of the damaging neurobiological manifestations of the disease from an early stage.
+
+Supporting information
+Additional Supporting Information may be found in the online version of this article at the publisher's web‐site:
+
+ 
+Figure S1. (A) Bar chart showing elevated VEGF in relation to disease severity in the precuneus. Control and AD cases were grouped according to Braak tangle stage, irrespective of dementia status. Post hoc analysis showed that VEGF level was significantly higher in the V–VI than the 0–II group. Scatterplot showing positive correlation between VEGF and insoluble Aβ42 (r = 0.41) (B) but not Aβ40 (C) in the precuneus. (D) Bar chart showing lower ACE activity in early AD (Braak stage III–IV) than in late stage disease (Braak stage V–VI). **P < 0.01.
+
+Click here for additional data file.
+
+ 
+Tables S1 and S2. The demographic data, neuropathological findings, and MRC identifier numbers in this cohort are summarized.
+
+Click here for additional data file.
+
+ ACKNOWLEDGMENTS
+This work was supported by grants from Alzheimer's Research UK (ART‐PG2011‐1) and the Medical Research Council (MR/K015397/1). The South West Dementia Brain Bank is part of the Brains for Dementia Research program, jointly funded by Alzheimer's Research UK and Alzheimer's Society, and is supported by BRACE (Bristol Research into Alzheimer's and Care of the Elderly) and the Medical Research Council.
+==== Refs
+REFERENCES
+1 
+
+Ashby 
+EL 
+, 
+
+Miners 
+JS 
+, 
+
+Kumar 
+S 
+, 
+
+Walter 
+J 
+, 
+
+Love 
+S 
+, 
+
+Kehoe 
+PG 
+ (2015 ) Investigation of Aβ phosphorylated at serine 8 (pAβ) in Alzheimer's disease, dementia with Lewy bodies and vascular dementia . Neuropathol Appl Neurobiol 
+41 :428 –444 .
+25556395 
+2 
+
+Asllani 
+I 
+, 
+
+Habeck 
+C 
+, 
+
+Scarmeas 
+N 
+, 
+
+Borogovac 
+A 
+, 
+
+Brown 
+TR 
+, 
+
+Stern 
+Y 
+ (2008 ) Multivariate and univariate analysis of continuous arterial spin labeling perfusion MRI in Alzheimer's disease . J Cereb Blood Flow Metab 
+28 :725 –36 .
+17960142 
+3 
+
+Barker 
+R 
+, 
+
+Ashby 
+EL 
+, 
+
+Wellington 
+D 
+, 
+
+Barrow 
+VM 
+, 
+
+Palmer 
+JC 
+, 
+
+Kehoe 
+PG 
+
+et al (2014 ) Pathophysiology of white matter perfusion in Alzheimer's disease and vascular dementia . Brain 
+137 :1524 –1532 .
+24618270 
+4 
+
+Barker 
+R 
+, 
+
+Wellington 
+D 
+, 
+
+Esiri 
+MM 
+, 
+
+Love 
+S 
+ (2013 ) Assessing white matter ischemic damage in dementia patients by measurement of myelin proteins . J Cereb Blood Flow Metab 
+33 :1050 –1057 .
+23532085 
+5 
+
+Barua 
+NU 
+, 
+
+Miners 
+JS 
+, 
+
+Bienemann 
+AS 
+, 
+
+Wyatt 
+MJ 
+, 
+
+Welser 
+K 
+, 
+
+Tabor 
+AB 
+
+et al (2012 ) Convection‐enhanced delivery of neprilysin: a novel amyloid‐β‐degrading therapeutic strategy . J Alzheimers Dis 
+32 :43 –56 .
+22751177 
+6 
+
+Benzinger 
+TL 
+, 
+
+Blazey 
+T 
+, 
+
+Jack 
+CR , Jr.
+, 
+
+Koeppe 
+RA 
+, 
+
+Su 
+Y 
+, 
+
+Xiong 
+C 
+, 
+
+Raichle 
+ME 
+
+et al (2013 ) Regional variability of imaging biomarkers in autosomal dominant Alzheimer's disease . Proc Natl Acad Sci USA 
+110 :E4502 –E4509 .
+24194552 
+7 
+
+Binnewijzend 
+MA 
+, 
+
+Kuijer 
+JP 
+, 
+
+Benedictus 
+MR 
+, 
+
+van der Flier 
+WM 
+, 
+
+Wink 
+AM 
+, 
+
+Wattjes 
+MP 
+
+et al (2013 ) Cerebral blood flow measured with 3D pseudocontinuous arterial spin‐labeling MR imaging in Alzheimer disease and mild cognitive impairment: a marker for disease severity . Radiology 
+267 :221 –230 .
+23238159 
+8 
+
+Braak 
+H 
+, 
+
+Alafuzoff 
+I 
+, 
+
+Arzberger 
+T 
+, 
+
+Kretzschmar 
+H 
+, 
+
+Del Tredici 
+K 
+ (2006 ) Staging of Alzheimer disease‐associated neurofibrillary pathology using paraffin sections and immunocytochemistry . Acta Neuropathol 
+112 :389 –404 .
+16906426 
+9 
+
+Brun 
+A 
+, 
+
+Englund 
+E 
+ (1986 ) Brain changes in dementia of Alzheimer's type relevant to new imaging diagnostic methods . Prog Neuropsychopharmacol Biol Psychiatry 
+10 :297 –308 .
+3492011 
+10 
+
+Brun 
+A 
+, 
+
+Gustafson 
+L 
+, 
+
+Englund 
+E 
+ (1990 ) Subcortical pathology of Alzheimer's disease . Adv Neurol 
+51 :73 –77 .
+2294667 
+11 
+
+Chalmers 
+K 
+, 
+
+Wilcock 
+GK 
+, 
+
+Love 
+S 
+ (2003 ) APOE e4 influences the pathological phenotype of Alzheimer's disease by favouring cerebrovascular over parenchymal accumulation of Ab protein . Neuropathol Appl Neurobiol 
+29 :231 –238 .
+12787320 
+12 
+
+Chui 
+HC 
+, 
+
+Zheng 
+L 
+, 
+
+Reed 
+BR 
+, 
+
+Vinters 
+HV 
+, 
+
+Mack 
+WJ 
+ (2012 ) Vascular risk factors and Alzheimer's disease: are these risk factors for plaques and tangles or for concomitant vascular pathology that increases the likelihood of dementia? An evidence‐based review . Alzheimers Res Ther 
+4 :1 .
+
+13 
+
+Dai 
+W 
+, 
+
+Lopez 
+OL 
+, 
+
+Carmichael 
+OT 
+, 
+
+Becker 
+JT 
+, 
+
+Kuller 
+LH 
+, 
+
+Gach 
+HM 
+ (2009 ) Mild cognitive impairment and alzheimer disease: patterns of altered cerebral blood flow at MR imaging . Radiology 
+250 :856 –866 .
+19164119 
+14 
+
+den Abeelen 
+AS 
+, 
+
+Lagro 
+J 
+, 
+
+van Beek 
+AH 
+, 
+
+Claassen 
+JA 
+ (2014 ) Impaired cerebral autoregulation and vasomotor reactivity in sporadic Alzheimer's disease . Curr Alzheimer Res 
+11 :11 –17 .
+24251392 
+15 
+
+Elesber 
+AA 
+, 
+
+Bonetti 
+PO 
+, 
+
+Woodrum 
+JE 
+, 
+
+Zhu 
+XY 
+, 
+
+Lerman 
+LO 
+, 
+
+Younkin 
+SG 
+, 
+
+Lerman 
+A 
+ (2006 ) Bosentan preserves endothelial function in mice overexpressing APP . Neurobiol Aging 
+27 :446 –450 .
+15894408 
+16 
+
+Ellis 
+RJ 
+, 
+
+Olichney 
+JM 
+, 
+
+Thal 
+LJ 
+, 
+
+Mirra 
+SS 
+, 
+
+Morris 
+JC 
+, 
+
+Beekly 
+D 
+, 
+
+Heyman 
+A 
+ (1996 ) Cerebral amyloid angiopathy in the brains of patients with Alzheimer's disease: the CERAD experience, Part XV . Neurology 
+46 :1592 –1596 .
+8649554 
+17 
+
+Englund 
+E 
+ (1998 ) Neuropathology of white matter changes in Alzheimer's disease and vascular dementia . Dement Geriatr Cogn Disord 
+9 (Suppl 1 ):6 –12 .
+9716238 
+18 
+
+Esiri 
+MM 
+, 
+
+Wilcock 
+GK 
+ (1986 ) Cerebral amyloid angiopathy in dementia and old age . J Neurol Neurosurg Psychiatry 
+49 :1221 –1226 .
+3794727 
+19 
+
+Gentile 
+MT 
+, 
+
+Vecchione 
+C 
+, 
+
+Maffei 
+A 
+, 
+
+Aretini 
+A 
+, 
+
+Marino 
+G 
+, 
+
+Poulet 
+R 
+
+et al (2004 ) Mechanisms of soluble β‐amyloid impairment of endothelial function . J Biol Chem 
+279 :48135 –48142 .
+15319431 
+20 
+
+Hawkes 
+CA 
+, 
+
+Gatherer 
+M 
+, 
+
+Sharp 
+MM 
+, 
+
+Dorr 
+A 
+, 
+
+Yuen 
+HM 
+, 
+
+Kalaria 
+R 
+
+et al (2013 ) Regional differences in the morphological and functional effects of aging on cerebral basement membranes and perivascular drainage of amyloid‐β from the mouse brain . Aging Cell 
+12 :224 –236 .
+23413811 
+21 
+
+Hawkes 
+CA 
+, 
+
+Hartig 
+W 
+, 
+
+Kacza 
+J 
+, 
+
+Schliebs 
+R 
+, 
+
+Weller 
+RO 
+, 
+
+Nicoll 
+JA 
+, 
+
+Carare 
+RO 
+ (2011 ) Perivascular drainage of solutes is impaired in the ageing mouse brain and in the presence of cerebral amyloid angiopathy . Acta Neuropathol 
+121 :431 –443 .
+21259015 
+22 
+
+Hawkes 
+CA 
+, 
+
+Jayakody 
+N 
+, 
+
+Johnston 
+DA 
+, 
+
+Bechmann 
+I 
+, 
+
+Carare 
+RO 
+ (2014 ) Failure of perivascular drainage of β‐amyloid in cerebral amyloid angiopathy . Brain Pathol 
+24 :396 –403 .
+24946077 
+23 
+
+Hughes 
+TM 
+, 
+
+Kuller 
+LH 
+, 
+
+Barinas‐Mitchell 
+EJ 
+, 
+
+McDade 
+EM 
+, 
+
+Klunk 
+WE 
+, 
+
+Cohen 
+AD 
+
+et al (2014 ) Arterial stiffness and β‐amyloid progression in nondemented elderly adults . JAMA Neurol 
+71 :562 –568 .
+24687165 
+24 
+
+Iadecola 
+C 
+ (2004 ) Neurovascular regulation in the normal brain and in Alzheimer's disease . Nat Rev Neurosci 
+5 :347 –360 .
+15100718 
+25 
+
+Jochemsen 
+HM 
+, 
+
+van der Flier 
+WM 
+, 
+
+Ashby 
+EL 
+, 
+
+Teunissen 
+CE 
+, 
+
+Jones 
+RE 
+, 
+
+Wattjes 
+MP 
+
+et al (2015 ) Angiotensin‐converting enzyme in cerebrospinal fluid and risk of brain atrophy . J Alzheimers Dis 
+44 :153 –162 .
+25201786 
+26 
+
+Kalaria 
+RN 
+ (2000 ) The role of cerebral ischemia in Alzheimer's disease . Neurobiol Aging 
+21 :321 –330 .
+10867217 
+27 
+
+Kester 
+MI 
+, 
+
+Goos 
+JD 
+, 
+
+Teunissen 
+CE 
+, 
+
+Benedictus 
+MR 
+, 
+
+Bouwman 
+FH 
+, 
+
+Wattjes 
+MP 
+
+et al (2014 ) Associations between cerebral small‐vessel disease and Alzheimer disease pathology as measured by cerebrospinal fluid biomarkers . JAMA Neurol 
+71 :855 –862 .
+24818585 
+28 
+
+Langbaum 
+JB 
+, 
+
+Chen 
+K 
+, 
+
+Caselli 
+RJ 
+, 
+
+Lee 
+W 
+, 
+
+Reschke 
+C 
+, 
+
+Bandy 
+D 
+
+et al (2010 ) Hypometabolism in Alzheimer‐affected brain regions in cognitively healthy Latino individuals carrying the apolipoprotein E epsilon4 allele . Arch Neurol 
+67 :462 –468 .
+20385913 
+29 
+
+Love 
+S 
+, 
+
+Nicoll 
+JA 
+, 
+
+Hughes 
+A 
+, 
+
+Wilcock 
+GK 
+ (2003 ) APOE and cerebral amyloid angiopathy in the elderly . Neuroreport 
+14 :1535 –1536 .
+12960780 
+30 
+
+Matsuda 
+H 
+ (2001 ) Cerebral blood flow and metabolic abnormalities in Alzheimer's disease . Ann Nucl Med 
+15 :85 –92 .
+11448080 
+31 
+
+Miners 
+JS 
+, 
+
+Ashby 
+E 
+, 
+
+Van Helmond 
+Z 
+, 
+
+Chalmers 
+KA 
+, 
+
+Palmer 
+LE 
+, 
+
+Love 
+S 
+, 
+
+Kehoe 
+PG 
+ (2008 ) Angiotensin‐converting enzyme (ACE) levels and activity in Alzheimer's disease, and relationship of perivascular ACE‐1 to cerebral amyloid angiopathy . Neuropathol Appl Neurobiol 
+34 :181 –193 .
+17973905 
+32 
+
+Miners 
+JS 
+, 
+
+Jones 
+R 
+, 
+
+Love 
+S 
+ (2014 ) Differential changes in Aβ42 and Aβ40 with age . J Alzheimers Dis 
+40 :727 –735 .
+24503618 
+33 
+
+Miners 
+JS 
+, 
+
+Palmer 
+JC 
+, 
+
+Tayler 
+H 
+, 
+
+Palmer 
+LE 
+, 
+
+Ashby 
+E 
+, 
+
+Kehoe 
+PG 
+, 
+
+Love 
+S 
+ (2014 ) Aβdegradation or cerebral perfusion? Divergent effects of multifunctional enzymes . Front Aging Neurosci 
+6 :238 .
+25309424 
+34 
+
+Miners 
+JS 
+, 
+
+van Helmond 
+Z 
+, 
+
+Raiker 
+M 
+, 
+
+Love 
+S 
+, 
+
+Kehoe 
+PG 
+ (2010 ) ACE variants and association with brain Aβ levels in Alzheimer's disease . Am J Transl Res 
+3 :73 –80 .
+21139807 
+35 
+
+Miners 
+S 
+, 
+
+Ashby 
+E 
+, 
+
+Baig 
+S 
+, 
+
+Harrison 
+R 
+, 
+
+Tayler 
+H 
+, 
+
+Speedy 
+E 
+
+et al (2009 ) Angiotensin‐converting enzyme levels and activity in Alzheimer's disease: differences in brain and CSF ACE and association with ACE1 genotypes . Am J Transl Res 
+1 :163 –177 .
+19956428 
+36 
+
+Miners 
+S 
+, 
+
+Moulding 
+H 
+, 
+
+de Silva 
+R 
+, 
+
+Love 
+S 
+ (2014 ) Reduced vascular endothelial growth factor and capillary density in the occipital cortex in dementia with Lewy bodies . Brain Pathol 
+24 :334 –343 .
+24521289 
+37 
+
+Mondello 
+S 
+, 
+
+Buki 
+A 
+, 
+
+Barzo 
+P 
+, 
+
+Randall 
+J 
+, 
+
+Provuncher 
+G 
+, 
+
+Hanlon 
+D 
+
+et al (2014 ) CSF and plasma amyloid‐β temporal profiles and relationships with neurological status and mortality after severe traumatic brain injury . Sci Rep 
+4 :6446 .
+25300247 
+38 
+
+Montine 
+TJ 
+, 
+
+Phelps 
+CH 
+, 
+
+Beach 
+TG 
+, 
+
+Bigio 
+EH 
+, 
+
+Cairns 
+NJ 
+, 
+
+Dickson 
+DW 
+
+et al (2012 ) National Institute on Aging‐Alzheimer's Association guidelines for the neuropathologic assessment of Alzheimer's disease: a practical approach . Acta Neuropathol 
+123 :1 –11 .
+22101365 
+39 
+
+Niwa 
+K 
+, 
+
+Kazama 
+K 
+, 
+
+Younkin 
+L 
+, 
+
+Younkin 
+SG 
+, 
+
+Carlson 
+GA 
+, 
+
+Iadecola 
+C 
+ (2002 ) Cerebrovascular autoregulation is profoundly impaired in mice overexpressing amyloid precursor protein . Am J Physiol Heart Circ Physiol 
+283 :H315 –H323 .
+12063304 
+40 
+
+Niwa 
+K 
+, 
+
+Kazama 
+K 
+, 
+
+Younkin 
+SG 
+, 
+
+Carlson 
+GA 
+, 
+
+Iadecola 
+C 
+ (2002 ) Alterations in cerebral blood flow and glucose utilization in mice overexpressing the amyloid precursor protein . Neurobiol Dis 
+9 :61 –68 .
+11848685 
+41 
+
+Niwa 
+K 
+, 
+
+Porter 
+VA 
+, 
+
+Kazama 
+K 
+, 
+
+Cornfield 
+D 
+, 
+
+Carlson 
+GA 
+, 
+
+Iadecola 
+C 
+ (2001 ) Aβ‐peptides enhance vasoconstriction in cerebral circulation . Am J Physiol Heart Circ Physiol 
+281 :H2417 –H2424 .
+11709407 
+42 
+
+Olichney 
+JM 
+, 
+
+Hansen 
+LA 
+, 
+
+Galasko 
+D 
+, 
+
+Saitoh 
+T 
+, 
+
+Hofstetter 
+CR 
+, 
+
+Katzman 
+R 
+, 
+
+Thal 
+LJ 
+ (1996 ) The apolipoprotein E ϵ4 allele is associated with increased neuritic plaques and cerebral amyloid angiopathy in Alzheimer's disease and Lewy body variant . Neurology 
+47 :190 –196 .
+8710076 
+43 
+
+Pacheco‐Quinto 
+J 
+, 
+
+Eckman 
+EA 
+ (2013 ) Endothelin‐converting enzymes degrade intracellular β‐amyloid produced within the endosomal/lysosomal pathway and autophagosomes . J Biol Chem 
+288 :5606 –5615 .
+23283972 
+44 
+
+Palmer 
+J 
+, 
+
+Love 
+S 
+ (2011 ) Endothelin receptor antagonists: potential in Alzheimer's disease . Pharmacol Res 
+63 :525 –531 .
+21193044 
+45 
+
+Palmer 
+JC 
+, 
+
+Baig 
+S 
+, 
+
+Kehoe 
+PG 
+, 
+
+Love 
+S 
+ (2009 ) Endothelin‐converting enzyme‐2 is increased in Alzheimer's disease and up‐regulated by Aβ . Am J Pathol 
+175 :262 –270 .
+19541930 
+46 
+
+Palmer 
+JC 
+, 
+
+Barker 
+R 
+, 
+
+Kehoe 
+PG 
+, 
+
+Love 
+S 
+ (2012 ) Endothelin‐1 is elevated in Alzheimer's disease and upregulated by amyloid‐β . J Alzheimers Dis 
+29 :853 –861 .
+22330820 
+47 
+
+Palmer 
+JC 
+, 
+
+Kehoe 
+PG 
+, 
+
+Love 
+S 
+ (2010 ) Endothelin‐converting enzyme‐1 in Alzheimer's disease and vascular dementia . Neuropathol Appl Neurobiol 
+36 :487 –497 .
+20345647 
+48 
+
+Palmer 
+JC 
+, 
+
+Tayler 
+HM 
+, 
+
+Love 
+S 
+ (2013 ) Endothelin‐converting enzyme‐1 activity, endothelin‐1 production, and free radical‐dependent vasoconstriction in Alzheimer's disease . J Alzheimers Dis 
+36 :577 –587 .
+23629587 
+49 
+
+Park 
+L 
+, 
+
+Koizumi 
+K 
+, 
+
+El Jamal 
+S 
+, 
+
+Zhou 
+P 
+, 
+
+Previti 
+ML 
+, 
+
+Van Nostrand 
+WE 
+
+et al (2014 ) Age‐dependent neurovascular dysfunction and damage in a mouse model of cerebral amyloid angiopathy . Stroke 
+45 :1815 –1821 .
+24781082 
+50 
+
+Peca 
+S 
+, 
+
+McCreary 
+CR 
+, 
+
+Donaldson 
+E 
+, 
+
+Kumarpillai 
+G 
+, 
+
+Shobha 
+N 
+, 
+
+Sanchez 
+K 
+
+et al (2013 ) Neurovascular decoupling is associated with severity of cerebral amyloid angiopathy . Neurology 
+81 :1659 –1665 .
+24097810 
+51 
+
+Qiu 
+WQ 
+, 
+
+Ye 
+Z 
+, 
+
+Kholodenko 
+D 
+, 
+
+Seubert 
+P 
+, 
+
+Selkoe 
+DJ 
+ (1997 ) Degradation of amyloid β‐protein by a metalloprotease secreted by microglia and other neural and non‐neural cells . J Biol Chem 
+272 :6641 –6666 .
+9045694 
+52 
+
+Ruitenberg 
+A 
+, 
+
+den Heijer 
+T 
+, 
+
+Bakker 
+SL 
+, 
+
+van Swieten 
+JC 
+, 
+
+Koudstaal 
+PJ 
+, 
+
+Hofman 
+A 
+, 
+
+Breteler 
+MM 
+ (2005 ) Cerebral hypoperfusion and clinical onset of dementia: the Rotterdam Study . Ann Neurol 
+57 :789 –794 .
+15929050 
+53 
+
+Sakamoto 
+S 
+, 
+
+Ishii 
+K 
+, 
+
+Sasaki 
+M 
+, 
+
+Hosaka 
+K 
+, 
+
+Mori 
+T 
+, 
+
+Matsui 
+M 
+
+et al (2002 ) Differences in cerebral metabolic impairment between early and late onset types of Alzheimer's disease . J Neurol Sci 
+200 :27 –32 .
+12127672 
+54 
+
+Shin 
+HK 
+, 
+
+Jones 
+PB 
+, 
+
+Garcia‐Alloza 
+M 
+, 
+
+Borrelli 
+L 
+, 
+
+Greenberg 
+SM 
+, 
+
+Bacskai 
+BJ 
+
+et al (2007 ) Age‐dependent cerebrovascular dysfunction in a transgenic mouse model of cerebral amyloid angiopathy . Brain 
+130 :2310 –2319 .
+17638859 
+55 
+
+Swirski 
+M 
+, 
+
+Miners 
+JS 
+, 
+
+de Silva 
+R 
+, 
+
+Lashley 
+T 
+, 
+
+Ling 
+H 
+, 
+
+Holton 
+J 
+
+et al (2014 ) Evaluating the relationship between amyloid‐β and α‐synuclein phosphorylated at Ser129 in dementia with Lewy bodies and Parkinson's disease . Alzheimers Res Ther 
+6 :77 .
+25452767 
+56 
+
+Thomas 
+T 
+, 
+
+Miners 
+S 
+, 
+
+Love 
+S 
+ (2015 ) Post‐mortem assessment of hypoperfusion of cerebral cortex in Alzheimer's disease and vascular dementia . Brain 
+138 :1059 –1069 .
+25688080 
+57 
+
+van Helmond 
+Z 
+, 
+
+Miners 
+JS 
+, 
+
+Kehoe 
+PG 
+, 
+
+Love 
+S 
+ (2010 ) Higher soluble amyloid β concentration in frontal cortex of young adults than in normal elderly or Alzheimer's disease . Brain Pathol 
+20 :787 –793 .
+20175777 
+58 
+
+van Helmond 
+Z 
+, 
+
+Miners 
+JS 
+, 
+
+Kehoe 
+PG 
+, 
+
+Love 
+S 
+ (2010 ) Oligomeric Aβ in Alzheimer's disease: relationship to plaque and tangle pathology, APOE genotype and cerebral amyloid angiopathy . Brain Pathol 
+20 :468 –480 .
+19725829 
+59 
+
+Weller 
+RO 
+, 
+
+Hawkes 
+CA 
+, 
+
+Kalaria 
+RN 
+, 
+
+Werring 
+DJ 
+, 
+
+Carare 
+RO 
+ (2015 ) White matter changes in dementia: role of impaired drainage of interstitial fluid . Brain Pathol 
+25 :63 –78 .
+25521178 
+60 
+
+Weller 
+RO 
+, 
+
+Subash 
+M 
+, 
+
+Preston 
+SD 
+, 
+
+Mazanti 
+I 
+, 
+
+Carare 
+RO 
+ (2008 ) Perivascular drainage of amyloid‐β peptides from the brain and its failure in cerebral amyloid angiopathy and Alzheimer's disease . Brain Pathol 
+18 :253 –266 .
+18363936 
+61 
+
+Zetterberg 
+H 
+, 
+
+Mortberg 
+E 
+, 
+
+Song 
+L 
+, 
+
+Chang 
+L 
+, 
+
+Provuncher 
+GK 
+, 
+
+Patel 
+PP 
+
+et al (2011 ) Hypoxia due to cardiac arrest induces a time‐dependent increase in serum amyloid β levels in humans . PLoS One 
+6 :e28263 .
+22194817

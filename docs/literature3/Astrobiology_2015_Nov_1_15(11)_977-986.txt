@@ -1,0 +1,279 @@
+
+==== Front
+AstrobiologyAstrobiologyastAstrobiology1531-10741557-8070Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd FloorNew Rochelle, NY 10801USA 2653973310.1089/ast.2015.135510.1089/ast.2015.1355Research ArticlesStable Carbon Isotope Fractionation during Bacterial Acetylene Fermentation: Potential for Life Detection in Hydrocarbon-Rich Volatiles of Icy Planet(oid)s Miller Laurence G. Baesman Shaun M. Oremland Ronald S. U.S. Geological Survey, Menlo Park, California.Address correspondence to:Laurence G. MillerU.S. Geological Survey345 Middlefield Rd.Menlo Park, CA 94025E-mail:lgmiller@usgs.gov01 11 2015 01 11 2015 15 11 977 986 20 5 2015 10 9 2015 © The Author(s) 2015; Published by Mary Ann Liebert, Inc.2015This Open Access article is distributed under the terms of the Creative Commons License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited.Abstract
+We report the first study of stable carbon isotope fractionation during microbial fermentation of acetylene (C2H2) in sediments, sediment enrichments, and bacterial cultures. Kinetic isotope effects (KIEs) averaged 3.7 ± 0.5‰ for slurries prepared with sediment collected at an intertidal mudflat in San Francisco Bay and 2.7 ± 0.2‰ for a pure culture of Pelobacter sp. isolated from these sediments. A similar KIE of 1.8 ± 0.7‰ was obtained for methanogenic enrichments derived from sediment collected at freshwater Searsville Lake, California. However, C2H2 uptake by a highly enriched mixed culture (strain SV7) obtained from Searsville Lake sediments resulted in a larger KIE of 9.0 ± 0.7‰. These are modest KIEs when compared with fractionation observed during oxidation of C1 compounds such as methane and methyl halides but are comparable to results obtained with other C2 compounds. These observations may be useful in distinguishing biologically active processes operating at distant locales in the Solar System where C2H2 is present. These locales include the surface of Saturn's largest moon Titan and the vaporous water- and hydrocarbon-rich jets emanating from Enceladus. Key Words: Acetylene—Fermentation—Isotope fractionation—Enceladus—Life detection. Astrobiology 15, 977–986.
+==== Body
+1. Introduction
+Acetylene (C2H2) is formed in planetary atmospheres primarily by photochemical conversion of methane (Kasting et al., 1983; Zahnle, 1986). Methane (CH4) and hence acetylene were abundant in the anoxic atmosphere of early Earth (Kasting, 2005). Both gases have been identified in comets (Brooke et al., 1996; Mumma et al., 2005), thereby adding organic material to early Earth (Chyba et al., 1990) and throughout the Solar System. Today, terrestrial tropospheric concentrations of C2H2 are generally less than 0.1 ppbv, a level which is mostly supported by anthropogenic leakage. Minor amounts of C2H2 are produced during biomass burning (Andrea and Merlet, 2001) and by methanogenic attack of halogenated hydrocarbons (Belay and Daniels, 1987). Much higher C2H2 concentrations (ppmv and higher levels) are found within the atmospheres of a number of jovian-type planets and satellites in our solar system (Macy, 1980; Noll et al., 1986; Waite et al., 2007; Oremland and Voytek, 2008). For example, Titan's upper atmosphere contains abundant C2H2 (Shemansky et al., 2005), the condensation and sedimentation of which (Schulze-Makuch and Grinspoon, 2005) leads to concentrations up to 1% in the liquid hydrocarbon lakes on its surface (Cordier et al., 2009). The vaporous plumes emanating from the south polar region of Enceladus, Saturn's sixth largest moon, may contain C2H2 along with other organic compounds, water, and salts (Waite et al., 2006; Postberg et al., 2011). Matson et al. (2007) proposed that C2H2 originates within Enceladus by thermal processes, with a liquid water body below the icy surface in contact with a hot silicate core. External sources of C2H2 have also been suggested (Waite et al., 2009; McKay et al., 2012).
+
+There are few chemical reactions that consume C2H2. Acetylene is used commercially as a feedstock for the production of other organic compounds via catalytic cyclization (Reppe et al., 1969). Removal of traces of C2H2 from the product stream is performed industrially at elevated temperatures using palladium catalysts often containing other metals (Studt et al., 2008). A more familiar process, combustion, requires a strong oxidant such as O2 or N2O and an ignition source. Pyrolysis of C2H2 has also been shown to occur in anoxic aqueous solutions under intense ultrasound irradiation (Hart et al., 1990). Note that the above chemical reactions all require elevated concentrations of C2H2 or large expenditures of energy in order to proceed. Reaction with hydroxyl radical has been demonstrated (Breen and Glass, 1971); however, this process is unlikely to be important in our troposphere where C2H2 mixing ratios are low.
+
+Biological processes consume C2H2 over a range of concentrations and environmental conditions. Aerobic oxidation of C2H2 by the bacterium Nocardia rhodochrous (now called Rhodococcus rhodochrous) was documented by Kanner and Bartha (1979) followed by the observation of anaerobic C2H2 fermentation when using cell-free extracts of Rhodococcus A1 (de Bont and Peck, 1980). Anaerobic oxidation of C2H2 in enrichment cultures derived from estuarine sediments (Culbertson et al., 1981) resulted in the production of CO2, and a hypothesized role of C2H2 as a potential source of carbon and energy for primordial and extraterrestrial food chains was suggested (Culbertson et al., 1988; Oremland and Voytek, 2008). McKay and Smith (2005) calculated that hydrogenation of C2H2 to CH4 could support alien methanogenic life on the surface of Titan at 90 K.
+
+Fermentation of C2H2 has been well studied by using the model organism Pelobacter acetylenicus (Schink, 1985) from which the acetylene hydratase enzyme (AH) was isolated and purified (Rosner and Schink, 1995; Meckenstock et al., 1999; Seiffert et al., 2007). This enzyme is uniquely specific for acetylene and will not react with other compounds (tenBrink et al., 2011). No cross-reactivity was found between antibodies raised against P. acetylenicus and cell-free extracts of aerobic acetylene consumers (Rosner et al., 1997), suggesting that aerobic and anaerobic forms of AH are structurally different.
+
+Miller et al. (2013) conducted a survey of AH activity in likely anoxic environments and in addition developed a genetic method of AH detection based on gene amplification from extracted DNA using a degenerate primer derived from P. acetylenicus. Few (21%) of the environments tested showed AH activity, while fewer still (10%) tested positive for the AH gene. They suggested insufficient degeneracy in their primer design as an explanation for this observation but offered the possibility that other metabolic pathways could be operative in those cases where AH activity was present without detection of the AH gene. They highlighted two cultures as examples of (1) organisms that fermented C2H2 and contained the AH gene (SFB93, from San Francisco Bay) and (2) organisms that fermented C2H2 but lacked the AH gene (SV7, from Searsville Lake, CA). These two cultures, sediments, and sediment enrichments from the two environments are the subject of further examination presented in this study.
+
+Patterns of stable carbon isotope fractionation have long been used to distinguish biological processes from purely physical/chemical processes involving carbon compounds. Examples include numerous studies on the provenance of natural hydrocarbons in Earth's crust and sediments (Rosenfeld and Silverman, 1959; Schoell, 1980, 1988; Pohlman et al., 2009). The two principle biochemical pathways of CH4 formation (fermentation and CO2 reduction) result in different biological fractionation factors (α = κ12/κ13), and the gas produced can be further distinguished from thermogenic methane by using stable isotopes alone (Whiticar et al., 1986). Consumption of CH4 results in smaller kinetic isotope effects (KIE = ɛ or [α − 1] × 1000) for abiotic reaction with OH radicals in the troposphere (Rust and Stephens, 1980; Cantrell et al., 1990) than for microbial oxidation in oxic or anoxic aquatic environments (Whiticar, 1999; Templeton et al., 2006; Kinnaman et al., 2007). Similarly, the carbon KIE for chemical uptake of methyl bromide was significantly lower than the KIE for microbial oxidation in pure cultures, enrichment cultures, and in agricultural field fumigation experiments and soil microcosms (Miller et al., 2001, 2004; Bill et al., 2002). Conversely, larger KIEs were observed for abiotic transformation of the chlorinated ethene TCE (Bill et al., 2001; Slater et al., 2002) than were achieved during microbial reductive dehalogenation of this compound (Bloom et al., 2000; Liang et al., 2007). In addition, abiogenic hydrocarbon production by various mechanisms may result in isotopically depleted products (Sherwood Lollar et al., 2008) giving the appearance of biogenic fractionation. Thus, disparate stable isotope fractionation patterns must be evaluated in concert with additional information to distinguish abiotic from biogenic pathways of production or consumption.
+
+In addition to their use in inferring the pathway of degradation, stable carbon isotopes are used to determine the degree of organic contaminant transformation during degradation by observing the relative enrichment of 13C in reactive substrates (Meckenstock et al., 2004; Elsner et al., 2005; Hofstetter et al., 2008). Using this approach, the amount of chlorinated ethene biodegradation via various pathways may be distinguished by using stable isotope fractionation patterns coupled with reactive transport modeling. The assessment of biological and chemical KIEs is an important first step in applying patterns of stable carbon isotope fractionation to distinguish biological from nonbiological processes or to discern the degree of transformation of carbon compounds. In the case of C2H2, there are few important chemical reactions to consider; hence, we investigated biological KIEs. This study reports the first documented stable carbon isotope fractionation of C2H2 during fermentation by estuarine sediments, sediment enrichments derived from freshwater mud, and pure cultures obtained from estuarine sediments.
+
+2. Materials and Methods
+2.1. Sediments and enrichments
+Estuarine sediments were collected at low tide from the surface of an intertidal mudflat in San Francisco Bay (Culbertson et al., 1981; Miller et al., 2013). Sediment slurries were prepared under flowing N2 by mixing sediment with artificial mineral salts media (ABW; Culbertson et al., 1981) in a large beaker in a ratio of 1 part sediment to 5 parts ABW. Freshwater lake sediments were collected by Ekman Grab from Searsville Lake, Stanford, California, at a water depth of 5 m. Sediment slurries were prepared similarly using freshwater media (SeFr1 and SeFr2; Miller et al., 2013).
+
+Acetylene fermenters were enriched from incubated sediment slurries of San Francisco Bay and Searsville Lake that demonstrated C2H2 consumption (Table 1). A complete description of the enrichment and cultivation of strains SFB93 and SV7 was presented by Miller et al. (2013). Amplification and sequencing of the 16S rRNA gene revealed SFB93 to be composed of a single clone aligning within the pelobacter clade and having 96% sequence similarity to Pelobacter acetylenicus (GenBank accession number JQ085863). By contrast, SV7 defied purification into a single isolate. At the time of publication (Miller et al., 2013), SV7 consisted of several (perhaps six) species of bacteria, including actinobacteria and a sulfurospirillum-like organism, but no pelobacters.
+
+Table 1. Sediments, Sediment Enrichments, and Cultures Derived from Sediments Representing Various Stages of Purification
+
+Sample	Date collected	Location	Steps taken toward purification	Number of organisms	
+SFB5	12/19/07	San Francisco Bay
+Palo Alto, CA
+N 37°27′28.13″
+W 122°06′03.73″	None; this is the original slurry in ABWa.	Not tested	
+SFB93	12/19/07	San Francisco Bay
+Palo Alto, CA
+N 37°27′28.13″
+W 122°06′03.73″	9 transfers from original slurry in ABW + 1.6 mM cysteine-HCl. Transfer to agar plate. Pick individual colony from agar and grow on ABW + vitamins and trace elements.	1	
+SVM	2/22/12	Searsville Lake
+Stanford, CA
+N 37°24′26.63″
+W 122°14′16.98″	4 transfers from original slurry in SeFr2b.	Not tested	
+SV7	6/24/08	Searsville Lake
+Stanford, CA
+N 37°24′26.63″
+W 122°14′16.98″	9 transfers from original slurry in SeFr1c + 1 mM sulfide. Final transfer to SeFr2b + 1 mM sulfide. Transfer to agar plate. Pick individual colony from agar and perform dilution to extinction in SeFr2. Choose e5 tube and grow on SeFr2 + vitamins and trace elements.	≥6	
+a ABW = Artificial Bay Water media.
+
+b SeFr2 = Fresh Water media lacking \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+${\rm SO}_4^{\,\,\,2 -}$
+\end{document}.
+
+c SeFr1 = Fresh Water media with 2.2 mM
+\documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+${\rm SO}_4^{\,\,2 -}$
+\end{document}.
+
+Acetylene used throughout this study was generated by the reaction of calcium carbide with water:
+ \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+\begin{align*}{\rm CaC}_2 + 2{\rm H}_2{\rm O} \rightarrow {\rm C}_2{\rm H}_2 + {\rm Ca}( {\rm OH})_2 \tag{1}\end{align*}
+\end{document} 
+
+Two liters of C2H2 were purified by cryogenic transfer using liquid nitrogen through water vapor traps at −87°C in a vacuum line, followed by pumping of noncondensable gas. The purified gas was frozen into several serum bottles for use in subsequent experiments. Acetylene introduced into the headspace of tubes or serum bottles was distributed between liquid and headspace volumes according to Henry's law such that about two-thirds of the gas was dissolved and one-third remained in the headspace after 20 min equilibration. Incubations began with initial headspace concentrations of 90–240 μmol L−1 C2H2.
+
+2.2. Incubations
+San Francisco Bay sediment slurries (SFB5; 20 mL) were dispensed under flowing N2 to serum bottles (160 mL total volume) containing 10 mL ABW and stoppered before flushing with oxygen-free N2 for an additional 5 min. A single heat-killed control was prepared by autoclaving (121°C, 203 kPa for 1 h). Incubations were started by addition of 0.5 mL C2H2 to the headspace and were allowed to equilibrate for 20 min before initial headspace samples were collected. Slurries were incubated in the dark at 28°C with rotary shaking at 120 rpm. Subsequent headspace samples were collected approximately hourly for 7 h.
+
+Cultures of acetylene fermenters were grown on mineral salts media with added SL10 trace elements (Widdel et al., 1983) and vitamins (Oremland et al., 1994) with cysteine-HCl (SFB93) or Na2S (SV7) as reducing agent (Table 1). Strain SFB93 was harvested in late exponential phase for incubation either in growth mode or as a washed-cell suspension. Manipulation of cultures took place in an anaerobic chamber (Type A, Coy Laboratory Products, Ann Arbor, MI) under a mixture of 5% H2, 5% CO2, and 90% N2. For growth experiments, SFB93 (10 mL) was transferred directly to Balch tubes (37 mL), stoppered, and flushed with oxygen-free N2 for 5 min. Cell densities were determined by direct cell counting using acridine orange epifluorescence microscopy (Hobbie et al., 1977). Initial cell density was 3.0 × 107 cells cm−3. Final cell density was not determined. For washed-cell experiments, cells were centrifuged (7000g) and washed twice and then resuspended in a mineral salts medium that lacked trace metals and vitamins before transferring 30 mL to 160 mL serum bottles and flushing with N2. Initial cell density was 1.3 × 108 cells cm−3. Final cell density was not determined. Triplicate experimental tubes and a single heat-killed control were prepared for each condition. Incubations were started by addition of 0.2 mL C2H2 to the headspace of tubes and 0.5–1.0 mL C2H2 to the headspace of serum bottles. Incubations were conducted in the dark at 28°C and 14°C with rotary shaking at 120 rpm.
+
+Sediment enrichments were evaluated at various points along the pathway to purification. Searsville Lake sediment collected from the same site as SV7 but on a different sampling date was transferred four times from slurry using SeFr2 media. This enrichment (SVM) produced up to 7 mmol L−1 methane during C2H2 consumption. The mixed culture was grown to late exponential phase, and 10 mL was transferred to three serum bottles (160 mL) containing 20 mL SeFr2 for incubation at 28°C as above with addition of 0.5 mL C2H2 to start.
+
+Enrichment strain SV7 was harvested during exponential phase for incubation in growth mode. A 10 mL aliquot of the growing culture was transferred in the anaerobic chamber into 160 mL serum bottles containing 20 mL medium (Rosner et al., 1997). Bottles were stoppered and flushed with oxygen-free N2 prior to the start of incubations. Initial cell densities ranged from 1.8 × 107 to 4.8 × 107 cells cm−3. Incubations were started by addition of 0.5 mL C2H2 to the headspace of bottles. Six replicate experimental bottles and one heat-killed control were incubated in the dark with shaking at 28°C.
+
+2.3. Analytical
+Measurements of headspace concentration and stable carbon isotopic composition were made separately and simultaneously at each time point to determine the KIE due to acetylene fermentation. Headspace C2H2 concentrations were quantified by flame ionization gas chromatography (Miller et al., 1997, 2013). Precision of FID analyses was ±3% of the reported concentration. The concentration of C2H2 in each bottle was determined by comparison with standards prepared by dilution of 100% purified C2H2.
+
+The stable carbon isotopic composition (δ13C vs. VPDB) was determined by isotope-ratio-monitoring gas chromatography–combustion–mass spectrometry (GC-C-IRMS) using a HP 5890 gas chromatograph (Agilent Technologies, Santa Clara, CA) fitted with a GS-CARBONPLOT capillary column (30 m × 0.32 mm × 3.0 μm film thickness; J&W Scientific, Agilent Technologies, Santa Clara, CA) connected to an Elementar IsoPrime mass spectrometer through a CuO/NiO combustion interface and a Nafion (Perma Pure, Toms River, NJ) water trap (Kalin et al., 2001; Bill et al., 2002). The CO2 monitoring gas measured with each analysis was calibrated against a range of international standards, including NBS-19 and NBS-22 (1.95‰ and −30.0‰ vs. VPDB, respectively).
+
+Precision of the measured δ13C values of acetylene was ±0.5‰. Accuracy was evaluated by independently measuring the acetylene reference gas with elemental analyzer–isotope ratio mass spectrometry (EA-IRMS), the spectrometer configured such that a Carlo Erba NA 1500 elemental analyzer was connected to an Elementar Optima mass spectrometer. The δ13C values of C2H2 were corrected to an EDTA working standard calibrated against a range of international standards, including NBS-19 and NBS-23 (−35.5‰ vs. VPDB). The δ13C values for the acetylene reference gas analyzed by GC-C-IRMS were consistently depleted in 13C (1.7 ± 0.6‰) compared with the EA-IRMS values. No correction for this discrepancy was made.
+
+Kinetic isotope effects were calculated from the slope of the regression of the logarithm of the fraction of reactant acetylene remaining [-ln(C/C0)] against the δ13C value at the corresponding time point. Concentration and isotopic composition data from at least three replicates for each live condition were used to determine the slope defining the KIE for each bottle or tube. The errors reported in the text are the standard deviation of the replicate slopes.
+
+3. Results
+3.1. SFB5 slurries
+Headspace C2H2 concentrations decreased monotonically over ∼7 h in bottles containing San Francisco Bay sediment slurries (Fig. 1A). C2H2 remained constant in the autoclaved control. Stable carbon isotopes of C2H2 (δ13C2H2) increased from initial values around −27‰ in three live bottles but remained constant in the autoclaved control (Fig. 1B). The slope of the plotted line of δ13C2H2 against −ln(C/C0) for three live bottles (Fig. 1C) shows that the KIE for incubations at 28°C ranged from ɛ = 3.3 to 4.2 and averaged 3.7 ± 0.5‰.
+
+FIG. 1. Uptake of C2H2 (A), change in δ13C2H2 with time (B), and KIE plot (C) for San Francisco Bay sediment slurries SFB5 incubated at 28°C. Results of a single heat-killed control are shown as closed symbols in (A) and (B). Open symbols in (A) represent the mean of triplicate live bottles. Error bars represent ±1 standard deviation. Open symbols in (B) and (C) represent measurements of individual bottles. A linear regression of all analyses along with the slope and R2 of the fit is shown in (C) for KIEs measured at 28°C.
+
+3.2. SFB93 under growth conditions
+Removal of C2H2 from the headspace of tubes containing live cultures was nearly linear over the 5–6 h of uptake (Fig. 2A). Cultures incubated at 28°C consumed C2H2 more rapidly than those incubated at 14°C. Headspace C2H2 concentrations remained constant in the autoclaved controls. Stable carbon isotopes of C2H2 (δ13C2H2) increased from initial values around −28‰ in tubes containing live cultures (Fig. 2B). This increase was greater in cultures incubated at 28°C than in cultures incubated at 14°C. There was no change in the isotopic composition of C2H2 in heat-killed controls. The slope of the plotted line of δ13C2H2 against −ln(C/C0) for live tubes (Fig. 2C) shows that the KIE for incubations at 28°C (ɛ = 2.7 ± 0.3‰) was greater than the KIE for incubations at 14°C (ɛ = 1.8 ± 0.3‰).
+
+FIG. 2. Uptake of C2H2 (A), change in δ13C2H2 with time (B), and KIE plot (C) for pure-culture SFB93 incubated under growth conditions. Results of single heat-killed control are shown as closed symbols in (A) and (B). Open symbols in (A) represent the mean of triplicate live tubes incubated at 28°C (circles) and 14°C (diamonds). Error bars represent ±1 standard deviation. Open symbols in (B) and (C) represent measurements of individual tubes. A linear regression of all analyses along with the slope and R2 of the fit is shown in (C) for KIEs measured at 28°C (circles) and 14°C (diamonds).
+
+3.3. SFB93 under washed cell conditions
+Headspace C2H2 concentrations decreased rapidly in bottles containing live washed cultures resuspended at high cell density in mineral salts media (Fig. 3A). Cultures incubated at 28°C consumed C2H2 more rapidly than cultures incubated at 14°C. Headspace C2H2 concentrations remained constant in the autoclaved controls. Values of δ13C2H2 increased faster in cultures incubated at 28°C than in cultures incubated at 14°C (Fig. 3B). There was no change in the isotopic composition of C2H2 in heat-killed controls. The slope of the plotted line of δ13C2H2 against −ln(C/C0) for live bottles (Fig. 3C) shows that the KIE for incubations at 28°C (ɛ = 2.6 ± 0.2‰) was greater than the KIE for incubations at 14°C (ɛ = 1.9 ± 0.3‰).
+
+FIG. 3. Uptake of C2H2 (A), change in δ13C2H2 with time (B), and KIE plot (C) for pure-culture SFB93 incubated under washed cell conditions. Results of heat-killed controls are shown as closed symbols in (A) and (B). Open symbols in (A) represent the mean of triplicate live bottles incubated at 28°C (circles) and 14°C (diamonds). Error bars represent ±1 standard deviation. Open symbols in (B) and (C) represent measurements of individual bottles. A linear regression of all analyses along with the slope and R2 of the fit is shown in (C) for KIEs measured at 28°C (circles) and 14°C (diamonds).
+
+3.4. Searsville Lake methanogenic enrichments (SVM)
+Headspace C2H2 concentrations decreased slowly in bottles containing mixed culture enrichments derived from sediment transfers. A loss of 90 μmol L−1 C2H2 from the headspace over 3–4 days was accompanied by an increase of 20 μmol L−1 CH4 (data not shown). Values of δ13C2H2 increased slowly in mixed culture enrichments (Fig. 4B). The slope of the plotted line of δ13C2H2 against −ln(C/C0) for three live bottles (Fig. 4C) shows that the KIE for incubations at 28°C ranged from ɛ = 1.6 to 2.4 and averaged 1.9 ± 0.5‰.
+
+FIG. 4. Uptake of C2H2 (A), change in δ13C2H2 with time (B), and KIE plot (C) for methanogenic mixed culture SVM incubated under growth conditions. Open circles in (A) represent the mean of triplicate live bottles incubated at 28°C. Error bars represent ±1 standard deviation. Open symbols in (B) and (C) represent measurements of individual bottles. A linear regression of all analyses along with the slope and R2 of the fit is shown in (C) for KIEs measured at 28°C.
+
+3.5. SV7 under growth conditions
+Headspace C2H2 concentrations decreased very slowly in bottles containing highly enriched mixed culture SV7. Removal of 100 μmol L−1 C2H2 from the headspace of live bottles occurred over 7–10 days (Fig. 5A). During this time, δ13C2H2 increased from an initial value of −28‰ to values as high as −9‰ (Fig. 5B). The slope of the plotted line of δ13C2H2 against −ln(C/C0) for six live bottles shows the KIE for incubations at 28°C ranged from ɛ = 7.9 to 9.9 and averaged 8.9 ± 0.8‰ (Fig. 5C).
+
+FIG. 5. Uptake of C2H2 (A), change in δ13C2H2 with time (B), and KIE plot (C) for mixed culture SV7 incubated under growth conditions. Symbols represent six individual live bottles incubated at 28°C. A linear regression of all analyses along with the slope and R2 of the fit is shown in (C) for KIEs measured at 28°C.
+
+4. Discussion
+Persistent and uniform KIEs for C2H2 fermentation were obtained during incubations of San Francisco Bay sediment, enrichments from Searsville Lake sediment, and pure cultures of SFB93 (Pelobacter sp.). KIEs measured by primary substrate loss (in this case, C2H2 loss) reflect all downstream reactions, but KIEs are most influenced by those steps that are rate limiting. Acetylene fermenters such as P. acetylenicus carry out sequential exothermic reactions during growth on C2H2, consisting first of the AH reaction followed by one involving acetaldehyde dismutase (Schink, 1985):
+ \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+\begin{align*}{\rm C}_2{\rm H}_2 + {\rm H}_2{\rm O} \rightarrow {\rm CH}_3{\rm CHO} \tag{2}\end{align*}
+\end{document} 
+ \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+\begin{align*}{\rm CH}_3{\rm CHO} + {\rm H}_2{\rm O} \rightarrow {\rm CH}_3{\rm CH}_2{\rm OH} + {\rm CH}_3{\rm COO}^{-} + {\rm H}^{+} \tag{3}\end{align*}
+\end{document} 
+
+Additional downstream reactions in sediments and sediment enrichments may utilize the ethanol or acetate formed by Reaction 3 above. These reactions include terminal electron accepting processes such as sulfate reduction and methanogenesis. It is not known which of the above reactions is primarily responsible for the fractionation of carbon isotopes observed. In any case, the fractionation we measured (KIE∼3‰) is neither as large as the KIEs determined for anaerobic or aerobic oxidation of methane (10–30‰; Alperin et al., 1988; Whiticar, 1999; Templeton et al., 2006) nor as large as the very high KIEs reported for microbial oxidation of methyl halides (70‰; Miller et al., 2001). However, the KIEs observed for oxidation of other C2 hydrocarbons [ethylene = 3‰ (Bloom et al., 2000) and ethane = 8‰ (Kinnaman et al., 2007)] were similar to those values reported here for C2H2 fermentation.
+
+Consistent KIEs of 3–4‰ were achieved by San Francisco Bay sediment slurries (SFB5) during C2H2 fermentation (Fig. 1). Repeated experiments with these sediments produced similar KIEs (data not shown). These results were expected, given the observations reported above for other C2 metabolisms. Similar KIEs were observed during C2H2 fermentation by the pure culture SFB93 (Figs. 2 and 3). Measurements of KIEs in both growing cultures and washed cell suspensions showed identical fractionation patterns with regard to absolute values and temperature effects. This implies that incorporation of carbon into cell biomass during growth is not an influential step in controlling KIEs and further suggests that either growing or washed cell cultures may be employed to evaluate KIEs. Cultures incubated at 28°C yielded significantly higher KIEs (p < 0.01) than cultures incubated at 14°C; however, these differences amounted to less than 1‰. It may be that higher KIEs at warmer temperature reflect higher rates of C2H2 uptake. The preferred growth temperature for P. acetylenicus is 28°C (Schink, 1985), and the optimal temperature for AH activity is 50°C. (Rosner and Schink, 1995). Even so, KIEs do not always reflect differences in substrate utilization rate (Miller et al., 2001), and when they do, higher rates often correlate with lower KIEs (Templeton et al., 2006), in contrast to our observations.
+
+Fermentation of C2H2 resulted in similar KIEs for Searsville Lake methanogenic enrichment SVM (Fig. 4) as those obtained for SFB5 and SFB93 (Figs. 1–3). At a fine scale, KIEs of incubations conducted at 28°C were somewhat lower for SVM (ɛ = 1.9) than for SFB5 or SFB93 incubated at 28°C (ɛ = 3.7 and 2.7, respectively). Searsville Lake enrichments were mixtures consisting of many different microorganisms including sulfate reducers when cultivated in the presence of sulfate (Miller et al., 2013). In this regard they are more akin to sediment slurries than to pure cultures of C2H2 fermenters (Table 1). The composition of the microbial community in SVM was not determined; however, we hypothesize that pelobacter-like organisms containing AH may be present and could account for the similar KIE to SFB5 and SFB93.
+
+Earlier attempts at purification of C2H2 fermenters from the milieu of Searsville Lake sediments resulted in the stable mixed culture strain SV7 (Miller et al., 2013). One line of this strain (YE5) was capable of C2H2 fermentation but lacked the AH gene as determined by gene probing with degenerate primers (Miller et al., 2013). This was the SV7 culture evaluated here for KIE determination (Table 1; Fig. 5). The KIE obtained from six replicate bottles (ɛ = 8.9 ± 0.8‰) was significantly (P < 0.01) greater than those observed for SFB5, SFB93, or SVM. This different KIE suggests that C2H2 degradation may proceed by an alternative pathway in SV7. It is possible that a reaction involving carbon occurs in the fermentation pathway of SV7 that does not occur in SVM, SFB5, or SFB93. If such a reaction discriminated in favor of 12C, it would contribute to the total isotope effect observed. Incubations with SV7 were conducted as growth experiments; hence, it may be that this greater fractionation reflects a different pathway of incorporation of carbon into cell biomass. However, we favor the following mechanism: Whereas both SFB93 and SV7 produced acetate as a stable end product with minor amounts of intermediate products acetaldehyde and ethanol, SV7 in addition produced formate as a stable end product (Miller et al., 2013). We speculate that an unknown reaction leading to production of formate could result in additional isotopic fractionation observed in SV7. Further examination of this reaction pathway is needed to assess the veracity of this speculation. At this time, we do not know which of the six or so dominant organisms identified in SV7 via 16S rRNA sequence similarity assessment (Miller et al., 2013) is conducting this putative step. Planned stable isotope probing of SV7 using 13C2H2 will indicate the most active participant(s) in the degradation of C2H2 (Dumont and Murrell, 2005), which may aid in delineation of this unknown reaction.
+
+In conclusion, we successfully demonstrated that regular and persistent fractionation of stable carbon isotopes occurs during C2H2 fermentation by live sediments, sediment enrichments, and pure cultures. This is the required first step in distinguishing biological from abiotic degradation of C2H2. However, we have examined only the overall fractionation (KIE) associated with degradation of the primary substrate C2H2. In practice, synchronous measurements of δ13C in reactants and products for individual steps in the reaction pathway can provide additional information to the conclusions derived from measurements of δ13C of reactants alone. This approach has proven successful in studies of variable pathways of degradation of subsurface organic contaminants such as chlorinated ethenes (Hunkeler et al., 2002; Elsner et al., 2005, 2008; Hofstetter et al., 2008). We propose applying this strategy to distinguish biological from abiotic C2H2 degradation in extraterrestrial environs provided each pathway results in a different KIE. For example, the Cassini mission collected material and spectroscopic data that suggest the water-rich plume emanating from Enceladus represents the composition of the aqueous environment below the moon's icy crust (Waite et al., 2006; Matson et al., 2007; Hansen et al., 2011). If biological processes operating in the subsurface consume C2H2 and produce acetaldehyde, ethanol, and acetate, then measurement of δ13C of C2H2 and its degradation products in the plume should yield evidence of life below the surface of Enceladus. Measurement of δ13C2H2 alone would not provide unambiguous evidence of a biological process without conducting incubations of subsurface liquids containing C2H2. However, measurement of large differences between δ13 of C2H2 and acetaldehyde, or any other carbonaceous product (e.g., ethanol, acetate, or formate) in the plume would suggest the possibility of biological fractionation. These measurements require additional analytical capabilities to those on board the Cassini spacecraft.
+
+Acknowledgments
+We thank Steve Silva and Sara Peek of the Kendall Isotope Lab for help with method development for KIE measurements. We are indebted to Jodi Blum, Shelley McCann, and Stacy Bennett for assistance in the laboratory. Mark Waldrop and Christopher H. Conaway reviewed an earlier version of this manuscript. Support from NASA Astrobiology/Exobiology and USGS NRP is greatly appreciated.
+
+Author Disclosure Statement
+No competing financial interests exist.
+
+Abbreviations Used
+ABWartificial mineral salts media
+
+AHacetylene hydratase enzyme
+
+EA-IRMSelemental analyzer–isotope ratio mass spectrometry
+
+GC-C-IRMSisotope-ratio-monitoring gas chromatography–combustion–mass spectrometry
+
+KIEskinetic isotope effects
+==== Refs
+References
+Alperin M.J.  , Reeburgh W.S.  , and Whiticar M.J.   (1988 ) Carbon and hydrogen isotope fractionation resulting from anaerobic methane oxidation . Global Biogeochem Cycles 
+2 :279 –288 
+Andrea M.O.   and Merlet P.   (2001 ) Emission of trace gases and aerosols from biomass burning . Global Biogeochem Cycles 
+15 :955 –966 
+Belay N.   and Daniels L.   (1987 ) Production of ethane, ethylene, and acetylene from halogenated hydrocarbons by methanogenic bacteria . Appl Environ Microbiol 
+53 :1604 –1610 16347389 
+Bill M.  , Schuth C.  , Barth J.A.C.  , and Kalin R.M.   (2001 ) Carbon isotope fractionation during abiotic reductive dehalogenation of trichloroethene (TCE) . Chemosphere 
+44 :1281 –1286 11513419 
+Bill M.  , Miller L.G.  , and Goldstein A.H.   (2002 ) Carbon isotope fractionation of methyl bromide during agricultural soil fumigations . Biogeochemistry 
+60 :181 –190 
+Bloom Y.  , Aravena R.  , Hunkeler D.  , Edwards E.  , and Frapa S.K.   (2000 ) Carbon isotope fractionation during microbial dechlorination of trichloroethene, cis-1,2 dichloroethene, and vinyl chloride: implication for assessment of natural attenuation . Environ Sci Technol 
+34 :2768 –2772 
+Breen J.E.   and Glass G.P.   (1971 ) The reaction of the hydroxyl radical with acetylene . International Journal of Chemical Kinetics 
+3 :145 –153 
+Brooke T.Y.  , Tokunaga A.T.  , Weaver H.A.  , Crovisier J.  , Bockelée-Morvan D.  , and Crisp D.   (1996 ) Detection of acetylene in the infrared spectrum of comet Hyakutake . Nature 
+383 :606 –608 8857534 
+Cantrell C.A.  , Shetter R.E.  , McDaniel A.H.  , Calvert J.G.  , Davidson J.A.  , Lowe D.C.  , Tyler S.C.  , Cicerone R.J.  , and Greenberg J.P.   (1990 ) Carbon kinetic isotope effect in the oxidation of methane by the hydroxyl radical . J Geophys Res Atmos 
+95 :22455 –22462 
+Chyba C.F.  , Thomas P.J.  , Brookshaw L.  , and Sagan C.   (1990 ) Cometary delivery of organic molecules to the early Earth . Science 
+249 :366 –373 11538074 
+Cordier D.  , Mousis O.  , Lunine J.I.  , Lavvas P.  , and Vuitton V.   (2009 ) An estimate of the chemical composition of Titan's lakes . Astrophys J 
+707 :L128 –L131 
+Culbertson C.W.  , Zehnder A.J.B.  , and Oremland R.S.   (1981 ) Anaerobic oxidation of acetylene by estuarine sediments and enrichment cultures . Appl Environ Microbiol 
+41 :396 –403 16345714 
+Culbertson C.W.  , Strohmaier F.E.  , and Oremland R.S.   (1988 ) Acetylene as a substrate in the development of primordial bacterial communities . Orig Life Evol Biosph 
+18 :397 –407 3237399 
+de Bont J.A.M.   and Peck M.W.   (1980 ) Metabolism of acetylene by Rhodococcus A1 . Arch Microbiol 
+127 :99 –104 
+Dumont M.G.   and Murrell J.C.   (2005 ) Stable isotope probing—linking microbial identity to function . Nat Rev Microbiol 
+3 :499 –504 15886694 
+Elsner M.  , Zwank L.  , Hunkeler D.  , and Schwarzenbach R.P.   (2005 ) A new concept linking observable stable isotope fractionation to transformation pathways of organic pollutants . Environ Sci Technol 
+39 :6896 –6916 16201610 
+Elsner M.  , Chartrand M.  , Vanstone N.  , Couloume G.L.  , and Sherwood Lollar B.   (2008 ) Identifying abiotic chlorinated ethene degradation: characteristic isotope patterns in reaction products with nanoscale zero-valent iron . Environ Sci Technol 
+42 :5963 –5970 18767652 
+Hansen C.J.  , Shemansky D.E.  , Esposito L.W.  , Sterart A.I.F.  , Lewis B.R.  , Colwell J.E.  , Hendrix A.R.  , West R.A.  , Waite J.H. Jr. , Teolis B.  , and Magee B.A.   (2011 ) The composition and structure of the Enceladus plume . Geophys Res Lett 
+38 :L11202 –L11206 
+Hart E.J.  , Fisher C.-H.  , and Henglein A.   (1990 ) Pyrolosis of acetylene in sonolytic bubbles in aqueous solution . J Phys Chem 
+94 :284 –290 
+Hobbie J.E.  , Daley R.L.  , and Jaspar S.   (1977 ) Use of Nuclepore filters for counting bacteria for fluorescence microscopy . Appl Environ Microbiol 
+33 :1225 –1228 327932 
+Hofstetter T.B.  , Schwarzenbach R.P.  , and Bernasconi S.M.   (2008 ) Assessing transformation processes of organic compounds using stable isotope fractionation . Environ Sci Technol 
+42 :7737 –7743 19031854 
+Hunkeler D.  , Aravena R.  , and Cox E.   (2002 ) Carbon isotopes as a tool to evaluate the origin and fate of vinyl chloride: laboratory experiments and modeling of isotope evolution . Environ Sci Technol 
+36 :3378 –3384 12188368 
+Kalin R.M.  , Hamilton J.T.G.  , Harper D.B.  , Miller L.G.  , Lamb C.  , Kennedy J.T.  , Downey A.  , McCauley S.  , and Goldstein A.H.   (2001 ) Continuous flow stable isotope methods for study of δ13C fractionation during halomethane production and degradation . Rapid Commun Mass Spectrom 
+15 :357 –363 11241767 
+Kanner D.   and Bartha R.   (1979 ) Growth of Nocardia rhodochrous on acetylene gas . J Bacteriol 
+139 :225 –230 37235 
+Kasting J.F.   (2005 ) Methane and climate during the Precambrian era . Precambrian Res 
+137 :119 –129 
+Kasting J.F.  , Zahnle K.J.  , and Walker J.C.G.   (1983 ) Photochemistry of methane in the Earth's early atmosphere . Precambrian Res 
+20 :121 –148 
+Kinnaman F.S.  , Valentine D.L.  , and Tyler S.C.   (2007 ) Carbon and hydrogen isotope fractionation associated with the aerobic microbial oxidation of methane, ethane, propane, and butane . Geochim Cosmochim Acta 
+71 :271 –283 
+Liang X.  , Dong Y.  , Kuder T.  , Krumholz L.R.  , and Butler E.C.   (2007 ) Distinguishing abiotic and biotic transformation of tetrachloroethylene and trichloroethylene by stable carbon isotope fractionation . Environ Sci Technol 
+41 :7094 –7100 17993153 
+Macy W. Jr.  (1980 ) Mixing ratios of methane, ethane, and acetylene in Neptune's stratosphere . Icarus 
+41 :153 –158 
+Matson D.L.  , Castillo J.C.  , Lunine J.  , and Johnson T.V.   (2007 ) Enceladus' plume: compositional evidence for a hot interior . Icarus 
+187 :569 –573 
+McKay C.P.   and Smith H.D.   (2005 ) Possibilities for methanogenic life in liquid methane on the surface of Titan . Icarus 
+178 :274 –276 
+McKay C.P.  , Khare B.N.  , Amin R.  , Klasson M.  , and Kral T.A.   (2012 ) Possible sources for methane and C2–C5 organics in the plume of Enceladus . Planet Space Sci 
+71 :73 –79 
+Meckenstock R.U.  , Krieger R.  , Ensign S.  , Kroneck P.M.H.  , and Schink B.   (1999 ) Acetylene hydratase of Pelobacter acetylenicus: molecular and spectroscopic properties of the tungsten iron-sulfur enzyme . Eur J Biochem 
+264 :176 –182 10447686 
+Meckenstock R.U.  , Morasch B.  , Griebler C.  , and Richnow H.H.   (2004 ) Stable isotope fractionation analysis as a tool to monitor biodegradation in contaminated aquifers . J Contam Hydrol 
+75 :215 –255 15610901 
+Miller L.G.  , Connell T.L.  , Guidetti J.R.  , and Oremland R.S.   (1997 ) Bacterial oxidation of methyl bromide in fumigated agricultural soils . Appl Environ Microbiol 
+63 :4346 –4354 16535728 
+Miller L.G.  , Kalin R.M.  , McCauley S.E.  , Hamilton J.T.G.  , Harper D.B.  , Millet D.B.  , Oremland R.S.  , and Goldstein A.H.   (2001 ) Large carbon isotope fractionation associated with oxidation of methyl halides by methylotrophic bacteria . Proc Natl Acad Sci USA 
+98 :5833 –5837 11344313 
+Miller L.G.  , Warner K.L.  , Baesman S.M.  , Oremland R.S.  , McDonald I.R.  , Radajewski S.  , and Murrell J.C.   (2004 ) Degradation of methyl bromide and methyl chloride in soil microcosms: use of stable C isotope fractionation and stable isotope probing to identify reactions and the responsible microorganisms . Geochim Cosmochim Acta 
+68 :3271 –3283 
+Miller L.G.  , Baesman S.M.  , Kirshtein J.  , Voytek M.A.  , and Oremland R.S.   (2013 ) A biogeochemical and genetic survey of acetylene fermentation by environmental samples and bacterial isolates . Geomicrobiol J 
+30 :501 –516 
+Mumma M.J.  , DiSanti M.A.  , Magee-Sauer K.  , Bonev B.P.  , Villanueva G.L.  , Kawakita H.  , Dello Russo N.  , Gibb E.L.  , Blake G.A.  , Lyke J.E.  , Campbell R.D  , Aycock J.  , Conrad A.  , and Hill G.M.   (2005 ) Parent volatiles in Comet 9P/Tempel 1: before and after impact . Science 
+310 :270 –274 16166477 
+Noll K.S.  , Knacke R.F.  , Tokunaga A.T.  , Lacy J.H.  , Beck S.  , and Serabyn E.   (1986 ) The abundance of ethane and acetylene in the atmospheres of Jupiter and Saturn . Icarus 
+65 :257 –263 
+Oremland R.S.   and Voytek M.A.   (2008 ) Acetylene as fast food: implications for development of life on anoxic primordial Earth and in the outer Solar System . Astrobiology 
+8 :45 –58 18199006 
+Oremland R.S.  , Miller L.G.  , Culbertson C.W.  , Connell T.L.  , and Jahnke L.   (1994 ) Degradation of methyl bromide by methanotrophic bacteria in cell suspensions and soils . Appl Environ Microbiol 
+60 :3640 –3646 7986039 
+Pohlman J.W.  , Kaneko M.  , Veher V.B.  , Coffin R.B.  , and Whiticar M.   (2009 ) Methane sources and production in the northern Cascadia margin gas hydrate system . Earth Planet Sci Lett 
+287 :504 –512 
+Postberg F.  , Schmidt J.  , Hillier J.  , Kempf S.  , and Srama R.   (2011 ) A salt-water reservoir as the source of a compositionally stratified plume on Enceladus . Nature 
+474 :620 –622 21697830 
+Reppe W.  , Kutepow N.V.  , and Magin A.   (1969 ) Cyclization of acetylenic compounds . Angwandte Chemie 
+8 :727 –733 
+Rosenfeld W.E.   and Silverman S.R.   (1959 ) Carbon isotopic fractionation in bacterial production of methane . Science 
+130 :1658 –1659 14439000 
+Rosner B.M.   and Schink B.   (1995 ) Purification and characterization of acetylene hydratase of Pelobacter acetylenicus, a tungsten iron-sulfur protein . J Bacteriol 
+177 :5767 –5773 7592321 
+Rosner B.M.  , Rainey F.A.  , Kroppenstedt R.M.  , and Schink B.   (1997 ) Acetylene degradation by new isolates of aerobic bacteria and comparison of acetylene hydratase enzymes . FEMS Microbiol Lett 
+148 :175 –180 9084145 
+Rust F.   and Stephens C.M.   (1980 ) Carbon kinetic isotope effect in the oxidation of methane by hydroxyl . International Journal of Chemical Kinetics 
+12 :371 –377 
+Schink B.   (1985 ) Fermentation of acetylene by an obligate anaerobe , Pelobacter acetylenicus sp. nov. Arch Microbiol 
+142 :295 –301 
+Schoell M.   (1980 ) The hydrogen and carbon isotopic composition of methane from natural gases of various origins . Geochim Cosmochim Acta 
+44 :649 –661 
+Schoell M.   (1988 ) Multiple origins of methane in the Earth . Chem Geol 
+71 :1 –10 
+Schulze-Makuch D.   and Grinspoon D.H.   (2005 ) Biologically enhanced energy and carbon cycling on Titan? 
+Astrobiology 
+5 :560 –567 16078872 
+Seiffert G.B.  , Ullmann G.M.  , Messerschmidt A.  , Schink B.  , Kroneck P.M.H.  , and Einsle O.   (2007 ) Structure of the non-redox-active tungsten/[4Fe:4S] enzyme acetylene hydratase . Proc Natl Acad Sci USA 
+104 :3073 –3077 17360611 
+Shemansky D.E.  , Stewart A.I.F.  , West R.A.  , Esposito L.W.  , Hallet J.T.  , and Liu X.   (2005 ) The Cassini UVIS stellar probe of the Titan atmosphere . Science 
+308 :978 –982 15890872 
+Sherwood Lollar B.  , Lacrampe-Couloume G.  , Voglesonger K.  , Onstatt T.C.  , Pratt L.M.  , and Slater G.F.   (2008 ) Isotopic signatures of CH4 and higher hydrocarbon gases from Precambrian Shield sites: a model for abiogenic polymerization of hydrocarbons . Geochim Cosmochim Acta 
+72 :4778 –4795 
+Slater G.F.  , Sherwood Lollar B.  , Allen King R.  , and O'Hannesin S.   (2002 ) Isotopic fractionation during reductive dehalogenation of trichlorethene by zero-valent iron: influence of surface treatment . Chemosphere 
+49 :587 –596 12430646 
+Studt F.  , Abild-Pedersen F.  , Bligaard T.  , Sorensen R.Z.  , Christensen C.H.  , and Norskov J.K.   (2008 ) Identification of non-precious metal alloy catalysts for selective hydrogenation of acetylene . Science 
+320 :1320 –1322 18535238 
+Templeton A.S.  , Chu K.-H.  , Alvarez-Cohen L.  , and Conrad M.   (2006 ) Variable carbon isotope fractionation expressed by aerobic CH4-oxidizing bacteria . Geochim Cosmochim Acta 
+70 :1739 –1752 
+tenBrink F.  , Schink B.  , and Kroneck P.M.H.   (2011 ) Exploring the active site of the tungsten, iron-sulfur enzyme acetylene hydratase . J Bacteriol 
+193 :1229 –1236 21193613 
+Waite J.H. Jr. , Combi M.R.  , Ip W.-H.  , Cravens T.E.  , McNutt R.L. Jr. , Kasprzak W.  , Yelle R.  , Luhmann J.  , Niemann H.  , Gell D.  , Magee B.  , Fletcher G.  , Lunine J.  , and Tseng W.-L.   (2006 ) Cassini ion and neutral mass spectrometer: Enceladus plume composition and structure . Science 
+311 :1419 –1422 16527970 
+Waite J.H. Jr. , Young D.T.  , Cravens T.E.  , Coates A.J.  , Crary F.J.  , Magee B.  , and Westlake J.   (2007 ) The process of tholin formation in Titan's upper atmosphere . Science 
+316 :870 –875 17495166 
+Waite J.H. Jr. , Lewis W.S.  , Magee B.A.  , Lunine J.I.  , McKinnon W.B.  , Glein C.R.  , Mousis O.  , Young D.T.  , Brockwell T.  , Westlake J.  , Nguyen M.-J.  , Teolis B.D.  , Niemann H.B.  , McNutt R.L.  , Perry M.  , and Ip W.-H.   (2009 ) Liquid water on Enceladus from observations of ammonia and 40Ar in the plume . Nature 
+460 :487 –490 
+Whiticar M.J.   (1999 ) Carbon and hydrogen isotope systematics of bacterial formation and oxidation of methane . Chem Geol 
+161 :291 –314 
+Whiticar M.J.  , Faber E.  , and Schoell M.   (1986 ) Biogenic methane formation in marine and freshwater environments: CO2 reduction vs. acetate fermentation—isotope evidence . Geochim Cosmochim Acta 
+50 :693 –709 
+Widdel F.  , Kohring G.-W.  , and Mayer F.   (1983 ) Studies on the dissimilatory sulfate-reducing bacteria that decompose fatty acids . 3. Characterization of the filamentous gliding Desulfonema limnicola, gen. nov., sp. nov., and Desulfonema magnum, sp. nov. Arch Microbiol 
+134 :286 –294 
+Zahnle K.J.   (1986 ) Photochemistry of methane and the formation of hydrocyanic acid (HCN) in the Earth's early atmosphere . J Geophys Res 
+91 :2819 –2834

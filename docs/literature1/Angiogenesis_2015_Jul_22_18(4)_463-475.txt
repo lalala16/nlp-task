@@ -1,0 +1,356 @@
+
+==== Front
+AngiogenesisAngiogenesisAngiogenesis0969-69701573-7209Springer Netherlands Dordrecht 947310.1007/s10456-015-9473-6Original PaperMetallothionein 2 regulates endothelial cell migration through transcriptional regulation of vegfc expression Schuermann Annika Helker Christian S. M. Herzog Wiebke wiebke.herzog@mpi-muenster.mpg.de  University of Muenster, Muenster, Germany  Cells-in-Motion Cluster of Excellence (EXC 1003 – CiM), University of Muenster, Muenster, Germany  Max-Planck-Institute for Heart and Lung Research, Bad Nauheim, Germany  Max-Planck-Institute for Molecular Biomedicine, Muenster, Germany 22 7 2015 22 7 2015 2015 18 4 463 475 6 3 2015 21 5 2015 © The Author(s) 2015
+Open AccessThis article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.Analysis of developmental angiogenesis can help to identify regulatory networks, which also contribute to disease-related vascular growth. Vascular endothelial growth factors (Vegf) drive angiogenic processes such as sprouting, endothelial cell (EC) migration and proliferation. However, how Vegf expression is regulated during development is not well understood. By analyzing developmental zebrafish angiogenesis, we have identified Metallothionein 2 (Mt2) as a novel regulator of vegfc expression. While Metallothioneins (Mts) have been extensively analyzed for their capability of regulating homeostasis and metal detoxification, we demonstrate that Mt2 is required for EC migration, proliferation and angiogenic sprouting upstream of vegfc expression. We further demonstrate that another Mt family member cannot compensate Mt2 deficiency and therefore postulate that Mt2 regulates angiogenesis independent of its canonical Mt function. Our data not only reveal a non-canonical function of Mt2 in angiogenesis, but also propose Mt2 as a novel regulator of vegfc expression.
+
+Electronic supplementary material
+The online version of this article (doi:10.1007/s10456-015-9473-6) contains supplementary material, which is available to authorized users.
+
+Keywords
+VegfcAngiogenesisEndothelial cell migrationTALENNonsense-mediated decayPhenotype variabilityZebrafishissue-copyright-statement© Springer Science+Business Media Dordrecht 2015
+==== Body
+Introduction
+Growth of blood vessels during development as well as in the adult organism is a tightly regulated process, which is controlled by endothelial cell (EC) behaviors such as cell migration, proliferation and differentiation. Misregulation of vascular growth not only contributes to ischemic conditions, but overgrowth also directly aggravates diseases such as growth and metastasis of cancers or age-related macular degeneration.
+
+Vascular endothelial growth factors (Vegfs) and their Vegf receptors (VEGFR-1/Flt1, VEGFR-2/Kdrl-Kdr and VEGFR-3/Flt4) are the major regulators of vascular growth processes [1–3].
+
+While VEGFA and VEGFR-2 (Kdrl in zebrafish) mainly regulate angiogenic processes such as sprouting and remodeling of vessels [4, 5], VEGFC and VEGFR-3 have mainly been recognized for their role in regulating development of the lymphatic endothelial system [6–8]. Vegfr3/flt4-deficient zebrafish completely lack lymphatic vessels but show no major defects in blood vessel growth [9]. VEGFR3-deficient mice die of defective vascular development before the lymphatic system becomes established [10]. Vegfc mutant mice as well as zebrafish lack a lymphatic system [11, 12]. Angiogenesis defects observed in vegfc zebrafish mutants include failure in EC migration [during formation of the primordial hindbrain channels (PHBCs)] [11] as well as reduced EC proliferation [in the common cardinal veins (CCVs)] [13].
+
+However, VEGFA as well as VEGFC expression are both upregulated in various tumors and their misregulation is involved in other diseases; therefore, understanding the mechanisms regulating their expression are of clinical relevance [14, 15].
+
+Within cultured fibroblast or cancer cells, VEGFC mRNA expression was shown to be upregulated by cytokines (Interleukin-1α or interleukin-1β, or Tumor necrosis factor-α) [16] and growth factors (Platelet derived growth factor, Epidermal growth factor and Transforming growth factor-β) [17], but not by Hypoxia-inducible factor-1α (HIF1α) [18].
+
+The optical clarity of the externally developing zebrafish embryos is one of the many advantages for using this model for the analysis of vascular development. The growing vasculature can easily be visualized in vivo by endothelial-specific transgenic fluorophore expression [19].
+
+The vascular anatomy of zebrafish embryos has a high structural homology to other vertebrates [20, 21]. Similarly, most signaling pathways regulating vascular development are conserved between zebrafish and mammals [22, 23]. A functional circulatory system including a primitive heart is already established in the zebrafish embryo by 24 h post-fertilization (hpf).
+
+Additionally, recent advances in genome editing using Transcription activator-like effector nucleases (TALENs) or Cas9 nucleases [24, 25] enabled gene-specific targeting in zebrafish.
+
+We performed gene expression analyses to identify novel regulators of angiogenesis in zebrafish embryos and thereby identified metallothionein 2 (mt2) as a candidate.
+
+MTs are low-molecular-weight and cysteine-rich proteins, which are conserved throughout the animal kingdom. There are four classes of mammalian Mt genes, Mt1–4 [26, 27], and two mt genes in zebrafish, mt2 and metallothionein-B-like (mtbl) [28, 29].
+
+The main function of MTs is the regulation of homeostasis, such as the protection against oxidative stress or metals. Both heavy and trace metals such as zinc, copper or iron can be chelated via sulfur-based clusters [30, 31].
+
+However, MTs also display non-canonical functions in angiogenesis and pathological conditions. Mt1 and Mt2 are very similar and the best characterized genes of the MT family, which can act as tumor suppressors [32] and have cardio- and neuroprotective functions [33–35]. Mice deficient for both Mt1 and Mt2 are viable and show beside their greater sensitivity to metals no major developmental defects [36, 37]. When challenged by femoral artery ligation or cortical freeze injury, these Mt1/2 knockout mice show impaired angiogenesis and wound healing [38–40]. MT3 is important for cell growth [41], and its expression is downregulated in a carcinoma cell line [42]. MT3 also has a critical role in the recovery of the brain, since Mt3-deficient mice show increased oxidative stress and apoptosis upon cortical freeze lesion [43]. The non-inducible Mt4 is expressed in epithelial tissues and has only been shown to detoxify of metals [30, 44].
+
+However, how MTs exert their non-canonical functions, such as the regulation of angiogenic processes, is not understood.
+
+Here, we used zebrafish as a model to analyze the role of Mt in angiogenesis. We generated Mt2-deficient zebrafish embryos by performing antisense morpholino-oligonucleotide (MO)-mediated gene knockdown as well as by using TALEN to generate zebrafish mt2 mutants. Using in vivo time-lapse analysis, we show that mt2 deficiency leads to striking angiogenesis defects, especially to defective formation of the PHBCs. Furthermore, we demonstrate that Mt2 acts upstream of vegfc expression in regulating EC migration and proliferation. This regulation of angiogenesis represents a non-canonical function of Mt2, since another Metallothionein family member (Mtbl) cannot regulate vegfc expression.
+
+Materials and methods
+Zebrafish maintenance and strains
+Zebrafish embryos were maintained at 28.5 °C under standard husbandry conditions [45]. Zebrafish lines used were Tg(kdrl:EGFP)s843 [46], Tg(fli1a:EGFP)y1 [47] and Tg(fli1a:nEGFP)y7 [48]. The vegfchu6410 allele encodes a stop codon at amino acid position 107 (L107X) [49].
+
+Generation of the mt2 mutant transgenic zebrafish line using transcription activator-like effector nucleases (TALENs)
+TALENs were assembled using the Golden Gate method [50]. For targeting the mt2 locus, a 5′ RVD (NH–NG–NH–NH–NI–NG–NI–HD–NG–HD–NG–HD–NG–NH (DNA sequence GTGGATACTCTCTGG)) and a 3′ RVD (NI–HD–NG–HD–NG–NG–NH–NH–HD–NI–HD–NI–NG–NG (DNA sequence ACTCTTGGCACATTC)) were generated with a spacer of 16 bp (AAAAATGGACCCCTGC) to target exon 1. An AvaII (New England BioLabs) restriction site within the spacer region was used for genotyping of putative founders. mRNA was generated using the T3 mMessage mMachine Kit (Ambion) and injected using 100 pg of the TALEN mix.
+
+mRNA and morpholino (MO) injections
+MOs blocking either translation (MO) or RNA splicing (spbMO) were obtained from Gene Tools and are as follows:
+
+mt2 MO: 5′-GGTCCATTTTTCCAGAGAGTATCCT (5 ng) and mt2 spbMO: 5′-AGCTGAAACACTTACTCTTGGCACA (7–10 ng), targeting mt2 (BC152694.1); mtbl MO: 5′-CTGGTCCATCTTTACACCGTAGGTC and mtbl spbMO: 5′-AGTTAATCGGCTCACTTTTCTTGTC (both 13 ng) targeting mtbl (NM_001201469.1), upf1 spbMO: 5′-TTTTGGGAGTTTATACCTGGTTGTC (0.1 ng) [51] and smg1 spbMO: 5′-AACCATTGGTTTGTTACCTGGTGCA (12.5 ng) [51] and standard control MO: 5′-CCTCTTACCTCAGTTACAATTTATA.
+
+For overexpression experiments, the mt2 sequence was amplified from 24 hpf cDNA and cloned into the pCS2+ vector for in vitro RNA synthesis using the following primers: mt2fwd 5′-AGACGAATTCGCTCCACCATGGACCCCTGCGAATGTGC and mt2rev 5′-AGACCTCGAGTCATTGACAGCAGCTGGAGC.
+
+Similarly, mtbl was cloned into the pCS2+ vector using mtblfwd 5′-AGACGAATTCGCTCCACCATGGACCAGTGTAACTGCTC and mtblrev 5′- AGACCTCGAGTCATTTGCAGCAGTGTGTGG.
+
+The mRNA was synthesized using SP6 mMessage mMachine Kit (Ambion). For all experiments, the injection was done into the yolk of 1-cell-stage zebrafish embryos, and 0.05 % phenol red (Sigma) was added to the injection solution.
+
+Injection amounts per embryo were as follows: 500 pg mt2 mRNA, 100 pg mtbl mRNA, 100 pg to 500 pg H2B-cherry mRNA [52], 200 pg vegfc mRNA [53] and 200 pg sFLT4 mRNA [54].
+
+RNA and DNA isolation, qPCR analysis and genotyping
+RNA from WT, mutants and MO-injected embryos was isolated with Trizol reagent, and cDNA was generated by SuperScript II reverse transcriptase (Invitrogen).
+
+The cDNA was analyzed with real-time quantitative PCR (qPCR) using Power SYBR Green (Applied Biosystems) and the following primers: b-actinfwd 5′-CTGGACTTCGAGCAGGAGAT and b-actinrev 5′-GCAAGATTCCATACCCAGGA (156 bp amplicon); vegfcfwd 5′-GCAGGAACATCAGCACTTCA and vegfcrev 5′-GTGTGGTTGGCGAAGCTTAT (103 bp amplicon); fli1afwd 5′-CTCAGGGAAAGTAGCTCATCG and fli1arev 5′-CTTTTCCGCTGTGCATGTT (139 bp amplicon); myod1fwd 5′-TCTGATGGCATGATGGATTT and myod1rev 5′-TTATTATTCCGTGCGTCAGC (110 bp amplicon). For qPCR at least two different cDNA samples were generated and analyzed. Experiments were performed at least three times.
+
+The knockdown efficiency of the mt2 splice MO was validated with reverse transcription PCR (RT-PCR) and primers mt2fwd 5′-ATGGACCCCTGCGAATGTGC and mt2rev 5′-TCTTCTTGCAGGTAGTACACTG (spliced amplicon 91 bp, non-spliced amplicon 185 bp). The functionality of the mtbl splice MO was analyzed with mtblfwd 5′-GACCAGTGTGACTGCTCCAA and mtblrev 5′-TGCAGGATTTCTCCTTGTCC (spliced amplicon 169 bp, non-spliced amplicon 327 bp).
+
+DNA was extracted using lysis buffer (10 mM Tris–HCl, 50 mM KCl, 0.3 % Tween 20, 0.3 % Nonidet P-40, pH 8.3) with 0.5 μg/μl proteinase K (Roche) overnight at 55 °C, followed by 10 min denaturation at 95 °C.
+
+The genotype of the mt2mu290, the mt2mu292 and the mt2mu289 mutants was analyzed with primers mt2fwd 5′-TCTTCTTGCAGGTAGTACACTG and mt2rev 5′-TAAAAGCAGAGCACAAACACG and the restriction enzyme AvaII.
+
+The genotype of the vegfchu6410 zebrafish mutants was analyzed in a multiplex PCR with WT and mutant zebrafish-specific inner and outer primers. As inner primers vegfcfwd 5′-CTTTCATCAATCTTGAACTTTT (WT specific) and vegfcrev 5′-TAAATTAATAGTCACTCACTTTACT (mutant specific with one mismatch) were used and as outer primers vegfcfwd 5′-GATGAACTCATGAGGATAGTTT and vegfcrev 5′-AAACTCTTTCCCCACATCTA.
+
+Whole-mount in situ hybridization
+Whole-mount in situ hybridization was performed as described [55]. The mt2 probe was amplified from 24 hpf zebrafish embryo cDNA with the T7 promoter site and the following primers: mt2fwd 5′-GGAACTTTCAAGCTCTTTGTGG and mt2rev 5′-gTAATACgACTCACTATAggGACAAAGGACATGGCAGAAAA. The vegfc probe is already described [53].
+
+Confocal microscopy and in vivo time-lapse analysis
+Zebrafish embryos were analyzed with confocal microscopy as previously described, using 1 % agarose embryo moulds [56]. The fluorescent images were acquired using the Sp5 DM 6000 upright confocal microscope (Leica) or the inverse LSM 780 confocal microscope (Zeiss).
+
+BrdU incorporation and immunohistochemistry
+Proliferation analysis was performed as described [57] with following modifications: Embryos were grown to 24 hpf and then incubated in 10 mM 5-bromo-2′-deoxyuridine (BrdU) for 30 min on ice. After 8 h of further incubation and BrdU incorporation, embryos were fixed in 4 % paraformaldehyde (PFA) at 32 hpf. After incubation in 2 M HCl for 1 h, permeabilization (phosphate-buffered saline (PBS) with 0.3 % Triton X−100 (Sigma) and 0.1 % Tween 20 (Sigma)) and blocking (PBS with 0.3 % Triton X−100 and 4 % BSA (Roth)), the following antibodies were used for immunostaining: mouse anti-BrdU (1:100, Roche), Alexa 546 anti-mouse (1:500, Invitrogen) and Alexa 488 anti-GFP (1:500, Invitrogen, for ECs of Tg(kdrl:EGFP)s843). After each antibody incubation, extensive washing was performed (PBS with 0.3 % Triton X−100).
+
+Phenotypic analysis, quantifications, statistics and softwares
+For evaluation of the rescue experiments, different clutches of at least three different experiments were scored for the existence of the PHBCs. If the PHBCs were not present at all or developed to <50 %, they were considered as missing; if the PHBCs were developed to more than 50 % or fully connected, they were considered as existent. For rescue experiments of vegfchu6410 zebrafish mutants, only embryos with a strong PHBC phenotype or with fully developed PHBCs were taken for analysis for both Ctr and mt2 mRNA-injected zebrafish, and each embryo was subjected to subsequent genotyping. Cell numbers of fixed Tg(kdrl:EGFP)s843 or Tg(fli1a:nEGFP)y7 zebrafish embryos were evaluated with help of the Spots function of Imaris. Cells in the PHBC, the anterior cluster and the posterior clusters were counted at 32 hpf in confocal stacks. Similarly, ECs of the ACV, PCV and CCV were counted at 32 hpf, while ECs of the Ses were counted at 48 hpf.
+
+For analysis of the amount of proliferating cells in the CCVs, BrdU-positive cells were calculated relative to the total number of ECs in the CCVs. For quantifying the Ses, the region between somites 9 and 14 has been analyzed. The P values for the experiments were calculated with a two-tailed Student’s t-test. The rescue experiments for the PHBC phenotypes were evaluated for significance with the Chi-Square test using Microsoft excel. SDS 2.3 and RQ Manager (Applied Biosystems) were taken for analysis of the real-time data. Primers were designed using Primer3 (http://bioinfo.ut.ee/primer3-0.4.0/primer3/input.htm).
+
+Where possible, the analysis was performed blind to experimental conditions.
+
+Results
+Mt2 regulates EC behavior during angiogenesis
+To identify regulators of EC migration, we screened for functional involvement of candidate genes using morpholino antisense oligonucelotides (MO) to knockdown protein expression in zebrafish embryos and analyzed their vascular development using endothelial-specific GFP expression (Tg(kdrl:GFP)s843).
+
+We identified Mt2 as a potential regulator of EC migration. For a detailed analysis, we injected MOs either inhibiting mRNA translation (using MO covering the ATG) or blocking mRNA splicing (spbMO). Embryos injected with mt2 MO or mt2 spbMO, showed brain necrosis but no other major morphological defects (Fig. 1). Of the affected vessels, the PHBCs are the first to develop. They grow by angiogenic sprouting out of an anterior cluster and a posterior cluster of ECs, which start at 18 hpf to migrate toward each other and connect around 22–23 hpf to form a functional vessel (Fig. 1d, e; movie 1). At 24–25 hpf, circulation starts and blood flow can be observed going through the PHBCs. However, we observed not only defective growth of the PHBCs, but also of the CCVs and the Ses at different time points of development (Fig. 1, Fig. S1).Fig. 1 
+mt2 morphants fail to form the PHBCs. a Schematic illustration of the vasculature of a 24 hpf old zebrafish embryo with the location of the PHBC and the adjacent PHBC forming clusters. b, c Brightfield images of Ctr (b) and mt2 (c) MO-injected zebrafish embryos at 24 hpf showed no morphological defects, apart from a mild necrosis in the head. d Schematic illustration of the development of the PHBC (dark blue) between 17 and 30 hpf. e, f Confocal micrographs from time-lapse movies showing the development of the PHBC in zebrafish embryos between 18 and 30 hpf. The vasculature was visualized by transgenic GFP expression using Tg(kdrl:EGFP)s843 embryos. In embryos injected with Ctr MO, ECs migrate from the anterior and the posterior cluster and connect to form the PHBC before 24 hpf (at around 23 hpf; e). In embryos injected with mt2 MO ECs fail to migrate and therefore do not form the PHBCs (f). White arrows indicate the anterior and posterior migration front of the PHBC. White arrowheads indicate filopodia in mt2 morphants. g Quantification of EC numbers in Ctr MO-injected (black bars) or mt2 MO-injected (white bars) and mt2 spbMO-injected (gray bars) embryos counted from vascular-specific nuclear GFP expression (Tg(fli1a:nEGFP)y7). While the total EC numbers were not affected, mt2 MO-injected embryos showed fewer ECs in the PHBC and more ECs in the clusters. n = 20, *P < 0.05; n.s., not significant; error bars indicate standard error of the mean (SEM). h Analysis of mt2 splicing efficiency in embryos injected with Ctr MO or mt2 spbMO. RT-PCR analysis showed a 185 bp amplicon in embryos injected with mt2 spbMO, while functional splicing led to a 91 bp amplicon in Ctr MO-injected embryos. (Color figure online)
+
+
+
+We used in vivo time-lapse imaging to further analyze PHBC formation in control MO (Ctr)- or mt2 MO-injected Tg(kdrl:EGFP)s843 embryos. The Ctr and mt2 MO-injected (morphant) embryos were indistinguishable from each other until 18 hpf (Fig. 1e, f), with both displaying normal development of the lateral dorsal aorta (LDA). In Ctr morphants, the ECs migrated, connected and thereby formed the PHBCs (Fig. 1e, movie 1), whereas mt2 morphant ECs failed to migrate out of the clusters and did not connect to form the PHBC (Fig. 1f, movie 2). However, the ECs were motile and formed filopodia, but the directed migration required for the connection of the PHBCs was perturbed (movie 2). Some mt2-deficient embryos extended sprouts from the anterior and posterior cluster to develop the PHBCs, but no proper connection was established. To determine, whether this defect is caused by defective migration or reduced EC numbers, we counted the number of ECs in the PHBCs as well as in the anterior and posterior cluster at 32 hpf, long after PHBC formation should have been completed. While the total EC number in PHBCs and clusters was similar, Ctr morphants had an average of 21 cells in the PHBC and 12 cells in the clusters, whereas mt2 morphants had an average of 13 cells in the PHBC and 22 cells in the cluster (Fig. 1g). Therefore, our results indicate that Mt2 regulates EC migration during PHBC angiogenesis.
+
+Additionally, we analyzed CCV formation in Ctr and mt2 morphants in more detail (Fig. S1). The CCVs grow at a 90 °C angle out of the trunk ACV and posterior PCV, by a combination of collective EC migration and proliferation [13]. At 32 hpf the total cell number in ACV, PCV and CCV was reduced in mt2 morphants compared with Ctr morphants (Fig. S1j). However, the percentage of cells in the CCV was significantly reduced from 35 % CCV cells in Ctr embryos to 26 % in mt2-deficient embryos (Fig. S1i). To test whether Mt2 regulates EC migration or proliferation in the CCV, we performed proliferation analysis by BrdU incorporation in mt2 morphants. Proliferation was strongly decreased in mt2 morphants (Fig. S2).
+
+In sum, our results indicate that Mt2 regulates angiogenesis, by regulating EC migration in the PHBCs and EC proliferation during CCV formation.
+
+mt2 zebrafish mutants phenocopy the mt2 morphants
+Despite performing extensive control experiments, MOs have been shown to exhibit off-target effects [58–60]. To verify the phenotype of the mt2 morphants, we used TALENs [50] to induce double-strand breaks in the mt2 gene. As expected, errors made by the repair machinery of the cell then led to mutations in the double-strand break area [50]. Since the mt2 sequence is very short, we targeted exon 1, which consists of 25 base pairs (bp) only (Fig. 2a). We identified several different alleles of mt2 mutations and further analyzed three of them.Fig. 2 TALEN-generated mt2 zebrafish mutants fail to form the PHBC and have different levels of NMD of mt2 transcripts. a 5′ and 3′ TALEN arms were designed to target exon 1 of the mt2 gene to induce mutations in the genome. b TALEN injection resulted in various genomic mutations. Illustrated is the comparison of the amino acid sequence in WT and different Mt2 mutant alleles, red color indicates mutated amino acids. In mt2
+mu289 mutants a 6 bp deletion resulted in deletion of two amino acids, while in mt2
+mu290 and mt2
+mu292 frameshift mutations resulted in complete changes of the amino acid sequence. c–f Confocal images of the PHBCs at 24 hpf. WT (c) and MZmt2
+mu289 mutant zebrafish embryos (d) form a PHBC, while MZmt2
+mu290 and MZmt2
+mu292 mutant embryos fail to connect the PHBCs. The vasculature was visualized by transgenic GFP expression from Tg(fli1a:EGFP)y1 for MZmt2
+mu289 and MZmt2
+mu290 mutant embryos and from Tg(kdrl:EGFP)s843 for MZmt2
+mu292 mutant embryos. White arrows indicate the anterior and posterior migration front of the PHBC. mt2 expression was analyzed by in situ hybridization in 24 hpf-old embryos. While WT siblings (g) and MZmt2
+mu289 mutants (h) had similar mt2 expression levels, nonsense-mediated decay led to degradation of mt2 mRNA transcript in MZmt2
+mu290 (i) and MZmt2
+mu292 (j) mutant embryos. Black arrows indicate mt2 expression in cells of the yolk extension, black arrowheads label the region of the PHBCs. k–n Brightfield images of WT, MZmt2
+mu289, MZmt2
+mu290 and MZmt2
+mu292 mutant embryos at 24 hpf. WT siblings and MZmt2
+mu289 displayed no morphological defects. MZmt2
+mu290 and MZmt2
+mu292 mutant embryos are smaller in size and display necrosis in the head
+
+
+
+In the mt2mu289 mutant allele only 6 bp were deleted, which resulted in deletion of the second and third amino acid of the Mt2 protein (Fig. 2b, S3). The mt2mu290 sequence has two-point mutations and an insertion of 8 bp, which led to a frame shift and an early stop codon. The mt2mu292 sequence has a deletion of 15 bp, which lead to a frame shift and an early stop codon (Fig. 2b, S3). Since the mutations of mt2mu290 and mt2mu292 are located next to the start codon and there is no downstream start codon in frame, the original Mt2 protein sequence should be completely lost, supposedly resulting in null mutants.
+
+By mating F1 heterozygous carriers of each mt2 allele, we obtained homozygous F2 embryos. To our surprise, we only detected very weak phenotypes (data not shown). Since mt2 is maternally provided [61], we hypothesized that the maternal mRNA is sufficient to rescue mt2 deficiency during the early developmental stages analyzed. Therefore, we raised homozygous F2 embryos to adulthood. When mating homozygous mt2 mutant fish to obtain maternal and zygotic mutant (MZ) F3 offspring, we observed strong morphological and angiogenesis phenotypes (Fig. 2), phenocopying the mt2 morphants. Both MZmt2mu290 and MZmt2mu292 mutants failed to connect the PHBCs, had reduced cell numbers in the CCVs and defective Ses formation. (Fig. 2e, f; Fig. S4). Additionally, in a subset of mt2 mutant embryos the morphology of the PHBC clusters was affected, with the ECs forming ectopic sprouts (arrowhead, Fig. 2e). The MZmt2mu289 zebrafish mutants, which lack only two amino acids, displayed only a very weak phenotype. The PHBCs (Fig. 2d) and the Ses (Fig. S4g) developed normally in those mutants, while a mild phenotype could be observed in the CCVs (Fig. S4b).
+
+The penetrance and severity of the phenotype for both null mutants were variable within the clutch and between clutches. MZmt2mu290 zebrafish mutants showed severe phenotypes at higher rates than MZmt2mu292 zebrafish mutants (compare Table 1), although both should not retain any amino acid sequence of Mt2. In order to investigate whether the mutations were causing strong alleles, we examined the level of gene transcription. One mechanism potentially interfering with mRNA transcript stability in mutants is nonsense-mediated decay (NMD), whereas MO-mediated blocking of translation would rather stabilize the transcript.Table 1 
+mt2 zebrafish morphants, MZmt2 zebrafish mutants and vegfc
+hu6410 zebrafish mutants display many common phenotypes
+
+	PHBCs	Clusters	Ses	CCVs	
+WT	0	2.26	2.53	4.75	
+
+mt2 MO	79.07	92.78	94.29	84.76	
+
+mt spbMO	75.00	85.71	90.24	77.78	
+MZmt2
+mu289
+	0	3.64	6.50	18.20	
+MZmt2
+mu290
+	34.22	84.42	90.37	41.63	
+MZmt2
+mu292
+	8.02	35.73	68.75	26.78	
+
+vegfc
+hu6410
+	59.52	7.50	6.34	65.00	
+Overview of the frequencies of the different phenotypes observed upon mt2 deficiency compared to vegfc deficiency and WT zebrafish embryos. The following classification of phenotypes was scored as affected: PHBCs: The PHBCs were developed to less than 50 % in length; cluster: severely thickened anterior cluster or additional ectopic sprouts or holes; CCVs: reduction by more than 15 % of EC numbers; Ses (scored between somites 9 and 14): Se sprouts were either significantly shortened by more than 15 % or Se numbers were reduced to less than 85 %. The PHBC, cluster and Se phenotypes were analyzed at 24 hpf; the CCVs were analyzed at 32 hpf (WT n = 138, vegfc
+hu6410
+n = 93, mt2 MO n = 168, mt2 spbMO n = 157, mt2
+mu292
+n = 256, mt2
+mu290
+n = 128, mt2
+mu289
+n = 123)
+
+
+
+We therefore subjected 24 hpf-old MZmt2 mutant embryos to in situ hybridization to analyze the presence of the mt2 transcript. While WT and MZmt2mu289 mutant embryos expressed mt2 as published [61], almost no expression could be observed in MZmt2mu290 and MZmt2mu292 mutants (Fig. 2g–j). Interestingly, the efficiency of NMD was not the same for both null mutants. While the great majority of MZmt2mu292 embryos completely lacked mt2 expression (Fig. 2j), some MZmt2mu290 mutant embryos retained mt2 message partially (Fig. 2i), which correlated with the different frequencies of angiogenesis defects (Table 1). We hypothesized that the more efficient the NMD was for the mt2 zebrafish mutant, the more compensation mechanisms might take place to attenuate the phenotype. To analyze, whether mRNA stability could indeed influence the phenotypic severity, we partially ablated two subunits of the NMD mediating complex (smg1 and upf1) by injecting smg1/upf1 MOs in WT and in MZmt2mu290 mutant embryos. We could indeed observe an increase in the number of affected embryos, when message degradation by NMD was reduced (Fig. S5). This indicates that indeed the correlation of the stronger phenotype with the reduced mRNA degradation is functionally relevant. The sum of this data implies that different levels of mRNA degradation can lead to differences in the phenotypes of generated zebrafish mutants and morphants, potentially by regulating unknown compensatory mechanisms.
+
+Mt2 acts upstream of Vegfc in regulating angiogenesis
+Mt2 deficiency resulted in angiogenic defects during PHBC and CCV formation. Both of these processes have been described to be regulated by Vegfc during zebrafish embryonic development. Vegfc mutants or morphants fail to connect the PHBCs and have reduced proliferation in their CCVs [11, 13].
+
+We therefore carried out different rescue experiments to analyze whether there is an interaction of Mt2 and Vegfc signaling. We ubiquitously overexpressed Vegfc in WT or mt2 morphant embryos by injection of vegfc mRNA into 1-cell-stage embryos. Overexpression of vegfc in WT embryos did not alter EC migration to form the PHBCs (Fig. 3a), but significantly reduced the number of embryos with PHBC connection defects from 44 % affected mt2 morphants to 25 % affected vegfc-injected mt2 morphants (Fig. 3c, j, n). Furthermore, we overexpressed the Vegfc ligand trap sflt4 [54], which is a soluble form of the Vegfr3, that titrates away Vegfc and therefore results in the same phenotypes as the genetic vegfc mutation (Fig. 3e, k). By combining sflt4 with high amounts of mt2 mRNA injection, we could compensate the PHBC formation failure (Fig. 3f, k, o). Injection of vegfc mRNA rescued the sflt4 mRNA injection to a similar extent (data not shown), indicating that Mt2 overexpression could indeed compensate for Vegfc ligand depletion. Interestingly, when we repeated the same experiment of rescuing Vegfc deficiency by mt2 overexpression in vegfchu6410 mutant embryos, Mt2 failed to rescue (Fig. 3i, l, p), suggesting that vegfc is the only relevant target of mt2. We confirmed the upregulation of vegfc transcripts after mt2 mRNA injection in vegfchu6410 mutant embryos with qPCR (Fig. S6). Taken together our data showed that Mt2 deficiency can be overcome by Vegfc addition and that Mt2 overexpression can outcompete Vegfc protein depletion, but not Vegfc mutation. These results are consistent with a mechanism, in which Mt2 regulates vegfc RNA expression (Fig. 3m).Fig. 3 Mt2 acts upstream of Vegfc in PHBC formation. a–c, j Injection of vegfc mRNA rescued mt2 deficiency in mt2 morphants. Overexpression of vegfc mRNA does not disturb PHBC formation (a). Upon mt2 MO injection (b), 44 % of the embryos lack the PHBC, while upon co-injection with vegfc mRNA (c) PHBC formation becomes rescued in half of the affected embryos (quantification of different experiments shown in j). d–f, k
+mt2 overexpression rescued PHBC formation defects induced by overexpression of a Vegfc ligand trap (sflt4 overexpression). Injection of mt2 mRNA resulted in normal PHBC development (d). Depletion of Vegfc through injection of sflt4 mRNA led to a failure in PHBC formation in 68 % of the embryos (e). Co-injection of both mt2 and sflt4 mRNA rescued PHBC formation and left only 23 % of embryos showing no PHBC (quantifications of different experiments shown in k). g–i, l Overexpression of mt2 mRNA in embryos with a genetic null mutation in the vegfc gene (vegfc
+hu6410) could not rescue the PHBC phenotype. Embryos were scored for their phenotype and subsequently genotyped for the vegfc mutation (quantifications of different experiments shown in l). The analysis was performed using Tg(kdrl:EGFP)s843 (a–f) and Tg(fli1a:EGFP)y1 (g–i) embryos. j–k Quantifications of the phenotypes observed after injection of indicated reagents: Black bars label percent of embryos with the PHBC formed, white bars label percent of embryos lacking the PHBC. Statistical significance was calculated with the Chi-square test, n = 228 (j), n = 277 (k), n = 124 (l), **P < 0.01; ***P < 0.001; n.s., not significant. m–p Schematics representing the proposed mechanisms of angiogenesis regulation in the experiments shown in a–l
+
+
+
+
+Mt2 regulates transcript levels of vegfc
+Given the results above, we used qPCR to analyze vegfc transcript levels in mt2 morphant, MZmt2mu290 mutant and mt2-overexpressing embryos. qPCR analysis revealed a 20 % decrease in vegfc RNA in mt2 morphants and a 31 % decrease in MZmt2mu290 mutant embryos (Fig. 4a). mt2 overexpression on the other hand led to a 27 % increase in vegfc RNA levels in zebrafish embryos (Fig. 4a). To test whether vegfc transcripts are specifically affected, we analyzed further genes in mt2-deficient and mt2-overexpressing embryos. We chose fli1a as an EC-specific gene and myod1, a muscle-specific marker to represent other tissues [62]. We observed no significant changes in either fli1a or myod1 transcript levels, irrespective of the mt2 expression level. In contrast the significant changes in vegfc transcripts correlated with the changes in mt2 expression as vegfc levels were decreased in mt2-deficient and increased in mt2-overexpressing cells (Fig S6). The analysis of vegfc RNA transcript levels via in situ hybridization showed similar results in some domains of vegfc expression (Fig. 4b–d). mt2 morphants show reduced vegfc staining, especially in the region, where the PHBCs develop (Fig. 4c, arrowheads). Interestingly, the increase in vegfc RNA expression in mt2-injected embryos was also confined to specific domains, including the region of PHBC development (Fig. 4b–d, arrowheads), but not ubiquitously distributed (Fig. 4d). Therefore, our results show that Mt2 is required for regulating vegfc, e.g., during PHBC formation, but it is not sufficient to induce general vegfc expression ectopically. This can be further substantiated when comparing the WT expression patterns of vegfc and mt2, showing that some domains of vegfc expression are in the same region as mt2 expression, while there are also vegfc expression domains in areas not expressing high amounts of mt2 (Fig. S6). We claim that the regulation of vegfc via Mt2 is specifically confined to specific vascular niches, such as the region of PHBC formation.Fig. 4 Mt2 regulates transcript levels of vegfc. a qPCR analysis of vegfc transcript levels (a) in mt2 morphants, MZmt2
+mu290 mutants and mt2 mRNA-injected embryos compared to Ctr embryos. Both morphants and mutants showed a significant decrease in vegfc transcript levels, while overexpression of mt2 led to an increase in vegfc transcripts. n = 3, *P < 0.05; **P < 0.01; error bars represent SEM; b–d in situ hybridization for vegfc in hpf embryos injected with mt2 MO or with mt2 mRNA showed a reduction in vegfc expression upon knockdown of mt2 (c) and an increase after mt2 mRNA injection (d)
+
+
+
+Other metallothioneins cannot regulate vegfc expression
+To get more mechanistic insight how Mt2 could regulate vegfc expression, we questioned whether vegfc expression regulation could be a consequence of a cellular stress and hence would require the detoxifying features characteristic to all Metallothioneins (Mts). Therefore, we performed knockdown and overexpression experiments using another Metallothionein family member, metallothionein-B-like (mtbl; Fig. 5). To analyze mtbl-deficient embryos, we used again both translation and splice blocking MOs for our analysis and validated the functionality of the spbMO using RT-PCR (Fig. 5c). Even though mtbl deficiency led to defective development of the CCVs and Ses (Fig. S7), mtbl morphants showed normal PHBC development (Fig. 5b), indicating that during normal embryonic development Mt2 is specifically required for regulating vegfc expression. We next analyzed whether, as shown for Mt2, excess amounts of ectopic Mtbl could compensate for Vegfc ligand depletion by the ligand trap sflt4. While injection of sflt4 mRNA again provoked defective PHBC development (Fig. 5e), co-injection with mtbl mRNA did not rescue this phenotype (Fig. 5f, g). Furthermore, vegfc transcripts were not significantly changed upon knockdown of mtbl (Fig. 5h). These results indicate that the regulation of vegfc transcription by Mt2 is not based on its Metallothionein characteristics and therefore not part of a cellular stress response, but rather represents an additional specific function of Mt2.Fig. 5 The mt2 paralogue metallothionein-B-like (mtbl) does not regulate PHBC formation. mtbl MO-mediated deficiency does not affect PHBC formation. Tg(kdrl:EGFP)s843 embryos showed normal PHBC development at 24 hpf after injection of Ctr MO (a) or mtbl translation blocking MO (b). c Analysis of mtbl splicing efficiency in embryos injected with Ctr MO or mtbl spbMO. RT-PCR analysis showed a 327 bp amplicon in embryos injected with mtbl spbMO, while functional splicing led to a 169 bp amplicon in Ctr MO-injected embryos. mtbl overexpression failed to rescue PHBC formation defects induced by overexpression of a Vegfc ligand trap (sflt4 overexpression). Overexpression of mtbl via mRNA injection (d) resulted in normal development of the PHBC, while sflt4 mRNA injection resulted in PHBC formation failure (e). This phenotype could not be rescued through co-injection of mtbl mRNA (f). Quantification comparing the percentages of embryos lacking the PHBC, with n = 350, ***P < 0.001; n.s., not significant (g). The analysis was done with Tg(kdrl:EGFP)s843 embryos. h qPCR analysis of mtbl morphants showed no significant increase in the vegfc transcript. Error bars show SEM; n.s., not significant
+
+
+
+Discussion
+In this study, we showed that Mt2 regulates developmental angiogenesis in zebrafish by regulating vegfc mRNA expression. Vegfc regulates EC migration as a chemoattractant, e.g., by guiding ECs in the PHBCs [9, 11], and indeed, we show that correct migration of the PHBCs was perturbed by deletion of mt2. Additionally, Vegfc regulates EC proliferation [13], which was also perturbed in mt2-deficient zebrafish embryos.
+
+We analyzed the role of Mt2 in zebrafish angiogenesis using MO-mediated Mt2 ablation as well as by using TALENs to introduce mutations in the zebrafish mt2 gene. While we observed the same phenotypes in morphants as well as mutants, the phenotypes occurred at different frequencies between morphants and even between different hypothetical null mutants of mt2 (see Table 1). Multiple mechanisms have been discussed to explain differences between mutant and morphant phenotypes: reinitiation at a downstream AUG or at an alternative start codon, exon skipping or the upregulation of other compensatory genes [63]. From the mt2 sequence we can exclude reinitiation at a downstream AUG or exon skipping as potential mechanisms. We cannot predict whether there would be reinitiation at non-AUG start codons. However, we here provided a detailed analysis demonstrating that differences in mRNA stability, caused by NMD-mediated decay of the transcript, might account for the variability of the observed phenotypes. Our experiments show that a stronger efficiency of NMD led to a weaker penetrance of the phenotype, which might indicate transcript-level-based regulation of compensatory mechanisms in the embryo.
+
+Additionally, even vegfc null mutants do not show full penetrance in failing to form the PHBC (Table 1, supplementary material [11]); therefore, embryos with a reduction in vegfc expression through mt2 deficiency are not likely to display higher phenotypic frequencies.
+
+In our study we identified a role for Mt2 in regulating angiogenesis upstream of transcriptional regulation of vegfc expression.
+
+While in the zebrafish only two mt genes exist, in mammals there are at least four different gene families with differentially expressed isoforms [64]. Analysis of the amino acid sequence via UniProt revealed highest identity of the zebrafish Mt2 to the human and mouse MT1, closely followed by the human and mouse MT2. Mammalian Mt1 and Mt2 are supposedly very similar in their function [26] and have previously been implicated to be involved in angiogenic processes. The MZmt2 zebrafish knockout led to impaired development of major vessels, such as the PHBCs, the CCVs and the Ses and MZmt2-deficient embryos died during larval stages. The murine Mt1/2 double knockout in contrast was viable [36] and only displayed angiogenesis defects when challenged, e.g., by cortical freeze injury or femoral artery ligation [38–40]. As in zebrafish maternal message was capable of compensating mt2 deficiency during embryonic angiogenesis, most likely in mammals other MT family might be able to compensate Mt1/2 deficiency during development. However, a link to angiogenesis has also been established for human Mts in vitro [65].
+
+We demonstrated that Mt2 but not Mtbl regulates angiogenesis upstream of vegfc transcription. Mt family members are involved in regulating a large number of developmental processes, including cell survival, cell proliferation, migration, scavenging of reactive oxygen species, and modulating the immune response. Most of these capabilities have been attributed to the metal-binding capabilities, resulting, e.g., in removal of cofactor ions such as zinc [26, 30, 66]. The zebrafish Mtbl is capable of fulfilling these MT family member functions, but does not rescue PHBC development in mt2 morphants or vegfc ligand reduced embryos. We present here the first evidence for an additional role of zebrafish Mt2 in regulating vegfc expression independent of Mt function. Interestingly, upregulation of different human MT isoforms was observed comparing the responses to physiological or hypoxic conditions [65]. This could be taken as an indication for differential regulatory functions of some human MT family proteins, independent of the functions common to all MTs.
+
+We analyzed whether other transcript levels were regulated by zebrafish Mt2 in addition to vegfc. Neither the Vegfc regulator ccbe1 expression, nor the Pdgf/Vegf family member c-fos-induced growth factor (figf) expression was altered. In contrast, vegfa expression seemed also regulated downstream of MT2 (data not shown). Reduced Vegfa RNA [40] and VEGFA protein levels [38] were reported in Mt1/2-deficient mice. While changes in Vegfc expression explained the PHBC and CCV phenotypes, reduction in Vegfa expression would account for the failures in Se formation, as deficiency in either Vegfa or its receptor Kdrl result in severe Se phenotypes [9, 67].
+
+In sum, we have identified a novel role of MT2 in regulating angiogenesis by regulating vegfc transcription, which might be conserved in mammals.
+
+We for the first time show that this regulatory role is specific to zebrafish Mt2 and represents a novel, non-canonical function of MT2, most likely not attributed to metal-binding capabilities of MT proteins.
+
+Electronic supplementary material
+Supplementary Fig. S1 Angiogenesis of the CCVs and the Ses is impaired after MO mediated mt2 ablation
+
+(a–c) Confocal micrographs of the PHBC of Ctr MO (a) and mt2 MO (b) or mt2spbMO (c) injected embryos. (d) Schematic illustration of the vasculature of a 32 hpf old zebrafish embryo with annotation of the region of the CCV and the Ses. (e) Schematic close-up of the CCV and the adjacent ACV and PCV indicates the areas, which were calculated for the analysis. (f–h) Confocal micrographs of the CCV of Ctr MO (f) and mt2 MO (g) or mt2 spbMO (h) injected embryos show defective CCV development for mt2 deficient zebrafish embryos. (i) Total EC numbers of the ACV/PCV compared to the CCV were normalized for both Ctr and mt2 MO or mt2 spbMO and show reduced cell numbers especially for the CCV of mt2 morphants. n = 30, ***P < 0.001, **P < 0.01; error bars indicate s.e.m. (j) Quantification of ECs in the ACV, PCV and CCV shows a reduced overall EC number for all vessel areas. (k–p) Ses of mt2 MO or mt2 spbMO injected embryos at 24 and 48 hpf (l, m, o, p) are missing or malformed compared to the Ses of Ctr Mo injected embryos (k, n). (q) Quantification of ECs in the Ses shows reduced cell numbers for mt2 deficient zebrafish embryos. The average of ECs of the Ses in somites nine to 14 above the yolk extension was calculated. The analyses were performed with Tg(kdrl:EGFP)
+s843 zebrafish embryos. n = 50, ***P < 0.001; error bars indicate s.e.m.; Se: intersegmental vessels; ACV: anterior cardinal vein; PCV: posterior cardinal vein; CCV: common cardinal vein. Supplementary material 1 (PDF 3651 kb)
+
+ Supplementary Fig. S2 The proliferation of ECs is reduced in mt2 morphant embryos
+
+(a,b) BrdU incorporation from 24–32 hpf leads to fewer cells in mt2 morphants (b) and vegfchu6410 mutant embryos (a) compared to WT (A) in the CCV at 32 hpf. BrdU positive cells are labeled in red, ECs are visualized by GFP expression in Tg(kdrl:EGFP)
+s843 in green. Single channels for BrdU (a’,b’) and GFP (a’’,b’’) reveal double positive cells. White arrowheads visualize these events in representative picture. A white line marks the border of the CCVs. (c) Quantification of BrdU positive cells in the CCV shows significantly less proliferation in mt2 morphants embryos compared to WT. Black bars represent the percentage of BrdU positive cells in relation to total EC numbers in the CCVs of mt2 morphants and WT zebrafish embryos. n = 13, ***P < 0.001; error bars indicate s.e.m. Supplementary material 2 (PDF 8258 kb)
+
+ Supplementary Fig. S3 TALEN mediated genomic changes in the different mt2 mutants.
+
+(a) WT sequence of mt2 with annotation of the individual exons. The start codon is marked by a red line. The dashed black box indicates the sequence region targeted and shown in Figure S3b. (b) TALENs were used to induce three different mutations in exon 1 of mt2. The mt2
+mu289 has a 6 bp deletion. The mt2
+mu290 sequence has a 2 bp point mutation as well as an 8 bp insertion. The mt2
+mu292 sequence has a 15 bp deletion including deletion of the start codon. Both mutations in mt2
+mu290 and mt2
+mu292 cause frameshifts leading to nonsense proteins. Supplementary material 3 (PDF 129 kb)
+
+ Supplementary Fig. S4 Angiogenesis of the CCVs and the Ses is impaired in mt2 mutantembryos
+
+(a–e) The CCVs of mt2 mutant embryos display significantly fewer ECs at 32 hpf. MZmt2
+mu289 and MZmt2
+mu290 were analyzed by visualizing GFP expression from Tg(fli1a:EGFP)
+y1; MZmt2
+mu292 mutant embryos were analyzed by visualizing GFP expression from Tg(kdrl:EGFP)
+s843. n = 56, ***P < 0.001; the graph shows mean with error bars indicating s.e.m. (f–i) Defects in the Ses at 24 hpf were observed in MZmt2
+mu290 (h) and MZmt2
+mu292 (i) mutant embryos, but not in WT (f) or MZmt2
+mu289 mutant (g) embryos. Mzmt2
+mu290 and MZmt2
+mu292 mutant Ses were stalled at the level of the horizontal myoseptum. Supplementary material 4 (PDF 2057 kb)
+
+ Supplementary Fig. S5 Blocking of NMD aggravates the phenotype in MZmt2 mutants
+
+(a–e) WT (a,c) and MZmt2
+mu290 mutant zebrafish (b,d) were injected with NMD blocking MOs (c,d). While no effect could be observed for WT zebrafish embryos (c), significantly more MZmt2
+mu290 mutant zebrafish embryos displayed PHBC defects upon NMD blockage (d). The analysis was performed visualizing vascular specific GFP expression from Tg(fli1a:nEGFP)
+y7. Black bars label percent of embryos with complete PHBCs, white bars label percent of embryos lacking the PHBC, statistical significance was calculated with the Chi Square test, n = 622, ***P < 0.001; n.s., not significant. (f) Models relating phenotype and NMD in the different mt2 mutants. Normal translation is occurring in WT and MZmt2
+mu289 mutant zebrafish embryos. A stop in proximity to the polyA tail and the release factor (RF) allow the completion of the translation process. Premature stop codons lead to stalling of the ribosomes in both MZmt2
+mu290 and MZmt2
+mu292 zebrafish embryos. The NMD machinery is recruited and induces degradation of the mRNA. Differential amounts of NMD might result in alterations in compensation mechanisms. The curved black line illustrates the mRNA. The ribosome is shown in yellow. Stop codons are marked with a red box, premature stop codons are further marked with red asterisks. Proteins of the NMD machinery are shown in green and blue boxes. Upf: Up-frameshift, Smg: suppressor with morphological effect on genitalia, RF: Releasefactor. The red asterisk used for MZmt2
+mu289 mutants indicates the 2AA deletion. Supplementary material 5 (PDF 1306 kb)
+
+ Supplementary Fig. S6 Transcript expression analysis in embryos mt2 deficient or overexpressing embryos.
+
+(a) qPCR analysis of fli1a and myod1 transcript levels in mt2 morphants, Mzmt2
+mu290 mutants and mt2 mRNA injected embryos compared to Ctr embryos. In contrast to vegfc transcripts, which were significantly regulated in correlation with mt2 transcript levels (Fig 4a), fli1a and myod1 transcripts were not significantly changed. Only the myod1 transcript shows a minimal upregulation in the mt2 morphants. (b) qPCR analysis of mt2 injected vegfc
+hu6410-/- mutant zebrafish shows transcript changes of vegfc similar to those in mt2 injected Tg(kdrl:EGFP)
+s843 (Fig 4a). Supplementary material 6 (PDF 120 kb)
+
+ Supplementary Fig. S7 Transcript expression patterns are similar for mt2 and vegfc.
+
+(a–j) RNA Expression patterns analyzed by in situ hybridization for mt2 (a-e) and vegfc (f-j) from 18 to 32 hpf in WT zebrafish embryos. Lateral views focusing on anterior expression (including the area of the PHBC). Supplementary material 7 (PDF 6471 kb)
+
+ Supplementary Fig. S8 Angiogenesis of the CCVs and the Ses is partially impaired in mtbl morphant embryos.
+
+(a,b) The CCVs of mtbl morphant embryos (b) were thinner compared to Ctr MO injected zebrafish embryos (a) at 32 hpf. (c–f) Mild defects in the Ses of mtbl morphants were observable at 24 hpf (d) and 32 hpf (f), while Ctr morphants (c,e) develop normally. The Ses of mtbl morphants are stalled at the horizontal myoseptum and the trunk shows mild bending of the body axis. All embryos were analyzed by visualizing GFP expression from Tg(kdrl:EGFP)
+s843. Supplementary material 8 (PDF 1778 kb)
+
+ Supplementary Movie S1 Ctr morphants show normal development of the PHBC
+
+The proper development of the PHBC in Ctr MO injected Tg(kdrl:EGFP)
+s843 zebrafish embryos is visualized from 17 to 30 hpf. The LDA has already formed when ECs of the PHBCs start to migrate from anterior and posterior clusters to connect at approximately 23 hpf. There are no extensive migration movements of ECs of the PHBC between 23 and 30 hpf. A confocal stack was taken every 15 minutes. Supplementary material 9 (MPG 1922 kb)
+
+ Supplementary Movie S2 
+mt2 morphants do not develop a functional PHBC
+
+The development of the PHBC in mt2 MO injected Tg(kdrl:EGFP)
+s843 zebrafish embryos between 17 and 30 hpf is severely impaired. The LDA forms normally similar to Ctr zebrafish embryos. The PHBC however does not connect until 30 hpf. The ECs are motile and send filopodia, but the directed migration of the ECs is restricted. Furthermore the anterior cluster, where the PHBC, the PMBC, the MceV and the OV connect is thickened and malformed. The posterior cluster shows more ECs as well. Since EC numbers are not altered and no ECs undergoing apoptosis can be observed, the impaired migration of ECs is causing the phenotype. A confocal stack was taken every 15 minutes. Supplementary material 10 (MPG 1794 kb)
+
+ We thank Mailin Hamm, Didier Stainier and Friedemann Kiefer for critical comments on the manuscript. We are grateful to Reinhild Bussmann for excellent fish husbandry and to Katja Müller for technical assistance. We would like to thank Stefan Volkery for imaging advice and microscope maintenance. This work was supported by the Northrhine Westphalia (NRW) “return fellowship” awarded to W. H. and by the Cells-in-Motion Cluster of Excellence (CiM—EXC 1003), Muenster, Germany (Project FF-2013-14).
+
+Conflict of interest
+The authors declare that they have no conflict of interest.
+
+Ethical standard
+All applicable international, national and/or institutional guidelines for the care and use of animals were followed.
+==== Refs
+References
+1. Bussmann J  Lawson N  Zon L  Schulte-Merker S   Zebrafish VEGF receptors: a guideline to nomenclature PLoS Genet 2008 4 5 e1000064 10.1371/journal.pgen.1000064 18516225 
+2. Lohela M  Bry M  Tammela T  Alitalo K   VEGFs and receptors involved in angiogenesis versus lymphangiogenesis Curr Opin Cell Biol 2009 21 2 154 165 10.1016/j.ceb.2008.12.012 19230644 
+3. Shibuya M   Vascular endothelial growth factor and its receptor system: physiological functions in angiogenesis and pathological roles in various diseases J Biochem 2013 153 1 13 19 10.1093/jb/mvs136 23172303 
+4. Ferrara N   Role of vascular endothelial growth factor in the regulation of angiogenesis Kidney Int 1999 56 3 794 814 10.1046/j.1523-1755.1999.00610.x 10469350 
+5. Gerhardt H   VEGF and endothelial guidance in angiogenic sprouting Organogenesis 2008 4 4 241 246 10.4161/org.4.4.7414 19337404 
+6. Kuchler AM  Gjini E  Peterson-Maduro J  Cancilla B  Wolburg H  Schulte-Merker S   Development of the zebrafish lymphatic system requires VEGFC signaling Curr Biol 2006 16 12 1244 1248 10.1016/j.cub.2006.05.026 16782017 
+7. Tammela T  Alitalo K   Lymphangiogenesis: molecular mechanisms and future promise Cell 2010 140 4 460 476 10.1016/j.cell.2010.01.045 20178740 
+8. Kukk E  Lymboussaki A  Taira S  Kaipainen A  Jeltsch M  Joukov V  Alitalo K   VEGF-C receptor binding and pattern of expression with VEGFR-3 suggests a role in lymphatic vascular development Development 1996 122 12 3829 3837 9012504 
+9. Hogan BM  Herpers R  Witte M  Helotera H  Alitalo K  Duckers HJ  Schulte-Merker S   Vegfc/Flt4 signalling is suppressed by Dll4 in developing zebrafish intersegmental arteries Development 2009 136 23 4001 4009 10.1242/dev.039990 19906867 
+10. Dumont DJ  Jussila L  Taipale J  Lymboussaki A  Mustonen T  Pajusola K  Breitman M  Alitalo K   Cardiovascular failure in mouse embryos deficient in VEGF receptor-3 Science 1998 282 5390 946 949 10.1126/science.282.5390.946 9794766 
+11. Villefranc JA  Nicoli S  Bentley K  Jeltsch M  Zarkada G  Moore JC  Gerhardt H  Alitalo K  Lawson ND   A truncation allele in vascular endothelial growth factor c reveals distinct modes of signaling during lymphatic and vascular development Development 2013 140 7 1497 1506 10.1242/dev.084152 23462469 
+12. Karkkainen MJ  Haiko P  Sainio K  Partanen J  Taipale J  Petrova TV  Jeltsch M  Jackson DG  Talikka M  Rauvala H  Betsholtz C  Alitalo K   Vascular endothelial growth factor C is required for sprouting of the first lymphatic vessels from embryonic veins Nat Immunol 2004 5 1 74 80 10.1038/ni1013 14634646 
+13. Helker CS, Schuermann A, Karpanen T, Zeuschner D, Belting HG, Affolter M, Schulte-Merker S, Herzog W (2013) The zebrafish common cardinal veins develop by a novel mechanism: lumen ensheathment. Development 140(13):2776–2786. doi:10.1242/dev.091876
+14. Christiansen A  Detmar M   Lymphangiogenesis and cancer Genes Cancer 2011 2 12 1146 1158 10.1177/1947601911423028 22866206 
+15. Moens S  Goveia J  Stapor PC  Cantelmo AR  Carmeliet P   The multifaceted activity of VEGF in angiogenesis—implications for therapy responses Cytokine Growth Factor Rev 2014 25 4 473 482 10.1016/j.cytogfr.2014.07.009 25169850 
+16. Ristimaki A  Narko K  Enholm B  Joukov V  Alitalo K   Proinflammatory cytokines regulate expression of the lymphatic endothelial mitogen vascular endothelial growth factor-C J Biol Chem 1998 273 14 8413 8418 10.1074/jbc.273.14.8413 9525952 
+17. Enholm B  Paavonen K  Ristimaki A  Kumar V  Gunji Y  Klefstrom J  Kivinen L  Laiho M  Olofsson B  Joukov V  Eriksson U  Alitalo K   Comparison of VEGF, VEGF-B, VEGF-C and Ang-1 mRNA regulation by serum, growth factors, oncoproteins and hypoxia Oncogene 1997 14 20 2475 2483 10.1038/sj.onc.1201090 9188862 
+18. Gunningham SP  Currie MJ  Han C  Turner K  Scott PAE  Robinson BA  Harris AL  Fox SB   Vascular endothelial growth factor-B and vascular endothelial growth factor-C expression in renal cell carcinomas: regulation by the von Hippel–Lindau gene and hypoxia Cancer Res 2001 61 7 3206 3211 11306510 
+19. Schuermann A  Helker CSM  Herzog W   Angiogenesis in zebrafish Semin Cell Dev Biol 2014 31 106 114 10.1016/j.semcdb.2014.04.037 24813365 
+20. Isogai S  Horiguchi M  Weinstein BM   The vascular anatomy of the developing zebrafish: an atlas of embryonic and early larval development Dev Biol 2001 230 2 278 301 10.1006/dbio.2000.9995 11161578 
+21. Walls JR  Coultas L  Rossant J  Henkelman RM   Three-dimensional analysis of vascular development in the mouse embryo PLoS One 2008 3 8 e2853 10.1371/journal.pone.0002853 18682734 
+22. Ellertsdottir E  Lenard A  Blum Y  Krudewig A  Herwig L  Affolter M  Belting HG   Vascular morphogenesis in the zebrafish embryo Dev Biol 2010 341 1 56 65 10.1016/j.ydbio.2009.10.035 19895803 
+23. Gore AV  Monzo K  Cha YR  Pan W  Weinstein BM   Vascular development in the zebrafish Cold Spring Harb Perspect Med 2012 2 5 a006684 10.1101/cshperspect.a006684 22553495 
+24. Auer TO  Del Bene F   CRISPR/Cas9 and TALEN-mediated knock-in approaches in zebrafish Methods 2014 69 2 142 150 10.1016/j.ymeth.2014.03.027 24704174 
+25. Bedell VM  Wang Y  Campbell JM  Poshusta TL  Starker CG  Krug RG  Tan WF  Penheiter SG  Ma AC  Leung AYH  Fahrenkrug SC  Carlson DF  Voytas DF  Clark KJ  Essner JJ  Ekker SC   In vivo genome editing using a high-efficiency TALEN system Nature 2012 491 7422 114 118 10.1038/nature11537 23000899 
+26. Nielsen AE  Bohr A  Penkowa M   The balance between life and death of cells: roles of metallothioneins Biomark Insights 2007 1 99 111 19690641 
+27. Pedersen MO  Larsen A  Stoltenberg M  Penkowa M   The role of metallothionein in oncogenesis and cancer prognosis Prog Histochem Cytochem 2009 44 1 29 64 10.1016/j.proghi.2008.10.001 19348910 
+28. Wu SM  Tsai PR  Yan CJ   Maternal cadmium exposure induces mt2 and smtB mRNA expression in zebrafish (Danio rerio) females and their offspring Comp Biochem Physiol C Toxicol Pharmacol 2012 156 1 1 6 10.1016/j.cbpc.2012.02.001 22387671 
+29. Wu SM  Zheng YD  Kuo CH   Expression of mt2 and smt-B upon cadmium exposure and cold shock in zebrafish (Danio rerio) Comp Biochem Physiology C Toxicol Pharmacol 2008 148 2 184 193 10.1016/j.cbpc.2008.05.007 
+30. Vasak M  Meloni G   Chemistry and biology of mammalian metallothioneins J Biol Inorg Chem 2011 16 7 1067 1078 10.1007/s00775-011-0799-2 21647776 
+31. Yan CHM  Chan KM   Cloning of zebrafish metallothionein gene and characterization of its gene promoter region in HepG2 cell line Biochim Et Biophys Acta-Gene Struct Expr 2004 1679 1 47 58 10.1016/j.bbaexp.2004.04.004 
+32. Fu J  Lv HJ  Guan HX  Ma XY  Ji MJ  He NY  Shi BY  Hou P   Metallothionein 1G functions as a tumor suppressor in thyroid cancer through modulating the PI3 K/Akt signaling pathway BMC Cancer 2013 13 462 10.1186/1471-2407-13-462 24098937 
+33. Murakami S  Miyazaki I  Sogawa N  Miyoshi K  Asanuma M   neuroprotective Effects of metallothionein against rotenone-induced myenteric Neurodegeneration in parkinsonian mice Neurotox Res 2014 26 3 285 298 10.1007/s12640-014-9480-1 24923464 
+34. Xue WL  Liu YL  Zhao JC  Cai L  Li XK  Feng WK   Activation of HIF-1 by metallothionein contributes to cardiac protection in the diabetic heart Am J Physiol Heart Circ Physiol 2012 302 12 H2528 H2535 10.1152/ajpheart.00850.2011 22523246 
+35. Zhou GH  Li XK  Hein DW  Xiang XL  Marshall JP  Prabhu SD  Cai L   Metallothionein suppresses angiotensin II-induced nicotinamide adenine dinucleotide phosphate oxidase activation, nitrosative stress, apoptosis, and pathological remodeling in the diabetic heart J Am Coll Cardiol 2008 52 8 655 666 10.1016/j.jacc.2008.05.019 18702970 
+36. Masters BA  Kelly EJ  Quaife CJ  Brinster RL  Palmiter RD   Targeted disruption of metallothionein-I and metallothionein-Ii genes increases sensitivity to cadmium Proc Natl Acad Sci USA 1994 91 2 584 588 10.1073/pnas.91.2.584 8290567 
+37. Michalska AE  Choo KHA   Targeting and germ-line transmission of a null mutation at the metallothionein I-loci and Ii-loci in Mouse Proc Natl Acad Sci USA 1993 90 17 8088 8092 10.1073/pnas.90.17.8088 8367468 
+38. Penkowa M  Carrasco J  Giralt M  Molinero A  Hernandez J  Campbell IL  Hidalgo J   Altered central nervous system cytokine-growth factor expression profiles and angiogenesis in metallothionein-I + II deficient mice J Cereb Blood Flow Metab 2000 20 8 1174 1189 10.1097/00004647-200008000-00003 10950378 
+39. Penkowa M  Carrasco J  Giralt M  Moos T  Hidalgo J   CNS wound healing is severely depressed in metallothionein I and II-deficient mice J Neurosci 1999 19 7 2535 2545 10087067 
+40. Zbinden S  Wang JS  Adenika R  Schmidt M  Tilan JU  Najafi AH  Peng XZ  Lassance-Soares RM  Iantorno M  Morsli H  Gercenshtein L  Jang GJ  Epstein SE  Burnett MS   Metallothionein enhances angiogenesis and arteriogenesis by modulating smooth muscle cell and macrophage function Arterioscler Thromb Vasc Biol 2010 30 3 477 482 10.1161/ATVBAHA.109.200949 20056912 
+41. Palmiter RD   Constitutive expression of metallothionein-Iii (Mt-Iii), but not Mt-I, inhibits growth when cells become zinc-deficient Toxicol Appl Pharmacol 1995 135 1 139 146 10.1006/taap.1995.1216 7482533 
+42. Smith E  Drew PA  Tian ZQ  De Young NJ  Liu JF  Mayne GC  Ruszkiewicz AR  Watson DI  Jamieson GG   Metallothionien 3 expression is frequently down-regulated in oesophageal squamous cell carcinoma by DNA methylation Mol Cancer 2005 4 42 10.1186/1476-4598-4-42 16351731 
+43. Carrasco J  Penkowa M  Giralt M  Camats J  Molinero A  Campbell IL  Palmiter RD  Hidalgo J   Role of metallothionein-III following central nervous system damage Neurobiol Dis 2003 13 1 22 36 10.1016/S0969-9961(03)00015-9 12758064 
+44. Tio L  Villarreal L  Atrian S  Capdevila M   Functional differentiation in the mammalian metallothionein gene family—metal binding features of mouse MT4 and comparison with its paralog MT1 J Biol Chem 2004 279 23 24403 24413 10.1074/jbc.M401346200 15033980 
+45. Westerfield M   The zebrafish book 1993 Eugene University of Oregon press 
+46. Jin SW  Beis D  Mitchell T  Chen JN  Stainier DY   Cellular and molecular analyses of vascular tube and lumen formation in zebrafish Development 2005 132 23 5199 5209 10.1242/dev.02087 16251212 
+47. Lawson ND  Weinstein BM   In vivo imaging of embryonic vascular development using transgenic zebrafish Dev Biol 2002 248 2 307 318 10.1006/dbio.2002.0711 12167406 
+48. Roman BL  Pham V  Lawson ND  Kulik M  Childs S  Lekven AC  Garrity DM  Moon RT  Fishman MC  Lechleider RJ  Weinstein BM   Disruption of acvrl1 increases endothelial cell number in zebrafish cranial vessels Development 2002 129 12 3009 3019 12050147 
+49. Le Guen L  Karpanen T  Schulte D  Harris NC  Koltowska K  Roukens G  Bower NI  van Impel A  Stacker SA  Achen MG  Schulte-Merker S  Hogan BM   Ccbe1 regulates Vegfc-mediated induction of Vegfr3 signaling during embryonic lymphangiogenesis Development 2014 141 6 1239 1249 10.1242/dev.100495 24523457 
+50. Cermak T  Doyle EL  Christian M  Wang L  Zhang Y  Schmidt C  Baller JA  Somia NV  Bogdanove AJ  Voytas DF   Efficient design and assembly of custom TALEN and other TAL effector-based constructs for DNA targeting Nucleic Acids Res 2011 39 12 e82 10.1093/nar/gkr218 21493687 
+51. Wittkopp N  Huntzinger E  Weiler C  Sauliere J  Schmidt S  Sonawane M  Izaurralde E   Nonsense-mediated mrna decay effectors are essential for zebrafish embryonic development and survival Mol Cell Biol 2009 29 13 3517 3528 10.1128/MCB.00177-09 19414594 
+52. Santoro MM  Samuel T  Mitchell T  Reed JC  Stainier DY   Birc2 (cIap1) regulates endothelial cell integrity and blood vessel homeostasis Nat Genet 2007 39 11 1397 1402 10.1038/ng.2007.8 17934460 
+53. Hogan BM  Bos FL  Bussmann J  Witte M  Chi NC  Duckers HJ  Schulte-Merker S   Ccbe1 is required for embryonic lymphangiogenesis and venous sprouting Nat Genet 2009 41 4 396 398 10.1038/ng.321 19287381 
+54. Makinen T  Jussila L  Veikkola T  Karpanen T  Kettunen MI  Pulkkanen KJ  Kauppinen R  Jackson DG  Kubo H  Nishikawa S  Yla-Herttuala S  Alitalo K   Inhibition of lymphangiogenesis with resulting lymphedema in transgenic mice expressing soluble VEGF receptor-3 Nat Med 2001 7 2 199 205 10.1038/84651 11175851 
+55. Thisse C  Thisse B   High-resolution in situ hybridization to whole-mount zebrafish embryos Nat Protoc 2008 3 1 59 69 10.1038/nprot.2007.514 18193022 
+56. Helker CS, Schuermann A, Pollmann C, Chng SC, Kiefer F, Reversade B, Herzog W (2015) The hormonal peptide Elabela guides angioblasts to the midline during vasculogenesis. Elife. doi:10.7554/eLife.06726
+57. Herzog W  Muller K  Huisken J  Stainier DY   Genetic evidence for a noncanonical function of seryl-tRNA synthetase in vascular development Circ Res 2009 104 11 1260 1266 10.1161/CIRCRESAHA.108.191718 19423847 
+58. Robu ME  Larson JD  Nasevicius A  Beiraghi S  Brenner C  Farber SA  Ekker SC   p53 activation by knockdown technologies PLoS Genet 2007 3 5 e78 10.1371/journal.pgen.0030078 17530925 
+59. Law SHW  Sargent TD   The serine-threonine protein kinase PAK4 Is dispensable in zebrafish: identification of a morpholino-generated pseudophenotype PLoS One 2014 9 6 e100268 10.1371/journal.pone.0100268 24945275 
+60. Schulte-Merker S  Stainier DYR   Out with the old, in with the new: reassessing morpholino knockdowns in light of genome editing technology Development 2014 141 16 3103 3104 10.1242/dev.112003 25100652 
+61. Chen WY  John JA  Lin CH  Lin HF  Wu SC  Lin CH  Chang CY   Expression of metallothionein gene during embryonic and early larval development in zebrafish Aquat Toxicol 2004 69 3 215 227 10.1016/j.aquatox.2004.05.004 15276328 
+62. Musso G  Tasan M  Mosimann C  Beaver JE  Plovie E  Carr LA  Chua HN  Dunham J  Zuberi K  Rodriguez H  Morris Q  Zon L  Roth FP  MacRae CA   Novel cardiovascular gene functions revealed via systematic phenotype prediction in zebrafish Development 2014 141 1 224 235 10.1242/dev.099796 24346703 
+63. Stainier DYR  Kontarakis Z  Rossi A   Making sense of anti-sense Data Dev Cell 2015 32 1 7 8 10.1016/j.devcel.2014.12.012 25584794 
+64. Seren N  Glaberman S  Carretero MA  Chiari Y   Molecular evolution and functional divergence of the metallothionein gene family in vertebrates J Mol Evol 2014 78 3–4 217 233 10.1007/s00239-014-9612-5 24557429 
+65. Schulkens IA  Castricum KC  Weijers EM  Koolwijk P  Griffioen AW  Thijssen VL   Expression, regulation and function of human metallothioneins in endothelial cells J Vasc Res 2014 51 3 231 238 10.1159/000365550 25116857 
+66. Carpene E  Andreani G  Isani G   Metallothionein functions and structural characteristics J Trace Elem Med Biol 2007 21 Suppl 1 35 39 10.1016/j.jtemb.2007.09.011 18039494 
+67. Covassin LD  Siekmann AF  Kacergis MC  Laver E  Moore JC  Villefranc JA  Weinstein BM  Lawson ND   A genetic screen for vascular mutants in zebrafish reveals dynamic roles for Vegf/Plcg1 signaling during artery development Dev Biol 2009 329 2 212 226 10.1016/j.ydbio.2009.02.031 19269286

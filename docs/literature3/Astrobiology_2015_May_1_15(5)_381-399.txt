@@ -1,0 +1,622 @@
+
+==== Front
+AstrobiologyAstrobiologyastAstrobiology1531-10741557-8070Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd FloorNew Rochelle, NY 10801USA 2598492010.1089/ast.2014.119810.1089/ast.2014.1198Review ArticleThe Production of Methane, Hydrogen, and Organic Compounds in Ultramafic-Hosted Hydrothermal Vents of the Mid-Atlantic Ridge Konn C. 1Charlou J.L. 1Holm N.G. 2Mousis O. 31 Ifremer, Unité Géosciences Marine, Laboratoire de Géochime et Métallogénie, F-29280 Plouzané, France.2 Department of Geological Sciences, Stockholm University, SE-10691 Stockholm, Sweden.3 Aix Marseille Université, CNRS, LAM (Laboratoire d'Astrophysique de Marseille) UMR 7326, Marseille, France.Address correspondence to:Cécile KonnDépartement Géosciences MarinesIfremer Centre de Brest29280 PlouzanéFrance
+E-mail:cecile.konn@ifremer.fr01 5 2015 01 5 2015 15 5 381 399 06 7 2014 27 1 2015 © The Author(s) 2015; Published by Mary Ann Liebert, Inc.2015This Open Access article is distributed under the terms of the Creative Commons License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited.Abstract
+Both hydrogen and methane are consistently discharged in large quantities in hydrothermal fluids issued from ultramafic-hosted hydrothermal fields discovered along the Mid-Atlantic Ridge. Considering the vast number of these fields discovered or inferred, hydrothermal fluxes represent a significant input of H2 and CH4 to the ocean. Although there are lines of evidence of their abiogenic formation from stable C and H isotope results, laboratory experiments, and thermodynamic data, neither their origin nor the reaction pathways generating these gases have been fully constrained yet. Organic compounds detected in the fluids may also be derived from abiotic reactions. Although thermodynamics are favorable and extensive experimental work has been done on Fischer-Tropsch-type reactions, for instance, nothing is clear yet about their origin and formation mechanism from actual data. Since chemolithotrophic microbial communities commonly colonize hydrothermal vents, biogenic and thermogenic processes are likely to contribute to the production of H2, CH4, and other organic compounds. There seems to be a consensus toward a mixed origin (both sources and processes) that is consistent with the ambiguous nature of the isotopic data. But the question that remains is, to what proportions? More systematic experiments as well as integrated geochemical approaches are needed to disentangle hydrothermal geochemistry. This understanding is of prime importance considering the implications of hydrothermal H2, CH4, and organic compounds for the ocean global budget, global cycles, and the origin of life. Key Words: Hydrogen—Methane—Organics—MAR—Abiotic synthesis—Serpentinization—Ultramafic-hosted hydrothermal vents. Astrobiology 15, 381–399.
+==== Body
+1. Introduction
+Hydrothermal circulation is a common process along oceanic spreading centers. The visible expression of this subsurface circulation is hydrothermal fields at the seafloor that are the foci of submarine oases of life. More than 500 sites have been located or inferred along the Mid-Ocean Ridge (MOR) system, including fast-, ultrafast-, slow-, and ultraslow-spreading ridges, as well as in back-arc basins, and many more are to be discovered based on the assumption of about 1 field every 100 km of ridge. More than 250 fields have been confirmed active and studied during oceanographic cruises with submersibles and/or remotely operated vehicles (Fig. 1).
+
+FIG. 1. The MOR system showing the presently known and sampled hydrothermal sites. (Color graphics available at www.liebertonline.com/ast)
+
+Hydrothermal circulation occurs when seawater percolates downward through fractured ocean crust. The heated seawater is transformed into hydrothermal fluid through reaction with the host rock at temperatures that can exceed 400°C and exhaled forming thick smoke-like plumes of black metal sulfides often termed “black smokers.” During its transit through the oceanic crust, seawater composition is mainly modified by phase separation and water-rock interactions but is also influenced by (micro)biological processes and magmatic degassing. As a result, fluids become enriched in a variety of compounds and depleted in some others. In spite of their similar appearance, high-temperature hydrothermal vent fluids exhibit a wide range of temperatures and chemical compositions depending on subsurface reaction conditions and nature of the leached rocks (basalts, ultramafic rocks, felsic rocks). Notably, alteration of ultramafic rocks is associated with hydrogen release, which leads to high reducing conditions in these environments. In turn, it has been suggested that these reducing conditions would be favorable for the abiogenic production of methane and other organic molecules. One of the major implications for abiogenic synthesis is the origin of life. In this paper, we will discuss the origin of H2, CH4, and organic compounds in the deep sea and in ultramafic-hosted vents on the Mid-Atlantic Ridge (MAR) where most of these particular systems have been reported (Fig. 2). Particular attention is given to the use and helpfulness of stable isotopes in addressing the question of origin. We also present estimations of fluxes of hydrothermal H2 and CH4 entering the ocean and show that hydrothermal inputs are significant and should be considered in ocean global cycles studies. Finally, organic abiotic synthesis feasibility and implications for our understanding of the origin of life are the focus of the second part of the paper.
+
+FIG. 2. The MAR axis between 10°S and 45°N showing the known hydrothermal vent fields. Black circles represent basalt-hosted hydrothermal fields. Red circles represent ultramafic-hosted vent fields. (Color graphics available at www.liebertonline.com/ast)
+
+2. H2 and CH4 Origins in the Deep-Sea Environment
+Molecular hydrogen is produced by biotic and abiotic processes, but its concentration in natural systems is usually very low due to the activity of hydrogen-consuming bacteria (Libert et al., 2011; Petersen et al., 2011). Heterotrophic bacteria produce hydrogen by fermentation of organic matter or by anaerobic oxidation of carbon monoxide (Silva et al., 2000; Sokolova et al., 2004; Pawar and van Niel, 2013). The evidence of a hydrogen-based subsurface microbial ecosystem was brought up by Takai et al. (2004a). More recently, the presence of communities capable of producing and oxidizing H2 has been reported at the Lost City vent field (Brazelton et al., 2012). Hydrogen production by abiogenic processes includes deep crustal outgassing (Okuchi, 1997; Karato, 2006), crystallization of the basaltic magma (Christie et al., 1986; Holloway and O'Day, 1999, 2000), and low-temperature reactions that occur in the shallow crust, and it is often related to active faulting (Wakita et al., 1980; Sugisaki et al., 1983; Ware et al., 1985; Ito et al., 1999). Active volcanic or seismic activities generate volatile compounds such as H2, CO, and H2S, although CO2 generally dominates, sometimes spectacularly (Sarda and Graham, 1990; Javoy and Pineau, 1991; Dixon et al., 1995; Soule et al., 2012). In addition, the radiolytic dissociation of water during the radioactive decay of natural U, Th, and K radionuclides in the host rock is another potential source of H2 (Lin et al., 2005). Hydrogen may also be derived from small amounts of water included in minerals in the form of hydroxyls or peroxides (Freund et al., 2002). Finally, and more to the focus of this paper, the production of H2 may be caused by the interaction of water at temperatures ranging from below 100°C up to 500°C with highly reduced iron-containing minerals occurring in ultramafic diapirs present in continental or submarine environments (Mevel, 2003). These so-called serpentinization reactions are likely to represent the dominant process for abiogenic formation of H2 in ultramafic-hosted hydrothermal systems and most efficiently at temperatures around 300–350°C (Klein et al., 2013). Hydrogen-rich fluids issued from the serpentinization process are discussed in Section 3 and by Sleep et al. (2004).
+
+Methane in deep-sea environments has many sources, which are discussed in detail in a review by Martin Schoell (1988). Most of the commercial methane is thermally derived from petroleum and has a biogenic origin (Rice and Claypool, 1981). This methane is often called thermogenic. Under pressure and low temperature, methane forms a thermodynamically stable association with water. These solid compounds are called methane clathrates and are typically found in permafrost or associated with rocks and mud in deep seafloor environments. Besides, microbial methane is produced by bacteria and archaea in sediments, subsurface and hydrothermal vents via CO2 reduction and/or fermentation (e.g., Whiticar et al., 1986; Takai et al., 2004b; Amend and Teske, 2005; Roussel et al., 2011). The observations made along the MAR together with the methane-rich fluids found in gabbroic inclusions from the South West Indian Ridge (SWIR) indicate that plutonic rocks represent a potentially immense reservoir for abiogenic methane (Kelley et al., 1993; Kelley, 1996; Evans, 1996; Kelley and Früh-Green, 1999). A prevalent hypothesis for the abiotic production of significant amounts of CH4 in the deep sea at high pressure and temperature is via catalytic reduction of certain carbon oxides in the presence of H2. Field data associated with laboratory experiments (McCollom and Seewald, 2001) show that CH4, together with H2, is a major emission by-product of serpentinization. CH4 outgassing associated with intense H2 output has consistently been observed in ultramafic settings such as in peridotites of the Oman ophiolite (Neal and Stanger, 1983), in serpentinized rocks of the Zambales ophiolite, Philippines (Abrajano et al., 1988), in serpentine seamount drilled during ODP Leg 125 in the Mariana Forearc (Haggerty, 1991), and along MORs (Charlou et al., 1991, 1993a, 1996a, 2010; Charlou and Donval, 1993; Kelley, 1996; Früh-Green and Kelley, 1998). Alternatively, reasonable processes of abiogenic CH4 formation at high T and P include the reduction of bicarbonate to graphite and methane (Holloway, 1984; Berndt et al., 1996), the thermal decomposition of siderite (McCollom, 2003), and clay mineral–catalyzed reactions (Williams et al., 2005). Finally, low-temperature (<150°C) production of CH4 would be possible by hydration of olivine without H2 mediation and would be more common than previously thought (Miura et al., 2011; Suda et al., 2014). For a complete examination of potential abiotic CH4 sources on Earth, the reader is directed toward the review by Etiope and Sherwood Lollar (2013).
+
+3. Abiotic H2 and CH4 Production in Ultramafic Hydrothermal Systems on the MAR
+All the ultramafic-hosted, hot-temperature hydrothermal fields discovered along the MAR are characterized by strong enrichment of dissolved H2 and CH4, with end-member concentrations covering a range of 10–16 mmol/kg for H2 and 1.7–2.5 mmol/kg for CH4. While either H2 or CH4 may also be enriched in basaltic-hosted hydrothermal systems in unsedimented settings under certain conditions (Von Damm, 1995; Lilley et al., 1993), only serpentinization of mantle rocks produces the characteristic coupled constant enrichment of both gases observed in ultramafic-hosted hydrothermal systems (Charlou et al., 2002, 2010; Douville et al., 2002).
+
+Along the MAR, enhanced permeability at the intersections of the rift valley with the fracture zones favors seawater circulation and serpentinization of lower-crustal and upper-mantle ultramafic rocks. Close to transform-ridge intersections, structural settings enhance fluid circulation and wall-rock reactions (Bougault et al., 1990, 1993; Gracia et al., 2000), generating ultramafic rock exposures and methane outputs (Bougault et al., 1993; Charlou et al., 1996a, 1998). Faulting facilitates hydrothermal circulation through ultramafic outcrops, amplifies serpentinization reactions, and accelerates hydrogen and hydrocarbon degassing, as predicted by theoretical calculations (McCollom and Shock, 1998; Wetzel and Shock, 2000).
+
+Serpentinization is an ongoing process at depth in the seafloor that leads to significant changes in topography, the occurrence of diapiric serpentinite bodies, focused microseismic activity as a result of continuous cracking, and significant heat generation (Fyfe, 1974; Allen and Seyfried, 2004). Chemically, serpentinization is the hydration of the olivine and orthopyroxene minerals that mainly constitute the upper mantle. Highly reducing conditions can be generated during serpentinization as a result of, on the one hand, the oxidation of Fe(II) in olivine, pyroxene, and pyrrhotite to Fe(III) in magnetite and serpentine, and on the other hand, the reduction of hydrogen from water to H2 (Allen and Seyfried, 2003; Klein et al., 2009; McCollom and Bach, 2009). Hydrogen production by serpentinization proceeds most effectively in ultramafic rocks because the minerals that form in these silica-poor rocks during alteration tend to exclude Fe(II) from their metal sites and to partly oxidize and precipitate iron in magnetite (McCollom and Seewald, 2001, 2006, 2007) and serpentine (Andreani et al., 2013; Evans et al., 2013). One of the serpentinization equations is (Moody, 1976; Neal and Stanger, 1983; Mevel, 2003):
+
+Phase equilibrium and mass balance calculations indicate that the production of H2-rich fluids during hydrothermal alteration is primarily controlled by the alteration of olivine and the formation of magnetite. It occurs when the lower crustal and shallow mantle sequences have cooled to temperatures below 400°C where serpentine and brucite are thermodynamically stable (Früh-Green and Kelley, 1998). Recent observations have revealed that this production is also widely controlled by the activity of aqueous silica in the interacting fluid, which is in turn controlled by the specific phase assemblages that develop during serpentinization (Frost and Beard, 2007; Ogasawara et al., 2013). Depending on mineral assemblages, pressure, temperature, reducing power, and equilibrium conditions, the fluid may be supersaturated with respect to hydrogen. As the fluids ascend upward to lower pressures and temperatures, gas bubbles may be generated (Sleep et al., 2004).
+
+A consequence of this H2 production is the possible formation of abiogenic CH4. Among the different plausible reaction pathways, reduction of gaseous or dissolved carbon mono- and dioxides using catalysts such as Ni-Fe alloys and/or oxides has been by far the most studied and referred to (e.g., Berndt et al., 1996; Horita and Berndt, 1999; Chen and Bahnemann, 2000; Foustoukos and Seyfried, 2004; Taran et al., 2010a). The latter is best described by Reactions 1 and 2:
+ \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+\begin{align*}&( 1 ) \ \hbox{the Sabatier reaction}
+\qquad\quad \ \ 4{ \rm H}_2 + { \rm CO}_2 \rightarrow{ \rm CH}_4 +
+2{ \rm H}_2{ \rm O} \\& ( 2 ) \ \hbox{the Fischer  - Tropsch
+reaction} \; 3{ \rm H}_2 + { \rm CO} \rightarrow { \rm CH}_4 + {
+\rm H}_2 { \rm O}\end{align*}
+\end{document} 
+
+Although CH4 and other hydrocarbons have been synthesized by Fischer-Tropsch-type (FTT) reaction in the gas phase from CO for more than 100 years (Anderson, 1984; Steynberg and Dry, 2004), these reactions can also proceed under aqueous hydrothermal conditions with CO2 as the carbon source (Berndt et al., 1996; Horita and Berndt, 1999; Horita, 2001; McCollom and Seewald, 2001, 2006, 2007; Foustoukos and Seyfried, 2004; Seewald et al., 2006). Experiments carried out at temperatures lower than 500°C combined with thermodynamically favorable conditions (Shock, 1990, 1994; Shock and Schulte, 1990, 1998; Amend and Shock, 1998) confirm that MORs' ultramafic hydrothermal systems may provide conditions that allow for abiogenic generation of CH4 from CO2 (Berndt et al., 1996; Holm and Andersson, 1998; Holm and Charlou, 2001; Kelley et al., 2002).
+
+4. Fluxes of H2, CH4 along the MAR
+It is now demonstrated that the concentrations of methane and hydrogen in hydrothermal vent fluids are very variable. High concentrations of these gases are found in ultramafic-hosted vent fields (Table 1), whereas relatively lower concentrations are found in basalt-hosted vent fluids. Exceptions are fluids from the Menez Gwen, Lucky Strike, and more recently discovered Piccard vent field usually referred to as basalt-hosted vents. Their concentrations of CH4 are similar to, and sometimes exceed, the ones observed in ultramafic-hosted vents. Lucky Strike has consistently vented high CH4 but low H2 fluids for almost three decades, which could be related to magmatic events (Von Damm et al., 1998; Charlou et al., 2000; Pester et al., 2012; Crawford et al., 2013). As for the Menez Gwen and Piccard vent fields, the occurrence of ultramafic rocks at depth or in the vicinity cannot be excluded (Stroup and Fox, 1981; Charlou et al., 2002). However, if one discards this option, high production of CH4 and H2 in those basaltic environments could be due to the reaction of water with CO2 from direct magmatic degassing or leaching from CH4-rich inclusions in gabbroic rocks (Kelley et al., 1993; Kelley, 1996), with respect to CH4, and to water cracking related to dike formation or to the alteration of troctolites, with respect to H2 (Elthon, 1987; Nakamura et al., 2009).
+
+Table 1. Gas End-Member Data in Ultramafic Fluids from the MAR
+
+Element	Lost Citya30°07′N	Rainbowb36°14′N	Logatchev 1c14°45′N	Logatchev 2d14°45′N	Ashadze 1e12°58′N	Ashadze 2f12°59′N	
+Best sample	EXO-D17-Ti4	EXO-D6-Ti4	SE-DV7-Ti3-L1	SE-DV7-Ti3-L2	SE-DV2-Ti2	SE-DV4-Ti3	
+T (°C) max	94	365	359	320	372	>296	
+pH	12.1	3	3.9	4.2	3.1	4.1	
+Total gas volume (NTP) (mL/kg)	211	813	525	527	687	776	
+H2 (mM)	7.8	12.9	12.5	11.1	19	26.5	
+CO2 (mM)	—	17	4.4	6.2	3.7	nd	
+CH4 (mM)	0.9	1.65	2.6	1.2	1.2	0.8	
+C2H6 (μM)	0.67	0.83	0.77	0.19	0.17	5.7	
+C3H8 (μM)	0.070	0.046	0.024	0.011	0.020	0.21	
+C1/C2+ (103)	1.22	1.88	3.27	5.67	6.32	0.14	
+Data sources:
+a,bData from Exomar (2006) cruise of Ifremer. c,d,e,fData from Serpentine (2007) cruise of Ifremer.
+
+nd: not detected. NTP: normal temperature and pressure.
+
+Mid-Ocean Ridge fluxes of hydrogen and methane at oceanic spreading centers appear nonetheless to be mainly supplied by serpentinization of ultramafic rocks. The total hydrogen and methane produced by serpentinization is estimated to be 133×109 mol/yr and 14×109 mol/yr, respectively (Keir, 2010), representing about 70% of the total ocean ridges and rises flux of these gases. These fluxes are slightly lower than those calculated by Cannat et al. (2010) according to the rate of mantle rock exhumation and the stoichiometry of olivine hydration (167×109 mol/yr and 25×109 mol/yr for H2 and CH4, respectively). Emmanuel and Ague (2007) obtained even higher values for the flux of CH4 generated by serpentinized lithosphere based on estimates of the rate of seafloor spreading and the degree of serpentinization within the oceanic crust. They calculated it to be 84×109 mol/yr. In comparison, volcanic and geothermal sources are estimated to contribute for ∼6.2×109 mol/yr and ∼56×109 mol/yr, respectively. Based on Rainbow H2/3He and 3He/heat ratios (3He/heat=9.3×108 mol J−1 in Jean-Baptiste et al., 2004), global H2 and CH4 fluxes for slow spreading ridges have been calculated to be 89×109 mol/yr and 9×109 mol/yr, respectively (Charlou et al., 2010). All these results are within the uncertainty of plus/minus a factor of 2 inherent to these estimates, but they indicate the necessity of taking hydrothermal gas inputs into account in global cycles studies.
+
+5. Origin of CH4 in the Fluids of Ultramafic-Hosted Vents on the MAR from H and C Stable Isotopes
+The possible contribution to the methane budget in fluids from ultramafic-hosted vents may be multiple, as mentioned before and discussed in a review by McCollom (2008). Isotopic considerations appear compulsory to unravel the origin of CH4. Several authors have suggested that abiogenic methane is, or was, produced in various geological settings such as crystalline rocks, ophiolites, gas seepages, fumarolic discharges, and ultramafic-hosted hydrothermal systems on land, based on carbon and hydrogen isotope measurements (Sherwood Lollar et al., 1993, 2006; Fiebig et al., 2004, 2007, 2009; Hosgormez et al., 2008; Taran et al., 2010b; Etiope et al., 2011; Suda et al., 2014). The consensus is that it is formed via the Sabatier and FTT pathways (Reactions 1 and 2). In ultramafic-hosted fluids collected up to now along the MAR, the δ13C(CH4) value is found to be −11.9 ‰ at Lost City, −17.8 ‰ at Rainbow, −10.2 ‰ at Logatchev 1, −6.1 ‰ at Logatchev 2, −12.3 ‰ at Ashadze 1, and −8.7 ‰ at Ashadze 2 (Table 2). These results combined with the δD(CH4) fall into a range that is neither thermogenic nor biogenic as previously found in other hydrothermal fluids and shown in Fig. 3 (Schoell, 1988; Welhan, 1988; Charlou et al., 1993b, 1996b, 2000). The same trend is observed when considering δ13C(CH4) versus the CH4-to-higher-hydrocarbons ratio (C1/C2+) (Table 2). The results for Rainbow, Lost City, Logatchev 1 and 2, and Ashadze 1 are consistent with typical values for unsedimented MOR systems, whereas Ashadze 2 has a lower C1/C2+ ratio and is closer to the Zambales ophiolite values (McCollom, 2008). Only an abiogenic contribution may account for these observations. The variability in δ13C(CH4) observed here and also reported in the literature is probably due to fractionation at different T and P conditions. Nevertheless, there is a clear abiogenic contribution to the CH4 budget in hydrothermal fluids issued from ultramafic environments, which is supported by experiments (Horita and Berndt, 1999; Horita, 2001; Lazar et al., 2012; Cao et al., 2014).
+
+FIG. 3. Modified after Bradley and Summons (2010). Ranges of δ13C and δD detected in methane produced by a variety of sources. “Autotrophic” and “heterotrophic” is microbial methane. “Thermogenic” refers to cracking of biologically derived oils, while “geothermal” refers to cracking of high-molecular-weight organic compounds. The remaining are values observed at several locations where abiotic methane formation has been suggested: Canadian Shield gases (including Kidd Creek), the Oman ophiolite, Zambales ophiolite. The dark surface represents the range of values (from Table 2) measured for methane in fluids from the Rainbow, Lost City, Logatchev 1 and 2, Ashadze 1 and 2 ultramafic-hosted vent fields.
+
+Table 2. Carbon and Hydrogen Isotope Data from Ultramafic Fluids from the MAR
+
+Hydrothermal field	Sample	T (°C)	δ13C-CH4	δD-CH4	δ13C-C2H6	δD-C2H6	δ13C-C3H8	δ13C-C4H10	δ13C-CO2	δD-H2	
+Lost Citya	3876-GT7	90	−11.0	−127	−13.5	—	−14.5	−14.6	−8 to +3*	−609**	
+Lost Cityb	EXO-D17-Ti4	93	−11.9	−130	−13.7	−148	−14.0	−12.6	—	−618	
+Rainbowb	EXO-D7-Ti1	343	−17.7	−105	−13.7	—	−13.0	−13.2	−2.3	−356	
+ 	EXO-D9-Ti4	324	−17.8	−107	−13.4	—	−13.0	—	—	−379	
+Logatchev 1c	SE-D6-Ti3	346	−10.2	−104	−5	—	−18.0	—	4.1	−350	
+ 	SE-D7-Ti3L1	325	−10.3	−104	−13	—	−8	—	7.4	−360	
+Logatchev 2c	SE-D7-Ti3L2	308	−6.1	−93	−9	—	−11.0	−12.2	9.5	−231	
+Ashadze 1c	SE-D2-Ti3	353	−12.3	−104	−6	—	−20	−19.2	2.1	−333	
+ 	SE-D3-Ti3	353	−14.1	−101	−10	—	−18	—	4.6	−343	
+Ashadze 2c	SE-D4-Ti3	>296	−8.7	−107	−2.0	—	8.3	10.0	0.2	−270	
+Data sources:
+aProskurowski et al. (2008); bExomar cruise data (2005); cSerpentine cruise data (2007); *Kelley et al. (2005); **Proskurowski et al. (2006).
+
+All isotope values are in ‰ units; δ13C is reported as VPDB and δD as VSMOW.
+
+δ13C-CH4 measurement uncertainty is ±0.2‰. δ13C-C2H6 and C3H8 measurement uncertainty is 0.3‰.
+
+δ13D-CH4 measurement uncertainty is ±1‰. δ13D-C2H6 measurement uncertainty is±3.5‰.
+
+The number of ultramafic-hosted sites discovered along the MAR associated with the detection of numerous CH4-rich plumes associated with mantle rock alteration indicates that ultramafic-hosted sites are more widespread than previously thought (Charlou and Donval 1993; Charlou et al., 1993a; Keir et al., 2005). This points out their significant contribution to the global abiogenic methane flux along the MAR (Charlou et al., 1991, 1996a, 1996b, 1998; Bougault et al., 1993). This is also supported by Keir et al. (2005), who estimated the amount of methane escaping from the MAR to be equivalent to about 0.06 nmol per liter of mid-depth water and per year. Extrapolated to the whole Atlantic, this comes to about 1×109 mol/yr. The methane production required to support this escape rate (>3.6×109 mol/yr) is significantly greater than the maximum input by basalt degassing (<0.6×109 mol/yr)—evidence that serpentinization of ultramafic rocks generates most of the methane and is the main active process producing isotopically heavy methane along the MAR.
+
+6. Organic Geochemistry—Pathways
+Organic compounds have been found in hydrothermal fluids and investigated since the 2000s. Semivolatile ones (>6 carbon chain length) such as aliphatic hydrocarbons, mono- and polyaromatic hydrocarbons, and carboxylic acids have been reported on the MAR (Holm and Charlou, 2001; Konn et al., 2009; McCollom et al., 2015). Formate (36–158 μM) and acetate (1–35 μM) have been observed by Lang et al. (2010) in fluids from the Lost City hydrothermal field. Reeves et al. (2014) measured concentrations of 10−9 to 10−6
+M of methanethiol in fluids from hydrothermal vents in various geological settings including the MAR. Amino acids were found in fluids from various sites of the MAR. The total dissolved free amino acid concentrations were up to 377 nM versus <50 nM for deep seawater (Sumoondur et al., 2006; Klevenz et al., 2010). Organic geochemistry of hydrothermal fluids is a brand new field that raises a lot of questions, in particular regarding the origin of organic compounds and their potential importance for the origin of life on Earth. The processes that control the organic composition of the fluids are not yet fully constrained or understood. Both the sources of the building units composing organic molecules (C, H, O, and N) and possible reaction pathways leading to organic compounds are multiple; therefore, determining the origin of organic compounds and understanding their formation appears a real challenge. On the one hand, rocks, minerals, and seawater are potential C, H, O, and N sources; in a simplified view, CO2 and carbonates are sources of C, H2 and water sources of H, N2 and NH3 sources of N, water and oxygen-bearing minerals sources of O. On the other hand, microorganisms that inhabit hydrothermal vents and the subsurface may provide C, H, O, and N by two mechanisms: (i) direct production of simple molecules (e.g., CH4, H2, acetate, CO2), (ii) thermal degradation of the microorganisms themselves if exposed to high-temperature fluids. In addition, macroorganisms may also undergo thermal degradation after death and sedimentation. Whether C, H, O, N are derived from gas, minerals, and seawater or from organisms, they will be referred to as abiogenic or biogenic, respectively. Multiple processes possibly leading to the formation of organic molecules from those C, H, O, N sources in hydrothermal environments include abiogenic processes that represent any purely chemical reactions; biogenic processes that encompass all reactions driven by microorganisms; and thermogenic processes that refer to both thermal degradation of large organic molecules (e.g., proteins, lipids, DNA) to smaller and simpler ones as well as rearrangement of compounds under high temperature and pressure conditions such as condensation, cleavage, cyclization, hydrolysis, oxidation, hydrogenation, and hydroformylation (Rushdi and Simoneit, 2004, 2006; Loison et al., 2010).
+
+6.1. Abiogenic processes
+Abiotic synthesis will only occur if thermodynamics are favorable. This has been shown to be the case for a wide range of organic compounds under conditions found at modern subseafloor hydrothermal systems (e.g., Shock, 1990; McCollom and Seewald, 2001; Lemke, 2013). The hypothesis is that organic compounds would occur in metastable equilibrium due to kinetic barriers that would prevent the inherently sluggish stable equilibria CO2/CH4 and N2/NH3 to be reached in hydrothermal solutions. We refer to the work of Shock (1990, 1992) and Konn et al. (2009) for a more in-depth discussion. Reaction pathways are not well constrained, although mechanisms have been proposed for hydrocarbons and amino acids.
+
+6.1.1. Hydrocarbons—FTT reactions
+Abiogenic origin of hydrocarbons was first brought up by Mendeleev in 1877 and has been highly debated since 1940 (e.g., Mendeleev, 1877; Kudryavtsev, 1951; Hedberg, 1969; Szatmari, 1989; Gold, 1993; Kutcherov and Krayushkin, 2010). The two recent reviews published in 2013 by Sephton and Hazen, on the one hand, and by Etiope and Sherwood Lollar, on the other hand, are evidence that this debate is still fueled. Today, technological advances have helped clarify the various controversial theories that were elaborated on. A fairly recent review by Glasby (2006) highlights the lack of strong evidence to support the abiogenic petroleum theories and rules out the abiogenic production of oil in commercial quantities. Notably, this does not exclude the possibility of a minor abiotic contribution (Jenden, 1993; Sherwood Lollar et al., 2002). Apps and van de Kamp (1993) concluded that, even though commercial hydrocarbon deposits appear to be exclusively biogenic in origin, this may be at the exception of deposits associated with serpentinization. In 1964, a mixed origin of hydrocarbons was implied (Sylvester-Bradley). With the advent of modern analytical tools, the co-occurrence of both biogenic and abiogenic signatures in most hydrocarbon fields has been confidently revealed (Mello and Moldowan, 2005; Scalera, 2011). In that respect, Scalera (2011) developed a possible new harmonic scenario of hydrocarbon formation combining both thermogenic and abiogenic processes. It seems that scientists are moving toward a consensus that hydrocarbons may be produced by different pathways on Earth, but the question that remains is what the contribution of each process is both globally and in specific geological contexts. In ultramafic-hosted hydrothermal systems, several processes are capable of generating reduced carbon species (Seewald et al., 2006). These include FTT reactions, methane polymerization, carbonate decomposition, organosulfur pathways, and clay-catalyzed reactions. They are presented in detail in a review by McCollom (2013b). Among them, FTT reactions have been addressed by extensive experimental work under hydrothermal conditions in the past decades. FTT processes are considered prime candidates to account for the generation of abiogenic hydrocarbons in ultramafic-hosted hydrothermal systems (Holm and Charlou, 2001; Konn et al., 2009).
+
+The Fischer-Tropsch reaction (3) was a common industrial process used to produce hydrocarbons from CO and H2 (Fischer and Tropsch, 1923). It was invented by two German scientists, Franz Fischer and Hans Tropsch, in the 1920s and was largely developed during World War II to generate substitute fuels. The original process takes place in the gas phase at high pressure and temperature according to the following mass balance equation:
+ \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+\begin{align*}( 2n + 1 )\ { \rm H}_2 + n{ \rm CO} \rightarrow {
+\rm C}_n {\rm H}_{2n + 2} + n { \rm H}_2 { \rm O}
+\tag{3}\end{align*}
+\end{document} 
+
+Numerous laboratory experiments conducted under hydrothermal conditions have demonstrated the feasibility of the abiogenic production of hydrocarbons (e.g., McCollom and Simoneit, 1999; McCollom et al., 1999; Rushdi and Simoneit, 2001; Foustoukos and Seyfried 2004; McCollom and Seewald, 2006). Thermodynamic calculations have shown that saturated hydrocarbons can be abiotically produced via FTT reactions under hydrothermal conditions from dissolved CO2 (Shock, 1990, 1992). The reactions involved in FTT reduction of aqueous CO2 can be expressed as follows:
+ \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+\begin{align*}{ \rm CO}_2 { \rm ( aq ) } + [ 2 + ( m / 2n ) ] {
+\rm H}_2 \rightarrow ( 1 / n ) { \rm C}_n { \rm H}_n + 2{ \rm H}_2
+{ \rm O} \tag{4}\end{align*}
+\end{document} 
+
+The distribution of the observed hydrocarbons makes it quite clear that they are the product of FTT reactions, but isotopically labeled experiments have shown that CO is a much more effective precursor than CO2 (McCollom and Seewald, 2001; McCollom et al., 2010). It is still unclear whether the reactions occur in the gas phase or in the water phase, which could favor one or the other oxidized form of C to react preferentially. The exact pathways along which these hydrocarbons are formed are not fully constrained yet, either, and the actual occurrence of FTT processes at deep-sea hydrothermal conditions (where CO2, CO, H2 are dissolved) is still uncertain. Although every single experiment has been a great step forward, their results are in most cases not intercomparable because of crucial differences in the experimental conditions. Parameters such as P, T, redox state, presence/absence of a catalyst, and carbon source significantly impact the resulting products and most likely the involved processes. Unraveling the reaction pathways is a real challenge considering this unfortunate inconsistency in the overall set of published experiments. We urge the reader to refer to the work of McCollom and Seewald (2007) and McCollom (2013b) for a detailed review.
+
+6.1.2. Amino acids—Strecker synthesis
+The abiotic synthesis of amino acids is of particular interest in the origin of life question, as they represent the fundamental building blocks of proteins that are required for the development of living organisms. The amino acid synthesis has been generally proposed to occur via a Strecker-type mechanism under hydrothermal conditions (e.g., Hennet et al., 1992; Schulte and Shock, 1995; Islam et al., 2001; Aubrey et al., 2009). The original Strecker amino acid synthesis, devised by Adolph Strecker in 1850, is a series of chemical reactions that synthesize an amino acid from an aldehyde (or ketone) according to Reaction 5 (Strecker, 1850):
+
+
+The Strecker synthesis has been shown to be thermodynamically favorable over all ranges of temperatures appropriate for a hydrothermal system at 300 bar (Brandes et al., 1998). Nevertheless, for this reaction pathway to proceed in hydrothermal systems the formation of the required reactants (HCN and aldehyde or ketone) by reduction of inorganic carbon (CO or CO2) and nitrogen (N2) must first occur. In that respect, highly reducing conditions encountered in ultramafic-hosted hydrothermal environments are very favorable. Formation of HCN from N2 and CO2 in the presence of H2, possibly with CH4 as an intermediate, is both thermodynamically and experimentally strongly supported (Shock, 1992; Holm and Neubeck, 2009). Experimental works have shown that amino acids are likely formed under hydrothermal conditions and more favorably under high hydrogen concentrations (Hennet et al., 1992; Islam et al., 2001; Huber and Wächtershäuser, 2006; Simoneit et al., 2007). Unless they are protected by mineral surfaces or undergo polymerization or cyclization (Ito et al., 2006; Cox and Seward, 2007), amino acids are likely to be destroyed by deamination, decarboxylation, and dehydration at temperatures above 240–260°C and even at ∼170°C in the presence of certain mineral assemblages (Bada et al., 1995; Faisal et al., 2007; McCollom, 2013a). The possible occurrence and persistence of amino acids in hydrothermal fluids thus depends at least on redox conditions, mineral assemblages, temperature, and pressure.
+
+To date, there is no evidence that abiotic amino acid synthesis occurs in natural environments. Undeniably, amino acids have been found in fluids of hydrothermal systems in various geological settings, including ultramafic-hosted hydrothermal vents, but unanimously the authors reporting these amino acids have concluded that they are most likely derived from microorganisms living on the surface of the chimney (Horiuchi et al., 2004; Takano et al., 2004; Sumoondur et al., 2006; Klevenz et al., 2010; Lang et al., 2013; Fuchida et al., 2014). To complement the set of data on amino acids, Table 3 (from Konn et al., 2015) gives some preliminary results of fluids from other vents on the MAR. Consistent with the above-cited works, only a portion of the entire set of amino acids was detected. It is probably due to different limits of detection, degradation rates, as well as different abilities to polymerize and to adsorb on mineral surfaces (Gupta et al., 1983; Henrichs and Sugai, 1993).
+
+Table 3. Hydrothermal Fluid Samples Main Features
+
+ 	 	 	 	 	 	 	 	 	C in hydrothermal fluid (ppt)	
+Sample name	Site	Description	Depth (m)	T(°C)	pH	Cl-mM	Fluid %	Pre-C fold	Glu	Ala	Met	Trp	Pro	Gly	Lys	Tyr	Phe	Leu	
+MAD-D2-Ti2D	seawater	reference	2291	2	7.84	550	nm	30	nd	344	nd	nd	nd	nd	nd	nd	nd	x	
+MAD-D3-Ti3G	Rainbow	black smoker	2307	350	3.23	761	97	25	nd	nd	nd	x	nd	nd	nd	nd	nd	nd	
+MAD-D6-Ti3D*	Rainbow	black smoker	2265	253	4.72	638	40	50	nd	69	x	nd	nd	nd	nd	nd	x	x	
+MAD-D6-Ti2G	Rainbow	black smoker	2265	353	3.41	711	73	40	nd	nd	nd	nd	nd	nd	nd	nd	x	x	
+MAD-D8-Ti1D	Rainbow	black smoker	2305	350	3.36	703	71	25	nd	nd	nd	nd	x	nd	nd	nd	x	x	
+MAD-D8-Ti3D	Rainbow	diffuser	2297	52.5	6.34	560	7	40	nd	41	nd	nd	nd	nd	nd	nd	x	x	
+SE-D2-Ti2	Ashadze 1	black smoker	4088	353	3.95	595	76	25	nd	nd	nd	x	nd	nd	nd	nd	x	54.2	
+SE-D2-Ti3	Ashadze 1	black smoker	4088	353	3.89	601	81	33	nd	nd	nd	x	nd	nd	nd	nd	x	14.9	
+SE-D3-Ti4*	Ashadze 1	black smoker	4088	355	4.13	604	81	25	nd	nd	nd	x	nd	nd	nd	nd	x	x	
+SE-D4-Ti3	Ashadze 2	black smoker	>3263	—	6.17	452	36	50	nd	nd	nd	nd	nd	nd	nd	nd	x	x	
+SE-D6-Ti1	Logatchev 1	black smoker	3021	346	4.97	517	71	50	nd	nd	nd	nd	nd	nd	nd	nd	x	x	
+SE-D7-Ti1-L2	Logatchev 2	black smoker	2700	308	4.44	171	93	50	nd	nd	nd	nd	nd	nd	nd	nd	x	x	
+As seawater mixing occurred in some samples, the % of pure fluid is given in the Fluid column. The Pre-C column gives how much the samples were concentrated before analyses (in fold). Concentrations are given in ppt, i.e., in ng L−1, and refer to the concentration in the natural hydrothermal fluid originally, before preconcentration.
+
+* Spiked samples with 50 μL of the 1000-fold diluted standard solution.
+
+nd: not detected. nm: not measured.
+
+6.2. Biogenic processes
+Chemolithotrophic microbial communities commonly colonize hydrothermal vents and may represent analogues for life on early Earth and other planets. Chemolithotrophic organisms, by definition, utilize only inorganic and/or abiotic simple molecules for their carbon and energy sources so that they do not rely on other living organisms to feed, develop, and multiply (Lang et al., 2012). To date, the maximum temperature for some of such organisms to grow is 122°C (Takai et al., 2008).
+
+In our case, the archaea methanogens, which are one of the most common microorganism groups found at hydrothermal vents, are of particular interest, as they synthesize CH4 from CO2 and H2 (Schoell, 1988; Takai et al., 2004b; Brazelton et al., 2011; Nishizawa et al., 2014). The consumption of methane leading to the production of CO2 by methanotrophic bacteria occurs to a lesser extent because methanotrophs are less abundant in hydrothermal environments. Also, from CO2 and H2, acetogenic bacteria are able to generate acetate which can, in turn, be used as substrate by heterotrophic methanogens (e.g., Chapelle and Bradley, 1996). As mentioned earlier, the majority of amino acids detected in hydrothermal fluids is thought to be microbially derived partly because the autotrophic synthesis of several amino acids from CO2(aq), NH4+, and H2 is thermodynamically favorable at hydrothermal conditions (Amend and Shock, 1998).
+
+6.3. Thermogenic processes
+Typically, thermogenic processes occur in sedimentary basins and are associated with maturation of petroleum, which is defined as the oil and gas generated during thermolysis from the former (e.g., Demaison and Murris, 1984; Tissot and Welte, 1984). Hydrothermal systems definitely meet the condition of high temperature required for thermal degradation (see reviews in McCollom and Seewald, 2007; McCollom, 2008). Organic matter is present in the form of macroorganisms and microorganisms that thrive both around the chimneys and in the subsurface. Macroorganisms from the surface ocean will inevitably die and fall to the seafloor. Degradation products may be taken up by seawater and penetrate the crust in the recharge zone of hydrothermal systems and thus undergo thermogenesis deeper in the crust (Brault et al., 1988). Similarly, microbial organisms growing in the subsurface may be either flushed by a cold fluid and carried away to a place where temperature would be high enough to degrade the very durable lipids that form the membranes of the bacteria and archaea, or burned off as a very hot fluid would encounter these communities (Reeves et al., 2014).
+
+6.4. Biogenic versus abiogenic—the use of carbon stable isotopes
+Organic compounds in hydrothermal systems are likely to result from co-occurring abiogenic, biogenic, and thermogenic processes using both biogenic and abiogenic C, H, O, and N and eventually leading to extensive mixing of biogenic and abiogenic C, H, O, and N elements within organic molecules. For example, biogenic methane, carbon dioxide, and acetate could well then be involved in abiotic processes, such as the previously described FTT and Strecker reactions. A more extensive discussion can be found in the work of McCollom (2008). This raises two issues: (i) How do we discriminate? (ii) What do we call those resulting organic compounds? They are neither biogenic nor abiogenic nor thermogenic. Table 4 is an attempt to illustrate this dilemma. We dare to suggest that, as long as terminology has not been agreed upon, distinction might be made between sources and processes. In the above-mentioned example, compounds might be called biogenic with respect to their source and abiogenic with respect to the process they were generated along. Our ability to classify organic compounds with more than two carbon atoms into the biogenic or abiogenic category might be very challenging (Horita, 2005). Even for the simplest organic molecule that is methane, the sole use of isotopic composition is sometimes insufficient, and complementary techniques have been used to determine its origin (e.g., Bradley and Summons, 2010). Elsewhere, Etiope and Sherwood Lollar (2013) described the importance of integrated geochemical techniques to confirm the occurrence of abiogenic methane. It has been generally presumed that thermogenic, biogenic, and abiogenic hydrocarbons should differ in their carbon isotopic composition. Typical reference values of δ13C(CH4) are −70‰ to −60‰ for a biological production, −60‰ to −40‰ for a thermogenic origin, −30‰ to −20‰ for geothermal hydrocarbons, and −20‰ to −5‰ for MORs (Schoell, 1988; Bradley and Summons, 2010), but this division is being debated (e.g., Sherwood Lollar and McCollom, 2006; Ueno et al., 2006a, 2006b). As for hydrocarbon gases (C1–C4), it has been suggested that a slight decrease in δ13C with increasing carbon number could be an indication of an abiotic catalytic formation, while a thermogenic origin has always shown a strongly positive correlation (Des Marais et al., 1981; Sherwood Lollar et al., 2002; Pan et al., 2006). This isotope reversal trend has been attributed to kinetic isotope fractionation effects during surface-catalyzed polymerization reactions of methylene units (e.g., Schoell, 1983; Jenden, 1993; Fu et al., 2011). As the trend is weak to almost flat, it was even suggested that no fractionation occurs during polymerization. However, hydrocarbon gases produced experimentally via abiogenic reactions do not consistently produce inverse or flat trends, and results are rather heterogeneous (e.g., McCollom and Seewald, 2006; Fu et al., 2007; Taran et al., 2007, 2010a; McCollom et al., 2010). Experiments reported in the literature to date were carried out under various physical and chemical conditions. This strongly indicates that carbon isotope fractionation of hydrocarbons is controlled by their formation processes and kinetics, which in turn may differ according to temperature, pressure, and redox conditions (McCollom and Seewald, 2006; Fu et al., 2011). Whether the experiments were conducted in a gas and/or water phase and in a closed or flow-through reactor are other possible influencing factors. This is discussed more in depth elsewhere (McCollom, 2013b). In addition, several thermogenic gases do show reversals of the kind attributable to abiotic reactions (e.g., Burruss and Laughrey, 2010). The reverse or flat trend has generally been observed for hydrocarbon gases in ultramafic-hosted hydrothermal systems, but no clear evidence of their abiogenic origin has been brought forth (Proskurowski et al., 2008; Charlou et al., 2010). Clearly, it will be even more difficult to determine the origin of longer n-alkanes and other organic compounds detected in fluids from ultramafic-hosted vents.
+
+Table 4. An Attempt to Highlight the Fact That Terminology Is Missing for Organic Compounds Resulting from Mixed Processes and Carbon Source
+
+Source	Abiogenic	Biogenic	
+Processes	(ex: mantle CO2)	(microbial production and organic matter degradation)	
+Abiogenic (ex: FTT)	Abiogenic	?	
+Biogenic (ex: methanogens)	?	Biogenic	
+Thermogenic (ex: cracking)	?	Thermogenic	
+For example, a molecule resulting from FTT reaction using mantle CO2 will be called abiogenic. If the same process uses CO2 from respiration (although we do not know if this kind of reaction can actually occur, so we beg the reader to take this as an illustration), we currently do not know what to call the resulting product, which would be biogenic with respect to the source and abiogenic with respect to the process. Boxes left with a ? point out the word missing.
+
+Semivolatile organic compounds (>6 C atoms chain length) have rarely been reported as products of FTT reaction experiments probably due to their low concentration (e.g., Taran et al., 2007, 2010a). And, as far as the authors know, there are only two examples of an FTT experiment in which δ13C values of the heavy products (>C12) have been measured (McCollom and Seewald, 2006; McCollom et al., 2010). These results indicate that different δ13C trends may be expected depending on the carbon source. Another influential parameter may be pressure (Fu et al., 2011). Carbon isotopic ratios for the n-alkane series C9–C20 seem to show a different pattern (Fig. 4) from the one produced in McCollom's experiments (2010). Despite new experimental work and field data, the conclusion on the origin of hydrocarbons from various sources and/or processes drawn by Konn et al. (2009) remains.
+
+FIG. 4. Carbon stable isotope ratios versus carbon number (Nc) for the n-alkane series detected in fluids from the Lost City field (triangles) and the Rainbow field (squares). C9–C14 (Konn et al., 2009) and C16–C20 (Konn et al., unpublished results). Analytical and sample collection methods are described by Konn et al. (2009).
+
+Whereas Lang and coworkers (2010) were able to conclude with some confidence on the origin of formate (abiogenic) and acetate (microbially derived) using stable C isotopes, the origin of heavier fatty acids cannot be unraveled by using their individual δ13C value. Konn et al. (2009) showed that fatty acids were slightly enriched in 13C compared to the alkanes of the same chain length and inferred that this fractionation could possibly be created by biological processes.
+
+It was generally admitted that amino acids were of biogenic origin in hydrothermal systems. Based on their carbon isotope measurements, Lang et al. (2013) were able to demonstrate that the amino acids in the hydrothermal fluids at Lost City were derived from chemolithoautotrophs living on the surface and subsurface of the chimneys.
+
+In conclusion, stable carbon isotope ratios are very useful and may give indication of the origin of organic compounds (both gas and semivolatiles) in hydrothermal contexts, but they should be complemented with other approaches. To cite a few examples in the literature: position-specific methods have been shown to be efficient in determining the origin of deep gases (Corso and Brenna, 1997); combined analyses with noble gases (Sherwood Lollar and Ballentine, 2009); clumped isotopes is a rather new tool that would be worth trying; thermodynamic calculations could help discrimination (Reeves et al., 2014); the use of radiogenic carbon has proven to be efficient in determining the source of methane (Proskurowski et al., 2008); the thermal degradation experiments of biomass carried out by Konn et al. (2011) brought additional lines of evidence toward a plausible abiogenic origin of a portion of n-alkanes versus a likely biogenic origin of a portion of aromatic hydrocarbons and n-carboxylic acids (all >C8) detected in fluids from ultramafic-hosted systems.
+
+6.5. Implications for the origin of life
+Life may have appeared on Earth in the earliest Archean or even before in the Hadean (Russell and Hall, 1997; Rosing, 1999; Korenaga, 2013). Hydrothermal activity is relevant to Hadean and Archean Earth, as it began as soon as water condensed to form oceans, and some kind of plate tectonics (corresponding to crust formation) appeared 4.4 billion years ago (Wilde et al., 2001). Also, hydrothermal systems as well as ultramafic rocks were much more abundant on primitive Earth than today (Russell et al., 1988).
+
+Although the composition, oxidation state, temperature, and pressure of the early atmosphere after the bombardment is unknown (e.g., Marshall, 1994; Schoonen et al., 1999), a proposed composition on which most of the scientific community agrees is domination by CO2 in a dense state, N2 and H2O; little amount of H2S, HCl, SO2, and elemental sulfur S0; and minor amounts of H2 and Ar (Chen and Chen, 2005; Russell and Arndt, 2005). Different lines of evidence indicate the presence of significant levels of CH4 (100–1000 ppm) in the atmosphere in the Archean (Pavlov et al., 2000; Kasting, 2005). Fiebig et al. (2007) proposed an abiogenic origin of this CH4. Magnesium (Mg) as well as transition metals such as iron (Fe) and nickel (Ni) must have been abundant in the early ocean (Mloszewska et al., 2012). Mg2+ together with Ca2+ would have been the prevalent divalent cation, while the prevalent monovalent cation was Na+ (Pontes-Buarque et al., 2000). The ocean is considered to have been fairly acidic with a pH ∼5–6 (Russell and Arndt, 2005). Finally, almost uncontested to date, is the view that both atmosphere and ocean would have remained anoxic (oxygen-free) until the great oxidizing event postulated at 2.4 billion years ago. However, several controversial lines of evidence, including the sulfur isotopic composition of pyrites and the elemental compositions of ancient soil horizons, have been put forth to instead support the presence of appreciable amounts, or at least whiffs, of oceanic and atmospheric oxygen long before (Anbar et al., 2007; Konhauser, 2009). Moreover, a recent paper by Hoashi et al. (2009) reports on the observation of hematite crystals in marine sediments of 3.46 Ga, which indicates that free oxygen would have existed at least locally in the oceans at that time.
+
+As a conclusion, conditions at modern seafloor hydrothermal systems seem to be similar, to some extent, to early Earth's conditions and thus can be considered a place of primary focus in the search for the origin of life. Moreover, hydrothermal vents constitute very favorable environments for the start of life, as much in terms of protection against the sterilizing effect of giant impacts as in terms of scale. Microenvironments such as mineral surfaces favor adsorption, concentration of organics, and subsequent reactions. In addition, a hydrothermal mound provides some kind of protection (niches), physicochemical gradients, and nonequilibrium conditions that are required for the majority of macromolecules typical of the cell organization to persist as well as for the emergence of a living organism (Russell and Hall, 1997; Kompanichenko, 2009). The serpentinization process is emerging as an increasingly likely source of the energy essential for life to have emerged from CO2, rocks, and water on early Earth (Russell et al., 1989, 2010; McCollom and Seewald, 2013). Alkaline (high pH) hydrothermal systems are thought to be even more relevant to Archean hydrothermal vents, and the Lost City hydrothermal field could provide particular insights into past mantle geochemistry and present a better understanding of the chemical constraints that existed during the evolutionary transition from geochemical to biochemical processes. In parallel and in quest of the origin of life, experimental work simulating alkaline hydrothermal vents and/or Hadean conditions is being done (Herschy et al., 2014; Yamaguchi et al., 2014).
+
+Acknowledgments
+This research was supported and funded by IFREMER through the Theme 5—Exploration et Exploitation des Fonds Océaniques—Program PGE01—Géologie des Environnnements extremes Océaniques, conducted by the Marines Geosciences Department. We are grateful to the captains and crews of the R/V L'Atalante and Pourquoi Pas? as well as to the Nautile submersible and Victor-6000 ROV technical teams. They all helped us with fluid sampling through their splendid support and their ship-handling capabilities during surveys and operations at sea. The authors gratefully acknowledge support from the International Space Science Institute (ISSI) for our team “The Methane Balance—Formation and Destruction Processes on Planets, their Satellites and in the Interstellar Medium.” We also thank Muriel Andreani, Fabrice Brunet, Valérie Chavagnac, Yves Fouquet, Benjamin Malvoisin, and Ewan Pelleter for their valuable discussions.
+
+Disclosure Statement
+No competing financial interests exist.
+
+Abbreviations Used
+FTTFischer-Tropsch-type
+
+MARMid-Atlantic Ridge
+
+MORMid-Ocean Ridge
+==== Refs
+References
+Abrajano T.A.  , Sturchio N.C.  , Bohlke J.K.  , Lyon G.L.  , Poreda R.J.  , and Stevens C.M.   (1988 ) Methane-hydrogen gas seeps, Zambales ophiolite, Philippines: deep or shallow origin? 
+Chem Geol 
+71 :211 –222 
+Allen D.E.   and Seyfried W.E.   (2003 ) Compositional controls on vent fluids from ultramafic-hosted hydrothermal systems at mid-ocean ridges: an experimental study at 400°C, 500 bars . Geochim Cosmochim Acta 
+67 :1531 –1542 
+Allen D.E.   and Seyfried W.E.   (2004 ) Serpentinization and heat generation: constraints from Lost City and Rainbow hydrothermal systems . Geochim Cosmochim Acta 
+68 :1347 –1354 
+Amend J.P.   and Shock E.L.   (1998 ) Energetics of amino acid synthesis in hydrothermal ecosystems . Science 
+281 :1659 –1662 9733509 
+Amend J.P.   and Teske A.   (2005 ) Expanding frontiers in deep subsurface microbiology . Palaeogeogr Palaeoclimatol Palaeoecol 
+219 :131 –155 
+Anbar A.D.  , Duan Y.  , Lyons T.W.  , Arnold G.L.  , Kendall B.  , Creaser R.A.  , Kaufman A.J.  , Gordon G.W.  , Scott C.  , Garvin J.  , and Buick R.   (2007 ) A whiff of oxygen before the Great Oxidation Event? 
+Science 
+317 :1903 –1906 17901330 
+Anderson R.B.   (1984 ) The Fischer-Tropsch Synthesis , Academic Press , Orlando, FL 
+Andreani M.  , Muñoz M.  , Marcaillou C.  , and Delacour A.   (2013 ) μXANES study of iron redox state in serpentine during oceanic serpentinization . Lithos 
+178 :70 –83 
+Apps J.A.   and van de Kamp P.C.   (1993 ) Energy gases of abiogenic origin in the Earth's crust . US Geological Survey Professional Paper 
+1570 :81 –132 
+Aubrey A.  , Cleaves H.  , and Bada J.   (2009 ) The role of submarine hydrothermal systems in the synthesis of amino acids . Orig Life Evol Biosph 
+39 :91 –108 19034685 
+Bada J.L.  , Miller S.L.  , and Zhao M.   (1995 ) The stability of amino acids at submarine hydrothermal vent temperatures . Orig Life Evol Biosph 
+25 :111 –118 11536665 
+Berndt M.E.  , Allen D.E.  , and Seyfried W.E. Jr  (1996 ) Reduction of CO2 during serpentinization of olivine at 300°C and 500 bar . Geology 
+24 :351 –354 
+Bougault H.  , Charlou J.L.  , Fouquet Y.  , and Needham H.D.   (1990 ) Activité hydrothermale et structure axiale des dorsales Est-Pacifique et médio-atlantique . Oceanologica Acta 
+10 :199 –207 
+Bougault H.  , Charlou J.L.  , Fouquet Y.  , Needham H.D.  , Vaslet N.  , Appriou P.  , Jean-Baptiste P.  , Rona P.A.  , Dmitriev L.  , and Silantiev S.   (1993 ) Fast and slow spreading ridges: structure and hydrothermal activity, ultramafic topographic highs and CH4 output . J Geophys Res 
+98 :9643 –9651 
+Bradley A.S.   and Summons R.E.   (2010 ) Multiple origins of methane at the Lost City hydrothermal field . Earth Planet Sci Lett 
+297 :34 –41 
+Brandes J.A.  , Boctor N.Z.  , Cody G.D.  , Cooper B.A.  , Hazen R.M.  , and Yoder H.S. Jr  (1998 ) Abiotic nitrogen reduction on the early Earth . Nature 
+395 :365 –367 9759725 
+Brault M.  , Simoneit B.R.T.  , Marty J.C.  , and Saliot A.   (1988 ) Hydrocarbons in waters and particulate material from hydrothermal environments at the East Pacific Rise, 13°N . Org Geochem 
+12 :209 –219 
+Brazelton W.J.  , Mehta M.P.  , Kelley D.S.  , and Baross J.A.   (2011 ) Physiological differentiation within a single-species biofilm fueled by serpentinization . mBio 
+2 , doi:10.1128/mBio.00127-11 
+Brazelton W.J.  , Nelson B.  , and Schrenk M.O.   (2012 ) Metagenomic evidence for H2 oxidation and H2 production by serpentinite-hosted subsurface microbial communities . Front Microbiol 
+2 , doi:10.3389/fmicb.2011.00268 
+Burruss R.C.   and Laughrey C.D.   (2010 ) Carbon and hydrogen isotopic reversals in deep basin gas: evidence for limits to the stability of hydrocarbons . Org Geochem 
+41 :1285 –1296 
+Cannat M.  , Fontaine F.  , and Escartin J.   (2010 ) Serpentinization and associated hydrogen and methane fluxes at slow spreading ridges . In Diversity of Hydrothermal Systems on Slow Spreading Ocean Ridges , edited by Rona P.A.  , Devey C.W.  , Dyment J.  , and Murton B.J.  , American Geophysical Union , Washington, DC , pp 241 –264 
+Cao M.  , Qin K.  , Li G.  , Evans N.J.  , and Jin L.   (2014 ) Abiogenic Fischer–Tropsch synthesis of methane at the Baogutu reduced porphyry copper deposit, western Junggar, NW-China . Geochim Cosmochim Acta 
+141 :179 –198 
+Chapelle F.H.   and Bradley T.M.   (1996 ) Microbial acetogenesis as a source of organic acids in ancient Atlantic coastal plain sediments . Geology 
+24 :925 –928 
+Charlou J.L.   and Donval J.P.   (1993 ) Hydrothermal methane venting between 12°N and 26°N along the Mid-Atlantic Ridge . J Geophys Res 
+98 :9625 –9642 
+Charlou J.L.  , Bougault H.  , Appriou P.  , Nelsen T.  , and Rona P.A.   (1991 ) Different TDM/CH4 hydrothermal plume signatures: TAG site at 26°N and serpentinised ultrabasic diapir at 15°05′N on the Mid-Atlantic Ridge . Geochim Cosmochim Acta 
+55 :3209 –3222 
+Charlou J.L.  , Bougault H.  , Donval J.P.  , Pellé H.  , Langmuir C.  , and the FAZAR scientific party . (1993a ) Seawater CH4 concentration over the Mid-Atlantic Ridge from the Hayes F.Z. to the Azores Triple Junction . Eos 
+74 (Supplement ):380 
+Charlou J.L.  , Donval J.P.  , Jean-Baptiste P.  , Mills R.  , Rona P.A.  , and von Herzen D.   (1993b ) Methane, nitrogen, carbon dioxide and helium isotopes in vent fluids from TAG hydrothermal field, 26°N-MAR . Eos 
+74 :99 
+Charlou J.L.  , Bougault H.  , Fouquet Y.  , Donval J.P.  , Douville D.  , Radford-Knoery J.  , Aballéa M.  , Needham H.D.  , Jean-Baptiste P.  , Rona P.A.  , Langmuir C.  , and German C.R.   (1996a ) Methane degassing, hydrothermal activity and serpentinization between the fifteen-twenty Fracture Zone area and the Azores Triple Junction area (MAR), MAR Symposium , 6 
+19–22 , 1996 , Reykjavik , Iceland 
+Journal of Conference Abstracts 
+1 :771 –772 
+Charlou J.L.  , Donval J.P.  , Jean-Baptiste P.  , Dapoigny A.  , and Rona P.A.   (1996b ) Gases and helium isotopes in high temperature solutions sampled before and after ODP Leg 158 drilling at TAG hydrothermal field (26°N, MAR) . Geophys Res Lett 
+23 :3491 –3494 
+Charlou J.L.  , Fouquet Y.  , Bougault H.  , Donval J.P.  , Etoubleau J.  , Jean-Baptiste P.  , Dapoigny A.  , Appriou P.  , and Rona P.A.   (1998 ) Intense CH4 plumes generated by serpentinization of ultramafic rocks at the intersection of the 15°20′N fracture zone and the Mid-Atlantic Ridge . Geochim Cosmochim Acta 
+62 :2323 –2333 
+Charlou J.L.  , Donval J.P.  , Douville E.  , Jean-Baptiste P.  , Knoery J.  , Fouquet Y.  , Dapoigny A.  , and Stievenard M.   (2000 ) Compared geochemical signature and evolution of Menez Gwen (37°50′N) and Lucky Strike (37°17′N) hydrothermal fluids, south of the Azores Triple Junction on the Mid-Atlantic Ridge . Chem Geol 
+171 :49 –75 
+Charlou J.L.  , Donval J.P.  , Fouquet Y.  , Jean-Baptiste P.  , and Holm N.   (2002 ) Geochemistry of high H2 and CH4 vent fluids issuing from ultramafic rocks at the Rainbow hydrothermal field (36°14N, MAR) . Chem Geol 
+191 :345 –359 
+Charlou J.L.  , Donval J.P.  , Konn C.  , Ondreas H.  , Fouquet Y.  , Jean Baptiste P.  , and Fourré E.   (2010 ) High production and fluxes of H2 and CH4 and evidence of abiotic hydrocarbon synthesis by serpentinization in ultramafic-hosted hydrothermal systems on the Mid-Atlantic Ridge . In Diversity of Hydrothermal Systems on Slow-Spreading Ocean Ridges , edited by Rona P.A.  , Devey C.W.  , Dyment J.  , and Murton B.J.  , American Geophysical Union , Washington, DC , pp 265 –296 
+Chen Q.W.   and Bahnemann D.W.   (2000 ) Reduction of carbon dioxide by magnetite: implications for the primordial synthesis of organic molecules . J Am Chem Soc 
+122 :970 –971 
+Chen Q.W.   and Chen C.L.   (2005 ) The role of inorganic compounds in the prebiotic synthesis of organic molecules . Curr Org Chem 
+9 :989 –998 
+Christie D.M.  , Carmichael S.E.  , and Langmuir C.H.   (1986 ) Oxidation states of mid-ocean ridge basalt glasses . Earth Planet Sci Lett 
+79 :397 –411 
+Corso T.N.   and Brenna J.T.   (1997 ) High-precision position-specific isotope analysis . Proc Natl Acad Sci USA 
+94 :1049 –1053 11038597 
+Cox J.S.   and Seward T.M.   (2007 ) The reaction kinetics of alanine and glycine under hydrothermal conditions . Geochim Cosmochim Acta 
+71 :2264 –2284 
+Crawford W.C.  , Rai A.  , Singh S.C.  , Cannat M.  , Escartin J.  , Wang H.  , Daniel R.  , and Combier V.   (2013 ) Hydrothermal seismicity beneath the summit of Lucky Strike volcano, Mid-Atlantic Ridge . Earth Planet Sci Lett 
+373 :118 –128 
+Demaison G.   and Murris R.J.  , editors. (1984 ) Petroleum Geochemistry and Basin Evaluation , American Association of Petroleum Geologists , Tulsa, OK 
+Des Marais D.J.  , Donchin J.H.  , Nehring N.L.  , and Truesdell A.H.   (1981 ) Molecular carbon isotopic evidence for the origin of geothermal hydrocarbons . Nature 
+292 :826 –828 
+Dixon J.E.  , Stolper E.M.  , and Holloway J.R.   (1995 ) An experimental study of water and carbon dioxide in mid-ocean ridge basaltic liquids. Part I: calibration and solubility models . Journal of Petrology 
+36 :1607 –1631 
+Douville E.  , Charlou J.L.  , Oelkers E.H.  , Bienvenu P.  , Jove Colon C.F.  , Donval J.P.  , Fouquet Y.  , Prieur D.  , and Appriou P.   (2002 ) Trace metals in hot acidic fluids from a deep sea hydrothermal system in an ultra-mafic environment: Rainbow vent field (36°14′N, MAR) . Chem Geol 
+184 :37 –48 
+Elthon D.   (1987 ) Petrology of gabbroic rocks from the Mid-Cayman Rise Spreading Center . J Geophys Res: Solid Earth 
+92 :658 –682 
+Emmanuel S.   and Ague J.J.   (2007 ) Implications of present-day abiogenic methane fluxes for the early Archean atmosphere . Geophys Res Lett 
+34 :L15810 
+Etiope G.   and Sherwood Lollar B.   (2013 ) Abiotic methane on Earth . Rev Geophys 
+51 :276 –299 
+Etiope G.  , Schoell M.  , and Hosgörmez H.   (2011 ) Abiotic methane flux from the Chimaera seep and Tekirova ophiolites (Turkey): understanding gas exhalation from low temperature serpentinisation and implications for Mars . Earth Planet Sci Lett 
+310 :96 –104 
+Evans B.W.  , Hattori K.  , and Baronnet A.   (2013 ) Serpentinite: what, why, where? 
+Elements 
+9 :99 –106 
+Evans W.C.   (1996 ) A gold mine of methane . Nature 
+381 :114 –115 
+Faisal M.  , Sato N.  , Quitain A.T.  , Daimon H.  , and Fujie K.   (2007 ) Reaction kinetics and pathway of hydrothermal decomposition of aspartic acid . International Journal of Chemical Kinetics 
+39 :175 –180 
+Fiebig J.  , Chiodini G.  , Caliro S.  , Rizzo A.  , Spangenberg J.  , and Hunziker J.C.   (2004 ) Chemical and isotopic equilibrium between CO2 and CH4 in fumarolic gas discharges: generation of CH4 in arc magmatic-hydrothermal systems . Geochim Cosmochim Acta 
+68 :2321 –2334 
+Fiebig J.  , Woodland A.B.  , Spangenberg J.  , and Oschmann W.   (2007 ) Natural evidence for rapid abiogenic hydrothermal generation of CH4 . Geochim Cosmochim Acta 
+71 :3028 –3039 
+Fiebig J.  , Woodland A.B.  , D'Alessandro W.  , and Puttmann W.   (2009 ) Excess methane in continental hydrothermal emissions is abiogenic . Geology 
+37 :495 –498 
+Fischer F.   and Tropsch H.   (1923 ) The preparation of synthetic oil mixtures (synthol) from carbon monoxide and hydrogen . Brennstoff-Chemie 
+4 :276 –285 
+Foustoukos D.I.   and Seyfried W.E.   (2004 ) Hydrocarbons in hydrothermal vent fluids: the role of chromium-bearing catalysts . Science 
+304 :1002 –1004 15060286 
+Freund F.  , Dickinson J.T.  , and Cash M.   (2002 ) Hydrogen in rocks: an energy source for deep microbial communities . Astrobiology 
+2 :83 –92 12449857 
+Frost B.R.   and Beard J.S.   (2007 ) On silica activity and serpentinization . Journal of Petrology 
+48 :1351 –1368 
+Früh-Green G.L.   and Kelley D.S.   (1998 ) Volatiles at MORs . Eos 
+79 , 45 , F45 
+Fu Q.  , Sherwood Lollar B.  , Horita J.  , Lacrampe-Couloume G.  , and Seyfried J.W.E.   (2007 ) Abiotic formation of hydrocarbons under hydrothermal conditions: constraints from chemical and isotope data . Geochim Cosmochim Acta 
+71 :1982 –1998 
+Fu Q.  , Socki R.A.  , and Niles P.B.   (2011 ) Carbon isotope systematics in mineral-catalyzed hydrothermal organic synthesis processes at high temperatures and pressures [abstract 1057] . In 42nd Lunar and Planetary Science Conference Abstracts , Lunar and Planetary Institute , Houston 
+Fuchida S.  , Mizuno Y.  , Masuda H.  , Toki T.  , and Makita H.   (2014 ) Concentrations and distributions of amino acids in black and white smoker fluids at temperatures over 200°C . Org Geochem 
+66 :98 –106 
+Fyfe W.S.   (1974 ) Heats of chemical reactions and submarine heat production . Geophysical Journal of the Royal Astronomical Society 
+37 :213 –215 
+Glasby G.P.   (2006 ) Abiogenic origin of hydrocarbons: an historical review . Resource Geology 
+56 :83 –96 
+Gold T.   (1993 ) The origin of methane in the crust of the Earth . In The Future of Energy Gases , U.S. Geological Survey Professional Paper 1570 , edited by Howell D.G.  , U.S. Geological Survey , Washington, DC , pp 57 –80 
+Gracia E.  , Charlou J.L.  , Radford-Knoery J.  , and Parson L.M.   (2000 ) Non-transform offsets along the Mid-Atlantic Ridge south of the Azores (38°–34°N): ultramafic exposures and hosting of hydrothermal vents . Earth Planet Sci Lett 
+177 :89 –103 
+Gupta A.  , Loew G.H.  , and Lawless J.   (1983 ) Interaction of metal ions and amino acids: possible mechanisms for the adsorption of amino acids on homoionic smectite clays . Inorg Chem 
+22 :111 –120 
+Haggerty J.A.   (1991 ) Evidence from fluid seeps atop serpentine seamounts in the Mariana Forearc: clues for emplacement of the seamounts and their relationship to forearc tectonics . Mar Geol 
+102 :293 –309 
+Hedberg H.D.   (1969 ) Hypotheses for an inorganic origin . In M 5: Sourcebook of Petroleum Geology , edited by Dott R.H.   and Reynolds M.J.  , American Association of Petroleum Geologists , Tulsa, OK , pp 15 –45 
+Hennet R.J.C.  , Holm N.G.  , and Engel M.H.   (1992 ) Abiotic synthesis of amino acids under hydrothermal conditions and the origin of life: a perpetual phenomenon? 
+Naturwissenschaften 
+79 :361 –365 1522920 
+Henrichs S.M.   and Sugai S.F.   (1993 ) Adsorption of amino acids and glucose by sediments of Resurrection Bay, Alaska, USA: functional group effects . Geochim Cosmochim Acta 
+57 :823 –835 
+Herschy B.  , Whicher A.  , Camprubi E.  , Watson C.  , Dartnell L.  , Ward J.  , Evans J.G.  , and Lane N.   (2014 ) An origin-of-life reactor to simulate alkaline hydrothermal vents . J Mol Evol 
+79 :213 –227 25428684 
+Hoashi M.  , Bevacqua D.C.  , Otake T.  , Watanabe Y.  , Hickman A.H.  , Utsunomiya S.  , and Ohmoto H.   (2009 ) Primary haematite formation in an oxygenated sea 3.46 billion years ago . Nat Geosci 
+2 :301 –306 
+Holloway J.R.   (1984 ) Graphite-CH4-H2O-CO2 equilibria at low-grade metamorphic conditions . Geology 
+12 :455 –458 
+Holloway J.R.   and O'Day P.   (1999 ) Hydrogen flux at MORs: potential for primary biologic production in seafloor hydrothermal systems . Eos 
+80 , 46 , F83 
+Holloway J.R.   and O'Day P.   (2000 ) Production of CO2 and H2 by diking-eruptive events at mid-ocean ridges: implications for abiotic organic synthesis and global geochemical cycling . Int Geol Rev 
+42 :673 –683 
+Holm N.G.   and Andersson E.M.   (1998 ) Hydrothermal systems . In The Molecular Origins of Life: Assembling Pieces of the Puzzle , edited by Brack A.  , Cambridge University Press , Cambridge, UK , pp 86 –99 
+Holm N.G.   and Charlou J.L.   (2001 ) Initial indications of abiotic formation of hydrocarbons in the Rainbow ultramafic hydrothermal system, Mid-Atlantic Ridge . Earth Planet Sci Lett 
+191 :1 –8 
+Holm N.G.   and Neubeck A.   (2009 ) Reduction of nitrogen compounds in oceanic basement and its implications for HCN formation and abiotic organic synthesis . Geochem Trans 
+10 :9 –20 19849830 
+Horita J.   (2001 ) Carbon isotope exchange in the system CO2-CH4 at elevated temperatures . Geochim Cosmochim Acta 
+12 :1907 –1919 
+Horita J.   (2005 ) Some perspectives on isotope biosignatures for early life . Chem Geol 
+218 :171 –186 
+Horita J.   and Berndt M.E.   (1999 ) Abiogenic methane formation and isotopic fractionation under hydrothermal conditions . Science 
+285 :1055 –1057 10446049 
+Horiuchi T.  , Takano Y.  , Ishibashi J.I.  , Marumo K.  , Urabe T.  , and Kobayashi K.   (2004 ) Amino acids in water samples from deep sea hydrothermal vents at Suiyo Seamount, Izu-Bonin Arc, Pacific Ocean . Org Geochem 
+35 :1121 –1128 
+Hosgormez H.  , Etiope G.  , and Yalçin M.N.   (2008 ) New evidence for a mixed inorganic and organic origin of the Olympic Chimaera fire (Turkey): a large onshore seepage of abiogenic gas . Geofluids 
+8 :263 –273 
+Huber C.   and Wächtershäuser G.   (2006 ) α-Hydroxy and α-amino acids under possible Hadean, volcanic origin-of-life conditions . Science 
+314 :630 –632 17068257 
+Islam M.N.  , Kaneko T.  , and Kobayashi K.   (2001 ) Determination of amino acids formed in a supercritical water flow reactor simulating submarine hydrothermal systems . Analytical Sciences 
+17 (Supplement): i1631 –i1634 
+Ito M.  , Gupta L.P.  , Masuda H.  , and Kawahata H.   (2006 ) Thermal stability of amino acids in seafloor sediment in aqueous solution at high temperature . Org Geochem 
+37 :177 –188 
+Ito T.  , Nagamine K.  , Yamamoto K.  , Adacht M.  , and Kawabe I.   (1999 ) Preseismic hydrogen gas anomalies caused by stress-corrosion process preceding earthquakes . Geophys Res Lett 
+26 :13 –17 
+Javoy M.   and Pineau F.   (1991 ) The volatile record of a “popping” rock from the Mid-Atlantic Ridge at 148 N: chemical and isotopic composition of gas trapped in the vesicles . Earth Planet Sci Lett 
+107 :598 –611 
+Jean-Baptiste P.  , Fourré E.  , Charlou J.L.  , German C.  , and Radford-Knoery J.   (2004 ) Helium isotopes at the Rainbow hydrothermal site (Mid-Atlantic Ridge, 36°14′N) . Earth Planet Sci Lett 
+221 :325 –335 
+Jenden P.D.   (1993 ) Abiogenic hydrocarbons and mantle helium in oil and gas fields . In The Future of Energy Gases , U.S. Geological Survey Professional Paper 1570 , edited by Howell D.G.  , U.S. Geological Survey , Washington, DC , pp 31 –56 
+Karato S.   (2006 ) Remote sensing of hydrogen in Earth's mantle . Reviews in Mineralogy and Geochemistry 
+62 :343 –375 
+Kasting J.F.   (2005 ) Methane and climate during the Precambrian era . Precambrian Res 
+137 :119 –129 
+Keir R.S.   (2010 ) A note on the fluxes of abiogenic methane and hydrogen from mid-ocean ridges . Geophys Res Lett 
+37 :L24609 
+Keir R.S.  , Greinert J.  , Rhein M.  , Petrick G.  , Sültenfuss J.  , and Fürhaupter K.   (2005 ) Methane and methane carbon isotope ratios in the Northeast Atlantic including the Mid-Atlantic Ridge (50°N) . Deep Sea Res Part 1 Oceanogr Res Pap 
+52 :1043 –1070 
+Kelley D.S.   (1996 ) Methane-bearing fluids in the oceanic crust: gabbro-hosted fluid inclusions from the southwest Indian ridge . J Geophys Res 
+101 :2943 –2962 
+Kelley D.S.   and Früh-Green G.L.   (1999 ) Abiogenic methane in deep-seated mid-ocean ridge environments: insights from stable isotope analyses . J Geophys Res: Solid Earth 
+104 :10439 –10460 
+Kelley D.S.  , Gillis K.M.  , and Thompson G.   (1993 ) Fluid evolution in submarine magma-hydrothermal systems at the Mid-Atlantic Ridge . J Geophys Res: Solid Earth 
+98 :19579 –19596 
+Kelley D.S.  , Baross J.A.  , and Delaney J.R.   (2002 ) Volcanoes, fluids, and life at mid-ocean ridge spreading centers . Annu Rev Earth Planet Sci 
+30 :385 –491 
+Kelley D.S.  , Karson J.A.  , Früh-Green G.L.  , Yoerger D.R.  , Shank T.M.  , Butterfield D.A.  , Hayes J.M.  , Schrenk M.O.  , Olson E.J.  , Proskurowski G.  , Jakuba M.  , Bradley A.  , Larson B.  , Ludwig K.  , Glickson D.  , Buckman K.  , Bradley A.S.  , Brazelton W.J.  , Roe K.  , Elend M.J.  , Delacour A.  , Bernasconi S.M.  , Lilley M.D.  , Baross J.A.  , Summons R.E.  , and Sylva S.P.   (2005 ) A serpentinite-hosted ecosystem: the Lost City hydrothermal field . Science 
+307 :1428 –1434 15746419 
+Klein F.  , Bach W.  , Jöns N.  , McCollom T.  , Moskowitz B.  , and Berquó T.   (2009 ) Iron partitioning and hydrogen generation during serpentinization of abyssal peridotites from 15°N on the Mid-Atlantic Ridge . Geochim Cosmochim Acta 
+73 :6868 –6893 
+Klein F.  , Bach W.  , and McCollom T.M.   (2013 ) Compositional controls on hydrogen generation during serpentinization of ultramafic rocks . Lithos 
+178 :55 –69 
+Klevenz V.  , Sumoondur A.  , Ostertag-Henning C.  , and Koschinsky A.   (2010 ) Concentrations and distributions of dissolved amino acids in fluids from Mid-Atlantic Ridge hydrothermal vents . Geochem J 
+44 :387 –397 
+Kompanichenko V.N.   (2009 ) Changeable hydrothermal media as potential cradle of life on a planet . Planet Space Sci 
+57 :468 –476 
+Konhauser K.   (2009 ) Biogeochemistry: deepening the early oxygen debate . Nat Geosci 
+2 :241 –242 
+Konn C.  , Charlou J.L.  , Donval J.P.  , Holm N.G.  , Dehairs F.  , and Bouillon S.   (2009 ) Hydrocarbons and oxidised organic compounds in hydrothermal fluids from Rainbow and Lost City ultramafic-hosted vents . Chem Geol 
+258 :299 –314 
+Konn C.  , Testemale D.  , Querellou J.  , Holm N.G.  , and Charlou J.L.   (2011 ) New insight into the contributions of thermogenic processes and biogenic sources to the generation of organic compounds in hydrothermal fluids . Geobiology 
+9 :79 –93 21062404 
+Konn C.  , Magnér J.  , Charlou J.  , Holm N.  , and Alsberg T.   (2015 ) A method for detection of trace concentrations of underivatized amino acid in hydrothermal fluids by ion-pairing reversed-phase UPLC-ESI-QTOF-MS . American Journal of Analytical Chemistry 
+6 :313 –324 
+Korenaga J.   (2013 ) Initiation and evolution of plate tectonics on Earth: theories and observations . Annu Rev Earth Planet Sci 
+41 :117 –151 
+Kudryavtsev N.A.   (1951 ) Petroleum economy . Neftianoye Khozyaistvo 
+9 :17 –29  (in Russian)
+Kutcherov V.G.   and Krayushkin V.A.   (2010 ) Deep seated abiogenic origin of petroleum: from geological assessment to physical theory . Rev Geophys 
+48 , doi:10.1029/2008RG000270 
+Lang S.Q.  , Butterfield D.A.  , Schulte M.  , Kelley D.S.  , and Lilley M.D.   (2010 ) Elevated concentrations of formate, acetate and dissolved organic carbon found at the Lost City hydrothermal field . Geochim Cosmochim Acta 
+74 :941 –952 
+Lang S.Q.  , Früh-Green G.L.  , Bernasconi S.M.  , Lilley M.D.  , Proskurowski G.  , Méhay S.  , and Butterfield D.A.   (2012 ) Microbial utilization of abiogenic carbon and hydrogen in a serpentinite-hosted system . Geochim Cosmochim Acta 
+92 :82 –99 
+Lang S.Q.  , Früh-Green G.L.  , Bernasconi S.M.  , and Butterfield D.A.   (2013 ) Sources of organic nitrogen at the serpentinite-hosted Lost City hydrothermal field . Geobiology 
+11 :154 –169 23346942 
+Lazar C.  , McCollom T.M.  , and Manning C.E.   (2012 ) Abiogenic methanogenesis during experimental komatiite serpentinization: implications for the evolution of the early Precambrian atmosphere . Chem Geol 
+326–327 :102 –112 
+Lemke K.H.   (2013 ) The stability of biomolecules in hydrothermal fluids . Curr Org Chem 
+17 :1724 –1731 
+Libert M.  , Bildstein O.  , Esnault L.  , Jullien M.  , and Sellier R.   (2011 ) Molecular hydrogen: an abundant energy source for bacterial activity in nuclear waste repositories . Physics and Chemistry of the Earth 
+36 :1616 –1623 
+Lilley M.D.  , Butterfield D.A.  , Olson E.J.  , Lupton J.E.  , Macko S.A.  , and McDuff R.E.   (1993 ) Anomalous CH4 and NH4+ concentrations at an unsedimented mid-ocean-ridge hydrothermal system . Nature 
+364 :45 –47 
+Lin L.H.  , Slater G.F.  , Sherwood Lollar B.  , Lacrampe-Couloume G.  , and Onstott T.C.   (2005 ) The yield and isotopic composition of radiolytic H2, a potential energy source for the deep subsurface biosphere . Geochim Cosmochim Acta 
+69 :893 –903 
+Loison A.  , Dubant S.  , Adam P.  , and Albrecht P.   (2010 ) Elucidation of an iterative process of carbon–carbon bond formation of prebiotic significance . Astrobiology 
+10 :973 –988 21162677 
+Marshall W.L.   (1994 ) Hydrothermal synthesis of amino acids . Geochim Cosmochim Acta 
+58 :2099 –2106 
+McCollom T.M.   (2003 ) Formation of meteorite hydrocarbons from thermal decomposition of siderite (FeCO3) . Geochim Cosmochim Acta 
+67 :311 –317 
+McCollom T.M.   (2008 ) Observational, experimental, and theoretical constraints on carbon cycling in mid-ocean ridge hydrothermal systems . In Magma to Microbe , edited by Lowell R.P.  , Seewald J.S.  , Metaxas A.  , and Perfit M.R.  , American Geophysical Union , Washington, DC , pp 193 –213 
+McCollom T.M.   (2013a ) The influence of minerals on decomposition of the n-alkyl-α-amino acid norvaline under hydrothermal conditions . Geochim Cosmochim Acta 
+104 :330 –357 
+McCollom T.M.   (2013b ) Laboratory simulations of abiotic hydrocarbon formation in Earth's deep subsurface . Reviews in Mineralogy and Geochemistry 
+75 :467 –494 
+McCollom T.M.   and Bach W.   (2009 ) Thermodynamic constraints on hydrogen generation during serpentinization of ultramafic rocks . Geochim Cosmochim Acta 
+73 :856 –875 
+McCollom T.M.   and Seewald J.S.   (2001 ) A reassessment of the potential for reduction of dissolved CO2 to hydrocarbons during serpentinization of olivine . Geochim Cosmochim Acta 
+65 :3769 –3778 
+McCollom T.M.   and Seewald J.S.   (2006 ) Carbon isotope composition of organic compounds produced by abiotic synthesis under hydrothermal conditions . Earth Planet Sci Lett 
+243 :74 –84 
+McCollom T.M.   and Seewald J.S.   (2007 ) Abiotic synthesis of organic compounds in deep sea hydrothermal environments . Chem Rev 
+107 :382 –401 17253758 
+McCollom T.M.   and Seewald J.S.   (2013 ) Serpentinites, hydrogen, and life . Elements 
+9 :129 –134 
+McCollom T.M.   and Shock E.J.   (1998 ) Fluid-rock interactions in the lower oceanic crust: thermodynamic models of hydrothermal alteration . J Geophys Res 
+103 :547 –575 
+McCollom T.M.   and Simoneit B.R.T.   (1999 ) Abiotic formation of hydrocarbons and oxygenated compounds during thermal decomposition of iron oxalate . Orig Life Evol Biosph 
+29 :167 –186 10227202 
+McCollom T.M.  , Ritter G.  , and Simoneit B.R.T.   (1999 ) Lipid synthesis under hydrothermal conditions by Fischer-Tropsch-type reactions . Orig Life Evol Biosph 
+29 :153 –166 10227201 
+McCollom T.M.  , Sherwood Lollar B.  , Lacrampe-Couloume G.  , and Seewald J.S.   (2010 ) The influence of carbon source on abiotic organic synthesis and carbon isotope fractionation under hydrothermal conditions . Geochim Cosmochim Acta 
+74 :2717 –2740 
+McCollom T.M.  , Seewald J.S.  , and German C.R.   (2015 ) Investigation of extractable organic compounds in deep-sea hydrothermal vent fluids along the Mid-Atlantic Ridge . Geochim Cosmochim Acta 
+156 :122 –144 
+Mello M.R.   and Moldowan J.M.   (2005 ) Petroleum: to be or not to be abiogenic . In AAPG Research Conference: Origin of Petroleum , Search and Discovery Article #90043, American Association of Petroleum Geologists , Tulsa, OK 
+Mendeleev D.   (1877 ) L'origine du petrole . Revue Scientifique  2e Ser, 8 , 409 –416 
+Mevel C.   (2003 ) Serpentinization of abyssal peridotites at mid-ocean ridges . Comptes Rendus Geosciences 
+335 :825 –852 
+Miura M.  , Arai S.  , and Mizukami T.   (2011 ) Raman spectroscopy of hydrous inclusions in olivine and orthopyroxene in ophiolitic harzburgite: implications for elementary processes in serpentinization . Journal of Mineralogical and Petrological Sciences 
+106 :91 –96 
+Mloszewska A.M.  , Pecoits E.  , Cates N.L.  , Mojzsis S.J.  , O'Neil J.  , Robbins L.J.  , and Konhauser K.O.   (2012 ) The composition of Earth's oldest iron formations: the Nuvvuagittuq Supracrustal Belt (Québec, Canada) . Earth Planet Sci Lett 
+317–318 :331 –342 
+Moody J.B.   (1976 ) Serpentinization: a review . Lithos 
+9 :125 –138 
+Nakamura K.  , Morishita T.  , Bach W.  , Klein F.  , Hara K.  , Okino K.  , Takai K.  , and Kumagai H.   (2009 ) Serpentinised troctolites exposed near the Kairei hydrothermal field, Central Indian Ridge: insights into the origin of the Kairei hydrothermal fluid supporting a unique microbial ecosystem . Earth Planet Sci Lett 
+280 :128 –136 
+Neal C.   and Stanger G.   (1983 ) Hydrogen generation from mantle source rocks in Oman . Earth Planet Sci Lett 
+66 :315 –320 
+Nishizawa M.  , Miyazaki J.  , Makabe A.  , Koba K.  , and Takai K.   (2014 ) Physiological and isotopic characteristics of nitrogen fixation by hyperthermophilic methanogens: key insights into nitrogen anabolism of the microbial communities in Archean hydrothermal systems . Geochim Cosmochim Acta 
+138 :117 –135 
+Ogasawara Y.  , Okamoto A.  , Hirano N.  , and Tsuchiya N.   (2013 ) Coupled reactions and silica diffusion during serpentinization . Geochim Cosmochim Acta 
+119 :212 –230 
+Okuchi T.   (1997 ) Hydrogen partitioning into molten iron at high pressure: implications for Earth's core . Science 
+278 :1781 –1784 9388177 
+Pan C.  , Yu L.  , Liu J.  , and Fu J.   (2006 ) Chemical and carbon isotopic fractionations of gaseous hydrocarbons during abiogenic oxidation . Earth Planet Sci Lett 
+246 :70 –89 
+Pavlov A.A.  , Kasting J.F.  , Brown L.L.  , Rages K.A.  , and Freedman R.   (2000 ) Greenhouse warming by CH4 in the atmosphere of early Earth . J Geophys Res 
+105 :11981 –11990 11543544 
+Pawar S.   and van Niel E.J.   (2013 ) Thermophilic biohydrogen production: how far are we? 
+Appl Microbiol Biotechnol 
+97 :7999 –8009 23948723 
+Pester N.J.  , Reeves E.P.  , Rough M.E.  , Ding K.  , Seewald J.S.  , and Seyfried W.E. Jr  (2012 ) Subseafloor phase equilibria in high-temperature hydrothermal fluids of the Lucky Strike Seamount (Mid-Atlantic Ridge, 37°17′N) . Geochim Cosmochim Acta 
+90 :303 –322 
+Petersen J.M.  , Zielinski F.U.  , Pape T.  , Seifert R.  , Moraru C.  , Amann R.  , Hourdez S.  , Girguis P.R.  , Wankel S.D.  , Barbe V.  , Pelletier E.  , Fink D.  , Borowski C.  , Bach W.  , and Dubilier N.   (2011 ) Hydrogen is an energy source for hydrothermal vent symbioses . Nature 
+476 :176 –180 21833083 
+Pontes-Buarque M.  , Tessis A.C.  , Bonapace J.A.P.  , Monte M.B.M.  , De Souza-Barros F.  , and Vieyra A.   (2000 ) Surface charges and interfaces: implications for mineral roles in prebiotic chemistry . An Acad Bras Cienc 
+72 :317 –322 11028096 
+Proskurowski G.  , Lilley M.D.  , Kelley D.S.  , and Olson E.J.   (2006 ) Low temperature volatile production at the Lost City hydrothermal field, evidence from a hydrogen stable isotope geothermometer . Chem Geol 
+229 :331 –343 
+Proskurowski G.  , Lilley M.D.  , Seewald J.S.  , Früh-Green G.L.  , Olson E.J.  , Lupton J.E.  , Sylva S.P.  , and Kelley D.S.   (2008 ) Abiogenic hydrocarbon production at Lost City hydrothermal field . Science 
+319 :604 –607 18239121 
+Reeves E.P.  , McDermott J.M.  , and Seewald J.S.   (2014 ) The origin of methanethiol in midocean ridge hydrothermal fluids . Proc Natl Acad Sci USA 
+111 :5474 –5479 24706901 
+Rice D.D.   and Claypool G.E.   (1981 ) Generation, accumulation, and resource potential of biogenic gas . Am Assoc Pet Geol Bull 
+65 :5 –25 
+Rosing M.T.   (1999 ) 13C-depleted carbon microparticles in >3700-Ma sea-floor sedimentary rocks from west Greenland . Science 
+283 :674 –676 9924024 
+Roussel E.G.  , Konn C.  , Charlou J.-L.  , Donval J.-P.  , Fouquet Y.  , Querellou J.  , Prieur D.  , and Bonavita M.-A.   (2011 ) Comparison of microbial communities associated with three Atlantic ultramafic hydrothermal systems . FEMS Microbiol Ecol 
+77 :647 –665 21707671 
+Rushdi A.I.   and Simoneit B.R.T.   (2001 ) Lipid formation by aqueous Fischer-Tropsch-type synthesis over a temperature range of 100 to 400°C . Orig Life Evol Biosph 
+31 :103 –118 11296515 
+Rushdi A.I.   and Simoneit B.R.T.   (2004 ) Condensation reactions and formation of amides, esters, and nitriles under hydrothermal conditions . Astrobiology 
+4 :211 –224 15253839 
+Rushdi A.I.   and Simoneit B.R.T.   (2006 ) Abiotic condensation synthesis of glyceride lipids and wax esters under simulated hydrothermal conditions . Orig Life Evol Biosph 
+36 :93 –108 16642268 
+Russell M.J.   and Arndt N.T.   (2005 ) Geodynamic and metabolic cycles in the Hadean . Biogeosciences 
+2 :97 –111 
+Russell M.J.   and Hall A.J.   (1997 ) The emergence of life from iron monosulphide bubbles at a submarine hydrothermal redox and pH front . J Geol Soc London 
+154 :377 –402 
+Russell M.J.  , Hall A.J.  , Cairns-Smith A.G.  , and Braterman P.S.   (1988 ) Submarine hot springs and the origin of life . Nature 
+336 :117 
+Russell M.J.  , Hall A.J.  , and Turner D.   (1989 ) In vitro growth of iron sulphide chimneys: possible culture chambers for origin-of-life experiments . Terra Nova 
+1 :238 –241 
+Russell M.J.  , Hall A.J.  , and Martin W.   (2010 ) Serpentinization as a source of energy at the origin of life . Geobiology 
+8 :355 –371 20572872 
+Sarda P.   and Graham D.   (1990 ) Mid-ocean ridge popping rocks: implications for degassing at ridge crests . Earth Planet Sci Lett 
+97 :268 –289 
+Scalera G.   (2011 ) Extended abstracts book of the workshop ‘The Earth Expansion Evidence’ 37th Interdisciplinary Workshop of the International School of Geophysics . In The Earth Expansion Evidence: A Challenge for Geology, Geophysics and Astronomy: Selected Contributions to the Interdisciplinary Workshop Held in Erice, Sicily, Italy, 4–9 October 2011 at the Ettore Majorana Foundation and Centre for Scientific Culture , edited by Scalera G.  , Boschi E.  , and Cwojdzinski S.  , Arcane , Rome , p 185 
+Schoell M.   (1983 ) Genetic characterization of natural gases . Am Assoc Pet Geol Bull 
+67 :2225 –2238 
+Schoell M.   (1988 ) Multiple origins of methane in the Earth . Chem Geol 
+71 :1 –10 
+Schoonen M.A.A.  , Xu Y.  , and Bebie J.   (1999 ) Energetics and kinetics of the prebiotic synthesis of simple organic acids and amino acids with the FES-H2S/FES2 redox couple as reductant . Orig Life Evol Biosph 
+29 :5 –32 10077866 
+Schulte M.   and Shock E.   (1995 ) Thermodynamics of Strecker synthesis in hydrothermal systems . Orig Life Evol Biosph 
+25 :161 –173 11536668 
+Seewald J.S.  , Zolotov M.Y.  , and McCollom T.   (2006 ) Experimental investigation of single carbon compounds under hydrothermal conditions . Geochim Cosmochim Acta 
+70 :446 –460 
+Sephton M.A.   and Hazen R.M.   (2013 ) On the origins of deep hydrocarbons . Reviews in Mineralogy and Geochemistry 
+75 :449 –465 
+Sherwood Lollar B.  , and Ballentine C.J   (2009 ) Insights into deep carbon derived from noble gases . Nat Geosci 
+2 :543 –547 
+Sherwood Lollar B.  , and McCollom T.M   (2006 ) Geochemistry: biosignatures and abiotic constraints on early life . Nature 
+444 , doi:10.1038/nature05499 
+Sherwood Lollar B.  , Frape S.K.  , Weise S.M.  , Fritz P.  , Macko S.A.  , and Welhan J.A.   (1993 ) Abiogenic methanogenesis in crystalline rocks . Geochim Cosmochim Acta 
+57 :5087 –5097 
+Sherwood Lollar B.  , Westgate T.D.  , Ward J.A.  , Slater G.F.  , and Lacrampe-Couloume G.   (2002 ) Abiogenic formation of alkanes in the Earth's crust as a minor source for global hydrocarbon reservoirs . Nature 
+416 :522 –524 11932741 
+Sherwood Lollar B.  , Lacrampe-Couloume G.  , Slater G.F.  , Ward J.  , Moser D.P.  , Gihring T.M.  , Lin L.H.  , and Onstott T.C.   (2006 ) Unravelling abiogenic and biogenic sources of methane in the Earth's deep subsurface . Chem Geol 
+226 :328 –333 
+Shock E.L.   (1990 ) Geochemical constraints on the origin of organic compounds in hydrothermal systems . Orig Life Evol Biosph 
+20 :331 –367 
+Shock E.L.   (1992 ) Chapter 5—chemical environments of submarine hydrothermal systems . Orig Life Evol Biosph 
+22 :67 –107 11537554 
+Shock E.L.   (1994 ) Application of thermodynamic calculations to geochemical processes involving organic acids . In The Role of Organic Acids in Geological Processes , edited by Pittman E.D.   and Lewan M.D.  , Springer Verlag , Berlin , pp 270 –318 
+Shock E.L.   and Schulte M.D.   (1990 ) Amino acid synthesis in carbonaceous meteorites by aqueous alteration of polycyclic aromatic hydrocarbons . Nature 
+343 :728 –731 11536464 
+Shock E.L.   and Schulte M.D.   (1998 ) Organic synthesis during fluid mixing in hydrothermal systems . J Geophys Res 
+103 :28513 –28527 
+Silva P.J.  , van den Ban E.C.D.  , Wassink H.  , Haaker H.  , de Castro B.  , Robb F.T.  , and Hagen W.R.   (2000 ) Enzymes of hydrogen metabolism in Pyrococcus furiosus . Eur J Biochem 
+267 :6541 –6551 11054105 
+Simoneit B.R.T.  , Rushdi A.I.  , and Deamer D.W.   (2007 ) Abiotic formation of acylglycerols under simulated hydrothermal conditions and self-assembly properties of such lipid products . Adv Space Res 
+40 :1649 –1656 
+Sleep N.H.  , Meibom A.  , Fredriksson Th.  , Coleman R.G.  , and Bird D.K.   (2004 ) H2-rich fluids from serpentinization: geochemical and biotic implications . Proc Natl Acad Sci USA 
+101 :12818 –12823 15326313 
+Sokolova T.  , Jeanthon C.  , Kostrikina N.  , Chernyh N.  , Lebedinsky A.  , Stackebrandt E.  , and Bonch-Osmolovskaya E.   (2004 ) The first evidence of anaerobic CO oxidation coupled with H2 production by a hyperthermophilic archaeon isolated from a deep sea hydrothermal vent . Extremophiles 
+8 :317 –323 15164268 
+Soule S.A.  , Nakata D.S.  , Fornari D.J.  , Fundis A.T.  , Perfit M.R.  , and Kurz M.D.   (2012 ) CO2 variability in mid-ocean ridge basalts from syn-emplacement degassing: constraints on eruption dynamics . Earth Planet Sci Lett 
+327–328 :39 –49 
+Steynberg A.   and Dry M.   (2004 ) Fischer-Tropsch Technology , Elsevier , Amsterdam 
+Strecker A.   (1850 ) Ueber die künstliche Bildung der Milchsäure und einen neuen dem Glycocoll homologen Körper . Annalen der Chemie und Pharmazie 
+75 :27 –45 
+Stroup J.B.   and Fox P.J.   (1981 ) Geologic investigations in the Cayman trough: evidence for thin oceanic crust along the Mid-Cayman Rise . J Geol 
+89 :395 –420 
+Suda K.  , Ueno Y.  , Yoshizaki M.  , Nakamura H.  , Kurokawa K.  , Nishiyama E.  , Yoshino K.  , Hongoh Y.  , Kawachi K.  , Omori S.  , Yamada K.  , Yoshida N.  , and Maruyama S.   (2014 ) Origin of methane in serpentinite-hosted hydrothermal systems: the CH4–H2–H2O hydrogen isotope systematics of the Hakuba Happo hot spring . Earth Planet Sci Lett 
+386 :112 –125 
+Sugisaki R.  , Ido M.  , Takeda H.  , Isobe Y.  , Hayashi Y.  , Nakamura N.  , Satake H.  , and Mizutani H.   (1983 ) Origin of hydrogen and carbon dioxide in fault gases and its relation to fault activity . J Geol 
+91 :239 –258 
+Sumoondur A.  , Ostertag-Henning C.  , and Koschinsky A.   (2006 ) Amino acids and primary amines in seawater and hydrothermal fluids from the Mid-Atlantic Ridge . In The 3rd SPP 1144 Workshop , Etelsen , Germany 
+Sylvester-Bradley P.C.   (1964 ) The origin of oil and life . Discovery 
+25 :37 –42 
+Szatmari P.   (1989 ) Petroleum formation by Fischer-Tropsch synthesis in plate tectonics . Am Assoc Pet Geol Bull 
+73 :989 –998 
+Takai K.  , Gamo T.  , Tsunogai U.  , Nakayama N.  , Hirayama H.  , Nealson K.H.  , and Horikoshi K.   (2004a ) Geochemical and microbiological evidence for a hydrogen-based, hyperthermophilic subsurface lithoautotrophic microbial ecosystem (HyperSLiME) beneath an active deep sea hydrothermal field . Extremophiles 
+8 :269 –282 15309563 
+Takai K.  , Nealson K.H.  , and Horikoshi K.   (2004b ) Methanotorris formicicus sp nov., a novel extremely thermophilic, methane-producing archaeon isolated from a black smoker chimney in the Central Indian Ridge . Int J Syst Evol Microbiol 
+54 :1095 –1100 15280275 
+Takai K.  , Nakamura K.  , Toki T.  , Tsunogai U.  , Miyazaki M.  , Miyazaki J.  , Hirayama H.  , Nakagawa S.  , Nunoura T.  , and Horikoshi K.   (2008 ) Cell proliferation at 122°C and isotopically heavy CH4 production by a hyperthermophilic methanogen under high-pressure cultivation . Proc Natl Acad Sci USA 
+105 :10949 –10954 18664583 
+Takano Y.  , Kobayashi K.  , Yamanaka T.  , Marumo K.  , and Urabe T.   (2004 ) Amino acids in the 308°C deep sea hydrothermal system of the Suiyo Seamount, Izu-Bonin Arc, Pacific Ocean . Earth Planet Sci Lett 
+219 :147 –153 
+Taran Y.A.  , Kliger G.A.  , and Sevastianov V.S.   (2007 ) Carbon isotope effects in the open-system Fischer-Tropsch synthesis . Geochim Cosmochim Acta 
+71 :4474 –4487 
+Taran Y.A.  , Kliger G.A.  , Cienfuegos E.  , and Shuykin A.N.   (2010a ) Carbon and hydrogen isotopic compositions of products of open-system catalytic hydrogenation of CO2: implications for abiogenic hydrocarbons in Earth's crust . Geochim Cosmochim Acta 
+74 :6112 –6125 
+Taran Y.A.  , Varley N.R.  , Inguaggiato S.  , and Cienfuegos E.   (2010b ) Geochemistry of H2- and CH4-enriched hydrothermal fluids of Socorro Island, Revillagigedo Archipelago, Mexico. Evidence for serpentinization and abiogenic methane . Geofluids 
+10 :542 –555 
+Tissot B.P.   and Welte D.H.   (1984 ) Petroleum Formation and Occurrence , Springer-Verlag , Berlin 
+Ueno Y.  , Yamada K.  , Yoshida N.  , Maruyama S.  , and Isozaki Y.   (2006a ) Evidence from fluid inclusions for microbial methanogenesis in the early Archaean era . Nature 
+440 :516 –519 16554816 
+Ueno Y.  , Yamada K.  , Yoshida N.  , Maruyama S.  , and Isozaki Y.   (2006b ) Geochemistry: biosignatures and abiotic constraints on early life (Reply) . Nature 
+444 :E18 –E19 17167427 
+Von Damm K.L.   (1995 ) Controls on the chemistry of temporal variability of seafloor hydrothermal fluids . In Seafloor Hydrothermal Systems: Physical, Chemical, Biological and Geological Interactions Systems , edited by Humphris S.  , American Geophysical Union , Washington, DC , pp 222 –247 
+Von Damm K.L.  , Bray A.M.  , Buttermore L.G.  , and Oosting S.E.   (1998 ) The geochemical controls on vent fluids from the Lucky Strike vent field, Mid-Atlantic Ridge . Earth Planet Sci Lett 
+160 :521 –536 
+Wakita H.  , Nakamura K.  , Kita J.  , Fuji N.  , and Notsu K.   (1980 ) Hydrogen release: new indication of fault activity . Science 
+210 :188 –190 17741286 
+Ware R.H.  , Roecken C.  , and Wyss M.   (1985 ) The detection and interpretation of hydrogen in fault gases . Pure and Applied Geophysics 
+122 :392 –402 
+Welhan J.A.   (1988 ) Origins of methane in hydrothermal systems . Chem Geol 
+71 :183 –198 
+Wetzel L.R.   and Shock E.J.   (2000 ) Distinguishing ultramafic from basalt-hosted submarine hydrothermal systems by comparing calculated vent fluid compositions . J Geophys Res 
+105 :8319 –8340 
+Whiticar M.J.  , Faber E.  , and Schoell M.   (1986 ) Biogenic methane formation in marine and freshwater environments: CO2 reduction vs. acetate fermentation—isotope evidence . Geochim Cosmochim Acta 
+50 :693 –709 
+Wilde S.A.  , Valley J.W.  , Peck W.H.  , and Graham C.M.   (2001 ) Evidence from detrital zircons for the existence of continental crust and oceans on the Earth 4.4 Gyr ago . Nature 
+409 :175 –178 11196637 
+Williams L.B.  , Canfield B.  , Voglesonger K.M.  , and Holloway J.R.   (2005 ) Organic molecules formed in a “primordial womb.” 
+Geology 
+33 :913 –916 
+Yamaguchi A.  , Yamamoto M.  , Takai K.  , Ishii T.  , Hashimoto K.  , and Nakamura R.   (2014 ) Electrochemical CO2 reduction by Ni-containing iron sulfides: how is CO2 electrochemically reduced at bisulfide-bearing deep-sea hydrothermal precipitates? 
+Electrochim Acta 
+141 :311 –318

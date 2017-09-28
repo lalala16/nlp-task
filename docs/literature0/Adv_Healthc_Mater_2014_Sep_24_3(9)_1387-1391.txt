@@ -1,0 +1,278 @@
+
+==== Front
+Adv Healthc MaterAdv Healthc MateradhmAdvanced Healthcare Materials2192-26402192-2659BlackWell Publishing Ltd Oxford, UK 10.1002/adhm.201400065CommunicationsAssessing Cellular Response to Functionalized α-Helical Peptide
+Hydrogels Mehrban Nazia Abelardo Edgardo Wasmuth Alexandra Hudson Kieran L Mullen Leanne M Thomson Andrew R Birchall Martin A Woolfson Derek N Dr. N. Mehrban, Dr. A. Wasmuth, K. L. Hudson, Dr. L. M. Mullen, Dr. A. R. Thomson,
+Prof. D. N. Woolfson, School of Chemistry, University of Bristol, Cantock's
+CloseBristol, BS8 1TS, UKDr. E. Abelardo, Prof. M. A. Birchall, University College London Ear Institute, Professorial Unit, Royal Throat,
+Nose and Ear Hospital330 Grays Inn Rd, London, WC1X 8DA, UK Email: D.N.Woolfson@bristol.ac.uk,
+m.birchall@ucl.ac.uk9 2014 24 3 2014 3 9 1387 1391 31 1 2014 © 2014 The Authors. Published by WILEY-VCH Verlag GmbH & Co.
+KGaA, Weinheim2014This is an open access article under the terms of the Creative Commons Attribution License, which
+permits use, distribution and reproduction in any medium, provided the original work is properly
+cited.2D cell culturePC12 cellspeptide hydrogelsself-assembled fiberstissue engineering
+==== Body
+For applications in 2D and 3D cell cultures and tissue engineering, there is a need to develop
+biocompatible scaffolds that support cell and tissue growth therefore mimicking the biochemical and
+morphological properties of the natural extracellular matrix (ECM). In order to support cellular
+growth, the scaffold must provide mechanical stability, promote cellular attachment, proliferation
+and differentiation, permit diffusion of gases, nutrients and waste and allow control of the
+degradation rate of the temporary support while minimizing cytotoxic side effects in vivo.1
+
+Hydrogels have been extensively investigated and used clinically for cell support in vitro and in
+vivo in regenerative medicine: their underlying structure mimics the interconnected fibrous network
+of the ECM;2 the hydrated and porous nature of the gels allows
+diffusion of nutrients into the scaffold and waste to diffuse out3,4; and bioactive molecules can be incorporated into
+the fabric of the gels via passive uptake, direct incorporation during material synthesis, or
+conjugation after synthesis and/or assembly.5–8
+
+While natural and ex vivo materials such as agarose,9
+alginate,10 carrageenan,11 gelatin,12 collagen,13 and Matrigel14 are common current choices
+for such scaffolds due to their availability and established cellular responses, there is often a
+lack of control over their formation, degradation, mechanical properties, and chemical modification.
+Furthermore, ex vivo scaffolds, such as collagens and Matrigel,15 show batch-to-batch variation and can potentially introduce disease. Synthetic scaffolds,
+such as poly(hydroxyethylmethacrylate),16 poly(vinyl
+alcohol),17 and polypeptide-based protein anchors18 address some of these issues, and provide partially favorable
+environments for 2D and 3D cell cultures. However, their reduced complexity often fails to mirror
+native tissue and some degradation by-products can cause unwanted cellular responses.19 The advantages and limitations of various tissue engineering
+scaffolds are reviewed by Chan and Leong.20
+
+In principle, bottom-up scaffolds generated and engineered via biomolecular design allow the
+desired traits from the natural and synthetic scaffolds to be combined into one construct, and so
+create platforms for guiding cell growth and inducing specific biological responses. With this in
+mind, a number of peptide-based systems have been reported that utilize amyloid-like
+assemblies,21–23α-helical assemblies,24–26 and peptide amphiphiles27–30 as building blocks. A challenge in this
+area is to build complexity and control into these systems, ideally in a modular or pick-and-mix
+way; some of the systems reported to date lend themselves better to this ambition than others.31
+
+Using a bottom-up design approach, we have reported a two-component peptide system for making
+hydrogels, termed hSAFs (hydrogelating self-assembling fibers).32 The peptides (hSAF-p1 and hSAF-p2) are designed de novo using principles for peptide
+self-assembly. When mixed the two peptides form coiled-coil α-helical fibrous structures,
+which subsequently interact to form percolated gels. These gels support 2D cell culture. Here, we
+show that the original two-peptide hSAF system can be supplemented with other components to bring
+cell-binding functions to the system, hence building up complexity and functionality.
+
+To achieve this functionalization, we developed a variant of hSAF-p1 harboring an azide moiety
+(Figure1A,B, Figure 1, Supporting
+Information). This peptide, hSAF-p1(N3), was mixed with hSAF-p2 and after overnight
+gelation an alkyne-bearing peptide containing the cell adhesion motif Arg-Gly-Asp-Ser (alk-RGDS) was
+added and appended to the hydrogel via copper-catalyzed azide-alkyne cycloaddition (CuAAC; hereafter
+referred to as the “click reaction”) by overnight reaction in the presence of Cu(I)
+(Figure B).33
+Alk-RGDS was used in this study as it promotes cellular attachment via integrin binding.34 The use of RGD to promote cellular adhesion in other
+peptide-based fibrous and hydrogel systems has been reported.25,35,36 We
+argue here that we gain added utility and control over assembly and functionalization using a
+modular, dual-peptide system, that is, the α-helical de novo-designed hSAFs. The
+RGDS-decorated hSAF assemblies were α-helical to an extent comparable to the parent system
+(see Figure 2, Supporting Information); and electron microscopy (EM) showed that the decoration and
+subsequent washing procedure did not perturb the gel structure (Figure
+2A–D). For this work, we incorporated
+azidonorleucine at the N-terminus of hSAF-p1, although successful decoration was
+also achieved by substitution at the C-terminus (Figure 3, Supporting Information).
+Gel formation with predecorated p1(N3) and p2 was not successful (Figure 4, Supporting
+Information). Analysis of the decorated gels by high-performance liquid chromatography (HPLC) showed
+that the RGDS functionality extended entirely through 2 mm thick gels (Figure 5, Supporting
+Information); and an absorbance-based copper assay showed that the copper used to drive the reaction
+was successfully removed by subsequent washing (Figure 6, Supporting Information).
+
+Figure 1 Peptide sequences, a schematic of the click reaction, and the half-moon model. A) Peptide
+sequences used for this study. Key: z, azido norleucine; Prop, propiolate. B) The gel was formed
+using an N-terminally azido-modified hSAF-p1. Decoration was achieved by performing
+a click reaction with alk-RGDS on azide-containing gels catalyzed by CuSO4 with ascorbic
+acid (AA). C) Side-by-side gel formation in 24-well cell-culture plates allowed a direct comparison
+of cellular behavior on undecorated hSAF- and RGDS-decorated hSAF gels. Key: undecorated hSAF gel,
+gray; and RGDS-decorated hSAF gel, blue.
+
+Figure 2 Fiber morphology and gel structure. Transmission electron images for the A) undecorated hSAF and
+C) RGDS-decorated hSAF fibers. Average fiber diameters were 13 ± 5 nm for hSAF-undecorated
+fibers and 17 ± 4 nm for RGDS-decorated hSAF fibers. B,D) Scanning electron images showing
+interconnected fibers forming porous hydrogels of similar morphology D) with and B) without
+alk-RGDS. The gels are self-supporting (insets). Scale bars on (A,C) equal 200 nm while scale bars
+on (B,D) equal 1 μm.
+
+To assess and compare cellular responses of undecorated and RGDS-decorated hSAFs, we constructed
+a “half-moon model” (Figure 1C), in which the
+two gels were prepared side-by-side in the same tissue-culture well, a similar model to that
+recently presented by Chan et al.37
+
+As a model for neuronal differentiation, we seeded PC12 cells38 on both sides of the half-moon hSAF gels. The experiments were followed by light and
+fluorescence microscopy (Figure
+3A–F), and after 14 days cell morphology
+indicated that cells had attached to both the undecorated hSAF- and RGDS-decorated hSAF sides.
+However, the number of cells attached to the latter appeared considerably greater (Figure 3A,D).
+
+Figure 3 Response of PC12 cells to hydrogels. A,D) Light microscopy images showing PC12 attachment, and
+elongated cell morphology, to undecorated hSAF- and RGDS-decorated hSAF gels after 14 d. B,E)
+Representative fluorescent images for DAPI-stained cells on undecorated hSAF- and RGDS-decorated
+hSAF gels. C,F) Viable cells on undecorated hSAF- and RGDS-decorated hSAF gels indicated by
+calcein-AM staining. G) Proliferation of PC12 cells on gels and TCP over 14 d as judged by MTT
+assays. H) DNA quantification using Hoechst dye for PC12 cells on the gels and TCP over 14 d. I)
+PC12 differentiation, J) number of neurite-like processes, and K) lengths of processes as a function
+of time. Due to a high proliferation rate, individual cell processes were difficult to identify at
+day 14 on Matrigel. Dashed lines represent the projections for Matrigel assuming that the underlying
+trend from the early time points continues. Key: undecorated hSAF gel, gray; RGDS-decorated hSAF
+gel, blue; Matrigel, red; and TCP, green.
+
+The proliferative activity of the cells growing on the RGDS-decorated side of the gels was
+≈50% greater than that of cells on the undecorated side. The higher rates of metabolic
+activity and proliferation39 on the decorated hSAF side were
+similar to those observed for PC12 cells seeded on commercially available Matrigel (Figure 3G,H;
+Figures 7 and 8, Supporting Information).
+
+The above-mentioned experiments were conducted without neural growth factor (NGF), which
+terminates mitosis and induces primary neural outgrowth in PC12 cells.40 In parallel experiments, the introduction of NGF promoted cell differentiation,
+as defined by the presence of neurite-like extensions, by day 3 on both sides of the gel (Figure 3I). Again the degree of differentiation was higher on the
+hSAF-decorated side: (11 ± 4.6)% cells showed processes on this side, compared with (6
+± 2.6)% on the undecorated side); and the mean number of neural projections extending
+from the cell body was more than twice as high on the decorated versus undecorated hSAF gel by day
+14 (Figure 3J). However, the projection length did not vary
+significantly between the decorated hSAF and undecorated hSAF halves of the gel (Figure 3K). An assessment of PC12 cells on gels with alk-RGDS
+attached via the C-terminus of hSAF-p1 showed that the effects were similar to
+those observed with the ligand attached via the N-terminus (Figure 9, Supporting
+Information).
+
+To test the specificity of the peptide–cell interactions, we compared hSAF gels decorated
+with alk-RGDS and alk-RGES. The latter reduces the efficacy of cell attachment considerably compared
+with alk-RGDS-based sequences.41 We found this to be the case
+in the hSAF system: changing the aspartic acid (D) to a glutamic acid (E) reduced cellular
+attachment by approximately 50% (Figure 10, Supporting Information).
+
+The above studies used hSAF gels with every hSAF-p1(N3) decorated. It would be
+advantageous to reduce this percentage to reduce reagent costs and to allow combinations of
+functionalities to be added via addition of cocktails of modifiers. To begin testing this, we
+prepared gels with 1%, 10%, and 100% hSAF-p1(N3) in hSAF-p1 and
+performed the click reaction with alk-RGDS. The cellular responses to undecorated hSAF and 1%
+incorporation were similar. However, the behavior of the 10% and 100% decoration was
+also similar, showing that considerably less reagent can be used (Figure 11, Supporting
+Information).
+
+Finally, a separate assessment of 3T3 fibroblast cells with RGDS-functionalized hSAFs showed that
+although the attachment of the cells appeared greater on RGDS-decorated gels than on the undecorated
+gels, the proliferative activity of the cells on RGDS-decorated hSAF gels was comparable to that on
+tissue-culture-treated poly(styrene) (TCP; Figures 12–14, Supporting Information). Thus, not
+all cells respond significantly to our hSAF gel system.
+
+In summary, we have conjugated a cell-adhesion motif to a rationally designed self-assembling
+peptide hydrogel system, resulting in stable functional scaffolds suitable for cell culture.
+Utilization of a “half-moon” protocol allows functionalized and non-functionalized
+gels to be compared directly in the same tissue-culture well. The morphology, viability, and
+proliferative activity of PC12 cells seeded on the scaffold surface were demonstrated over 14 days,
+showing enhanced cellular growth and differentiation on RGDS-modified hSAF gels, highlighting the
+potential for adding cell-specific motifs to more closely mimic ECM biochemistry. This novel
+functionalized system offers complex functional scaffolds with tight control over morphology and
+biochemistry, and with the potential to engineer cell cultures, cell therapy delivery systems, and
+tissue matrices that closely reflect the in vivo environment and thereby enhance cell
+performance.
+
+Experimental Section
+Scaffold Formation: Peptides were synthesized using standard solid-phase peptide
+synthesis protocols on a CEM “Liberty” microwave-assisted peptide synthesizer.
+Peptides were purified by reversed-phase HPLC and their masses confirmed by MALDI-TOF mass
+spectrometry. Typically, hSAF gels were prepared by mixing separate 1 ×
+10−3
+m stock solutions for each parent peptide (hSAF-p1 and hSAF-p2), which were made up in 20
+× 10−3
+m MOPS (3-(N-morpholino)propanesulfonic acid) buffer at pH 7.4. This gave
+final solutions of 0.5 × 10−3
+m in each peptide. These were left on ice for 5 min followed by 30 min incubation at 20
+°C, resulting in gels, which we refer to as 0.5 × 10−3
+m gels. (n.b., For the C-terminally modified peptide, the stock solutions
+were prepared at 2 × 10−3
+m, giving “1 × 10−3
+m gels”.) For decoration experiments, hSAF-p1 was substituted for
+hSAF-p1(N3). After, gel formation was performed by addition of 2 ×
+10−3
+m alk-RGDS and CuSO4 and ascorbic acid each at 4 × 10−3
+m final concentration at 20 °C overnight. The gel was then washed with 10 ×
+10−3
+m ethylenediaminetetraacetic acid (EDTA) buffer, phosphate buffered saline (PBS), and
+supplemented-Dulbecco's Modified Eagle Medium (S-DMEM). The presence of remaining copper
+after decoration was assessed by bicinchoninic acid assay (see Figure 6, Supporting Information).
+The extent of clicked alk-RGDS was analyzed by analytical HPLC followed, with peak identity
+confirmed by mass spectrometry. Half-moon gels were formed in 24-well cell-culture plates using
+sterile glass coverslips as temporary separators for the undecorated hSAF- and RGDS-decorated hSAF
+gels.
+
+Biophysical Measurements: Peptide secondary structure was determined via
+circular dichroism spectroscopy using a Jasco J-810 CD spectrometer. Fiber morphology was visualized
+using a JEM 1200 EX MKI transmission electron microscope with a MegaViewII digital camera. Gel
+scaffold morphology was determined by fixing the sample with glutaraldehyde, removing the moisture
+via a critical point drying method and imaging using a Jeol JSM-633OF field-emission scanning
+electron microscope.
+
+Cell Studies: PC12 cells, kindly gifted by Prof. Jeremy Henley at the University
+of Bristol, were seeded onto gels. Cellular morphology was assessed using a light microscope. For
+live cell imaging, the cells were stained with calcein-AM, their nuclei highlighted with DAPI
+(4′,6-diamidino-2-phenylindole) and imaged using a Leica DM IRBE inverted epifluorescence
+microscope. The metabolic activity, and therefore the proliferation rate, of the cells was evaluated
+by an MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide) absorbance assay (see
+§1.14, Supporting Information). These data were supported by a DNA quantification assay (see
+§1.15, Supporting Information). Differentiated PC12 cells were imaged using light microscopy,
+and ImageJ was used to count the number of differentiated cells (where differentiation is defined as
+one or more neural extension being longer than the major diameter of the cell body), the number of
+extensions per cell and the length of extensions. All quantitative data are presented in the format
+“mean ± standard error of the mean.” Significant differences between comparable
+groups were determined by analysis of variance (ANOVA) with post hoc Tukey–Kramer honestly
+significant difference (HSD). The significance level was set at p <
+0.05.
+
+Author Contributions
+E.A., M.A.B., N.M., and D.N.W. conceived the project. All authors designed the various
+experiments. E.A., K.L.H., N.M., A.R.T., and A.W. made the peptides and performed the biophysical
+work. N.M. and E.A. conducted the cell-culture experiments. M.A.B. and D.N.W. supervised the work.
+N.M., A.W., and D.N.W. wrote the paper.
+
+D.N.W. and M.A.B. thank the BBSRC (H01716X) for financial support; and E.A. and M.A.B. thank the
+Royal College of Surgeons of England for a Modi Fellowship to E.A. K.L.H. thanks the Bristol
+Chemical Synthesis Centre for Doctoral Training, funded by EPSRC (EP/G036764/1) and the University
+of Bristol for a Ph.D. studentship. The authors are grateful to the Chemistry Electron Microscopy
+Unit and the Wolfson Bioimaging Facility at the University of Bristol for access to microscopes and
+advice.
+
+Supporting Information
+As a service to our authors and readers, this journal provides supporting information supplied by
+the authors. Such materials are peer reviewed and may be re-organized for online delivery, but are
+not copy-edited or typeset. Technical support issues arising from supporting information (other than
+missing files) should be addressed to the authors.
+
+Supporting Information
+==== Refs
+Dhandayuthapani B  Yoshida Y  Maekawa T  Kumar DS   Int. J. Polym. Sci 2011 2011 1 
+Geckil H  Xu F  Zhang X  Moon S  Demirci U   Nanomedicine 2010 5 469 20394538 
+Jeon O  Song SJ  Lee KJ  Park MH  Lee SH  Hahn SK  Kim S  Kim BS   Carbohyr. Polym 2007 70 251 
+Hou QP  Grijpma DW  Feijen J   Biomaterials 2003 24 1937 12615484 
+Zhu JM  Marchant RE   Expert Rev. Med. Devices 2011 8 607 22026626 
+Silva GAC  Czeisler C  Niece KL  Beniash E  Harrington DA  Kessler JA  Stupp SI   Science 2004 303 1352 14739465 
+Matsuzawa MW  Weight FF  Potember RS  Liesi P   Int. J. Dev. Neurosci 1996 14 283 8842805 
+Garreta EG  Gasset D  Semino C  Borros S   Biomol. Eng 2007 24 75 16846750 
+Stokols S  Sakamoto J  Breckon C  Holt T  Weiss J  Tuszynski MH   Tissue Eng 2006 12 2777 17518647 
+Kim G  Ahn S  Kim Y  Cho Y  Chun W   J. Mater. Chem 2011 21 6165 
+Santo VE  Frias AM  Carida M  Cancedda R  Gomes ME  Mano JF  Reis RL   Biomacromolecules 2009 10 1392 19385660 
+Pan Y  Dong SW  Hao Y  Chu TW  Li CQ  Zhang ZF  Zhou Y   Afr. J. Microbiol. Res 2010 4 865 
+Butler DL  Gooch C  Kinneberg KR  Boivin GP  Galloway MT  Nirmalanandhan VS  Shearn JT  Dyment NA  Juncosa-Melvin N   Nat. Protoc 2010 5 849 20431531 
+Mondrinos MJK  Koutzaki SH  Poblete HM  Crisanti MC  Lelkes PI  Finck CM   Tissue Eng. Pat. A 2008 14 361 
+Li Z  Guan J   Polymers 2011 3 740 
+Zhang B  Lalani R  Cheng F  Liu Q  Liu L   J. Biomed. Mater. Res., Part A 2011 99A 455 
+Puppi D  Piras AM  Detta N  Ylikauppila H  Nikkola L  Ashammakhi N  Chiellini F  Chiellini E   J. Bioact. Compat. Polym 2011 26 20 
+Zhang KC  Diehl MR  Tirrell DA   J. Am. Chem. Soc 2005 127 10136 16028902 
+Chen J  Xu J  Wang A  Zheng M   Expert Rev. Med. Devices 2009 6 61 19105781 
+Chan BP  Leong KW   Euro. Spine J 2008 17 S467 
+Gras SLT  Tickler AK  Squires AM  Devlin GL  Horton MA  Dobson CM  MacPhee CE   Biomaterials 2008 29 1553 18164758 
+Horii AW  Wang X  Gelain F  Zhang S   PLoS One 2007 2 e190 17285144 
+Haines-Butterick LR  Rajagopal K  Branco M  Salick D  Rughani R  Pilarz M  Lamm MS  Pochan DJ  Schneider JP   Proc. Natl. Acad. Sci. U.S.A 2007 104 7791 17470802 
+Wagner DEP  Phillips CL  Ali WM  Nybakken GE  Crawford ED  Schwab AD  Amith WF  Fairman R   Proc. Natl. Acad. Sci. U. S. A 2005 102 12656 16129839 
+Assal YM  Mie M  Kobatake E   Biomaterials 2013 34 3315 23388150 
+Rudra JST  Tripathi PK  Hildeman DA  Jung JP  Collier JH   Biomaterials 2010 31 8475 20708258 
+Hartgerink JDB  Beniash E  Stupp SI   Science 2001 294 1684 11721046 
+Harrington DAC  Cheng EY  Guler MO  Lee LK  Donovan JL  Claussen RC  Stupp SI   J. Biomed. Mater. Res. Part A 2006 78 157 
+Greenfield MAH  Hoffman JR  de la Cruz MO  Stupp SI   Langmuir 2010 26 3641 19817454 
+Cui HW  Webber MJ  Stupp SI   Biopolymers 2010 94 1 20091874 
+Woolfson DN  Mahmoud ZN   Chem. Soc. Rev 2010 39 3464 20676443 
+Banwell EF  Abelardo ES  Adams DJ  Birchall MA  Corrigan A  Donald AM  Kirkland M  Serpell LC  Butler MF  Woolfson DN   Nat. Mater 2009 8 596 19543314 
+Rostovtsev VV  Green LG  Fokin VV  Sharpless KB   Angew. Chem. Int. Ed. Eng 2002 41 2596 Angew. Chem 2002 114 
+Jeschke B  Meyer J  Jonczyk A  Kessler H  Adamietz P  Meenen NM  Kantlehner M  Goepfert C  Nies B   Biomaterials 2002 23 3455 12099289 
+Galler KMC  Cavender A  Yuwono V  Dong H  Shi S  Schmalz G  Hartgerink JD  D'Souza RN   Tissue Eng. Part A 2008 14 2051 18636949 
+Jung JPM  Moyano JV  Collier JH   Integr. Biol 2011 3 185 
+Chan TR  Stahl PJ  Yu SM   Adv. Funct. Mater 2011 21 4252 
+Das KP  Freudenrich TM  Mundy WR   Neurotoxicol. Teratol 2004 26 397 15113601 
+Mosmann T   J. Immunol. Methods 1983 65 55 6606682 
+Greene LAT  Tischler AS   Proc. Natl. Acad. Sci. U.S.A 1976 73 2424 1065897 
+Hautanen A  Gailit J  Mann DM  Ruoslahti E   J. Biol. Chem 1989 264 1437 2521482

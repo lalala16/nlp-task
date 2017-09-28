@@ -1,0 +1,137 @@
+
+==== Front
+Brain PatholbpaBrain Pathology (Zurich, Switzerland)1015-63051750-3639Blackwell Publishing Ltd 10.1111/j.1750-3639.2008.00148.xResearch ArticlesGenome-Wide Analysis of Subependymomas Shows Underlying Chromosomal Copy Number Changes Involving Chromosomes 6, 7, 8 and 14 in a Proportion of Cases Kurian Kathreena M Jones David TW Marsden Faye Openshaw Sam WS Pearson Danita M Ichimura Koichi Collins V Peter Department of Pathology, Division of Molecular Histopathology, Cambridge UniversityCambridge, UKKathreena M. Kurian, MBBS, MD, FRCP, BSc, Box 237, Department of Pathology, University of Cambridge, Laboratories Block Level 5, Addenbrooke's Hospital, Hills Road, Cambridge CB2 2QQ, UK (E-mail: kathreena.kurian@doctors.org.uk)
+10 2008 18 4 469 473 09 11 2007 29 11 2007 © 2008 The Authors; Journal Compilation © 2008 International Society of Neuropathology2008Re-use of this article is permitted in accordance with the Creative Commons Deed, Attribution 2.5, which does not permit commercial exploitation.
+
+Subependymomas (SE) are slow-growing brain tumors that tend to occur within the ventricles of middle-aged and elderly adults. The World Health Organization classifies these tumors within the ependymoma group. Previous limited analysis of this tumor type had not revealed significant underlying cytogenetic abnormalities.
+
+We have used microarray comparative genomic hybridization to study a series of SE (n = 12). A whole-genome array at 0.97-Mb resolution showed copy number abnormalities in five of 12 cases (42%). Two cases (17%) showed regions of loss on chromosome 6. More detailed analysis of all cases using a chromosome 6 tile-path array confirmed the presence of overlapping regions of loss in only these two cases. One of these cases also showed trisomy chromosome 7. Monosomy of chromosome 8 was seen in a further two cases (17%), and a partial loss on chromosome 14 was observed in one additional case.
+
+This is the first array-based, genome-wide study of SE. The observation that five of 12 cases examined (42%) at 0.97-Mb resolution showed chromosomal copy number abnormalities is a novel finding in this tumor type.
+
+aCGHarray comparative genomic hybridizationependymomamicroarraysubependymomawhole genome
+==== Body
+INTRODUCTION
+Subependymomas (SE) were first described by Scheinker in 1945 (31). They are slow growing, benign neoplasms of uncertain histogenesis typically located within the ventricles (20). Most cases of SE occur in middle or old age, and they are more frequent in men than women (32). Prognosis is generally good, and surgical removal alone is often curative (19, 24, 27, 28).
+
+The true incidence of these tumors is unclear. In a series of 298 ependymal tumors examined by Schiffer et al, they accounted for 8.3% of cases (33). SE occur most frequently within the fourth ventricle (50%–60%), followed by the lateral ventricles (30%–40%) (20). Less common sites include the third ventricle, the septum pellucidum and the spinal cord (16). In the vast majority of cases, they develop sporadically, though very occasional familial cases have been described (5, 6, 13, 30). One report describes infratentorial SE occurring in two identical twins 6).
+
+The proposed precursor cell of the SE is still controversial and suggestions have included subependymal glia (1, 26), astrocytes of the subependymal plate, ependymal cells (21, 29) and a mixture of astrocytes and ependymal cells (4, 10). Recent work has proposed radial glia as the cancer stem cell underlying ependymoma development 10); however, similar studies of SE have not yet been undertaken.
+
+The histological appearance of SE is distinctive, comprised of clusters of glial tumor cells embedded in an abundant fibrillary matrix (20). However, areas with subependymomal morphology can be found in otherwise classical ependymomas (20).
+
+Three previous cytogenetic studies using karyotypic analysis of metaphase spreads looked at a total of six cases of SE. This revealed no cytogenetic abnormalities in five cases, but in one case with a normal karyotype, non-clonal structural abnormalities were identified on the short arm of chromosome 17 (7, 8, 35). A further study using flow cytometry to assess DNA content in 15 cases found aneuploidy in one case of SE, and a higher than normal proportion of cells in G2/M phase in two cases 21). Specific genetic analysis of two SE for allelic deletions on chromosomes 10q and 22q and for point mutations of the NF2 and PTEN tumor suppressor genes did not reveal any changes at these loci (9).
+
+Our aim was to examine a cohort of twelve SE using array comparative genomic hybridization techniques, in order to assess the contribution of copy number change to the oncogenesis of SE. We report two cases with copy number abnormalities on chromosome 6 and two cases with monosomy of chromosome 8, as well as individual incidences of trisomy of chromosome 7 and one partial loss on chromosome 14. To our knowledge, this is the first genome-wide array-based study of SE.
+
+MATERIALS AND METHODS
+Patients, tumor tissue and DNA isolation
+Primary tumor samples from 12 patients with a SE were included in the analysis. The tumors were resected at the Karolinska Hospital, Stockholm, and the Sahlgrenska University Hospital, Gothenburg, Sweden between 1988 and 1997. Full ethical approval has been given for this study. At resection, the median age of the patients was 54 years (range 25–76 years). Patients’ gender, age at resection and tumor location are described in Table 1. Histopathological classification was undertaken according to World Health Organization recommendations. All tumor pieces were selected for DNA extraction after histological examination to ensure a minimum of 80% tumor cells within the samples. DNA was extracted from tumor pieces and blood lymphocytes as described previously (21). Tumor samples were stored at −135°C and blood samples at −20°C before DNA extraction. Extracted DNA was stored at −80°C.
+
+Table 1 Results of whole genome microarray comparative genomic hybridization (aCGH).
+
+Case ID	Sex	Age	Location	aCGH result	
+					
+				Gains	Losses	
+SE1	M	69	Fourth ventricle			
+SE2	M	76	Fourth ventricle		−14q21.1-q31.3	
+SE3	F	39	Right lateral ventricle		−8	
+SE4	F	48	Right lateral ventricle			
+SE5	M	52	Fourth ventricle			
+SE6	F	49	Intramedullary		Complex −6p/6q	
+SE7	M	52	Brainstem			
+SE8	M	56	Brainstem			
+SE9	M	25	Intraventricular			
+SE10	M	68	Fourth ventricle			
+SE11	M	56	Fourth ventricle	+7	−6q13-q15	
+SE12	M	58	Intraventricular		−8	
+Microarray comparative genomic hybridization
+A 0.97-Mb resolution whole genome microarray was constructed with 3038 clones obtained from the Wellcome Trust Sanger Institute as described previously (9, 21). The chromosome 6 tile-path array contains 1780 clones [778 P1-derived artificial chromosomes and 1002 bacterial artificial chromosomes (BACs)] that cover 98.3% of the published chromosome 6 sequence. Construction of this tile-path array has been described previously (14).
+
+All labeling and hybridizations were performed as described previously (15, 18). Briefly, 400–800 ng of test and reference DNA were labeled using a Bioprime Labeling Kit (Invitrogen, Carlsbad, CA) with a modified dNTP reaction mixture. Test DNA was hybridized with sex-mismatched reference DNA from samples of pooled blood from 20 normal men or 20 normal women. The labeled and purified DNA was co-precipitated with 45 μg Cot1 DNA (Roche Diagnostic, Mannheim, Germany). The precipitated DNA was dissolved in hybridization buffer, incubated at 37°C for 2 h, and hybridized to the array that had been pre-hybridized with 480 mg herring sperm DNA (Sigma-Aldrich, St. Louis, MO) and 80 μg Cot1 DNA. Arrays were allowed to hybridize for up to 24 h at 37°C and then washed and analyzed as previously described (15, 18). Scanning and analysis of the arrays, criteria for exclusion of spots and scoring of copy number have also been described previously (21).
+
+RESULTS
+Clinicopathological data for the samples as well as any changes seen on the whole-genome array are summarized in Table 1. SE are more common in men than women, and this is reflected by this series (9 men : 3 women). The median age at operation was 54 years. The majority of the tumors (9/12, 75%) were intraventricular, though individual cases located in the brainstem and spinal cord were also included.
+
+Most of the cases examined (7/12, 58%) showed normal copy number across the genome at 0.97-Mb resolution. Five of 12 (42%) cases showed abnormal copy number as shown in Table 1. SE3 and SE12 showed loss of an entire chromosome 8, SE6 showed a complex pattern of losses on chromosome 6 described in more detail below, SE11 showed a gain of chromosome 7 and a partial loss on chromosome 6 (−6q13-q15; maximally between RP3-424L16 to RP1-23D17) and SE2 showed a partial loss of 14q21.1-q31 shown in more detail below.
+
+Two copy number alterations were seen in more than one case each. Firstly, both SE3 and SE12 showed loss of one copy of chromosome 8. Whole genome plots of SE3 and SE12 are shown in Figure 1.
+
+Figure 1 Whole genome microarray comparative genomic hybridization of subependymoma (SE)3 and SE12 showing monosomy 8.
+
+In addition, two cases (SE6 and SE11) showed small lengths of overlapping copy number loss within chromosome 6 on the whole genome array. As a result of identification of these apparently relatively small deletions, all cases were subjected to further analysis at higher resolution on a chromosome 6 tiling-path array. The minimal overlapping area of loss in SE6 and SE11 is a 10.01-Mb region between BACs RP11-398K22 and RP1-202D23. The tiling-array plots from SE6 and SE11, along with a schematic representation of the region of overlap are shown in Figure 2. The remaining 10 cases were also examined with the chromosome 6 tiling-path array and no further changes in this region were identified.
+
+Figure 2 Chromosomal 6 tiling path array on subependymoma (SE)6 and SE11 showing the area of overlapping loss corresponding to the region of loss seen on the 0.97 Mb resolution plot.
+
+SE2 showed a loss of 14q21.1-q31 (maximally between RP11-33209 to RP11-203D9) which is shown in Figure 3.
+
+Figure 3 Whole genome microarray comparative genomic hybridization plot of DNA copy number ratio for sample subependymoma (SE)2 showing partial loss of chromosome 14. The inset shows the area of loss and the clones at either end.
+
+Chromosomal copy number change was present in 2/3 of the female cases compared with 3/9 male cases, but this was not a significant difference (P = 0.52, two-tailed Fisher's exact test). There was no significant difference between the median age of the patients with copy number change (56 years, n = 5) and those without copy number change (52 years, n = 7). There was also no relationship between tumor site and copy number alteration.
+
+DISCUSSION
+This study shows that most of the SE [7 of 12 cases (58%)] show normal chromosomal copy number profiles at this resolution, in keeping with previous work using traditional cytogenetic analysis (7, 10, 36). However, this study shows for the first time that a significant subset of SE [5 of 12 (42%)] show abnormal copy number profiles.
+
+The copy number changes identified include partial loss of chromosomes 6 and 14, trisomy 7 and monosomy 8. In particular, two cases showed overlapping regions of loss on chromosome 6q. Tile-path array analysis confirmed that the area in common is present within two cases only (SE6 and SE11) and is a 10.01-Mb region between BACs RP11-398K22 and RP1-202D23. This region contains 40 gene entries in the Ensembl database which are given in Table S1. Of the forty entries, HMGN3 and TTK tyrosine kinase are candidates which could have tumor suppressor functions. HMGN3 is a nucleosome-binding protein that has roles in chromatin unfolding and transcriptional control (22, 34). TTK, also known as MPS1, belongs to a family of enzymes which can phosphorylate both serine/threonine and tyrosine residues and is involved in the spindle assembly checkpoint (37, 38).
+
+The other findings such as monosomy 8 and trisomy of chromosome 7 have been described in many different tumors. Monosomy 8 has been described in conjunction with other genetic abnormalities in prostatic adenocarcinoma (12, 25). Trisomy 7 has also been reported in peritumoural, non-neoplastic tissues and cell cultures from normal brain (2, 11, 39), and it has been suggested that gain of chromosome 7 in neoplastic and non-neoplastic tissues may be an aging phenomenon (3, 17).
+
+The cytogenetic findings in our study are quite distinct from those commonly found in certain other tumors within the ependymoma group: for example loss of 22q within spinal ependymomas (35) and gain of chromosomes 9 and 18 within myxopapillary ependymomas (23). None of the tumors examined in this study showed a mixed SE/ependymoma morphology.
+
+We show for the first time that relatively large genetic abnormalities occur within SE and indicate that further studies at higher resolution are appropriate to elucidate the cellular processes involved in the development of these tumors.
+
+We would like to thank the Mapping Core, Map Finishing and Microarray Facility groups of the Wellcome Trust Sanger Institute, Hinxton, UK, for initial clone supply and verification; the Centre for Microarray resources in the Department of Pathology, University of Cambridge, for printing of the arrays, and David A Carter for excellent technical assistance, the Children's Cancer and Leukaemia Group for ongoing support of the project.
+
+This work was supported by CRUK, S.D., J.S.M.F. for Cancer Research.
+
+Supplementary material
+The following supplementary material is available for this article:
+
+ Table S1. Candidate genes within areas of overlapping of copy number loss.
+
+This material is available as part of the online article from:
+
+http://www.blackwellsynergy.com
+
+Please note: Blackwell Publishing is not responsible for the content or functionality of any supplementary materials supplied by the authors.Any queries (other than missing material) should be directed to the corresponding author for the article.
+==== Refs
+REFERENCES
+1 Azzarelli B Rekate HL Roessmann U  Subependymoma: a case report with ultrastructural study Acta Neuropathol (Berl) 1977 40 270 282 
+2 Barranco MA Alcaraz A Corral JM Sole M Mallofre C Llopis J  Numeric alterations in chromosomes 7 and 8 detected by fluorecent in situ hybridization correlate with high-grade localized prostate cancer Eur Urol 1998 34 419 425 9803005 
+3 Borberg K Toksvig-Larsen S Linstrand A Mertens F  Trisomy 7 accumulates with age in solid tumours and non-neoplastic synovia Genes Chromosomes Cancer 2001 30 310 315 11170291 
+4 Boykin FC Cowen D Iannucci CAJ Wolf A  Subependymal glomerate astrocytomas J Neuropathol Exp Neurol 1954 13 30 49 13118373 
+5 Cheng TM Coffey RJ Gelber BR Scheithauer BW  Simultaneous presentation of symptomatic subependymomas in siblings, case reports and review Neurosurgery 1993 33 145 150 8355833 
+6 Clarenbach P Kleihues P Metzel E Dichgans J  Simultaneous clinical manifestation of subependymoma of the fourth ventricle in identical twins Case Report J Neurosurg 1979 50 655 659 
+7 Dal Cin P Van den Berghe H Buonanici L Losi L Roncaroli F Calbrici F  Cytogenetic investigation in subependymoma Cancer Genet Cytogenet 1999 108 84 9973931 
+8 Debiec-Rychter M Hagemeijer A Sciot R  Cytogenetic analysis in three cerebral subependymomas: further evidence for a hamartomatous nature? Cancer Genet Cytogenet 2000 122 63 64 11104036 
+9 Ebert C von Haken M Meyer-Puttlitz B Wiestler OD Reifenberger G Pietsch T  Molecular genetic analysis of ependymal tumors: NF2 mutations and chromosome 22q loss occur preferentially in intramedullary spinal ependymomas Am J Pathol 1999 155 627 632 10433955 
+10 Fu Y Chen AT Kay S Young H  Is subependymoma (subependymal glomerate astrocytoma) an astrocytoma or ependymoma? A comparative ultrastructural and tissue culture study Cancer 1974 34 1992 2008 4434329 
+11 Heim S Mandahl N Jin Y Strömblad S Lindström E Salford LG  Trisomy 7 and sex chromosome loss in human brain tissue 1989 52 136 138 Cytogenet Cell Genet 
+12 Hogg D Guidos C Bailey D Amendola A Groves T Davidson J  Cell cycle dependent regulation of the protein kinase TTK Oncogene 1994 9 89 96 8302607 
+13 Honan WP anderson M Carey MP Williams B  Familial subependymomas Br J Neurosurg 1987 1 317 321 3268127 
+14 Ichimura K Schmidt EE Goike HM Collins VP  Human glioblastomas with no alterations of the CDKN2A (p16INK4A, MTS1) and CDK4 genes have frequent mutations of the retinoblastoma gene Oncogene 1996 13 1065 1072 8806696 
+15 Ichimura K Mungall AJ Fiegler H Pearson DM Dunham I Carter NP Collins VP  Small regions of overlapping deletions on 6q26 in human astrocytic tumours identified using chromosome 6 tile path array CGH Oncogene 2006 25 1261 1271 16205629 
+16 Jallo GI Zagzag D Epstein F  Intramedullary subependymoma of the spinal cord Neurosurgery 1996 38 251 257 8869051 
+17 Johannson B Heim S Mandahl N Mertens F Mitelman F  Trisomy 7 in nonneoplastic cells Genes Chromosomes Cancer 1993 6 99 205 
+18 Jones DT Ichimura K Liu L Pearson DM Plant K Collins VP  Genomic analysis of pilocytic astrocytomas at 0.97 Mb resolution shows an increasing tendency toward chromosomal copy number change with age 1049 1058 J Neuropathol Exp Neurol 
+19 Jooma R Torrens MJ Bradshaw J Brownell B  Subependymomas of the fourth ventricle: surgical treatment in 12 cases J Neurosurg 1985 62 508 512 3973720 
+20 Kleihues P  Histological Typing of Tumours of the Central Nervous System (International Histological Classification of Tumours) Springer-Verlag Telos 2000 3rd edn Ogdensburg Renouf Publishing Co. Ltd 
+21 Lombardi D Scheithauer BW Meyer FB Forbes GS Shaw EG Gibney DJ  Symptomatic subependymoma: a clinicopathological and flow cytometric study J Neurosurg 1991 75 583 588 1885976 
+22 Mc Cabe M Ichimura K Liu L Plant K Backlund LM Pearson DM Collins VP  High resolution array-based comparative genomic hybridisation of medulloblastomas and supratentorial primitive neuroectodermal tumours J Neuropathol Exp Neurol 2006 65 549 561 16783165 
+23 Mahler-Araujo MB Sanoudou D Tingby O Liu L Coleman N Ichimura K Collins VP  Structural genomic abnormalities of chromosomes 9 and 18 in myxopapillary ependymomas J Neuropathol Exp Neurol 2003 62 927 935 14533782 
+24 Matsumara A Ahyai A Hori A Schaoke T  Intracerebral subependymoma: clinical and neuropathologic analyses with special reference to the possible existence of a less benign variant Acta Neurochir (Wien) 1989 96 15 25 2929389 
+25 Mills GB Schmandt R Mc Gill M Amendola A Hill M Jacobs K  Expression of TTK, a novel human protein kinase, is associated with cell proliferation J Biol Chem 1992 267 16000 16006 1639825 
+26 Moss TH  Observation on the nature of subependymoma: an electron microscopic study J Neuropathol Exp Neurol 1978 37 103 118 632843 
+27 Prayson RA Suh JH  Subependymomas clinicopathologic study of 14 tumors, including comparative mib-1 immunohistochemical analysis with other ependymal neoplasms Arch Pathol Lab Med 1999 123 306 309 10320142 
+28 Rushing EJ Cooper PB Quezado M Begnami M Crespo A Smirniotopoulos JG  Subependymoma revisited: clinicopathological evaluation of 83 cases J Neurooncol 2007 85 297 305 17569000 
+29 Russell DS Rubinstein LJ McLendon RE Bruner JM  Pathology of Tumours of the Central Nervous System 1998 USA Arnold Publishers Hardcover 
+30 Ryken TC Robinson RA VanGilder JC  Familial occurrence of subependymoma. Report of two cases J Neurosurg 1994 80 1108 1111 8189269 
+31 Scheinker Im  Subependymoma: a newly recognized tumor of subependymal derivation J Neurosurg 1945 2 232 240 
+32 Scheithauer BW  Symptomatic subependymoma: report of 21 cases with review of the literature J Neurosurg 1978 49 689 696 712391 
+33 Schiffer D Chio A Giordana MT Migheli A Palma L Pollo B  Histologic prognostic factors in ependymoma Childs Nerv Syst 1991 7 177 182 1933913 
+34 Seng TJ Ichimura K Liu L Tingby O Pearson DM Collins VP  Complex chromosome 22 rearrangements in astrocytic tmours identified using microsatellite and chromosome 22 tile path array analysis Genes Chromosomes Cancer 2005 43 181 193 15770670 
+35 Stratton MR Darling J Lantos Pl Cooper CS Reeves BR  Cytogenetic abnormalities in human ependymomas Int J Cancer 1989 44 579 581 2793229 
+36 Taylor MD Poppleton H Fuller C Su X Liu Y Jensen P  Radial glia cells are candidate stem cells of ependymoma Cancer Cell 2005 8 323 335 16226707 
+37 West KL Ito Y Birger Y Postnikov Y Shirakawa H Bustin M  HMGN3a and HMGN3b, two protein isoforms with a tissue-specific expression pattern, expand the cellular repertoire of nucleosome-binding proteins J Biol Chem 2001 276 25959 25969 11356838 
+38 West KL Castellini MA Duncan MK Bustin M  Chromosomal proteins HMGN3a and HMGN3b regulate the expression of glycine transporter 1 Mol Cell Biol 2004 24 3747 3756 15082770 
+39 Xu J Zheng SL Hawkins GA Faith DA Kelly B Isaacs SD  Linkage and association studies of prostate cancer susceptibility: evidence for linkage at 8p22-23 Am J Hum Genet 2001 69 341 350 11443539

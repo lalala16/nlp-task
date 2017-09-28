@@ -1,0 +1,388 @@
+
+==== Front
+AstrobiologyAstrobiologyastAstrobiology1531-10741557-8070Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd FloorNew Rochelle, NY 10801USA 2615477910.1089/ast.2014.118810.1089/ast.2014.1188Review ArticleSerpentinization and the Formation of H2 and CH4 on Celestial Bodies (Planets, Moons, Comets) Holm N.G. 1Oze C. 2Mousis O. 3Waite J.H. 4Guilbert-Lepoutre A. 51 Department of Geological Sciences, Stockholm University, Stockholm, Sweden.2 Department of Geological Sciences, University of Canterbury, Christchurch, New Zealand.3 Aix Marseille Université, CNRS, LAM (Laboratoire d'Astrophysique de Marseille) UMR 7326, Marseille, France.4 Space Science and Engineering Division, Southwest Research Institute, San Antonio, Texas, USA.5 European Space Agency, Noordwijk, the Netherlands.Address correspondence to:Nils G. HolmDepartment of Geological SciencesStockholm UniversitySE-106 91 StockholmSweden
+E-mail:nils.holm@geo.su.se01 7 2015 01 7 2015 15 7 587 600 04 6 2014 28 1 2015 © The Author(s) 2015; Published by Mary Ann Liebert, Inc.2015This Open Access article is distributed under the terms of the Creative Commons License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited.Abstract
+Serpentinization involves the hydrolysis and transformation of primary ferromagnesian minerals such as olivine ((Mg,Fe)2SiO4) and pyroxenes ((Mg,Fe)SiO3) to produce H2-rich fluids and a variety of secondary minerals over a wide range of environmental conditions. The continual and elevated production of H2 is capable of reducing carbon, thus initiating an inorganic pathway to produce organic compounds. The production of H2 and H2-dependent CH4 in serpentinization systems has received significant interdisciplinary interest, especially with regard to the abiotic synthesis of organic compounds and the origins and maintenance of life in Earth's lithosphere and elsewhere in the Universe. Here, serpentinization with an emphasis on the formation of H2 and CH4 are reviewed within the context of the mineralogy, temperature/pressure, and fluid/gas chemistry present in planetary environments. Whether deep in Earth's interior or in Kuiper Belt Objects in space, serpentinization is a feasible process to invoke as a means of producing astrobiologically indispensable H2 capable of reducing carbon to organic compounds. Key Words: Serpentinization—Fischer-Tropsch-type synthesis—Hydrogen formation—Methane formation—Ultramafic rocks. Astrobiology 15, 587–600.
+==== Body
+1. Introduction
+Serpentinization of ultramafic rocks occurring in mid-ocean ridges, forearc systems, and terrestrial ophiolites (i.e., obducted/accretionary oceanic crust) on Earth is a geochemical and water-dependent process that results in a variety of gas and fluid species. Molecular hydrogen (H2) is the most influential and relevant species in the abiotic synthesis of organic compounds produced as a consequence of serpentinization due to its ability to reduce carbon (i.e., CO, CO2, \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+$${ \rm HCO}_3^ -$$
+\end{document}, \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+$${\rm CO}_3^{2 -}$$
+\end{document}) and produce methane (CH4) and a wide variety of other organic compounds. Based on serpentinization-related laboratory experiments (Berndt et al., 1996; Seyfried et al., 2007; Klein et al., 2009; Marcaillou et al., 2011; Malvoisin et al., 2012; Velbel et al., 2012; Klein and McCollom, 2013; Etiope and Ionescu, 2014; Lazar et al., 2015), field research (Holm and Charlou, 2001; Charlou et al., 2002; Hosgormez et al., 2008; Proskurowski et al., 2008; Lang et al., 2012a; Okland et al., 2012; Andreani et al., 2013), and theoretical studies (Sleep et al., 2004; Frost and Beard, 2007; Seyfried et al., 2007; Milliken and Rivkin, 2009; Shock and Canovas, 2010; Zolotov, 2014), it is evident that H2 production and the concurrent formation of CH4 is not a straightforward process, especially when environmental factors, secondary mineral formation, fluid chemistry, mineral chemistry (including rates of Mg-Fe diffusion), fluid flow, carbonate saturation, and time-dependent kinetic processes are considered (e.g., Bach et al., 2006; Evans, 2010; Evans et al., 2013). Regardless of these complicating factors, serpentinization is a common alteration process on Earth and a major pathway for producing H2 and CH4 over a wide range of geological, environmental, and laboratory conditions, potentially contributing to the origins and early evolution of life (Schrenk et al., 2013). In a broader context, serpentinization and its capability to produce H2 and thus initiate the formation of organic compounds, such as CH4, is most likely not limited to Earth.
+
+Here, we review several environments in the Solar System where serpentinization and its production of H2 and CH4 may occur. The topics covered in this review include the principles of the serpentinization process and H2 generation (Section 2); Fischer-Tropsch-type (FTT) synthesis and the formation of CH4 on Earth and other celestial bodies (Section 3); the synthesis of CH4 in astrophysical environments (Section 4); CH4 on Mars (Section 5) and Titan/Europa/Enceladus (Section 6); and CH4 in comets and Kuiper Belt Objects (KBOs) (Section 7). The intent of this review is to succinctly introduce and cover these specific concepts to provide a useful reference for a wide variety of astrobiological studies. As a result, some tangential facets related to serpentinization may not be fully expounded upon. For example, how serpentinization and its products may be related to abiogenesis and/or the sustainment of life or microbial communities is not fully addressed. Overall, we put forth that serpentinization is, in a true sense, a universal process that leads to the formation of molecular hydrogen and related CH4 in a wide variety of environments.
+
+2. The Serpentinization Process
+Serpentinization is primarily associated with ultramafic rocks. An ultramafic rock is defined as a rock containing in total less than about 45 wt % SiO2 with elevated Mg and Fe. On Earth, the petrogenesis of ultramafic rocks is related to magmatic and mantle processes. On other celestial bodies, the formation of ultramafic rocks may vary; however, the classification and nature of ultramafic rocks will be the same, as it is based on the rock's chemistry and mineralogy. Additionally, these rocks may be categorized based on their abundance and/or normalized proportions of olivine and pyroxene group minerals (>90% mafic minerals). Ultramafic rocks that contain greater than 40% olivine are referred to as peridotites, whereas rocks with less than 40% olivines are pyroxenites, with further rock subdivisions for each as shown in Fig. 1. Serpentinite is a catch-all term for ultramafic rocks that undergo serpentinization, where the extent of serpentinization and/or the abundance of the remaining primary minerals are not directly defined.
+
+FIG. 1. Classification of ultramafic rocks based on Le Maitre (2002).
+
+(Color graphics available at www.liebertonline.com/ast)
+
+The term serpentinization generically describes the hydrolysis and transformation of primary ferromagnesian minerals such as olivine ((Mg,Fe)2SiO4) and pyroxenes ((Mg,Fe)SiO3), which may produce serpentine group minerals ((Mg,Fe)3Si2O5(OH)4) that include lizardite, chrysotile, and antigorite; magnetite (Fe3O4); Ni-Fe alloys; talc ((Mg,Fe)6(Si8O20)(OH)4); chlorite ((Mg,Fe2+,Fe3+)6AlSi3O10(OH)8); tremolite/actinolite (Ca2(Mg,Fe)5(Si8O22)(OH)2); and brucite ((Mg,Fe)(OH)2), depending on P-T parameters. Oxidation of Fe(II) in olivine and pyroxenes leads to the reduction of water and the formation of molecular hydrogen (H2) as shown in Fig. 2.
+
+FIG. 2. Generic geochemical pathway of (A) olivine and pyroxene serpentinization to produce H2 and a variety of silicates, oxides, and Ni-Fe alloys and in (B) carbonate-oversaturated solutions. The font size reflects the concentration/abundance of minerals/gases/aqueous species involved in the reactions. (C) Images of serpentinization experiments from Jones et al. (2010) and the resulting solids and H2 production rates. The dark color in the carbonate undersaturated experiment is the result of abundant magnetite, whereas very little magnetite is present in the carbonate-oversaturated serpentinization experiment. (Color graphics available at www.liebertonline.com/ast)
+
+A consequence of serpentinization and H2 formation is the increase of the related fluid pH values (typically>9) caused by the consumption of protons and relative increase of free OH- (e.g., Mottl et al., 2003; Okland et al., 2012). Additionally, the production of H2 results in fluids that are extremely reducing. As a common reaction pathway, oxidized iron (Fe(III)) is recovered, with Fe(II) to form the mineral magnetite (Fe3O4). However, upon dissolution of Ni-containing rock-forming minerals, such as olivine, released Ni and Fe can also react to form native metals and alloys under the extreme reducing conditions imposed on the system by serpentinization processes (e.g., Moody, 1976; Sleep et al., 2004; Smirnov et al., 2008). Fe-Ni alloys are known to catalyze the synthesis of CH4 and aliphatic hydrocarbons by Fischer-Tropsch synthesis (Nooner et al., 1976; Sleep et al., 2004). In comparison, serpentinization of pyroxene appears to produce less magnetite and more Fe(II)-rich serpentine, decreasing the amount of H2 produced (Klein et al., 2013).
+
+In principle, the entire serpentinization process over a wide variety of conditions leads to the formation of serpentine group minerals, magnetite, talc, H2, and the magnesium mineral brucite at temperatures less than 315°C (Moody, 1976; McCollom and Bach, 2009; Klein et al., 2014). Key to the formation of H2 during serpentinization is the oxidation of Fe(II). The Fe(III) that is formed does not necessarily need to be accommodated in magnetite but can also be hosted in serpentine group minerals during serpentinization under low- to moderate-temperature conditions (<∼200°C) (Klein et al., 2014). Brucite incorporates an increasing amount of Fe(II) with decreasing temperature, thereby decreasing the amount of Fe converted to magnetite (and H2O to H2) with decreasing temperature below 315°C (Bach et al., 2006; McCollom and Bach, 2009). However, the stability of Fe-rich brucite depends on the activity of H2 in the system. If the activity of H2 decreases, Fe-bearing brucite will become unstable, and the Fe(II) will be oxidized and reduce water to additional H2 (McCollom and Bach, 2009). Therefore, it is possible to register the formation of H2 from olivine at relatively low temperatures (<100°C) (Neubeck et al., 2011). Klein et al. (2014) demonstrated that H2 can be generated as a result of Fe(III) being hosted in serpentine, lending support to the idea that serpentinization processes can generate abundant H2 (albeit at longer timescales) within the relatively low-temperature limits of life. This observation agrees with numerous low-temperature serpentinization field observations where H2 is present at elevated concentrations (e.g., Morrill et al., 2013).
+
+Serpentinization experiments that involve carbonate-oversaturated fluids at high and low P-T conditions have demonstrated that H2 concentrations/production rates are decreased relative to those that use carbonate undersaturated fluids (Fig. 2B) (Jones et al., 2010; Klein and McCollom, 2013; Neubeck et al., 2014). Dihydrogen production may be limited due to decreased Fe(II) oxidation and the fast and favorable incorporation of Fe(II) into carbonates, silicates, and metal hydroxides. Most notably, magnetite formation is nearly suppressed in carbonate-oversaturated solutions (Fig. 2C). Additionally, the rate of increasing pH due to H2 production serves as a supplemental factor further forcing carbonate formation (Neubeck et al., 2014). The decrease in H2 production as well as carbon being directed toward carbonate formation will reduce concurrent serpentinization-related CH4 production. Serpentinization experiments in which isotopically tagged carbonate was used resulted in carbonate-oversaturated fluids, and it was concluded that CH4 production was limited via serpentinization and CH4 was primarily released from olivine (McCollom and Seewald, 2001). However, the production of H2 and CH4 may have been influenced by the carbonate isotopic tracer (meant to track CH4 production) that forced carbonate oversaturation. As carbonate saturation is continually being modified in hydrothermal/serpentinization systems, especially those that involve seawater, H2 and CH4 production is a dynamic process capable of continuously and rapidly modifying chemical pathways and H2 and CH4 concentrations.
+
+As discussed above, the serpentinization process does not necessarily produce organic compounds, such as CH4, by itself but needs to be combined with other geochemical mechanisms such as FTT processes for that purpose. The production of H2 is an essential (indirect or first) step for advancing the abiotic synthesis of organic compounds (Holm and Andersson, 1998). Reactions between single carbon compounds in the C–H–O system are limited to the formation of CO2, CO, formic acid (HCOOH), formaldehyde (CH2O), methanol (CH3OH), and CH4 (Seewald et al., 2006). CO is of particular interest because it represents a key reactant during the abiotic synthesis of reduced carbon compounds via FTT processes. Peridotite-hosted hydrothermal systems characterized by high H2 abundance and temperatures near 350°C contain substantially higher CO concentrations than basalt-hosted systems, which may enhance abiotic synthesis of longer-chain carbon (Charlou et al., 2002). However, it should be noted that recent studies have demonstrated that H2 may not be necessary in serpentinization systems to produce organic compounds such as CH4. For example, Suda et al. (2014) proposed an alternative pathway for the direct abiotic CH4 production from H2O (i.e., bypassing mediation by H2 reacting with a carbon source) in a serpentinite-hosted hydrothermal system. However, Whiticar and Etiope (2014) put forth that their direct abiotic pathway is compatible with FTT processes and consistent with other serpentinization sites.
+
+Related to mineral composition, the proportion of Fe and Mg in olivine and pyroxene plays a central role with regard to mineral stability and the extent to which H2 may be produced. Generally, Fe-rich primary minerals such as the Fe-rich olivine end-member fayalite (Fe2SiO4) provide a greater opportunity for Fe(II) to oxidize and ultimately form H2. Oze and Sharma (2007) assessed a series of serpentinization reactions focusing on Mg and Fe in olivine to determine the Gibbs free energy of reaction and assess H2 production in context to each reaction. They demonstrated that serpentinization reactions involving mantle olivine (forsteritic olivine), which is Mg-rich with a relatively smaller proportion of Fe, are thermodynamically favorable (defined as ΔGR<0), demonstrating higher yields of H2 (i.e., H2 production) compared to the stoichiometry of the reaction. Conversely, reactions with Fe-rich olivine (<Fo50) are generally thermodynamically unfavorable (defined as ΔGR>0), where H2 yields are less than the stoichiometry of the reaction (i.e., H2 is consumed or not produced). It should be noted that these interpretations are strictly limited to assessing the reaction and not the system with respect to the degree of H2 saturation. An important point is that even a thermodynamically unfavorable serpentinization reaction, such as the Fe-olivine undergoing serpentinization, will have an equilibrium concentration of H2. Serpentinization reactions undersaturated with respect to equilibrium H2 will produce H2 as shown graphically in Fig. 3. Klein et al. (2013) expanded on the thermodynamics of Mg and Fe in a wide variety of minerals that may undergo serpentinization and assessed equilibrium H2 concentrations using a similar methodology as well as affinity calculations, which reiterate that H2-undersaturated systems will produce H2. Despite its utility, thermodynamic/equilibrium modeling of H2 production as shown by Oze and Sharma (2007), Klein et al. (2013), and Sleep et al. (2004) does not address the complexity or time-dependent factors and transitory phases capable of modulating H2 production in real systems well before equilibrium is achieved (i.e., the left side of Fig. 3). In essence, serpentinization and H2 production is a disequilibrium process (as shown and stated in numerous studies) where a wide variety of factors (reaction kinetics, surface reactions, time, fluid flow, etc.) are constantly modifying H2 production and H2 present in related fluids (Schulte et al., 2006).
+
+FIG. 3. An idealized graphical representation is shown illustrating serpentinization and H2 production with regard to saturation/equilibrium and the activity (a) of H2 (left y axis) versus reaction progress (x axis). The saturation index [the reaction quotient (Q) divided by the equilibrium constant (K)] is shown on the right y axis. Note that the H2 concentration increases (directional arrow) with respect to reaction progress until equilibrium/saturation is achieved (equilibrium arrows). A key point is that H2 production will occur as long as the H2 concentrations are undersaturated (Q/K<1) with respect to equilibrium H2. Arguably, serpentinization systems are dominantly undersaturated with respect to equilibrium H2 (i.e., at disequilibrium).
+
+Serpentinization is most efficient in fractured rock that allows fast percolation of water (e.g., Moody, 1976; Kelemen and Hirth, 2012). Therefore, serpentinites from oceanic areas are normally associated with fracture zones and trenches (Christensen, 1972). On a global scale on Earth, serpentinization of mantle and deep, hot crustal rocks appears to be a significant process, especially in crustal development in zones of relatively low magmatic supply, like the Mid-Atlantic Ridge and the Gakkel Ridge of the Arctic Ocean. Serpentinization is a fast process as seen on a geological timescale, yet it is not self-terminating since new mineral surfaces are constantly being exposed (Malvoisin et al., 2012). If we assume that H2 production is a tracer for this type of weathering/alteration, then serpentinization is a fast process at both low and high temperatures. It is, however, difficult to give precise numbers on the H2 production relative to different temperatures due to the complexity of the systems and processes.
+
+3. Fischer-Tropsch-Type Synthesis
+Fischer-Tropsch-type reactions are unique among abiotic organic processes in providing a source of linear molecules. This is important in a prebiotic context since, for instance, linear fatty acids are essential for the formation of the bilayer membranes that are present in cell walls (Ferris, 1992). The generation of organic compounds by FTT reactions is possible if H2 is first generated (Holm and Neubeck, 2009). Fischer-Tropsch-type synthesis broadly refers to the consumption of CO and/or CO2 and the production of CH4 and longer-chain hydrocarbons as shown in the reactions below:
+ \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+\begin{align*}( 2n + 1 ) { \rm H}_2 + n{ \rm CO} \rightarrow {
+\rm C}_n{ \rm H}_{ ( 2n + 2 ) } + n{ \rm H}_2{ \rm O} \quad\quad {
+\rm Reaction \ 1} \end{align*}
+\end{document} 
+ \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+\begin{align*}{ \rm CO}_{2 ( { \rm aq} ) }  + [ 2 + ( m / 2n ) ]
+{ \rm H}_2 = ( 1 / n ) { \rm C}_n { \rm H}_m + 2{ \rm H}_2{ \rm O}
+\quad\quad { \rm Reaction \ 2} \end{align*}
+\end{document} 
+
+Methane formed from the direct reduction of CO2 with aid from a catalyst is a specific FTT reaction referred to as the Sabatier (methanation) process:
+ \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+\begin{align*}{ \rm CO}_2 + 4{ \rm H}_2 = { \rm CH}_4 + 2{ \rm
+H}_2{ \rm O} \quad\quad { \rm Reaction \ 3} \end{align*}
+\end{document} 
+
+or CH4 may form via the two-step reverse water-gas shift reaction:
+ \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+\begin{align*}{ \rm CO}_2 + { \rm H}_2 = { \rm CO} + { \rm H}_2{
+\rm O} \quad\quad { \rm Reaction\ 4} \end{align*}
+\end{document} 
+ \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+\begin{align*}{ \rm CO} + 3{ \rm H}_2 = { \rm CH}_4 + { \rm H}_2{
+\rm O} \quad\quad { \rm Reaction\ 5} \end{align*}
+\end{document} 
+
+Commercial FTT reactions are designed to primarily produce linear hydrocarbons, alcohols, and fatty acids from CO and H2, but it is also possible to prepare substances like amino acids and heterocyclic nitrogen compounds with limited chain branching by using the FTT reaction of H2, CO, and NH3 (Hayatsu and Anders, 1981). It was difficult to imagine reliable prebiotic mechanisms for the synthesis of linear fatty acids until deep-sea hydrothermal environments in the lithosphere were discovered on Earth. Earlier, no likely environments were known in which both high temperatures and pressures required for FTT reactions occurred simultaneously with redox conditions at which the synthesized organic molecules are stable (Holm et al., 2006).
+
+Standard FTT reactions are usually performed with catalysts of native metals or alloys of them (Fe, Ni, Co, Ru) or their oxides (Anderson, 1956; Falbe, 1980; Steynberg and Dry, 2004), for example, the Fe(II)-Fe(III) oxide mineral magnetite (Fe3O4). Commercial FTT reactions have been optimized for the synthesis of hydrocarbons from CO and H2 via the water-gas shift reaction. Hayatsu and Anders (1981) extended the FTT reaction to biomolecules by adding NH3 to the mixture of gaseous reactants so that nitrogen-containing molecules are produced.
+
+Fischer-Tropsch-type reactions obviously proceed in hydrothermal systems (Holm and Charlou, 2001; Konn et al., 2009) as a result of the reactants being heated at high temperature and pressure in the presence of minerals. The CO needed may come from degradation of, for instance, formaldehyde that can be formed via hydroxymethylene from elemental carbon in the presence of water (Flanagan et al., 1992; Seewald et al., 2006). The H2 is most easily formed by the serpentinization of ultramafic rocks. It has been claimed that FTT reactions cannot be involved in the synthesis of organic compounds in hydrothermal systems because of the inhibition of catalysts by both H2O and H2S (Miller and Bada, 1988). This may be true for native iron as a catalyst (Steynberg and Dry, 2004) but not necessarily for all other possible catalysts. The extent of H2S poisoning depends on the ratio of H2S to catalytic sites on the metal. The Fe catalyst will continue to function until most of the catalytic sites have H2S bound to them. However, in ultramafic off-axis hydrothermal systems of the Lost City type, the concentration of H2S is very low (Kelley et al., 2001), so little poisoning will probably occur in relation to the rate of the generation of new mineral surfaces. In addition, some metals other than Fe do not seem to be inhibited by H2S. Molybdenum sulfide, nickel sulfide, and tungsten sulfide have all been shown to be active as FTT catalysts (Storch et al., 1951; Asinger, 1968). Recently, Etiope and Ionescu (2014) determined that Ru is an effective catalyst for CH4 production at room temperature (20–25°C), offering important implications for Ru-bearing chromite within low-temperature serpentinization systems.
+
+Water is known to be a reversible inhibitor of the reduction of nitrogen to ammonia on Fe catalysts (Storch et al., 1951; Anderson, 1956). However, this is not to say that H2O is an inhibitor of all FTT reactions. What is not clear is whether water in the supercritical state binds to the catalysts strongly enough to inhibit the binding and subsequent conversion of N2 and CO to organic carbon- and nitrogen-containing molecules. In many cases FTT reactions may even produce water in parallel to organic compounds. One effect of water in some reactions is that the formation of long carbon chains is increased relative to short chains (Storsæter et al., 2005).
+
+Fischer-Tropsch-type reactions apparently do not necessarily require metal or metal oxide catalysts but can also proceed on other mineral surfaces. There are several reports of efficient syntheses proceeding on silica (Asinger, 1968), smectite (montmorillonite), and smectite-alumina mixtures (Yoshino et al., 1971; Anders et al., 1974). This is of particular interest from a marine geochemical point of view since smectites and silica are formed during weathering (palagonitization, serpentinization) of basalts and ultramafic rocks of oceanic basement (da Silva and Holm, 2014).
+
+4. Synthesis of Methane in Astrophysical Environments
+After hydrogen and helium, the three most abundant elements in the Universe are carbon, nitrogen, and oxygen. Fischer-Tropsch-type catalysis, which converts CO or CO2 and H2 into CH4 and other carbon compounds on the surface of, for instance, transition metals such as Fe and Ni, can then be supposed to play important roles in various astrophysical environments. In addition to producing hydrocarbons, Fischer-Tropsch catalysis also forms water, and this mechanism has been proposed as a chemical route to produce this molecule in the circumstellar envelopes around carbon-rich asymptotic giant branch stars (Kress, 1997; Willacy, 2004). The abundance of water produced via FTT reactions in these environments is found to be consistent with the observations if only a few percent of the available iron exists as metallic Fe or Fe-Ni alloy (Willacy, 2004). Moreover, it has been proposed that FTT reactions could explain the origin of meteoritic organics (Studier et al., 1968; Anders et al., 1973; Hayatsu and Anders, 1981; Bradley et al., 1984). However, this possibility is still debated because experimental studies have shown that the isotopic fractionation patterns found in meteorites do not match those produced via FTT reactions (Cronin and Pizzarello, 1990). Meanwhile, other studies have suggested that FTT reactions were too slow in the protosolar nebula to reduce more than about 1% of CO present over the entire lifetime of the disk (Lewis and Prinn, 1980; Prinn and Fegley, 1981). On the other hand, more recent models of the protosolar nebula provide suitable conditions for synthesis of organic compounds from CO and H2 (Kress and Tielens, 2001). These models indicate that FTT reactions could have been efficient in a narrow region of the nebula that coincides with the present position of the Main Belt. More recently, laboratory experiments that determine CH4 reaction rates under a hydrogen-dominated gas phase and at low-pressure conditions allowed Sekine et al. (2005) to study the ranges of temperatures and pressures where FTT reactions can take place in the saturnian subnebula. They concluded that CH4-rich satellitesimals could have formed in the catalytically active region of the subnebula and thus may have played an important role in the origin of Titan's atmosphere. In contrast, investigations led by Mousis et al. (2006) confirmed the likely existence of a catalytically active region in the subnebula but estimated that it has no influence on the composition of the forming satellitesimals, because the produced CH4 is shown to be accreted by Saturn prior to its trapping in the satellites' building blocks.
+
+Fischer-Tropsch-type catalysis has also been invoked to play an important role in asteroidal/cometary impacts on Earth and bodies of the Solar System (Anders et al., 1973; Gerasimov et al., 2000; Sekine et al., 2003, 2011; Kress and McKay, 2004; Ishimaru et al., 2011). The impactor and a part of the target that are vaporized upon impact would result in the formation of a vapor cloud. Fischer-Tropsch-type reactions leading to the formation of CH4 may then occur on the surfaces of dust condensates in the expanding impact vapor cloud (Sekine et al., 2006). By calculating the global CH4 production via FTT catalysis on the surface of reentering condensates by iron meteorite impacts on early Earth, Sekine et al. (2003) found that the amount of produced CH4 may play an important role not only in the atmospheric evolution as a greenhouse effect gas but also in the origin of life. Shock heating on primordial Titan has also been proposed to explain its current atmosphere, which is dominated by N2 and CH4 (Ishimaru et al., 2011; Sekine et al., 2011). The atmospheric CH4 of Titan mainly originates from the protosolar nebula and was trapped in the satellite's building blocks at their condensation epoch in Saturn's feeding zone (Mousis et al., 2009). However, it is possible that a fraction of the existing CH4 was produced via FTT reactions that occurred during the entry of impactors in Titan's proto-atmosphere (Ishimaru et al., 2011).
+
+5. Mars—Methane or Not?
+Recent spacecraft-based and Earth ground-based studies have reported seasonally and latitudinally variable CH4 values between 10 and 60 ppbv in the martian atmosphere (Formisano et al., 2004; Krasnopolsky et al., 2004; Geminale et al., 2008, 2011; Mumma et al., 2009; Fonti and Marzo, 2010). In a review of these studies, Zahnle et al. (2011) put forth the conclusion that these observations and analyses can only provide an upper limit of 3 ppbv. In 2013, the Curiosity rover with its martian ground-based evaluation of the CH4 in the martian atmosphere reported no detection of CH4 with a measured value of 0.18±0.67 ppbv and an upper limit of only 1.3 ppbv (Webster et al., 2013), well below all previously reported values. While this reduces the possibility of a wide variety of CH4 sources including methanogenic microorganisms as a major contributor to the atmospheric chemistry of Mars, it does not negate the possibility that CH4 is being produced in the subsurface at concentrations that will not affect atmospheric chemistry and/or be destroyed by oxidizers such as perchlorate (1–4 wt %) identified on the martian surface (Davila et al., 2013).
+
+Potential sources that have been proposed to release CH4 into the martian atmosphere include methanogenic microbes, organic material decomposition, CH4 clathrates in the subsurface, volcanism, mantle plumes, comet/meteor impacts, atmospheric interactions, and hydrothermal activity (e.g., Kress and McKay, 2004; Oze and Sharma, 2005; Tung et al., 2005; Prieto-Ballesteros et al., 2006; Ryan et al., 2006; Chastain and Chevrier, 2007; Craddock and Greeley, 2009; Thomas et al., 2009; Brown et al., 2010; Ehlmann et al., 2010; Shkrob et al., 2010; Etiope et al., 2013). None of these appear to be sources of CH4 to the atmosphere on their own. However, serpentinization continues to be a viable geochemical route that leads to the formation of H2 and, indirectly, to CH4 on Mars, perhaps coupled to processes like methanogenic autotrophy and/or clathrate formation. Ultramafic and serpentinized rocks have been identified on the surface of Mars, including locations such as Nili Fossae (Brown et al., 2010; Ehlmann et al., 2010; Viviano et al., 2013). If liquid water (which has been identified on the surface) is present at depth and it interacts with ultramafic material, H2 and CH4 will be produced (Jakosky and Haberle, 1992). If serpentinization fluids/gases are progressing from a deep to shallow/surface environment, H2 and CH4 will be quickly dispersed upon reaching the surface and, therefore, would only be detectable via direct monitoring and analyzing soil/regolith/vent gas flux and concentrations in a martian ultramafic environment (Etiope and Sherwood Lollar, 2013). This has yet to be completed. It is questionable why this has not been a major objective, since serpentinization environments with H2 and CH4 provide a very plausible scenario/locality to harbor and sustain life as well as potentially being a source of energy/fuel for future human habitation. Additionally, low H2/CH4 values (<46) assessed at the surface in a serpentinization environment may indicate that life is present at depth provided that the complexity of the system and CH4 production is governed by the relative kinetics of H2 and CH4 formation (Lang et al., 2012b, Oze et al., 2012a, 2012b).
+
+6. Titan, Europa, Enceladus
+The outer Solar System lies beyond the “snow line.” In this region beyond the present-day orbit of Jupiter, volatiles were frozen out, trapped in clathrates and crystalline ice, and mixed with chondritic materials, forming comets and planetesimals (Mousis et al., 2009). Since carbonaceous chondrites represent the most primitive class of chondritic materials, it is generally assumed that they are most representative of the chondritic materials that were gravitationally trapped in the icy materials forming the jovian and saturnian systems. Within the carbonaceous chondrite group, the CI chondrites, which contain the full complement of volatile elements at solar abundance levels, are the class most frequently associated with outer planet satellite formation (see for example, Shock and McKinnon, 1993; Zolotov, 2012). In fact, Kargel et al. (2000) pointed out that the density of Europa is the same as the materials that form CI chondrites and that the earlier dehydration of the minerals that formed Europa supplied the water and ice we see in its outer layers today. This leads us to the question of evolution of the original materials through aqueous and thermal alteration and the timing of this thermal and aqueous alteration. As for now, we have no definitive measurements of materials from these satellites to answer this important question.
+
+Once the initial materials coalesced to form the nascent satellite, thermal alteration driven by accretional heating, radioactive decay, and tidal forcing leads to gravitational differentiation and further aqueous alteration of the minerals. Ferromagnesian silicate rocks (i.e., peridotites) prevalent in Earth's mantle may be formed depending on the timing of formation relative to the body's ability to dissipate heat (Schubert et al., 1986; McKinnon and Zolensky, 2003). Furthermore, if the body in its evolution is warmed up enough for liquid water to exist in its interior, cooling eventually takes over, and through the process of serpentinization the perioditic assemblages from a nascent water-deficient high-temperature state re-equilibrate to the water-saturated low-temperature state that characterizes planetary aqueous environments (Vance et al., 2007). Furthermore, Vance et al. (2007) added that the rate of serpentinization reactions is controlled by the pressure, temperature, fluid oxidation state and pH, the rate of exposure of fluid access to the serpentinizable rock, and the Fe/Mg ratio of the peridotite material, all of which potentially play a role in determining the longevity of the thermal system. The major factor in small icy satellites is likely the access of the fluid to the rock, which can slow down the kinetic reaction rates by factors of up to one million. This re-equilibration may lead to the production of H2, CH4, and heat with important implications for astrobiology.
+
+Kargel et al. (2000) argued that the thermal alteration processes on Europa not only modified the mineral oxidative balance of the materials but were intense enough to almost fully dehydrate the minerals, causing global gravitational differentiation of the interior ocean and seas. Indeed, due to the melting point and boiling point of water, aqueous alteration and thermal alteration are intimately related. Even in the case of the small body Enceladus, Malamud and Prialnik (2013) argued that extensive short-lived radioisotope decay coupled with runaway serpentinization can lead to a fully differentiated rocky inner core, topped by a thin icy crust. On the other hand, they argued that long-term radioisotope heating in the presence of an NH3 solution can result in long-term serpentinization confined to its inner core. This early mineral alteration process forms the basis of the interpretation by Glein et al. (2007) of the state of the internal sea at Enceladus interpreted through the gas composition of the plume.
+
+Observations of volatiles released from an interior ocean through volcanic or plume venting can be used to determine the state of past or present hydrothermal processing. Volatiles that source from the ocean should indicate the degree of chemical processing of ocean constituents. Depending on their ratios of N2 to NH3, 14N/15N, and CO2/CO/CH4, as well as H and C isotopic ratios, they may represent an equilibrium, a hydrothermally processed assemblage, or a disequilibrium, cometlike assemblage (Bradley and Summons, 2010). If the ratios appear consistent with thermochemical processing, then constraints on the temperature and oxidation state (fugacity) should be possible. Persistence of reactive carbon-bearing species—CO and especially HCN—on the other hand would point to a more primitive, chemically unprocessed volatile assemblage. In terms of habitability, oxidation states more reducing than the fayalite-magnetite-quartz fugacity buffer are consistent with the preservation, if not abiotic synthesis, of more complex organic compounds.
+
+Ongoing hydration (technically hydroxylation) of mafic and especially ultramafic silicate minerals (olivines and pyroxenes) can act as a source of H2, which can fuel microbial ecosystems. Evidence of hydrothermal activity also implies a primary source of energy, as well as a likely mechanism to cycle biogenic elements in and out of the ocean. Sputtering of surface ice will yield H2O molecules and molecular fragments, but excess H2 (and associated isotopes) could indicate ongoing hydrothermal activity (e.g., serpentinization or cracking of organics).
+
+Measurements of the H and C isotopic ratios of carbon-bearing compounds can help distinguish the lineage of carbon chemistry (biotic or abiotic), provided the isotopic composition of the primary “feedstock” can be measured as well (presumably H2O and CO2): (1) Fischer-Tropsch-type (classic abiotic example), (2) cometary (primordial), and (3) biological.
+
+However, the effect of processes such as solubility and phase changes in the interior sea or ocean must be properly taken into account in the interpretation of the plume gases. Both solubility and clathrate hydrate formation can modify the dissolved gas content of ice-covered lakes on Earth (Mousis et al., 2013) and are likely of importance in icy satellites bearing interior oceans or seas. Furthermore, the clathrates that are formed may float to the surface of the sea or ocean, where they may be destabilized preferentially and release their gases into the plumes.
+
+7. Comets and Kuiper Belt Objects
+Comets and their parent bodies, such as Transneptunian Objects (Kuiper Belt Objects—KBOs), accreted from a mixture of volatile ices, carbonaceous matter, and rocks in the coldest regions of the protosolar nebula. These objects are usually believed to be very primitive in nature, having preserved a primordial structure and composition. However, the rocky material contained in comets includes radioactive isotopes, whose decay can provide an important source of heat, possibly significantly altering the internal structure of these icy objects after their formation. There is a general agreement that short-lived radioactive isotopes like 26Al and 60Fe could have played a major role during the early evolution of both comets and their parent bodies, possibly leading to the melting of water ice and to the triggering of serpentinization and FTT reactions. Long-lived isotopes such as 40K, 235U, 238U, and 232Th, however, should only affect the largest objects during the late stages of their evolution.
+
+7.1. Early evolution of comets
+The effect of radiogenic heating on comets is extremely uncertain, given the number of poorly constrained parameters involved, such as composition, initial internal structure, formation time, radioactive isotope content, porosity, or thermal conductivity. However, having a very short lifetime, the effectiveness of 26Al in heating comet interiors strongly depends on the nucleus formation time with respect to formation of calcium-aluminum-rich inclusions. Indeed, Irvine et al. (1980), Wallis (1980), and Prialnik et al. (1987) showed that, depending on the amount of 26Al related to the still poorly constrained comet formation time, the heat produced would be sufficient to melt water ice, in particular, in the case of objects with radii larger than 6 km. Thermal histories are also very sensitive to the material thermal conductivity (Haruyama et al., 1993). Prialnik and Podolak (1995) showed that, depending on the object's size, thermal conductivity, porosity, and initial composition (whether water ice is initially amorphous or crystalline), the early thermal evolution under the influence of 26Al decay could lead to various final configurations, ranging from pristine structures being thoroughly preserved to extensive melting of the ice contained in these objects. Here, we show similar results obtained with a model fully described by Guilbert-Lepoutre et al. (2011). In this model, the temperature distribution is computed inside an object and at its surface as a function of time and orbital position. For a set of initial thermophysical parameters typical for comets, we illustrate the same effect as Prialnik and Podolak (1995) that different formation times (or equivalent, different initial amounts of 26Al) might result in various final structures ranging from fully differentiated to completely pristine (Fig. 4). In summary, specific results on the early heating of comets by radioactive isotopes alone thus require detailed investigations on comet formation processes and timescales, which are not constrained yet, but so far all models are consistent with a potential occurrence of liquid water inside comets for a given set of realistic initial parameters.
+
+FIG. 4. Central temperature of a 2 km radius comet nucleus, under the influence of heating by the radioactive decay of short-lived nuclides 26Al and 60Fe, as a function of time after formation (no accretional heating is accounted for here). The dashed line highlights the melting point of water. Each solid line represents the evolution of the central temperature after a specific formation time, from 0 (top curve) to 3 million years (bottom curve) since the formation time affects the effective amount of decaying nuclides contained in the body. Thermophysical parameters like thermal conductivity or composition used in the simulations (performed with the model described by Guilbert-Lepoutre et al., 2011) are standard for comets and within the range of realistic values described by other authors.
+
+It is worth mentioning that the occurrence of high internal temperatures and liquid water is strengthened when accounting for the effect of accretional heating, affecting the early evolution of comets concurrently with radiogenic heating during the short lifetime of 26Al. The two processes were combined in a single model by Merk and Prialnik (2006), who showed that the early occurrence of liquid water in 2–32 km radius bodies may be a very common phenomenon. For example, they found that, for a given set of initial parameters, all accreting objects with a final radius above 4 km could produce liquid water cores, extending from 10–90% of the overall interior. Merk and Prialnik (2006) also found that, for a large region of parameter space, liquid water is a rule rather than an exception and that this phase can last for up to 5 million years. The lifetime of the liquid water phase within such bodies should be long enough to trigger serpentinization reactions and the production of H2 in their interiors. Fischer-Tropsch-type reactions could have subsequently led to the formation of CH4 and higher-order hydrocarbons in comets from the interaction of produced H2 and carbonaceous matter. In this context, hydrocarbons present in comets could come from two distinct reservoirs. A significant fraction of these volatiles would have been directly captured in the building blocks of comets at their formation time in the nebula, and another fraction would have been produced directly in their interiors. The relative sizes of these reservoirs will require dedicated studies to be quantified.
+
+7.2. Liquid water in Kuiper Belt Objects
+The thermal evolution of larger objects is more complex. First, it involves two stages: an early evolution, dominated by the radioactive decay of short-lived nuclides 26Al and 60Fe, which should generate an intense but short heating. Whatever happens during this phase, long-lived isotopes 40K, 235U, 238U, and 232Th would inevitably decay over the age of the Solar System, generating a possible more moderate, but more extended, heating of KBO interiors during their late evolution (see the example in Fig. 5). McKinnon et al. (2008) found that KBOs with radii larger than 400 km would be the most affected by this late heating. Second, because these objects are larger and denser than comets, the possible production of an internal liquid phase might lead to a significant differentiation of their internal structure, local changes of composition or thermophysical parameters such as thermal conductivity, chemical reactions, or the triggering of processes such as cryovolcanism, which cannot be studied with the same models as those used for small comets. These models would, in this case, be very close to those used by the icy satellite community, and the results could be compared to those found for objects such as Enceladus, for example. Prialnik and Merk (2008) indeed studied the evolution of intermediate-sized objects (250 km radius), including KBOs and icy satellites, accounting for their growth phase and both early and late evolution; in all cases considered, the melting point of water ice was reached.
+
+FIG. 5. Central temperature of an Orcus-like object (radius of 500 km, density of 1.9 g/cm3) as a function of time after formation (no accretional heating is accounted for here). The dashed line highlights the melting point of water, while the solid lines give the evolution of the temperature (computed with the model by Guilbert-Lepoutre et al., 2011) under the influence of long-lived isotopes only (bottom curve) or both short- and long-lived isotopes (top curve, after a formation delay of 1 million years, which decreases the amount of short-lived nuclides). Other parameters of influence, like the thermal conductivity or composition, are within the range of realistic values used by other authors and similar to those used by Delsanti et al. (2010).
+
+Including amounts of volatiles that can decrease the melting point of the material, such as NH3, CH4, or CH3OH, has been shown to allow for long-lived liquid phases to be sustained inside the largest KBOs. For example, McKinnon et al. (2008) found that, by adding some NH3 and CH3OH to the water, ice could lead to the production of a liquid phase for all objects with radii larger than 300 km. With water ice alone, the melting point would be reached for all objects with radii larger than 425 km. By including some NH3 to water, Hussmann et al. (2006) obtained subsurface oceans at the present time in Pluto, Eris (whatever the amount of NH3 considered in the models), Sedna, and Orcus. Beyond those theoretical results, KBO observations have recently called for the need to invoke internal liquid phases. Spectral features consistent with the presence of crystalline water, NH3, CH4, and other volatiles have been detected on spectra of intermediate and large KBOs. Since these features should be erased due to irradiation in short timescales, their presence at the surface of KBOs requires that these compounds were emplaced recently. After eliminating many processes, Cook et al. (2007) suggested that cryovolcanism could indeed be the best process to explain the observed surface composition of Charon (crystalline water ice with traces of ammonia hydrates), provided sufficient NH3 was incorporated into the object at birth. This was confirmed by the thermal evolution models computed by Desch et al. (2009) and by the conclusions of Delsanti et al. (2010) to explain the surface composition of Orcus (crystalline water ice with traces of CH4, NH3, and their irradiation products). These thermodynamic conditions, which are similar to those that occur in the interiors of icy satellites, should then be favorable to serpentinization and FTT reactions and lead to the in situ production of hydrocarbons as it is envisaged in Enceladus (see Section 6 for details).
+
+8. Conclusions
+Serpentinization and the related formation of H2 is a favorable and disequilibrium process capable of occurring in a wide variety of celestial bodies. Molecular hydrogen, once formed, has the potential to reduce simple oxidized carbon compounds (i.e., \documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}\begin{document}
+$${ \rm HCO}_3^ {\ -}$$
+\end{document}, CO, CO2) to more reduced species, CH4 in particular. Fischer-Tropsch-type processes are critical for H2 to react with carbon sources to advance the synthesis of organic compounds. The production of these simple organic compounds provides a feasible pathway related to the origin and sustainment of life. One of the major limitations of serpentinization is the presence and availability of water, which is directly related to the chemical nature, thermal evolution, and size of the celestial body. Provided that water and Fe-bearing silicates such as olivine are present, serpentinization can be invoked to describe the formation and presence of CH4 and a wide variety of organic compounds.
+
+Acknowledgments
+The authors gratefully acknowledge support from the International Space Science Institute (ISSI) for our team “The Methane Balance—Formation and Destruction Processes on Planets, their Satellites and in the Interstellar Medium,” Team ID 193. This work has been carried out thanks to the support of the A*MIDEX project (n°ANR-11-IDEX-0001-02) funded by the “Investissements d'Avenir” French Government program, managed by the French National Research Agency (ANR). Partial support for this work comes from NASA Jet Propulsion Laboratory (JPL) through subcontract to Southwest Research Institute for the Cassini Ion Neutral Mass Spectrometer, and from the Stockholm University Astrobiology Centre (SU-ABC).
+
+Disclosure Statement
+No competing financial interests exist.
+
+Abbreviations Used
+FTTFischer-Tropsch-type
+
+KBOsKuiper Belt Objects
+==== Refs
+References
+Anders E.  , Hayatsu R.  , and Studier M.H.   (1973 ) Organic compounds in meteorites . Science 
+182 :781 –790 17772148 
+Anders E.  , Hayatsu R.  , and Studier M.H.   (1974 ) Interstellar molecules: origin by catalytic reactions on grain surfaces? 
+Astrophys J 
+192 :L101 –L105 
+Anderson R.B.   (1956 ) Catalysts for the Fischer-Tropsch synthesis . In Catalysis, Vol. 4, Hydrocarbon Synthesis Hydrogenation and Cyclization , edited by Emmett P.H.  , Reinhold , New York , pp 29 –255 
+Andreani M.  , Muñoz M.  , Marcaillou C.  , and Delacour A.   (2013 ) μXANES study of iron redox state in serpentine during oceanic serpentinization . Lithos 
+178 :70 –83 
+Asinger F.   (1968 ) Paraffins Chemistry and Technology , Pergamon , Oxford 
+Bach W.  , Paulick H.  , Garrido C.J.  , Ildefonse B.  , Meurer W.P.  , and Humphris S.E.   (2006 ) Unravelling the sequence of serpentinization reactions: petrography, mineral chemistry, and petrophysics of serpentinites from MAR 15°N (ODP Leg 209, Site 1274) . Geophys Res Lett 
+33 :L13306 
+Berndt M.E.  , Allen D.E.  , and Seyfried W.E. Jr.  (1996 ) Reduction of CO2 during serpentinization of olivine at 300°C and 500 bar . Geology 
+24 :351 –354 
+Bradley A.S.   and Summons R.E.   (2010 ) Multiple origins of methane at the Lost City hydrothermal field . Earth Planet Sci Lett 
+297 :34 –41 
+Bradley J.P.  , Brownlee D.E.  , and Fraundorf P.   (1984 ) Carbon compounds in interplanetary dust: evidence for formation by heterogeneous catalysis . Science 
+223 :56 –58 17752991 
+Brown A.J.  , Hook S.J.  , Baldridge A.M.  , Crowley J.K.  , Bridges N.T.  , Thomson B.J.  , Marion G.M.  , de Souza Filho C.R.  , and Bishop J.L.   (2010 ) Hydrothermal formation of clay-carbonate alteration assemblages in the Nili Fossae region of Mars . Earth Planet Sci Lett 
+297 :174 –182 
+Charlou J.L.  , Donval J.P.  , Fouquet Y.  , Jean-Baptiste P.  , and Holm N.   (2002 ) Geochemistry of high H2 and CH4 vent fluids issuing from ultramafic rocks at the Rainbow hydrothermal field (36°14′N, MAR) . Chem Geol 
+191 :345 –359 
+Chastain B.K.   and Chevrier V.   (2007 ) Methane clathrate hydrates as a potential source for martian atmospheric methane . Planet Space Sci 
+55 :1246 –1256 
+Christensen N.I.   (1972 ) The abundance of serpentinites in the oceanic crust . J Geol 
+80 :709 –719 
+Cook J.C.  , Desch S.J.  , Roush T.L.  , Trujillo C.A.  , and Geballe T.R.   (2007 ) Near-infrared spectroscopy of Charon: possible evidence for cryovolcanism on Kuiper Belt Objects . Astrophys J 
+663 :1406 –1419 
+Craddock R.A.   and Greeley R.   (2009 ) Minimum estimates of the amount and timing of gases released into the martian atmosphere from volcanic eruptions . Icarus 
+204 :512 –526 
+Cronin J.R.   and Pizzarello S.   (1990 ) Aliphatic hydrocarbons of the Murchison meteorite . Geochim Cosmochim Acta 
+54 :2859 –2868 11537195 
+da Silva J.A.L.   and Holm N.G.   (2014 ) Borosilicates and silicophosphates as plausible contributors to the origin of life . J Colloid Interface Sci 
+431 :250 –254 24674693 
+Davila A.F.  , Willson D.  , Coates J.D.  , and McKay C.P.   (2013 ) Perchlorate on Mars: a chemical hazard and a resource for humans . International Journal of Astrobiology 
+12 :321 –325 
+Delsanti A.  , Merlin F.  , Guilbert-Lepoutre A.  , Bauer J.  , Yang B.  , and Meech K.J.   (2010 ) Methane, ammonia, and their irradiation products at the surface of an intermediate-size KBO: a portrait of Plutino (90482) Orcus . Astron Astrophys 
+520 :A40 
+Desch S.J.  , Cook J.C.  , Doggett T.C.  , and Porter S.B.   (2009 ) Thermal evolution of Kuiper Belt Objects, with implications for cryovolcanism . Icarus 
+202 :694 –714 
+Ehlmann B.L.  , Mustard J.F  , and Murchie S.L.   (2010 ) Geologic setting of serpentine deposits on Mars . Geophys Res Lett 
+37 :L06201 
+Etiope G.   and Ionescu A.   (2014 ) Low-temperature catalytic CO2 hydrogenation with geological quantities of ruthenium: a possible abiotic CH4 source in chromitite-rich serpentinized rocks . Geofluids , published online, doi:10.1111/gfl.12106 
+Etiope G.   and Sherwood Lollar B.   (2013 ) Abiotic methane on Earth . Rev Geophys 
+51 :276 –299 
+Etiope G.  , Ehlmann B.L.  , and Schoell M.   (2013 ) Low temperature production and exhalation of methane from serpentinized rocks on Earth: a potential analog for methane production on Mars . Icarus 
+224 :276 –285 
+Evans B.W.   (2010 ) Lizardite versus antigorite serpentinite: magnetite, hydrogen, and life(?) . Geology 
+38 :879 –882 
+Evans B.W.  , Hattori K.  , and Baronnet A.   (2013 ) Serpentinite: what, why, where? 
+Elements 
+9 :99 –106 
+Falbe J.   (1980 ) New Syntheses with Carbon Monoxide , Springer , Berlin 
+Ferris J.P.   (1992 ) Chemical markers of prebiotic chemistry in hydrothermal systems . Orig Life Evol Biosph 
+22 :109 –134 11537550 
+Flanagan G.  , Ahmed S.N.  , and Shevlin P.B.   (1992 ) Formation of carbohydrates in the reaction of atomic carbon with water . J Am Chem Soc 
+114 :3892 –3896 
+Fonti S.   and Marzo G.A.   (2010 ) Mapping the methane on Mars . Astron Astrophys 
+512 :A51 
+Formisano V.  , Atreya S.  , Encrenaz T.  , Ignatiev N.  , and Giuranna M.   (2004 ) Detection of methane in the atmosphere of Mars . Science 
+306 :1758 –1761 15514118 
+Frost B.R.   and Beard J.S.   (2007 ) On silica activity and serpentinization . Journal of Petrology 
+48 :1351 –1368 
+Geminale A.  , Formisano V.  , and Giuranna M.   (2008 ) Methane in martian atmosphere: average spatial, diurnal, and seasonal behaviour . Planet Space Sci 
+56 :1194 –1203 
+Geminale A.  , Formisano V.  , and Sindoni G.   (2011 ) Mapping methane in martian atmosphere with PFS-MEX data . Planet Space Sci 
+59 :137 –148 
+Gerasimov M.V.  , Dikov Y.P.  , Yakovlev O.I.  , and Wlotzka F.   (2000 ) On the possibility of hydrocarbon synthesis during an impact [abstract 1259] . In 31st Lunar and Planetary Science Conference Abstracts , Lunar and Planetary Institute , Houston 
+Glein C.R.  , Zolotov M.Y.  , and Shock E.L.   (2007 ) Hydrothermal geochemistry as the source of plume gases on Enceladus: a thermodynamic evaluation [abstract 1251] . In 38th Lunar and Planetary Science Conference Abstracts , Lunar and Planetary Institute , Houston 
+Guilbert-Lepoutre A.  , Lasue J.  , Federico C.  , Coradini A.  , Orosei R.  , and Rosenberg E.D.   (2011 ) A new 3D thermal evolution model, application to transneptunian objects . Astron Astrophys 
+529 :A71 
+Haruyama J.  , Yamamoto T.  , Mizutani H.  , and Greenberg J.M.   (1993 ) Thermal history of comets during residence in the Oort Cloud—effect of radiogenic heating in combination with the very low thermal conductivity of amorphous ice . J Geophys Res 
+98 :15079 –15090 
+Hayatsu R.   and Anders E.   (1981 ) Organic compounds in meteorites and their origins . Top Curr Chem 
+99 :1 –37 
+Holm N.G.   and Andersson E.M.   (1998 ) Hydrothermal systems . In The Molecular Origins of Life: Assembling Pieces of the Puzzle , edited by Brack A.  , Cambridge University Press , Cambridge, UK , pp 86 –99 
+Holm N.G.   and Charlou J.L.   (2001 ) Initial indications of abiotic formation of hydrocarbons in the Rainbow ultramafic hydrothermal system, Mid-Atlantic Ridge . Earth Planet Sci Lett 
+191 :1 –8 
+Holm N.G.   and Neubeck A.   (2009 ) Reduction of nitrogen compounds in oceanic basement and its implications for HCN formation and abiotic organic synthesis . Geochem Trans 
+10 , doi:10.1186/1467-4866-10-9 
+Holm N.G.  , Dumont M.  , Ivarsson M.  , and Konn C.   (2006 ) Alkaline fluid circulation in ultramafic rocks and formation of nucleotide constituents: a hypothesis . Geochem Trans 
+7 , doi:10.1186/1467-4866-7-7 
+Hosgormez H.  , Etiope G.  , and Yalçin M.N.   (2008 ) New evidence for a mixed inorganic and organic origin of the Olympic Chimaera fire (Turkey): a large onshore seepage of abiogenic gas . Geofluids 
+8 :263 –273 
+Hussmann H.  , Sohl F.  , and Spohn T.   (2006 ) Subsurface oceans and deep interiors of medium-sized outer planet satellites and large trans-neptunian objects . Icarus 
+185 :258 –273 
+Irvine W.M.  , Leschine S.B.  , and Schloerb F.P.   (1980 ) Thermal history, chemical composition and relationship of comets to the origin of life . Nature 
+283 :748 –749 
+Ishimaru R.  , Sekine Y.  , Matsui T.  , and Mousis O.   (2011 ) Oxidizing proto-atmosphere on Titan: constraint from N2 formation by impact shock . Astrophys J 
+741 :L10 
+Jakosky B.M.   and Haberle R.M.   (1992 ) The seasonal behavior of water on Mars . In Mars , edited by Kieffer H.H.  , Jakosky B.M.  , Snyder C.W.  , and Matthews M.  , University of Arizona Press , Tucson, AZ , pp 969 –1016 
+Jones L.C.  , Rosenbauer R.  , Goldsmith J.I.  , and Oze C.   (2010 ) Carbonate control of H2 and CH4 production in serpentinization systems at elevated P-Ts . Geophys Res Lett 
+37 :L14306 
+Kargel J.S.  , Kaye J.Z.  , Head J.W.  , Marion G.M.  , Sassen R.  , Crowley J.K.  , Ballesteros O.P.  , Grant S.A.  , and Hogenboom D.L.   (2000 ) Europa's crust and ocean: origin, composition, and the prospects for life . Icarus 
+148 :226 –265 
+Kelemen P.B.   and Hirth G.   (2012 ) Reaction-driven cracking during retrograde metamorphism: olivine hydration and carbonation . Earth Planet Sci Lett 
+345 :81 –89 
+Kelley D.S.  , Karson J.A  , Blackman D.K.  , Früh-Green G.L.  , Butterfield D.A.  , Lilley M.D.  , Olson E.J.  , Schrenk M.O.  , Roe K.K.  , Lebon G.T.  , Rivizzogni P.  , and the AT3-60 Shipboard Party . (2001 ) An off-axis hydrothermal vent field near the Mid-Atlantic Ridge at 30°N . Nature 
+412 :145 –149 11449263 
+Klein F.   and McCollom T.M.   (2013 ) From serpentinization to carbonation: new insights from a CO2 injection experiment . Earth Planet Sci Lett 
+379 :137 –145 
+Klein F.  , Bach W.  , Jöns N.  , McCollom T.  , Moskowitz B.  , and Berquó T.   (2009 ) Iron partitioning and hydrogen generation during serpentinization of abyssal peridotites from 15°N on the Mid-Atlantic Ridge . Geochim Cosmochim Acta 
+73 :6868 –6893 
+Klein F.  , Bach W.  , and McCollom T.M.   (2013 ) Compositional controls on hydrogen generation during serpentinization of ultramafic rocks . Lithos 
+178 :55 –69 
+Klein F.  , Bach W.  , Humphris S.E.  , Kahl W.-A.  , Jöns N.  , Moskowitz B.  , and Berquó T.S.   (2014 ) Magnetite in seafloor serpentinite—some like it hot . Geology 
+42 :135 –138 
+Konn C.  , Charlou J.L.  , Donval J.P.  , Holm N.G.  , Dehairs F.  , and Bouillon S.   (2009 ) Hydrocarbons and oxidized organic compounds in hydrothermal fluids from Rainbow and Lost City ultramafic-hosted vents . Chem Geol 
+258 :299 –314 
+Krasnopolsky V.A.  , Maillard J.P.  , and Owen T.C.   (2004 ) Detection of methane in the martian atmosphere: evidence for life? 
+Icarus 172 :537 –547 
+Kress M.E.   (1997 ) The Role of Dust in the Formation of Organics in Warm Circumstellar Media , PhD thesis, Rensselaer Polytechnic Institute , Troy, NY 
+Kress M.E.   and McKay C.P.   (2004 ) Formation of methane in comet impacts: implications for Earth, Mars, and Titan . Icarus 
+168 :475 –483 
+Kress M.E.   and Tielens A.G.G.M.   (2001 ) The role of Fischer-Tropsch catalysis in solar nebula chemistry . Meteorit Planet Sci 
+36 :75 –92 
+Lang S.Q.  , Früh-Green G.L.  , Bernasconi S.M.  , Lilley M.D.  , Proskurowski G.  , Méhay S.  , and Butterfield D.A.   (2012a ) Microbial utilization of abiogenic carbon and hydrogen in a serpentinite-hosted system . Geochim Cosmochim Acta 
+92 :82 –99 
+Lang S.Q.  , Früh-Green G.L.  , Kelley D.S.  , Lilley M.D.  , Proskurowski G.  , and Reeves E.P.   (2012b ) H2/CH4 ratios cannot reliably distinguish abiotic vs. biotic methane in natural hydrothermal systems . Proc Natl Acad Sci USA 
+109 :E3210 23012469 
+Lazar C.  , Cody G.D.  , and Davis J.M.   (2015 ) A kinetic pressure effect on the experimental abiotic reduction of aqueous CO2 to methane from 1 to 3.5 kbar at 300°C . Geochim Cosmochim Acta 
+151 :34 –48 
+Le Maitre R.W.   (2002 ) Igneous Rocks: A Classification and Glossary of Terms , Cambridge University Press , Cambridge, UK 
+Lewis J.S.   and Prinn R.G.   (1980 ) Kinetic inhibition of CO and N2 reduction in the solar nebula . Astrophys J 
+238 :357 –364 
+Malamud U.   and Prialnik D.   (2013 ) Modeling serpentinization: applied to the early evolution of Enceladus and Mimas . Icarus 
+225 :763 –774 
+Malvoisin B.  , Brunet F.  , Carlut J.  , Rouméjon S.  , and Cannat M.   (2012 ) Serpentinization of oceanic peridotites: 2. Kinetics and processes of San Carlos olivine hydrothermal alteration . J Geophys Res 
+117 :B04102 
+Marcaillou C.  , Muñoz M.  , Vidal O.  , Parra T.  , and Harfouche M.   (2011 ) Mineralogical evidence for H2 degassing during serpentinization at 300°C/300 bar . Earth Planet Sci Lett 
+303 :281 –290 
+McCollom T.M.   and Bach W.   (2009 ) Thermodynamic constraints on hydrogen generation during serpentinization of ultramafic rocks . Geochim Cosmochim Acta 
+73 :856 –875 
+McCollom T.M.   and Seewald J.S.   (2001 ) A reassessment of the potential for reduction of dissolved CO2 to hydrocarbons during serpentinization of olivine . Geochim Cosmochim Acta 
+65 :3769 –3778 
+McKinnon W.B.   and Zolensky M.E.   (2003 ) Sulfate content of Europa's ocean: evolutionary considerations . Bulletin of the American Astronomical Society 
+35 :919 
+McKinnon W.B.  , Prialnik D.  , Stern S.A  , and Coradini A.   (2008 ) Structure and evolution of Kuiper Belt Objects and dwarf planets . In The Solar System Beyond Neptune , edited by Barucci M.A.  , Boehnhardt H.  , Cruikshank D.P.  , and Morbidelli A.  , University of Arizona Press , Tucson, AZ , pp 213 –241 
+Merk R.   and Prialnik D.   (2006 ) Combined modeling of thermal evolution and accretion of trans-neptunian objects—occurrence of high temperatures and liquid water . Icarus 
+183 :283 –295 
+Miller S.L.   and Bada J.L.   (1988 ) Submarine hot springs and the origin of life . Nature 
+334 :609 –611 11536607 
+Milliken R.E.   and Rivkin A.S.   (2009 ) Brucite and carbonate assemblages from altered olivine-rich materials on Ceres . Nat Geosci 
+2 :258 –261 
+Moody J.B.   (1976 ) Serpentinization: a review . Lithos 
+9 :125 –138 
+Morrill P.L.  , Kuenen J.G.  , Johnson O.J.  , Suzuki S.  , Rietze A.  , Sessions A.L.  , Fogel M.L.  , and Nealson K.H.   (2013 ) Geochemistry and geobiology of a present-day serpentinization site in California: The Cedars . Geochim Cosmochim Acta 
+109 :222 –240 
+Mottl M.J.  , Komor S.C.  , Fryer P.  , and Moyer C.L.   (2003 ) Deep-slab fluids fuel extremophilic archaea on a Mariana forearc serpentinite mud volcano: Ocean Drilling Program Leg 195 . Geochemistry Geophysics Geosystems 
+4 , doi:10.1029/2003GC000588 
+Mousis O.  , Alibert Y.  , Sekine Y.  , Sugita S.  , and Matsui T.   (2006 ) The role of Fischer-Tropsch catalysis in jovian subnebular chemistry . Astron Astrophys 
+459 :965 –968 
+Mousis O.  , Lunine J.I.  , Pasek M.  , Cordier D.  , Waite H.J.  , Mandt K.E.  , Lewis W.S.  , and Nguyen M.-J.   (2009 ) A primordial origin for the atmospheric methane of Saturn's moon Titan . Icarus 
+204 :749 –751 
+Mousis O.  , Lakhlifi A.  , Picaud S.  , Pasek M.  , and Chassefière E.   (2013 ) On the abundance of noble and biologically relevant gases in Lake Vostok, Antarctica . Astrobiology 
+13 :380 –390 23758192 
+Mumma M.J.  , Villanueva G.L.  , Novak R.E.  , Hewagama T.  , Bonev B.P.  , DiSanti M.A.  , Mandell A.M.  , and Smith M.D.   (2009 ) Strong release of methane on Mars in northern summer 2003 . Science 
+323 :1041 –1045 19150811 
+Neubeck A.  , Nguyen T.D.  , Bastviken D.  , Crill P.  , and Holm N.G.   (2011 ) Formation of H2 and CH4 by weathering of olivine at temperatures between 30 and 70°C . Geochem Trans 
+12 , doi:10.1186/1467-4866-12-6 
+Neubeck A.  , Nguyen T.D.  , Hellevang H.  , Oze C.  , Bastviken D.  , Baczik Z.  , and Holm N.G.   (2014 ) Olivine alteration and H2 production in carbonate-rich, low-temperature aqueous environments . Planet Space Sci 
+96 :51 –61 
+Nooner D.W.  , Gibert J.M.  , Gelp E.  , and Oró J.   (1976 ) Closed system Fischer-Tropsch synthesis over meteoritic iron, iron ore and iron-nickel alloy . Geochim Cosmochim Acta 
+40 :915 –924 
+Okland I.  , Huang S.  , Dahle H.  , Thorseth I.H.  , and Pedersen R.B.   (2012 ) Low temperature alteration of serpentinized ultramafic rock and implications for microbial life . Chem Geol 
+318–319 :75 –87 
+Oze C.   and Sharma M.   (2005 ) Have olivine, will gas: serpentinization and the abiogenic production of methane on Mars . Geophys Res Lett 
+32 :L10203 
+Oze C.   and Sharma M.   (2007 ) Serpentinization and the inorganic synthesis of H2 in planetary surfaces . Icarus 
+186 :557 –561 
+Oze C.  , Jones L.C.  , Goldsmith J.I.  , and Rosenbauer R.J.   (2012a ) Differentiating biotic from abiotic methane genesis in hydrothermally active planetary surfaces . Proc Natl Acad Sci USA 
+109 :9750 –9754 22679287 
+Oze C.  , Jones L.C.  , Goldsmith J.I.  , and Rosenbauer R.J.   (2012b ). Reply to Lang et al.: Using field analyses to properly address the kinetics of methane genesis in olivine-rich hydrothermal systems . Proc Natl Acad Sci USA 
+109 :E3211 
+Prialnik D.   and Merk R.   (2008 ) Growth and evolution of small porous icy bodies with an adaptative-grid thermal evolution code. I—Application to Kuiper Belt Objects and Enceladus . Icarus 
+197 :211 –220 
+Prialnik D.   and Podolak M.   (1995 ) Radioactive heating of porous comet nuclei . Icarus 
+117 :420 –430 
+Prialnik D.  , Bar-Nun A.  , and Podolak M.   (1987 ) Radiogenic heating of comets by 26Al and implications for their time of formation . Astrophys J 
+319 :993 –1002 11539739 
+Prieto-Ballesteros O.  , Kargel J.S.  , Fairén A.G.  , Fernández-Remolar D.C.  , Dohm J.M.  , and Amils R.   (2006 ) Interglacial clathrate destabilization on Mars: possible contributing source of its atmospheric methane . Geology 
+34 :149 –152 
+Prinn R.G.   and Fegley B. Jr.  (1981 ) Kinetic inhibition of CO and N2 reduction in circumplanetary nebulae—implications for satellite composition . Astrophys J 
+249 :308 –317 
+Proskurowski G.  , Lilley M.D.  , Seewald J.S.  , Früh-Green G.L.  , Olson E.J.  , Lupton J.E.  , Sylva S.P.  , and Kelley D.S.   (2008 ) Abiogenic hydrocarbon production at Lost City hydrothermal field . Science 
+319 :604 –607 18239121 
+Ryan S.  , Dlugokencky E.J.  , Tans P.P.  , and Trudeau M.E.   (2006 ) Mauna Loa volcano is not a methane source: implications for Mars . Geophys Res Lett 
+33 :L12301 
+Schrenk M.O.  , Brazelton W.J.  , and Lang S.Q.   (2013 ) Serpentinization, carbon, and deep life . Reviews in Mineralogy and Geochemistry 
+75 :575 –606 
+Schubert G.  , Spohn T.  , and Reynolds R.T.   (1986 ) Thermal histories, compositions and internal structures of the moons of the Solar System . In Satellites , edited by Burns J.A.   and Matthews M.S.  , based on the conference Natural Satellites, Colloquium 77 of the International Astronomical Union, University of Arizona Press , Tucson, AZ , pp 224 –292 
+Schulte M.  , Blake D.  , Hoehler T.  , and McCollom T.   (2006 ) Serpentinization and its implications for life on Earth and Mars . Astrobiology 
+6 :364 –376 16689652 
+Seewald J.S.  , Zolotov M.Yu.  , and McCollom T.M.   (2006 ) Experimental investigation of single carbon compounds under hydrothermal conditions . Geochim Cosmochim Acta 
+70 :446 –460 
+Sekine Y.  , Sugita S.  , Kadono T.  , and Matsui T.   (2003 ) Methane production by large iron meteorite impacts on early Earth . J Geophys Res (Planets) 
+108 , doi:10.1029/2002JE002034 
+Sekine Y.  , Sugita S.  , Shido T.  , Yamamoto T.  , Iwasawa Y.  , Kadono T.  , and Matsui T.   (2005 ) The role of Fischer-Tropsch catalysis in the origin of methane-rich Titan . Icarus 
+178 :154 –164 
+Sekine Y.  , Sugita S.  , Shido T.  , Yamamoto T.  , Iwasawa Y.  , Kadono T.  , and Matsui T.   (2006 ) An experimental study on Fischer-Tropsch catalysis: implications for impact phenomena and nebular chemistry . Meteorit Planet Sci 
+41 :715 –729 
+Sekine Y.  , Genda H.  , Sugita S.  , Kadono T.  , and Matsui T.   (2011 ) Replacement and late formation of atmospheric N2 on undifferentiated Titan by impacts . Nat Geosci 
+4 :359 –362 
+Seyfried W.E. Jr. , Foustoukos D.I.  , and Fu Q.   (2007 ) Redox evolution and mass transfer during serpentinization: an experimental and theoretical study at 200°C, 500 bar with implications for ultramafic-hosted hydrothermal systems at mid-ocean ridges . Geochim Cosmochim Acta 
+71 :3872 –3886 
+Shkrob I.A.  , Chemerisov S.D.  , and Marin T.W.   (2010 ) Photocatalytic decomposition of carboxylated molecules on light-exposed martian regolith and its relation to methane production on Mars . Astrobiology 
+10 :425 –436 20528197 
+Shock E.   and Canovas P.   (2010 ) The potential for abiotic organic synthesis and biosynthesis at seafloor hydrothermal systems . Geofluids 
+10 :161 –192 
+Shock E.L.   and McKinnon W.B.   (1993 ) Hydrothermal processing of cometary volatiles—applications to Triton . Icarus 
+106 :464 –477 11540242 
+Sleep N.H.  , Meibom A.  , Fridriksson Th.  , Coleman R.G.  , and Bird D.K.   (2004 ) H2-rich fluids from serpentinization: geochemical and biotic implications . Proc Natl Acad Sci USA 
+101 :12818 –12823 15326313 
+Smirnov A.  , Hausner D.  , Laffers R.  , Strongin D.R.  , and Schoonen M.A.A.   (2008 ) Abiotic ammonium formation in the presence of Ni-Fe metals and alloys and its implications for the Hadean nitrogen cycle . Geochem Trans 
+9 , doi:10.1186/1467-4866-9-5 
+Steynberg A.P.   and Dry M.E.   (2004 ) Studies in Surface Science and Catalysis, Vol. 152, Fischer-Tropsch Technology , Elsevier , Amsterdam 
+Storch H.H.  , Golumbic N.  , and Anderson R.B.   (1951 ) The Fischer-Tropsch and Related Syntheses , Wiley , New York 
+Storsæter S.  , Borg Ø.  , Blekkan E.A.  , and Holmen A.   (2005 ) Study of the effect of water on Fischer-Tropsch synthesis on supported cobalt catalysts . J Catal 
+231 :404 –419 
+Studier M.H.  , Hayatsu R.  , and Anders E.   (1968 ) Origin of organic matter in early Solar System I. Hydrocarbons . Geochim Cosmochim Acta 
+32 :151 –173 
+Suda K.  , Ueno Y.  , Yoshizaki M.  , Nakamura H.  , Kurokawa K.  , Nishiyama E.  , Yoshino K.  , Hongoh Y.  , Kawachi K.  , Omori S.  , Yamada K.  , Yoshida N.  , and Maruyama S.   (2014 ) Origin of methane in serpentinite-hosted hydrothermal systems: the CH4-H2-H2O hydrogen isotope systematics of the Hakuba Happo hot spring . Earth Planet Sci Lett 
+386 :112 –125 
+Thomas C.  , Mousis O.  , Picaud S.  , and Ballenegger V.   (2009 ) Variability of the methane trapping in martian subsurface clathrate hydrates . Planet Space Sci 
+57 :42 –47 
+Tung H.C.  , Bramall N.E.  , and Price P.B.   (2005 ) Microbial origin of excess methane in glacial ice and implications for life on Mars . Proc Natl Acad Sci USA 
+102 :18292 –18296 16339015 
+Vance S.  , Harnmeijer J.  , Kimura J.  , Hussmann H.  , deMartin B.  , and Brown J.M.   (2007 ) Hydrothermal systems in small ocean planets . Astrobiology 
+7 :987 –1005 18163874 
+Velbel M.A.  , Tonui E.K.  , and Zolensky M.E.   (2012 ) Replacement of olivine by serpentine in the carbonaceous chondrite Nogoya (CM2) . Geochim Cosmochim Acta 
+87 :117 –135 
+Viviano C.E.  , Moersch J.E.  , and McSween H.Y.   (2013 ) Implications for early hydrothermal environments on Mars through the spectral evidence for carbonation and chloritization reactions in the Nili Fossae region . J Geophys Res Planets 
+118 :1858 –1872 
+Wallis M.K.   (1980 ) Radiogenic melting of primordial comet interiors . Nature 
+284 :431 –433 
+Webster C.R.  , Mahaffy P.R.  , Atreya S.K.  , Flesch G.J.  , Farley K.A.  , and the MSL science team . (2013 ) Low upper limit to methane abundance on Mars . Science 
+342 :355 –357 24051245 
+Whiticar M.J.   and Etiope G.   (2014 ) Hydrogen isotope fractionation in land-based serpentinization systems. Comment on “Origin of methane in serpentinite-hosted hydrothermal systems: the CH4–H2–H2O hydrogen isotope systematics.” 
+Earth Planet Sci Lett 
+401 :373 –375 
+Willacy K.   (2004 ) A chemical route to the formation of water in the circumstellar envelopes around carbon-rich asymptotic giant branch stars: Fischer-Tropsch catalysis . Astrophys J 
+600 :L87 –L90 
+Yoshino D.  , Hayatsu R.  , and Anders E.   (1971 ) Origin of organic matter in early Solar System: III. Amino acids: catalytic syntheses . Geochim Cosmochim Acta 
+35 :927 –938 
+Zahnle K.  , Freedman R.S.  , and Catling D.C.   (2011 ) Is there methane on Mars? 
+Icarus 
+212 :493 –503 
+Zolotov M.Y.   (2012 ) Aqueous fluid composition in CI chondritic materials: chemical equilibrium assessments in closed systems . Icarus 
+220 :713 –729 
+Zolotov M.Y.   (2014 ) Formation of brucite and cronstedtite-bearing mineral assemblages on Ceres . Icarus 
+228 :13 –26

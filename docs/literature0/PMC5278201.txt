@@ -1,0 +1,193 @@
+
+==== Front
+Adv VirolAdv VirolAVAdvances in Virology1687-86391687-8647Hindawi Publishing Corporation 10.1155/2017/1073253Research ArticleIncidence and Molecular Characterization of Hepatitis E Virus from Swine in Eastern Cape, South Africa http://orcid.org/0000-0003-4858-9136Adelabu Olusesan Adeyemi 
+1
+
+2
+
+*
+Chuks Iweriebor Benson 
+1
+
+2
+Nwodo U. U. 
+1
+
+2
+Obi Larry Chikwelu 
+3
+Okoh Anthony Ifeanyi 
+1
+
+2
+1SAMRC Microbial Water Quality Monitoring Centre, University of Fort Hare, Private Bag X1314, Alice, Eastern Cape Province 5700, South Africa2Applied and Environmental Microbiology Research Group (AEMREG), Department of Biochemistry and Microbiology, University of Fort Hare, Private Bag X1314, Alice, Eastern Cape Province 5700, South Africa3Academic and Research Division, University of Fort Hare, Private Bag X1314, Alice, Eastern Cape Province, South Africa*Olusesan Adeyemi Adelabu: 201409080@ufh.ac.zaAcademic Editor: Finn S. Pedersen
+
+2017 16 1 2017 2017 107325331 10 2016 22 12 2016 Copyright © 2017 Olusesan Adeyemi Adelabu et al.2017This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.Hepatitis E virus-mediated infection is a serious public health concern in economically developing nations of the world. Globally, four major genotypes of HEV have been documented. Hepatitis E has been suggested to be zoonotic owing to the increase of evidence through various studies. Thus far, this paper reports on prevalence of hepatitis E virus among swine herd in selected communal and commercial farms in the Eastern Cape Province of South Africa. A total of 160 faecal samples were collected from swine herds in Amathole and Chris Hani District Municipalities of Eastern Cape Province for the presence of HEV. Of the 160 faecal samples screened, only seven were positive (4.4%) for HEV. The nucleotide sequences analyses revealed the isolates as sharing 82% to 99% identities with other strains (KX896664, KX896665, KX896666, KX896667, KX896668, KX896669, and KX896670) from different regions of the world. We conclude that HEV is present among swine in the Eastern Cape Province, albeit in low incidence, and this does have public health implications. There is a need for maintenance of high hygienic standards in order to prevent human infections through swine faecal materials and appropriate cooking of pork is highly advised. 
+
+South African Medical Research Council
+==== Body
+1. Introduction
+In many developing countries in Asia, Middle East, and Africa, Hepatitis E has become a significant public health concern [1, 2], as well as sporadic cases of acute hepatitis in developed countries [3]. It is a generic term symbolising infection of the liver which is caused by different viruses such as hepatitis A to hepatitis E [4].
+
+Hepatitis E virus is still considered an emerging pathogen in developing countries, owing to the scarcity of information on its infection especially in animals which have arisen from few studies and neglect of the disease and its public health problem [5]. Although most of available information describe human HEV outbreaks in Kenya, Sudan, Uganda, Democratic Republic of Congo (DRC), and Central African Republic [6, 7], information on HEV infection in animals in developing countries of Africa remains underreported.
+
+The widespread HEV infection has been reported in Nigeria, with prevalence rate of 76.7% of genotype 3, and also in Cameroon, Republic of Congo, and Tunisia [8]. The causative agent of the infection known as hepatitis E virus, is a nonenveloped, single-stranded, and positive sense RNA virus, with nearly 7.2 kb genome which encodes three open reading frames (ORFs), translated into ORFs 1–3, with a short 59 untranslated region (UTR). Open reading frame 1 encodes for nonstructural protein while ORF 2 and ORF 3 encode for viral capsid protein and multifunctional small proteins, respectively [9]. It was classified as the only member of the genus Hepevirus [10]. However, a new taxonomic division within the family Hepeviridae, due to contradictions in respect to the designation of species and genotypes, has been proposed by Smith et al. (2014), in which the family Hepeviridae is divided to genera Orthohepevirus (all mammalian and avian HEV isolates) and Piscihepevirus (cutthroat trout virus) while species within the genus Orthohepevirus are assigned Orthohepevirus A-D [11, 12].
+
+Several studies have reported HEV to be transmitted via faecal-oral routes, usually via contaminated water in developing countries [13–15], while, in the developed countries, direct contacts with infected animals and consumption of poorly cooked/contaminated pork meat and its products, among others, have been reported as routes of transmission and are probable means of zoonotic HEV transmission [16, 17]. The recent identification of other various genetically diverse hepatitis E virus strains from different animal species poses additional potential concerns for HEV zoonotic infection [12, 18]
+
+HEV is a single serotype virus with four distinct genotypes which have the potential of infecting man (genotypes I–4). Genotypes 1 and 2 are primarily classified to infect only human population, while genotypes 3 and 4 are said to be zoonotic in developing and developed nations [19–22].
+
+Though it is a slight to temperate disease in severity with mortality rate of <1–4%, among young adults but greater in infected pregnant women, where high mortality rate is progressive in each succeeding trimester to approximately 40%, about 90% of children aged <10 years infected with HEV living in HEV endemic areas have been reported [23].
+
+Several decades into the documentation of the Hepatitis E virus genome, medical virology research is still advancing in knowledge acquisition sequel to the amplified alertness and apparent prominence of hepatitis E as a significant public health concern [16]. Analyses of HEV from animal reservoirs have also confirmed that the strains circulating among domestic and wild pigs are genetically related to the strains identified in human cases [12, 24]. In this paper, we report on the prevalence of swine HEV isolates in selected swine herds in Eastern Cape, South Africa, using the highly conserved capsid protein.
+
+2. Materials and Methods
+2.1. Description of the Study Areas
+Both commercial and communal swine herds from Amathole and Chris Hani Districts Municipalities were selected for this study, and, for the purpose of confidentiality, these herds will be referred to as swine herds A and B.
+
+Swine herd A is located along the geographical coordinates of 31°34′0′′S and 28°46′0′′E. It has about 1000 pigs penned in groups of 8 to 10 according to sizes and age.
+
+Swine herd B is located along the geographical coordinates of 32°30′0′′S and 27°30′0′′E, with capacity of approximately 400 pigs, ranging from nursery to finisher pigs in different pens.
+
+3. Sample Collection
+One hundred and sixty faecal samples from 3–5-month-old pigs in selected swine herds were collected with sterile swab for this study. Ten (10 grams) of the samples were each separately suspended in 1x Phosphate buffered saline (PBS) followed by vigorous shaking with vortex machine, centrifuged at 5000 rpm for 5 min, and the supernatants were separated and stored at −80°C until further use as source of HEV genomic RNA.
+
+4. Viral RNA Extraction
+The Viral RNA was purified from 160 µl of the swine faecal samples using Quick-RNA Miniprep kit (Zymo research, USA), the manufacturer's protocol was adhered to. The Viral RNA was eluted from the spin column with 50 µl of the elution buffer and frozen at −80°C until further use.
+
+5. Nested Reverse-Transcriptase Polymerase Chain Reaction (RT-PCR)
+Two sets of degenerated primers flanking a segment of the ORF 2 gene encoding the structural capsid protein were used: external primers [Forward 5′-AGCTCCTGTACCTGATGTTGACTC-3′], [Reverse 5′-CTACAGAGCGCCAGCCTTGATTGC-3′] with expected RT-PCR product size of 427 bp and internal primers [Forward, 5′-GCTCACGTCATCTGTCGCTGCTGG-3′], [Reverse, 5′-GGGCTGAACCAAAATCCTGACATC-3′] with expected RT-PCR product size of 289 bp.
+
+The RNA was reverse transcribed using 5 µl of total RNA, 1 µl each of both forward and reverse primers (external primers), 12 µl of master-mix, 5.6 µl of RNase-free water, and 0.4 µl of reverse transcriptase (Thermo-Fisher, Scientific), at 50°C for 60 min to generate complementary DNA (cDNA), followed by a conventional PCR using 5 µl of cDNA as template with master-mix: 12 µl, forward and reverse primers: 1 µl each, and RNase-free water: 6 µl to make a final reaction volume of 25 µl, for the detection of low level of virus and confirmation of the first round PCR product. PCR was carried out for 40 cycles which includes the initial denaturation and denaturation at 95°C for 3 minutes and 94°C for 1 min, respectively, followed by annealing for 1 min at 58°C, elongation for 1 min at 72°C, and final elongation at 72°C for 7 min.
+
+Subsequently, a nested PCR was carried out by using the following: 3 µl of RT-PCR product, master-mix: 14 µl, forward and reverse primers: 1 µl each, and RNase-free water: 6 µl to make a final volume of 25 µl.
+
+The nested PCR products were examined by electrophoresis on a 1.5% agarose gel (product), stained with 10 mg/ml ethidium bromide, at 100 V for 60 mins. The 427 base pair (bp) was viewed under ultraviolet illumination. The positive PCR products were sent to DNA sequencing facility centre for sequencing, using Sanger sequencing method.
+
+6. Results
+A total of one hundred and sixty faecal samples from 3–5-month-old pigs collected from swine herds, one hundred and thirty from a commercial farm (UFT) located at Nkonkobe Local Municipality, under Amathole District Municipality, and thirty samples from a communal farm (UMCF) located at Mhlontlo Local Municipality, under Chris Hani District Municipality, were analysed. All the samples collected from both farms were screened for the presence of HEV: three (3) samples were positive from the samples collected from commercial farm while four (4) were positive from the samples from communal farm (Table 1).
+
+For the seven swine HEV isolates generated from this study, nucleotide sequences of ORF 2 RT-PCR products were obtained after sequence editing, using Chromas software (version 2.5). Nucleotide sequence comparison by BLAST as implemented in the NCBI database (https://www.ncbi.nlm.nih.gov/) showed UMCF01–04 having 87% to 99% homology with the 440 bp fragments of ORF 2 of swine HEV isolates from Japan, Netherlands, and France, respectively, while isolates UFT01–03 showed about 82% to 93% nucleic acid identity in the 440 bp section of ORF 2 among swine and human isolates from US and Japan.
+
+Subsequently, phylogenetic analysis of the seven isolates of swine HEV was carried out by comparing the highly preserved 300 bp of OFR 2 to other swine and human HEV strains from different geographical regions. The GenBank accession numbers of the swine and human HEV reference strains used in the phylogenetic analysis in this study are as follows: Japan: LC073306, LC022740, AB986280, AB434138, AB671034, AB671046, LC037975, AB094207, AB073911, AB094211, AB476429, AB671052, AB607892, AB094209AB112743, AB290039, AB298181, AB683185, AB607888, and AB607890; Netherlands: AF336290, AY032756, AF332620, AF336290, and AY032758; USA: AF110387, AF110388, AF466681, AF466660, and AF020497; United Kingdom: AJ344190 and AJ428851; Canada: KP255948, DQ860005, KF956531, and KP255925; Taiwan: AF117275 and KP255922; France: JQ763611; Venezuela: KJ645943; India: FJ230850; Argentina: AF264010; China: DQ445498; Philippines: HM366941; Nigeria: KJ451629 and KJ451633; South Africa: KT833800 and KU178916; Cameroun: KC012634.
+
+Phylogenetic analysis of the swine HEV isolates was evaluated using Geneious R9.1.5 (Biomatters Limited). Phylogenetic analysis showed that all seven isolates from this study clustered with both human and swine HEV from different geographical regions of the world especially with Japan human and swine strains, Netherland swine HEV strains (AY032758, AF332620), and human HEV strain from France (JQ763611) (Figure 1). Isolates designated with UFT01–UFT03, recovered from commercial farm, formed a distinct cluster with swine HEV strain from United States of America (AF466681).
+
+Isolate UMCF01 formed a distinct cluster with the swine HEV strains from Japan (AB671046) and UMCF02 clustered with swine HEV strains isolated from a blood donor in Japan (AB094207 and AB094211), belonging to genotype 3, while isolates UMCF03 and UMCF04 phylogenetically formed distinct clusters with both human and swine HEV strains from Japan, respectively. Sequences reported in this study have been deposited to GenBank database under the accession numbers KX896664, KX896665, KX896666, KX896667, KX896668, KX896669, and KX896670.
+
+7. Discussion
+Globally, large proportion of swine have been acknowledged to be infected with HEV while its recovery from the faeces of 2- to 6-month-old pigs have been reported [25, 26], and, as an emerging pathogen, several novel strains of human HEV have also been detected from patients with severe hepatitis in both developing and developed geographical regions of the world [27–29].
+
+Various studies have reported the incidence of swine HEV from different parts of the world [30–33]. In the United Kingdom, China, Japan, and Canada, over 20% of swine faecal samples have been confirmed positive for HEV RNA [34–37], depending on the region sampled. Also, the widespread distribution of HEV has been reported in Nigeria, with prevalence rate of 76.7% of genotype 3 as well as in Cameroon, Republic of Congo, and Tunisia [8, 38]. All these are pointing to increased responsiveness and surveillance and prevalent nature of this virus in the environment. In this study, a total of 7/160 (4.4%) HEV strains, belonging to genotype 3, were recovered from swine for the first time in the Eastern Cape Province of South Africa.
+
+In developed countries, hepatitis E virus is considered a rare infection and most hepatitis E cases are linked with travelling to endemic regions. However, in recent years, cumulative numbers of sporadic cases have been reported among adults, especially in patients with unknown epidemiological risk factor [39–41]. Also, zoonotic transmission of HEV from wild boars has recently been reported in Italy [42], as well as in Germany, where the consumption of wild deer meat was associated with indigenous HEV infection [43], and genomic sequence recovered from wild boar in Sweden showed a very high percentage of relatedness to human and domestic pigs in the same environment [44].
+
+Besides infections in swine, the report of HEV infection in other animals is rapidly increasing. Genotypes 2, 3, and 4 strains of HEV have also been recovered in other nonhuman hosts, including mongoose, rats, birds, rabbits, bats and fish macaque, sheep, chicken, yak, and cattle [45–47]. Thus, swine has been primarily suspected as a source of zoonotic transmission owing to the fact that other animals are not closely related to human life [12, 48, 49]
+
+Furthermore, cross-species infection has been reported in China and Korea [49], due to traditional mixed farming system whereby various domestic animals are reared together in a close range [50] and this may hypothetically proliferate the zoonotic sources which could facilitate the transmission of HEV to humans. In the study area, especially in the communal farm, it was observed that pigs are being reared with other domestic animals, including cattle, chickens, ducks, and sheep. As such, the traditional farming system portends an increased risk of zoonosis in the study area.
+
+In South Africa, the first case of HEV genotype 3 from a 50-year-old transplant patient with a preexisting medical condition has been reported [51]. This suggests that HEV is underdiagnosed and underdocumented in this region; hence molecular HEV testing needs to be encouraged to support the management of immunocompromised patients.
+
+The data generated from this study raises a concern about a possible zoonosis of HEV strains circulating in the study area, as farming is the occupation of majority of the populace in the study area and the use of swine waste as manure to improve the farm yields has been a common practise. Also, most of the people living in the rural parts in the study area depend on water from dams and rivers for both drinking and domestic activities, and, for this reason, transmission of HEV from animal to man is anticipated. This is consistent with the findings of [52, 53]. It is, theretofore, imperative to safeguard the public against HEV infection, especially children (<10 years), the aged people (≥50 years), immune-comprised individuals, and pregnant women. In addition, information on human HEV seroprevalence is required among the people living in the study area to establish their exposure to the virus.
+
+The result from this study is also supported by a seroprevalence study conducted among selected group of people in relation to pork consumption in the Western Cape Province, South Africa, which revealed HEV IgG seroprevalence of 29.7% [54], suggesting swine as reservoirs of the virus.
+
+Within respect to the sequence comparison, genetic relatedness, and phylogeny analysis of the 300 bp of ORF 2, all swine HEV strains from this study are mostly clustered with previously reported human and swine strains from USA, Netherlands, Japan, Nigeria, France, and South Africa [37, 38, 55–57].
+
+Similar to other reports in Africa, Hepatitis E virus genotype 3 was identified and the strains characterized in this study presented a higher nucleotide homology with the strains from Japan and Netherland than the ones from Africa [38, 58–60]. The transmission of swine HEV between countries via international trade has been documented in Africa, Asia, and America [61, 62]; hence the HEV genotype 3 obtained from this study could be linked to Europe, Asia, and America, although more scientific information is required to establish this.
+
+Swine production in South Africa, like any other countries, is practiced either on a large scale (commercial) or small scale (communal). In communal system where pigs are allowed to roam about in sourcing for food and water, they visit flowing or stagnant waterbodies, thereby contaminating it with their faeces and urine, and consequently creating a route of transmission to humans, especially in an environment where there is a close association between pigs and humans, resulting in zoonosis of HEV infection.
+
+Subsequently, to public health concern of zoonosis, xenozoonosis is another concern among patients undergoing organ-transplant; hence as a result of adaptation in immune-compromised individuals, quasispecies, or recombination, a nonpathogenic strain of swine HEV may become pathogenic.
+
+With the similarities of the sequences detected among the strains of the isolates from this study and the strains from Japan, Netherlands, US, and Taiwan, and from other reports from different parts of the world, it can be deduced that HEV genotype 3 is a zoonotic virus.
+
+As it was recently reported that HEV infection is underdiagnosed, [51] had suggested that it should be included in diagnoses as it may be the cause of non-A, non-B, or non-C hepatitis case [63]. Biosafety measures should also be encouraged in surroundings near the swine herds so as to prevent the spread of swine HEV strains outside the herds, as different strains of swine HEV in circulation are observed in this study.
+
+The present study establishes that phylogeny can be a valuable tool in determining the source of HEV infections and geographical origin of hepatitis E virus, genotype 3 strains, infecting humans. In addition, the effectiveness of this tool for tracing human infections is dependent on regular screenings of swine and other domestic animals implicated to be reservoirs of HEV. It is reasonable to assume that if more information regarding HEV strains circulating in the study was available, it would significantly increase the reliability and precision of this model for tracing infections.
+
+Conclusively, the detection of swine HEV strains in this study linked to human HEV isolates from Japan, America, and Netherlands points toward a significant innovative track for hepatitis E virus research. From the public health perspective, priority should be given to the development of techniques for the detection of interspecies transmission at early stage. Swine HEV-mediated infection could make an animal model for hepatitis E virus studies available. It might as well prove worthwhile for vaccine development against HEV infection in humans.
+
+In addition, molecular-based analysis of HEV occurrence in swine herds, waterbodies, and hospitals, on a regular basis, is hereby encouraged to bring about appropriate control strategies and to prevent imminent outbreak of the virus.
+
+Acknowledgments
+The authors are grateful to the South Africa Medical Research Council for financial support.
+
+Competing Interests
+The authors declare that there are no competing interests regarding the publication of this paper.
+
+Figure 1 Phylogenetic relationships of HEV isolates obtained in this study. Phylogenetic analysis was based on 300 bp of the ORF 2 gene of the swine HEV isolates obtained in this study along reference sequences of other swine and human HEV strains from different geographical regions of the world that were obtained from the GenBank. Tree was drawn with Geneious R9.1.5 (Biomatters Limited). Sequences obtained in this study are given in blue dots.
+
+Table 1 Age-dependent prevalence of HEV RNA in the faeces of swine in Eastern Cape Province.
+
+Age (months)	Type of farm	Number of pigs tested	Number of pigs with HEV	
+3–5	Commercial	130	3 (2.3%)	
+3–5	Communal	30	4 (13%)	
+
+
+	
+Total	 	160	7 (4.4%)
+==== Refs
+1 Cainelli F.   Liver diseases in developing countries World Journal of Hepatology  2012 4 3 66 67 10.4254/wjh.v4.i3.66 2-s2.0-84886638002 22489257 
+2 Kamar N.  Dalton H. R.  Abravanel F.  Izopet J.   Hepatitis E virus infection Clinical Microbiology Reviews  2014 27 1 116 138 10.1128/cmr.00057-13 2-s2.0-84891674329 24396139 
+3 Reuter G.  Fodor D.  Forgách P.  Kátai A.  Szucs G.   Characterization and zoonotic potential of endemic hepatitis E virus (HEV) strains in humans and animals in Hungary Journal of Clinical Virology  2009 44 4 277 281 10.1016/j.jcv.2009.01.008 2-s2.0-62949123321 19217346 
+4 Mast E. E.  Purdy M. A.  Krawczynski K.   Hepatitis E Bailliere's Clinical Gastroenterology  1996 10 2 227 242 10.1016/S0950-3528(96)90004-4 2-s2.0-0029738961 8864031 
+5 Kmush B.  Wierzba T.  Krain L.  Nelson K.  Labrique A. B.   Epidemiology of hepatitis E in low-and middle-income countries of Asia and Africa Seminars in Liver Disease  2013 33, no. 1 Thieme Medical 15 29 23564386 
+6 Kaba M.  Colson P.  Musongela J.-P.  Tshilolo L.  Davoust B.   Detection of hepatitis E virus of genotype 3 in a farm pig in Kinshasa (Democratic Republic of the Congo) Infection, Genetics and Evolution  2010 10 1 154 157 10.1016/j.meegid.2009.09.011 2-s2.0-72449182601 
+7 de Paula V. S.  Wiele M.  Mbunkah A. H.  Daniel A. M.  Kingsley M. T.  Schmidt-Chanasit J.   Hepatitis E virus genotype 3 strains in domestic pigs, Cameroon Emerging Infectious Diseases  2013 19 4 666 668 10.3201/eid1904.121634 2-s2.0-84875347693 23751099 
+8 Buisson Y.  Grandadam M.  Nicand E.    Identification of a novel hepatitis E virus in Nigeria Journal of General Virology  2000 81 4 903 909 10.1099/0022-1317-81-4-903 2-s2.0-0034037370 10725415 
+9 Monini M.  Di Bartolo I.  Ianiro G.    Detection and molecular characterization of zoonotic viruses in swine fecal samples in Italian pig herds Archives of Virology  2015 160 10 2547 2556 10.1007/s00705-015-2538-4 2-s2.0-84942503846 26215443 
+10 Cooper K.  Huang F. F.  Batista L.    Identification of genotype 3 hepatitis E virus (HEV) in serum and fecal samples from pigs in Thailand and Mexico, where genotype 1 and 2 HEV strains are prevalent in the respective human populations Journal of Clinical Microbiology  2005 43 4 1684 1688 10.1128/JCM.43.4.1684-1688.2005 2-s2.0-16844372785 15814985 
+11 Smith D. B.  Simmonds P.  Jameel S.    Consensus proposals for classification of the family Hepeviridae  Journal of General Virology  2014 95 10 2223 2232 10.1099/vir.0.068429-0 2-s2.0-84907211274 24989172 
+12 Debing Y.  Moradpour D.  Neyts J.  Gouttenoire J.   Update on hepatitis E virology: implications for clinical practice Journal of Hepatology  2016 65 1 200 212 10.1016/j.jhep.2016.02.045 2-s2.0-84962925359 26966047 
+13 Donati M. C.  Fagan E. A.  Harrison T. J.   Sequence analysis of full length HEV clones derived directly from liver in fulminant hepatitis E Proceedings of the IX Triennial International Symposium on Viral Hepatitis and Liver Disease 1997 
+14 Aggarwal R.  Krawczynski K.   Hepatitis E: an overview and recent advances in clinical and laboratory research Journal of Gastroenterology and Hepatology  2000 15 1 9 20 10.1046/j.1440-1746.2000.02006.x 2-s2.0-0034048659 10719741 
+15 Krain L. J.  Atwell J. E.  Nelson K. E.  Labrique A. B.   Fetal and neonatal health consequences of vertically transmitted hepatitis E virus infection The American Journal of Tropical Medicine and Hygiene  2014 90 2 365 370 10.4269/ajtmh.13-0265 2-s2.0-84893477684 24420778 
+16 Pischke S.  Heim A.  Bremer B.    Hepatitis E: an emerging infectious disease in Germany? Zeitschrift fur Gastroenterologie  2011 49 9 1255 1257 10.1055/s-0031-1273394 2-s2.0-80052400057 21887661 
+17 Kamar N.  Bendall R.  Legrand-Abravanel F.    Hepatitis E The Lancet  2012 379 9835 2477 2488 10.1016/s0140-6736(11)61849-7 2-s2.0-84862896570 
+18 Behrendt P.  Steinmann E.  Manns M. P.  Wedemeyer H.   The impact of hepatitis e in the liver transplant setting Journal of Hepatology  2014 61 6 1418 1429 10.1016/j.jhep.2014.08.047 2-s2.0-84922714769 25195557 
+19 Lu L.  Li C.  Hagedorn C. H.   Phylogenetic analysis of global hepatitis E virus sequences: genetic diversity, subtypes and zoonosis Reviews in Medical Virology  2006 16 1 5 36 10.1002/rmv.482 2-s2.0-31144477556 16175650 
+20 Sato Y.  Sato H.  Naka K.    A nationwide survey of hepatitis E virus (HEV) infection in wild boars in Japan: identification of boar HEV strains of genotypes 3 and 4 and unrecognized genotypes Archives of Virology  2011 156 8 1345 1358 10.1007/s00705-011-0988-x 2-s2.0-79960892815 21475985 
+21 Monne I.  Ceglie L.  Di Martino G.    Hepatitis E virus genotype 4 in a pig farm, Italy, 2013 Epidemiology and Infection  2015 143 3 529 533 10.1017/s0950268814001150 2-s2.0-84921436789 24831185 
+22 Pischke S.  Behrendt P.  Bock C.-T.  Jilg W.  Manns M. P.  Wedemeyer H.   Hepatitis e in Germany-an under-reported infectious disease Deutsches Arzteblatt International  2014 111 35-36 577 8 10.3238/arztebl.2014.0577 2-s2.0-84907522729 25249359 
+23 Ward J. W.  Averhoff F. M.  Koh H. K.   World Hepatitis Day: a new era for hepatitis control The Lancet  2011 378 9791 552 553 10.1016/s0140-6736(11)60839-8 2-s2.0-80051701851 
+24 Berto A.  Grierson S.  Hakze-van der Honing R.    Hepatitis E virus in pork liver sausage, France Emerging Infectious Diseases  2013 19 2 264 266 10.3201/eid1902.121255 2-s2.0-84930472299 23347828 
+25 Colson P.  Saint-Jacques P.  Ferretti A.  Davoust B.   Hepatitis E virus of subtype 3a in a pig farm, south-eastern France Zoonoses and Public Health  2015 62 8 593 598 10.1111/zph.12211 2-s2.0-84958944314 26102074 
+26 Merino-Ramos T.  Martín-Acebes M. A.  Casal J.  Saiz J.-C.  Loza-Rubio E.   Prevalence of Hepatitis E Virus (HEV) antibodies in Mexican pigs Food and Environmental Virology  2016 8 2 156 159 10.1007/s12560-016-9231-y 2-s2.0-84958239257 26880004 
+27 Kabrane-Lazizi Y.  Zhang M.  Purcell R. H.  Miller K. D.  Davey R. T.  Emerson S. U.   Acute hepatitis caused by a novel strain of hepatitis E virus most closely related to United States strains Journal of General Virology  2001 82 7 1687 1693 10.1099/0022-1317-82-7-1687 2-s2.0-0034960897 11413380 
+28 Hughes J. M.  Wilson M. E.  Teshale E. H.  Hu D. J.  Holmberg S. D.   The two faces of hepatitis E virus Clinical Infectious Diseases  2010 51 3 328 334 10.1086/653943 20572761 
+29 Wu C.  Nan Y.  Zhang Y.-J.   New insights into hepatitis E virus virus-host interaction: interplay with host interferon induction Future Virology  2015 10 4 439 448 10.2217/fvl.15.17 2-s2.0-84929087990 
+30 Oncu S.  Oncu S.  Okyay P.  Ertug S.  Sakarya S.   Prevalence and risk factors for HEV infection in pregnant women Medical Science Monitor  2006 12 1 CR36 CR39 2-s2.0-30944441652 16369469 
+31 Mathew S.  Pericleous M.  Atkins M.  Nicholls M.  Ala A.   PTU-114 Prevalence rates of acute hepatitis a (HAV) and hepatitis e (HEV) in surrey, South East England: how many HAV cases are being missed? Gut  2015 64 supplement 1 p. A112 
+32 Crossan C.  Grierson S.  Thomson J.    Prevalence of hepatitis e virus in slaughter-age pigs in Scotland Epidemiology and Infection  2015 143 10 2237 2240 10.1017/S0950268814003100 2-s2.0-84930689430 25410494 
+33 Žele D.  Barry A. F.  Hakze-Van Der Honing R. W.  Vengušt G.  Van Der Poel W. H. M.   Prevalence of anti-hepatitis E virus antibodies and first detection of hepatitis E virus in wild boar in Slovenia Vector-Borne and Zoonotic Diseases  2016 16 1 71 74 10.1089/vbz.2015.1819 2-s2.0-84955269779 26757050 
+34 Banks M.  Heath G. S.  Grierson S. S.    Evidence for the presence of hepatitis E virus in pigs in the United Kingdom Veterinary Record  2004 154 8 223 227 10.1136/vr.154.8.223 2-s2.0-1442300932 15005446 
+35 Yan Y.  Zhang W.  Shen Q.  Cui L.  Hua X.   Prevalence of four different subgenotypes of genotype 4 hepatitis E virus among swine in the Shanghai area of China Acta Veterinaria Scandinavica  2008 50 1, article 12 10.1186/1751-0147-50-12 2-s2.0-44949109958 
+36 Ward P.  Müller P.  Letellier A.    Molecular characterization of Hepatitis E virus detected in swine farms in the province of Quebec Canadian Journal of Veterinary Research  2008 72 1 27 31 2-s2.0-38449095311 18214158 
+37 Nantel-Fortier N.  Letellier A.  Lachapelle V.  Fravalo P.  L’Homme Y.  Brassard J.   Detection and Phylogenetic analysis of the hepatitis E virus in a Canadian swine production network Food and Environmental Virology  2016 8 4 296 304 10.1007/s12560-016-9252-6 2-s2.0-84978881192 27422131 
+38 Owolodun O. A.  Gerber P. F.  Giménez-Lirola L. G.  Kwaga J. K. P.  Opriessnig T.   First report of hepatitis E virus circulation in domestic pigs in Nigeria The American Journal of Tropical Medicine and Hygiene  2014 91 4 699 704 10.4269/ajtmh.14-0144 2-s2.0-84907694468 25002299 
+39 Widdowson M.-A.  Jaspers W. J. M.  Van Der Poel W. H. M.    Cluster of cases of acute hepatitis associated with hepatitis E virus infection acquired in The Netherlands Clinical Infectious Diseases  2003 36 1 29 33 10.1086/345439 2-s2.0-0037232684 12491198 
+40 Dalton H. R.  Bendall R.  Ijaz S.  Banks M.   Hepatitis E: an emerging infection in developed countries The Lancet Infectious Diseases  2008 8 11 698 709 10.1016/S1473-3099(08)70255-X 2-s2.0-54049157144 18992406 
+41 Manka P.  Bechmann L. P.  Coombes J. D.    Hepatitis E virus infection as a possible cause of acute liver failure in Europe Clinical Gastroenterology and Hepatology  2015 13 10 1836.e2 1842.e2 54351 10.1016/j.cgh.2015.04.014 2-s2.0-84941744987 25912835 
+42 Martinelli N.  Pavoni E.  Filogari D.    Hepatitis E virus in wild boar in the central northern part of Italy Transboundary and Emerging Diseases  2015 62 2 217 222 10.1111/tbed.12118 2-s2.0-84923644980 23865469 
+43 Wichmann O.  Schimanski S.  Koch J.    Phylogenetic and case-control study on hepatitis E virus infection in Germany Journal of Infectious Diseases  2008 198 12 1732 1741 10.1086/593211 2-s2.0-56749153648 18983248 
+44 Widén F.  Sundqvist L.  Matyi-Toth A.    Molecular epidemiology of hepatitis E virus in humans, pigs and wild boars in Sweden Epidemiology and Infection  2011 139 3 361 371 10.1017/s0950268810001342 2-s2.0-79952472933 20546635 
+45 Geng J.-B.  Fu H.-W.  Wang L.    Hepatitis E virus (HEV) genotype and the prevalence of anti-HEV in 8 species of animals in the suburbs of Beijing Zhonghua Liuxingbingxue Zazhi  2010 31 1 47 50 2-s2.0-82455163448 20302698 
+46 Thiry D.  Mauroy A.  Pavio N.    Hepatitis E virus and related viruses in animals Transboundary and Emerging Diseases  2017 64 1 37 52 10.1111/tbed.12351 2-s2.0-84928731602 25919649 
+47 Rodríguez-Lázaro D.  Diez-Valcarce M.  Montes-Briones R.  Gallego D.  Hernández M.  Rovira J.   Presence of pathogenic enteric viruses in illegally imported meat and meat products to EU by international air travelers International Journal of Food Microbiology  2015 209 39 43 10.1016/j.ijfoodmicro.2015.04.036 2-s2.0-84952326589 25951793 
+48 Park W.-J.  Park B.-J.  Ahn H.-S.    Hepatitis E virus as an emerging zoonotic pathogen Journal of Veterinary Science  2016 17 1 1 11 10.4142/jvs.2016.17.1.1 2-s2.0-84962734451 27051334 
+49 Moon H.-W.  Lee B.-W.  Sung H. W.  Yoon B.-I.  Kwon H. M.   Identification and characterization of avian hepatitis E virus genotype 2 from chickens with hepatitis-splenomegaly syndrome in Korea Virus Genes  2016 52 5 738 742 10.1007/s11262-016-1351-9 2-s2.0-84966668312 27164843 
+50 Huang F.  Li Y.  Yu W.    Excretion of infectious hepatitis E virus into milk in cows imposes high risks of zoonosis Hepatology  2016 64 2 350 359 10.1002/hep.28668 2-s2.0-84979017630 27286751 
+51 Andersson M. I.  Stead P. A.  Maponga T.  van der Plas H.  Preiser W.   Hepatitis E virus infection: an underdiagnosed infection in transplant patients in Southern Africa? Journal of Clinical Virology  2015 70 23 25 10.1016/j.jcv.2015.06.081 2-s2.0-84939636232 26305814 
+52 Idolo A.  Serio F.  Lugoli F.    Identification of HEV in symptom-free migrants and environmental samples in Italy Journal of Viral Hepatitis  2013 20 6 438 443 10.1111/jvh.12038 2-s2.0-84877583846 23647961 
+53 Caruso C.  Peletto S.  Rosamilia A.    Hepatitis E virus: a cross-sectional serological and virological study in pigs and humans at zoonotic risk within a high-density pig farming area Transboundary and Emerging Diseases  2016 10.1111/tbed.12533 
+54 Madden R. G.  Wallace S.  Sonderup M.    Western Cape, South Africa, 2015 
+55 Van der Poel W. H. M.  Verschoor F.  van der Heide R.    Hepatitis E virus sequences in swine related to sequences in humans, the Netherlands Emerging Infectious Diseases  2001 7 6 970 976 10.3201/eid0706.010608 2-s2.0-0035198049 11747723 
+56 Chotun N.  Nel E.  Cotton M. F.  Preiser W.  Andersson M. I.   Hepatitis B virus infection in HIV-exposed infants in the Western Cape, South Africa Vaccine  2015 33 36 4618 4622 10.1016/j.vaccine.2015.06.076 2-s2.0-84939570818 26163924 
+57 Matsui T.  Kang J.-H.  Matsubayashi K.    Rare case of transfusion-transmitted hepatitis E from the blood of a donor infected with the hepatitis E virus genotype 3 indigenous to Japan: viral dynamics from onset to recovery Hepatology Research  2015 45 6 698 704 10.1111/hepr.12390 2-s2.0-84930249078 25041213 
+58 Pavio N.  Meng X.-J.  Doceul V.   Zoonotic origin of hepatitis E Current Opinion in Virology  2015 10 34 41 10.1016/j.coviro.2014.12.006 2-s2.0-84920700916 25588602 
+59 Inagaki Y.  Oshiro Y.  Hasegawa N.    Clinical features of hepatitis E virus infection in Ibaraki, Japan: autochthonous hepatitis E and acute-on-chronic liver failure Tohoku Journal of Experimental Medicine  2015 235 4 275 282 10.1620/tjem.235.275 2-s2.0-84925355708 25797216 
+60 Cossaboom C. M.  Heffron C. L.  Cao D.    Risk factors and sources of foodborne hepatitis E virus infection in the United States Journal of Medical Virology  2016 88 9 1641 1645 10.1002/jmv.24497 2-s2.0-84977672092 26889628 
+61 Wu J.-C.  Chen C. M.  Chiang T. Y.    Spread of hepatitis E virus among different-aged pigs: two-year survey in Taiwan Journal of Medical Virology  2002 66 4 488 492 10.1002/jmv.2170 2-s2.0-0036193306 11857526 
+62 Munné M. S.  Vladimirsky S.  Otegui L.    Identification of the first strain of swine hepatitis E virus in South America and prevalence of anti-HEV antibodies in swine in Argentina Journal of Medical Virology  2006 78 12 1579 1583 10.1002/jmv.20741 2-s2.0-33750554663 17063523 
+63 Koot H.  Hogema B. M.  Koot M.  Molier M.  Zaaijer H. L.   Frequent hepatitis E in the Netherlands without traveling or immunosuppression Journal of Clinical Virology  2015 62 38 40 10.1016/j.jcv.2014.11.020 2-s2.0-84920460268 25542468
