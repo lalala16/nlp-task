@@ -88,19 +88,19 @@ public class Dictionary {
         Map<String, DictEntity> entityMap = new HashMap<>();
 
         for (DictEntity entity : src.entities) {
-            DictEntity dictEntity = new DictEntity();
-            dictEntity.setName(entity.getName());
-            dictEntity.setWordSet(entity.getWordSet());
-            dictEntity.setPossible(entity.isPossible());
-            entityMap.put(entity.getName(), dictEntity);
-            entities.add(dictEntity);
-        }
+                DictEntity dictEntity = new DictEntity();
+                dictEntity.setName(entity.getName());
+                dictEntity.setWordSet(entity.getWordSet());
+                dictEntity.setPossible(entity.isPossible());
+                entityMap.put(entity.getName(), dictEntity);
+                entities.add(dictEntity);
+            }
 
-        for (DictWord word : src.words) {
-            DictWord dictWord = new DictWord();
-            dictWord.setName(word.getName());
-            dictWord.setSupports(new ArrayList<>());
-            for (DictEntity entity : word.getSupports())
+            for (DictWord word : src.words) {
+                DictWord dictWord = new DictWord();
+                dictWord.setName(word.getName());
+                dictWord.setSupports(new ArrayList<>());
+                for (DictEntity entity : word.getSupports())
                 dictWord.getSupports().add(entityMap.get(entity.getName()));
             words.add(dictWord);
         }

@@ -30,7 +30,7 @@ public class TaskApplication {
 
     private final static String NEW_LINE_SEPARATOR="\n";
 
-    private static final int poolSize = 40;
+    private static final int poolSize = 4;
 
     private static final ExecutorService executorService = Executors.newFixedThreadPool(poolSize);
 
